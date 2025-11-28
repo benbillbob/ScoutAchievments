@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2025-11-28T03:50:52.277Z",
+  "generatedAt": "2025-11-28T04:03:03.008Z",
   "stale": false,
   "lookbackDays": 7,
-  "totalEvents": 8,
+  "totalEvents": 9,
   "logPath": "generated/logs/audit.jsonl",
   "entries": [
     {
@@ -27,14 +27,14 @@
     },
     {
       "slug": "alpine-stage-1",
-      "score": 24,
+      "score": 27,
       "rank": 2,
-      "totalEvents": 8,
+      "totalEvents": 9,
       "trend": "steady",
       "reason": "hero_clicks",
-      "lastEventAt": "2025-11-28T03:01:10.191Z",
+      "lastEventAt": "2025-11-28T04:02:07.680Z",
       "counts": {
-        "hero_click": 8,
+        "hero_click": 9,
         "filter_apply": 0,
         "share_copy": 0,
         "pdf_download": 0

@@ -1,0 +1,133 @@
+openapi: 3.1.0
+info:
+  title: Terrain OAS Markdown Server API
+  version: 0.1.0
+  description: >-
+    Local webserver powering the Terrain OAS Markdown index and refresh workflow.
+servers:
+  - url: http://localhost:{port}
+    variables:
+      port:
+        default: "4173"
+        description: Configurable via catalog.yml
+paths:
+  /api/catalog:
+    get:
+      summary: List converted templates with metadata used by the index UI.
+      operationId: listCatalog
+      responses:
+        "200":
+          description: Catalog entries ordered by stream and stage.
+          content:
+            application/json:
+              schema:
+                type: object
+                required:
+                  - generatedAt
+                  - templates
+                properties:
+                  generatedAt:
+                    type: string
+                    format: date-time
+                  templates:
+                    type: array
+                    items:
+                      $ref: '#/components/schemas/CatalogEntry'
+        "500":
+          description: Internal error serialising catalog or reading files.
+  /api/content/{slug}:
+    get:
+      summary: Retrieve rendered HTML for a converted Markdown document.
+      operationId: getContent
+      parameters:
+        - name: slug
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Slug generated from stream and stage (e.g. bushwalking-stage-1).
+      responses:
+        "200":
+          description: HTML fragment with converted Markdown and metadata.
+          content:
+            text/html:
+              schema:
+                type: string
+        "404":
+          description: Content not found for slug or template disabled.
+  /api/refresh:
+    post:
+      summary: Trigger background refresh of configured templates.
+      operationId: triggerRefresh
+      requestBody:
+        required: false
+      responses:
+        "202":
+          description: Refresh accepted; response includes job identifier.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  jobId:
+                    type: string
+                  acceptedAt:
+                    type: string
+                    format: date-time
+        "409":
+          description: Refresh already in progress.
+        "500":
+          description: Failed to start refresh due to configuration error.
+  /health:
+    get:
+      summary: Readiness/liveness check for local monitoring.
+      operationId: getHealth
+      responses:
+        "200":
+          description: Service healthy.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  status:
+                    type: string
+                    enum: [ok]
+                  conversionQueue:
+                    type: string
+                  generatedAt:
+                    type: string
+                    format: date-time
+components:
+  schemas:
+    CatalogEntry:
+      type: object
+      required:
+        - slug
+        - displayTitle
+        - stream
+        - stage
+        - summary
+        - tags
+        - lastUpdated
+        - route
+      properties:
+        slug:
+          type: string
+        displayTitle:
+          type: string
+        stream:
+          type: string
+        stage:
+          type: integer
+        summary:
+          type: string
+        tags:
+          type: array
+          items:
+            type: string
+        lastUpdated:
+          type: string
+          format: date-time
+        route:
+          type: string

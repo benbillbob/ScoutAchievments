@@ -1,0 +1,136 @@
+{
+    "template": "oas/bushcraft/1",
+    "meta": {
+        "stage": 1,
+        "stream": "bushcraft"
+    },
+    "version": 2,
+    "document": [
+        {
+            "title": "Stage 1 - Bushcraft",
+            "input_groups": [
+                {
+                    "title": "Plan>",
+                    "inputs": [
+                        {
+                            "id": "important_outdoors_trails_stick_a353dc",
+                            "type": "verifiable_checkbox",
+                            "label": "I know why it is important to stick to trails when outdoors.",
+                            "dialog_text": "The youth member should be able to talk about and demonstrate on walks why the trail is there. This could be due to the importance of minimising environmental impact, reducing likelihood of getting lost or any other reasonable reasons they can come up with and demonstrate."
+                        },
+                        {
+                            "id": "buddy_system_460b19",
+                            "type": "verifiable_checkbox",
+                            "label": "I know about the \u201cBuddy\u201d system.",
+                            "dialog_text": "The youth member should be able to describe what the Buddy System is and how using the buddy system assists them in safety. This could include staying in pairs or threes, making sure they stay with Adult Leaders/supervisors, understanding the boundaries of their activity and that it is important for people to know where they are."
+                        },
+                        {
+                            "id": "stop_activities_lost_1b8fcc",
+                            "type": "verifiable_checkbox",
+                            "label": "I know to stop when I get lost on activities.",
+                            "dialog_text": "The youth member should understand the importance of stopping walking when they have a sense of not knowing where they are and why. \n \nThey should always have a plan of what to do if they get lost on an activity. This plan could include stopping and trying to work out where they are then depending on the plan and the activity they might do some of the following: \n * Retrace their steps to the last checkpoint where they knew their location \n * Stay where they are and someone will come and find them \n * Go to a predetermined location to find the rest of their Patrol. \n \nLost people tend to walk in a line that bends to the left so over time they walk in circles and become more lost. It is very important to stop and assess."
+                        },
+                        {
+                            "id": "address_location_emergency_09f4cb",
+                            "type": "verifiable_checkbox",
+                            "label": "I know my address and location in an emergency.",
+                            "dialog_text": "The youth member should know their home personal address (where they live) and the address of where they are in case of an emergency. If they are in a rural/unfamiliar/hard to define location, they should know how to determine the intersection of two roads or points of interest near them."
+                        },
+                        {
+                            "id": "reasons_outdoors_sleeping_shelter_e3ece5",
+                            "type": "verifiable_checkbox",
+                            "label": "I know three reasons for having a shelter when sleeping outdoors.",
+                            "dialog_text": "These reasons could include, but are not limited to: \n * Warmth \n * Protection from the weather \n * Comfort \n * Sense of home \n * Storage \n * Protection from insects \n * Reducing the environmental impact that humans have on the environment when they camp."
+                        }
+                    ]
+                },
+                {
+                    "title": "Do>",
+                    "inputs": [
+                        {
+                            "id": "match_strike_fdc180",
+                            "type": "verifiable_checkbox",
+                            "label": "I can strike a match.",
+                            "dialog_text": "The youth member must be able to safely and effectively strike a standard safety match."
+                        },
+                        {
+                            "id": "preparing_collect_sticks_campfire_e3971c",
+                            "type": "verifiable_checkbox",
+                            "label": "I can collect sticks for preparing a campfire.",
+                            "dialog_text": "The youth member should understand the need to collect dry fire wood and that they need different thicknesses to get the fire started and maintained. \n \nWood for a campfire should be dry enough that when the youth member snaps it in half or cracks it, the sound is sharp and crisp. If the sound is dull, and the break is not quick and sudden, then the wood is likely to be damp inside, and should not be used. \n \nA general rule is that kindling should be thinner than a finger, and once the fire has been constructed and is burning away slowly add wood that is thumb thickness, then eventually wrist thickness."
+                        },
+                        {
+                            "id": "around_safe_campfire_eee54a",
+                            "type": "verifiable_checkbox",
+                            "label": "I can be safe around a campfire.",
+                            "dialog_text": "The youth member should understand and discuss: \n * Why it is important to wear shoes/appropriate clothing around a campfire \n * Why not to place flammable items into a campfire and discuss other objects to be safe with around fires \n * How to put out a campfire with water only and leave it safe so it doesn't restart."
+                        },
+                        {
+                            "id": "stop_drop_roll_sdr54a",
+                            "type": "verifiable_checkbox",
+                            "label": "I can demonstrate stop, drop and roll, and how that can be used in an emergency situation.",
+                            "dialog_text": "The youth member should understand the basic principle of Stop, Drop and Roll (what you do if your clothing catches fire) and be able to demonstrate this."
+                        },
+                        {
+                            "id": "emergency_point_emp54a",
+                            "type": "verifiable_checkbox",
+                            "label": "I can find the emergency exit and muster point at my Scout Hall.",
+                            "dialog_text": "The youth member should be able to identify and understand how to evacuate a building. Any discussion needs to cover: \n * Emergency Exits \n * Muster & Evacuation Points"
+                        },
+                        {
+                            "id": "navigational_skills_game_participated_basic_b35ab9",
+                            "type": "verifiable_checkbox",
+                            "label": "I have participated in a game that required basic navigational skills.",
+                            "dialog_text": "The game could be based on direction/movement based on the main points of compass (North, South, East & West). Navigational components include, but not limited to: \n * The 4 main cardinal points \n * Degrees to those points \n * Other features of a map or compass."
+                        },
+                        {
+                            "id": "hang_clove_hitch_camp_knot_clothesline_e752d8",
+                            "type": "verifiable_checkbox",
+                            "label": "I can hang a clothesline at camp with a clove hitch or other knot.",
+                            "dialog_text": "The youth member should be able to tie the clove hitch or other suitable knot and be able to apply the knots to prepare a functional clothes line for camp. They need to consider if the clothesline is connected to a tree or branch (What impact this may have on the tree and how to minimise that). \n \nThe clothesline should also be in an appropriate place where it will not cause injury."
+                        },
+                        {
+                            "id": "ropes_correctly_pack_away_f124e4",
+                            "type": "verifiable_checkbox",
+                            "label": "I know how to correctly pack ropes away.",
+                            "dialog_text": "The youth member should be able to coil rope using appropriate methods. Please be aware that they should not use your elbow for wrapping rope (straight coil) because the ropes get tangled and the rope gets ruined due to the twist over time. You should also understand the reasons for keeping ropes away from dirt, dust, mud, and other damaging materials as much as possible."
+                        },
+                        {
+                            "id": "bagmess_keep_clean_camp_dilly_kit_a2f2d9",
+                            "type": "verifiable_checkbox",
+                            "label": "I know what is in a dilly bag/mess kit and can keep it clean at camp.",
+                            "dialog_text": "The youth member should consider: \n * What goes in the bag? \n * What is the bag made of? \n * Where it should be stored at camp \n * Any hygiene points to know about their mess kit"
+                        }
+                    ]
+                },
+                {
+                    "title": "Review>",
+                    "inputs": [
+                        {
+                            "id": "talk_improved_enjoyed_learnt_navigational_game_playing_78f28e",
+                            "type": "verifiable_checkbox",
+                            "label": "I can talk about what I enjoyed, learnt, or improved upon, by playing a navigational game.",
+                            "dialog_text": "The youth member should review the game they played including things such as: \n * What went well? \n * What was fun? \n * What was not fun? \n * What did I learn? \n * How can I apply what I have learnt? \n \n(consider using aids for this such as Review> ball, SPICES cards, Method question flash cards etc)."
+                        }
+                    ]
+                },
+                {
+                    "title": "Verify",
+                    "inputs": [
+                        {
+                            "id": "logbook_up_to_date",
+                            "type": "checkbox",
+                            "label": "My logbook is up to date at the end of this stage."
+                        },
+                        {
+                            "id": "file_uploader",
+                            "type": "file_uploader",
+                            "label": "Upload supporting documents",
+                            "alt": "Each file should be less than 10MB in size."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

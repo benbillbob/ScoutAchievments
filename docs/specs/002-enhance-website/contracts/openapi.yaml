@@ -1,0 +1,145 @@
+openapi: 3.1.0
+info:
+  title: Website Experience Upgrade API
+  version: 0.1.0
+  description: >-
+    Supplemental endpoints for homepage highlights, engagement logging, and share/export flows.
+servers:
+  - url: http://localhost:4173/api
+paths:
+  /highlights:
+    get:
+      summary: Fetch hero + highlight cards
+      description: Returns auto-ranked cards mixed with manual overrides and freshness info.
+      responses:
+        '200':
+          description: Highlight data
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HighlightResponse'
+        '503':
+          description: Ranking data unavailable and no fallback configured.
+  /engagement:
+    post:
+      summary: Log a user interaction event
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/EngagementEvent'
+      responses:
+        '202':
+          description: Event accepted for async processing
+        '400':
+          description: Validation error
+  /share/pdf:
+    post:
+      summary: Generate a styled PDF for a stage
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - slug
+              properties:
+                slug:
+                  type: string
+                  description: Stage slug (e.g., alpine/cross-country-skiing-stage-5)
+      responses:
+        '200':
+          description: PDF generation succeeded
+          content:
+            application/json:
+              schema:
+                type: object
+                required:
+                  - url
+                  - expiresAt
+                properties:
+                  url:
+                    type: string
+                    format: uri
+                  expiresAt:
+                    type: string
+                    format: date-time
+        '400':
+          description: Invalid slug or render error
+components:
+  schemas:
+    HighlightResponse:
+      type: object
+      required:
+        - generatedAt
+        - cards
+      properties:
+        generatedAt:
+          type: string
+          format: date-time
+        stale:
+          type: boolean
+          default: false
+        cards:
+          type: array
+          items:
+            $ref: '#/components/schemas/ExperienceCard'
+        hero:
+          $ref: '#/components/schemas/ExperienceCard'
+    ExperienceCard:
+      type: object
+      required:
+        - slug
+        - title
+        - summary
+        - ctaLabel
+        - source
+      properties:
+        slug:
+          type: string
+        title:
+          type: string
+        summary:
+          type: string
+        ctaLabel:
+          type: string
+        badgeCount:
+          type: integer
+          minimum: 0
+        heroImage:
+          type: string
+          format: uri
+          nullable: true
+        theme:
+          type: string
+        rank:
+          type: integer
+          minimum: 1
+        source:
+          type: string
+          enum: [ranking, staff-pick, catalog]
+        manualOverride:
+          type: boolean
+          default: false
+    EngagementEvent:
+      type: object
+      required:
+        - eventType
+        - targetSlug
+        - timestamp
+      properties:
+        eventType:
+          type: string
+          enum: [hero_click, filter_apply, share_copy, pdf_download]
+        targetSlug:
+          type: string
+        sessionId:
+          type: string
+        timestamp:
+          type: string
+          format: date-time
+        metadata:
+          type: object
+          additionalProperties: true
