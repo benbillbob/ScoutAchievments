@@ -1,0 +1,154 @@
+{
+  "template": "oas/vertical/caving/4",
+  "meta": {
+    "stage": 4,
+    "stream": "caving"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Caving",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "safe_unsafe_cave_site_94f0b9",
+              "type": "verifiable_checkbox",
+              "label": "I know what makes a safe and unsafe caving activity site.",
+              "dialog_text": "The youth member should be able to point out hazards regarding cave accessibility, available evacuation routes, condition of the air and weather considerations."
+            },
+            {
+              "id": "prepare_equipment_transport_cave_9e0c3a",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare required equipment for safe transportation to a caving activity location.",
+              "dialog_text": "The youth member should be able to demonstrate organising safe transportation of caving gear to the cave. They will need to consider what gear is required depending on whether the cave is horizontal or vertical. If using any abseiling gear for vertical caves, the youth member will need to consider things such as the impact of fuels or weather on equipment and ensure that ropes don't get tangled or damaged."
+            },
+            {
+              "id": "read_itinerary_proposed_cave_0897a4",
+              "type": "verifiable_checkbox",
+              "label": "I can read an itinerary for a proposed caving trip and understand what I am required to do.",
+              "dialog_text": "The youth member will need to demonstrate an understanding of what is needed for the caving activity from the itinerary by discussing the gear list, menu and route with the trip leader and by bringing what is required to the activity."
+            },
+            {
+              "id": "why_wear_helmet_cave_c10bb7",
+              "type": "verifiable_checkbox",
+              "label": "I know why and where I should wear a helmet for vertical activities.",
+              "dialog_text": "The youth member is required to explain the importance of wearing a helmet, including when and where they need to wear it whilst undertaking caving activities."
+            },
+            {
+              "id": "personal_equipment_safety_checks_cave_afdf241b",
+              "type": "verifiable_checkbox",
+              "label": "I have completed all necessary personal and equipment safety checks, using the ABCDE check with a buddy, prior to commencing a caving activity.",
+              "dialog_text": "The youth member should be able to explain and demonstrate what the ABCDE check with their buddy, including why it is important to do these things before each abseil or climb within the cave. \n * A - Anchor(s) \n * B - Buckles \n * C - Carabiner(s) \n * D - Descender \n * E - Everything else e.g. gloves, shoelaces, long hair tied back, prusiks on harness."
+            },
+            {
+              "id": "care_handle_store_rope_harness_helmet_cave_394038",
+              "type": "verifiable_checkbox",
+              "label": "I know how to care for, handle and store a caving rope, harness and helmet, and other equipment.",
+              "dialog_text": "The youth member will need to explain and demonstrate caring for, handling and storing their caving gear."
+            },
+            {
+              "id": "cave_setup_techniques_different_07fd28",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed different setup techniques for caving activities",
+              "dialog_text": "The youth member needs to discuss laddering, abseiling and climbing set up techniques including retrievable set ups within a cave, including the benefits and disadvantages for each one."
+            },
+            {
+              "id": "signs_symptoms_hypo_hyperthermia_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of hypothermia and hyperthermia.",
+              "dialog_text": "The youth member should be aware of the general and most common indicators: This could be learnt through mock emergencies and research."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "prepare_belay_cave_52241b",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare a belay device for proposed caving activities.",
+              "dialog_text": "The youth member should be able to set up and prepare a safe belay system which is suitable for abseiling or climbing within the caving activity."
+            },
+            {
+              "id": "planned_navigated_cave_c5a44f",
+              "type": "verifiable_checkbox",
+              "label": "I have planned and navigated a route in a cave.",
+              "dialog_text": "The youth member needs to, with guidance from a skilled caver, plan and navigate a simple route through a cave. This can be done as a Patrol during an existing caving activity."
+            },
+            {
+              "id": "what_lost_cave_046a71",
+              "type": "verifiable_checkbox",
+              "label": "I know what to do when I become lost in a cave.",
+              "dialog_text": "The youth member should discuss and demonstrate understanding of stopping and assessing the situation and then creating an action plan. The youth member should know: \n * Never cave alone \n * Have a minimum of 4 people in case of emergency \n * Have an activity plan with someone on the surface that knows the plan and when the party should be back, so they can start rescue if necessary."
+            },
+            {
+              "id": "wet_dusty_affect_cave_61b701",
+              "type": "verifiable_checkbox",
+              "label": "I know how wet and dusty conditions can affect my safety when caving.",
+              "dialog_text": "The youth member should discuss and demonstrate understanding of the different conditions in a cave and what equipment and clothing they can use to minimise risks."
+            },
+            {
+              "id": "communication_calls_cave_17165b",
+              "type": "verifiable_checkbox",
+              "label": "I know the communication calls and script to follow whilst caving.",
+              "dialog_text": "The youth member should demonstrate the communication calls between a caver when abseiling or climbing within a cave and the belayer during a caving activity."
+            },
+            {
+              "id": "two_cave_sessions_logged_stage_ce80cc",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in and logged two caving journeys at this Stage.",
+              "dialog_text": "The youth member needs to do two caving activities and log them in their logbook. The youth member should include where they did the activities, who they did them with, how high they were and if they were graded how difficult was the grade. These should be in addition to any other caving logged for previous Stages."
+            },
+            {
+              "id": "move_efficient_cave_hazards_features_745902",
+              "type": "verifiable_checkbox",
+              "label": "I can move efficiently through a cave and negotiate hazards and features.",
+              "dialog_text": "The youth member should demonstrate this during their caving activities while staying safe."
+            },
+            {
+              "id": "revisit_knotting_skills_cave_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I have revisited my knotting skills and can tie an Alpine Butterfly, Figure of 8 re-threaded, Figure of 8 on the bite, Tape knot and a Prusik knot and I can apply them to caving activity situations.",
+              "dialog_text": "The youth member should demonstrate all of these knots in a practical way during their caving activity and ensure the knots are set and dressed correctly."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "identify_improvements_future_caving_73f6f3",
+              "type": "verifiable_checkbox",
+              "label": "I can identify improvements for future caving activities.",
+              "dialog_text": "The youth member should discuss with their Patrol or Unit the caving activities they have participated in at this stage and identify where they can improve their skills and the activities for next time."
+            },
+            {
+              "id": "check_equipment_damage_discuss_repair_73f6f3",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should demonstrate a gear inspection after their activity. This includes: \n * Visual inspection of their harness including rips, tears and fraying \n * Visual and physical checks of ropes by running the rope through their hands end to end looking/feeling for lumps, bumps, flattening, fraying. \n * The gear should be cleaned according to manufacturing recommendation. "
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

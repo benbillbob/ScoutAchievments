@@ -1,0 +1,118 @@
+{
+  "template": "oas/bushwalking/1",
+  "meta": {
+    "stage": 1,
+    "stream": "bushwalking"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 1 - Bushwalking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "help_pack_walk_backpack_day_d82239",
+              "type": "verifiable_checkbox",
+              "label": "I can help pack a backpack for a day walk.",
+              "dialog_text": "The youth member should be able to pack a day pack (<30 litres) with personal items required for the day. This will vary according to weather and terrain, but should include: \n * Food or snacks \n * Water \n * Wet weather gear \n * Warm clothing \n * Sun protection \n \nThe youth member should be able to justify the inclusion or exclusion of different items. \n \nItems should be packed with consideration for weight distribution (heaviest items closest to the spine), waterproofing (with a plastic bag) and durability. \n \nThe list does not need to include group equipment such as map and compass."
+            },
+            {
+              "id": "dress_walk_myself_day_e97583",
+              "type": "verifiable_checkbox",
+              "label": "I can dress myself for a day walk",
+              "dialog_text": "The youth member should select appropriate clothing and footwear for the walk, given the season, weather, and terrain. This should include minor garments and accessories such as rainwear, hat, gloves, or neckwear if required. Give guidance to the youth member to avoid cotton where possible, especially jeans. Camouflage is inappropriate because it makes you difficult to find if you get lost. Things the youth member should wear include: \n \nBoots, appropriate shoes, pants, hat, appropriate top."
+            },
+            {
+              "id": "food_bring_bushwalk_list_day_79b960",
+              "type": "verifiable_checkbox",
+              "label": "I can list what food to bring on a day bushwalk.",
+              "dialog_text": "The youth member's list should include lunch, provision for water, and some snacks. In the context of a difficult or lengthy day walk (for the age group), a balanced diet is not an important consideration. It is OK for the youth member to select appropriate energy-dense foods and foods with a prolonged release of energy if they can explain why this is necessary."
+            },
+            {
+              "id": "outdoors_trails_important_stick_885b56",
+              "type": "verifiable_checkbox",
+              "label": "I know why it is important to stick to trails when outdoors.",
+              "dialog_text": "The youth member should be able to talk about why the trail is there. This is important in relation to: \n * Minimise environmental impact \n * Reduce likelihood of getting lost \n * Other reasonable reasons the youth member comes up with."
+            },
+            {
+              "id": "lost_stop_bush_e1f7b6",
+              "type": "verifiable_checkbox",
+              "label": "I know why to stop when I get lost in the bush.",
+              "dialog_text": "The youth member should be able to talk about why they would stop if lost such as, so as to not get further lost, to not stray to far from the designated track, so others have a better chance of finding me etc."
+            },
+            {
+              "id": "system_buddy_explain_d00047",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the buddy system.",
+              "dialog_text": "The Buddy system is where party members are paired to ensure that nobody is able to wander off alone as well as making sure one of the pair is in sight of the rest of the group at all times."
+            },
+            {
+              "id": "together_aid_small_bushwalk_first_personal_kit_put_eaabbf",
+              "type": "verifiable_checkbox",
+              "label": "I can put together a small personal first aid kit for our bushwalk.",
+              "dialog_text": "The youth member's kit should include items such as: \n * At least one roller bandage \n * A triangular bandage \n * Band aids \n * Antiseptic swabs \n \nIt may also include items such as: \n * Hydrolyte/gastrolyte \n * Tweezers \n * Scissor \n * Saline."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "identify_of_points_compass_four_main_cardinal_987431",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the four main cardinal points of the compass.",
+              "dialog_text": "Youth member's need to be able to identify north, south, east, and west on an activity and during a small navigational activity."
+            },
+            {
+              "id": "identify_of_compass_main_parts_489de1",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the main parts of the compass.",
+              "dialog_text": "At this stage the youth member should be able to identify: \n * Baseplate and its features \n * Bezel or capsule \n * Needle \n \n(through conversation and during an activity)."
+            },
+            {
+              "id": "stage_of_hours_least_attended_bushwalk_duration_this_9a8f8b",
+              "type": "verifiable_checkbox",
+              "label": "I have attended at least one bushwalk of at least one hour’s duration at this stage.",
+              "dialog_text": "This may be an urban bushwalk through parkland. Note: this should not be entirely along suburban streets or rural roads."
+            },
+            {
+              "id": "safely_while_bushwalking_behaving_demonstrate_848336",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate behaving safely while bushwalking.",
+              "dialog_text": "The youth member should display safe and responsible behaviour \n * Staying with the group \n * Minimising environmental impact \n * Watch out for risks to self and others \n * Cooperate as a member of the Team."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "learnt_going_enjoyed_bushwalk_talk_from_4de480",
+              "type": "verifiable_checkbox",
+              "label": "I can talk about what I enjoyed or learnt from going on a bushwalk.",
+              "dialog_text": "Youth member's answers must be relevant to bushwalking."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

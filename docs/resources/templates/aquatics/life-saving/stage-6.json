@@ -1,0 +1,82 @@
+{
+  "template": "oas/aquatics/life-saving/6",
+  "meta": {
+    "stage": 6,
+    "stream": "life-saving"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 6 - Life saving",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "arranged_group_meet_aquatics_expert_d6b4ff",
+              "type": "verifiable_checkbox",
+              "label": "I have arranged for a group of Scouts to meet with a member of a water-based emergency response team and discussed their role and responsibilities in the community.",
+              "dialog_text": "The youth member should research who to contact regarding water-based emergency teams, and arrange for them to meet with their Patrol to discuss their role and responsibility in the community."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "fully_clothed_survival_swim_32c3be",
+              "type": "verifiable_checkbox",
+              "label": "Dressed in swimwear, long pants, long-sleeved shirt, jumper, shoes and socks, I can perform the following continuous sequence in a dam, river or the ocean: Dive and swim a distance underwater to simulate an escape from a sinking boat surrounded by oil; swim a further 40 metres freestyle as if escaping from a dangerous situation; remove shoes while treading water and then swim slowly 50 metres breaststroke; float, survival scull or tread water for 5 minutes and wave one arm occasionally as if signalling for help; reassure any nearby candidates by talking to them; swim slowly for 100 metres using survival strokes, changing strokes every 25 metres; remove clothing in deep water.",
+              "dialog_text": "The youth member should undertake these tasks, write it in their logbook and have it verified by their two-up peer or other skilled person. Each of these points need to be done straight after each other, with each scenario building to form one continuous sequence or scenario. They should choose their location and determine their action plan before undertaking the sequence. They should then write it in their logbook and have it verified."
+            },
+            {
+              "id": "run_swim_safety_activity_stage_four_scout_1f274c",
+              "type": "verifiable_checkbox",
+              "label": "I have run a swimming and water safety activity for members at Stage 4 or under at this stage.",
+              "dialog_text": "The youth member should be able to effectively plan and run a water safety activity. They will need to document their plan and include required personal and group equipment, suitable food and transportation."
+            },
+            {
+              "id": "invovled_two_water_rescue_drills_e12d18",
+              "type": "verifiable_checkbox",
+              "label": "I have been a part of 2 water rescue drills at this stage.",
+              "dialog_text": "The youth member should write up their water rescue drills in their logbook, indicating what the scenario was and who was present."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "presentation_group_scouts_rescue_activity_73e605",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts from earlier stages on a rescue activity I have completed.",
+              "dialog_text": "The presentation should be around three minutes long and may be in person or as a pre-recorded video followed by questions. The content of the reflection is at the youth member's discretion, although the purpose of the presentation should include encouraging Scouts to understand the value of lifesaving and become excited about it."
+            },
+            {
+              "id": "demonstrate_equipment_maintenance_14e424",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the correct maintenance of equipment following the conclusion of a rescue activity.",
+              "dialog_text": "The youth member should demonstrate correctly cleaning and packing away rescue gear after a water activity. If any equipment is damaged they should ensure it is reported to their Leader so it can be fixed or replaced."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

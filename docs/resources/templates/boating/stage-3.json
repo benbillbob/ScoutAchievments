@@ -1,0 +1,148 @@
+{
+  "template": "oas/boating/3",
+  "meta": {
+    "stage": 3,
+    "stream": "boating"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 3 - Boating",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "DRSABCD_first_aid_a147ac",
+              "type": "verifiable_checkbox",
+              "label": "I know what DRSABCD stands for and how to use it in first aid situations.",
+              "dialog_text": "The youth member need to be able to explain to their Patrol or their two-up peer what their understanding of the steps of DRSABCD and how to use it in a First Aid situation."
+            },
+            {
+              "id": "risks_weather_5a5517",
+              "type": "verifiable_checkbox",
+              "label": "I can know what the risks are for boating in different weather conditions.",
+              "dialog_text": "The youth member should be able to explain risks associated with rain, electrical storms, high winds, and hot days. These risks should cover people, equipment and environment."
+            },
+            {
+              "id": "impact_environment_boating_c15687",
+              "type": "verifiable_checkbox",
+              "label": "I have explained what impact I can have on the local environment when boating.",
+              "dialog_text": "The youth member should be able to discuss how their boating adventures can impact on the environment. They could think about their effect on, the plants, animals, the water ways and erosion. They may also consider impacts on the man made / human environment."
+            },
+            {
+              "id": "personal_items_boating_7af2d7",
+              "type": "verifiable_checkbox",
+              "label": "I know which personal items I should carry with me when boating.",
+              "dialog_text": "The youth member should be able to explain which items they would take with them based on their chosen watercraft for their boating activity. When deciding what to bring, they need to consider the location, duration, season and weather conditions, who is going and the availability of fresh water."
+            },
+            {
+              "id": "latest_weather_boating_a147ac",
+              "type": "verifiable_checkbox",
+              "label": "I know how and where to get the latest weather forecast for the area I will be boating in.",
+              "dialog_text": "The youth member should demonstrate this by researching weather forecast options and showing a copy of an up-to-date weather forecast for the area of their activity. They should be able to explain what the forecast they have found means. This could be from the Bureau of Meteorology or a local weather station."
+            },
+            {
+              "id": "discussed_basic_water_safety_5a5517",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed basic water safety while participating in boating activities as it applies to my State and Branch.",
+              "dialog_text": "The youth member should be able to discuss their understanding of basic water safety in regards to boating activity. This should include use of PFD, skill requirements and equipment."
+            },
+            {
+              "id": "identift_naturally_powered_watercraft_c15687",
+              "type": "verifiable_checkbox",
+              "label": "I can identify six types of naturally powered watercraft.",
+              "dialog_text": "The youth member should research and be able to discuss six different naturally powered watercraft, think about the three main methods of using human power - hands, feet or an object."
+            },
+            {
+              "id": "supported_lower_staged_scout_PFD_7af2d7",
+              "type": "verifiable_checkbox",
+              "label": "I have helped a lower stage Scout learn to put their PFD on.",
+              "dialog_text": "The youth member should help a Scout working on Stage 1 to put their PFD on. They should ensure their straps are straight and firm, and that the Scout is wearing the correct size and cannot slip the PFD over their head."
+            },
+            {
+              "id": "knowledge_three_knots_boating_90a5c6",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt three knots that will help me in a boating situation.",
+              "dialog_text": "The youth member should learn three knots, in addition to those previously learned, specific to boating and they should demonstrate them in relation to their boating activity."
+            },
+            {
+              "id": "name_six_boat_equipment_parts_0f5a00",
+              "type": "verifiable_checkbox",
+              "label": "I can name 6 different parts of a boat and/or oar.",
+              "dialog_text": "The youth member should be able to name and demonstrate understanding of the different parts of a boat and/or oar."
+            },
+            {
+              "id": "understand_tack_gybe_d0da5e",
+              "type": "verifiable_checkbox",
+              "label": "I know the difference between a tack and a gybe.",
+              "dialog_text": "The youth member should be able to discuss the difference between a tack and gybe. They will need to demonstrate understanding in the 'Do>' phase of Stage 3 or 4."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "participated_five_boating_trips_ccb9ac",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in an at least five boating trips by the end of Stage 3.",
+              "dialog_text": "The youth member should take part and log five (5) boating activities of at least 1.5 hours each. They should include this in their log, detailing where they did the activities, who they did it with and what they learned during the activity."
+            },
+            {
+              "id": "re_enter_watercraft_from_water_2353f0",
+              "type": "verifiable_checkbox",
+              "label": "I can get back into my sailboat, row boat or windsurfer from the water with help from someone else.",
+              "dialog_text": "The youth member should demonstrate getting back into or on their chosen watercraft with the help of someone. The other person could assist them or talk them through a self-rescue. They should remember to log their rescue practice in their logbook."
+            },
+            {
+              "id": "swim_demonstrate_HELP_huddle_position_PFD_8985a7",
+              "type": "verifiable_checkbox",
+              "label": "I can swim and demonstrate the HELP and huddle positions while in the water wearing a PFD.",
+              "dialog_text": "The youth member should demonstrate using the Heat Exposure Lessening Position. The youth member should pull their knees together and hug them close to their chest using their arms to help prevent heat loss and reduce the risk of hypothermia. They could do this with their Patrol and huddle together in this position to conserve body heat and help rescuers find them more easily."
+            },
+            {
+              "id": "swim_50_meters_PFD_462cad",
+              "type": "verifiable_checkbox",
+              "label": "I can swim 50 metres with my PFD using any stroke.",
+              "dialog_text": "The youth member should demonstrate swimming in their PFD for a distance of 25 metres, then treading water for 2 minutes and then swim the 25 metres back again."
+            },
+            {
+              "id": "teach_importance_buddy_system_watercraft_858da8",
+              "type": "verifiable_checkbox",
+              "label": "I can teach the importance of the buddy system to a Scout in Stage 1.",
+              "dialog_text": "The youth member should teach a Scout working on Stage 1 or 2 the importance of the buddy system, which is to ensure they keep their partner safe and it is also about teamwork and communication within their watercraft."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "discussed_patrol_learnt_boat_safety_two_trips_a24f9d",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed with my Patrol what I have learnt about boat safety from two boating trips.",
+              "dialog_text": "The youth member's discussion with their Patrol should be a review of two of their boating activities and could include things that were forgotten, planning a different location for next time, reviewing their teamwork with their buddy, damage to any equipment. Topics should cover safety and how this can be improved moving forward."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

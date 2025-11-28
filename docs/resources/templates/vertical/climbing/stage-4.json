@@ -1,0 +1,172 @@
+{
+  "template": "oas/vertical/climbing/4",
+  "meta": {
+    "stage": 4,
+    "stream": "climbing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Climbing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "safe_unsafe_climb_site_94f0b9",
+              "type": "verifiable_checkbox",
+              "label": "I know what makes a safe and unsafe climbing activity site.",
+              "dialog_text": "The youth member should be able to point out hazards regarding the condition of the cliff, the conditions at the top and the base of the cliff and availability of suitable anchors."
+            },
+            {
+              "id": "prepare_equipment_transport_climb_9e0c3a",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare required equipment for safe transportation to a climbing activity location.",
+              "dialog_text": "The youth member should be able to demonstrate organising safe transportation of climbing gear to a climbing location. They will need to consider any contaminates when transporting such as fuels, weather and making sure ropes don’t get tangled or damaged."
+            },
+            {
+              "id": "read_itinerary_proposed_abseil_0897a4",
+              "type": "verifiable_checkbox",
+              "label": "I can read an itinerary for a proposed climbing trip and understand what I am required to do.",
+              "dialog_text": "The youth member will need to demonstrate an understanding of a climbing activity from the itinerary by discussing the gear list, menu and route with the trip leader and by bringing what is required to the activity."
+            },
+            {
+              "id": "why_wear_helmet_climb_c10bb7",
+              "type": "verifiable_checkbox",
+              "label": "I know why and where I should wear a helmet for climbing activities.",
+              "dialog_text": "The youth member is required to explain the importance of wearing a helmet, including when and where they need to wear it whilst undertaking climbing activities."
+            },
+            {
+              "id": "personal_equipment_safety_checks_climb_afdf241b",
+              "type": "verifiable_checkbox",
+              "label": "I have completed all necessary personal and equipment safety checks, using the ABCDE check with a buddy, prior to commencing a climb.",
+              "dialog_text": "The youth member should be able to explain and demonstrate what the ABCDE check with their buddy, including why it is important to do these things before each climb. \n * A - Anchor(s) \n * B - Buckles \n * C - Carabiner(s) \n * D - Descender \n * E - Everything else e.g. gloves, shoelaces, long hair tied back, prusiks on harness."
+            },
+            {
+              "id": "care_handle_store_rope_harness_helmet_climb_394038",
+              "type": "verifiable_checkbox",
+              "label": "I know how to care for, handle and store a climbing rope, harness and helmet.",
+              "dialog_text": "The youth member will need to explain and demonstrate caring for, handling and storing their climbing gear."
+            },
+            {
+              "id": "climb_setup_techniques_different_07fd28",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed different setup techniques for climbing activities.",
+              "dialog_text": "The youth member will need to discuss three different set up techniques, including the benefits and disadvantages for each one."
+            },
+            {
+              "id": "signs_symptoms_hypo_hyperthermia_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of hypothermia and hyperthermia.",
+              "dialog_text": "The youth member should be aware of the general and most common indicators: This could be learnt through mock emergencies and research."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "prepare_belay_climb_52241b",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare a belay device for a proposed climbing activity.",
+              "dialog_text": "The youth member should be able to set up and prepare a safe belay system which is suitable for the proposed climbing activity."
+            },
+            {
+              "id": "revisit_knotting_skills_climb_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I have revisited my knotting skills and can tie an Alpine Butterfly, Figure of 8 re-threaded, Double Fisherman’s, Tape and a Prusik knot and I can apply them to climbing activity situations.",
+              "dialog_text": "The youth member should demonstrate all of these knots in a practical way during the climbing activity and ensure they are set and dressed correctly."
+            },
+            {
+              "id": "wet_conditions_affect_safety_climb_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I know how wet conditions can affect my safety when climbing.",
+              "dialog_text": "The youth member should be able to explain what might change in the environment under wet conditions and how they can manage the situation to suit the new conditions."
+            },
+            {
+              "id": "communication_calls_climb_17165b",
+              "type": "verifiable_checkbox",
+              "label": "I know the communication calls and script to follow between a climbing and belayer.",
+              "dialog_text": "The youth member should demonstrate the communication calls between a climber and belayer during an activity."
+            },
+            {
+              "id": "climb_techniques_3d55ff",
+              "type": "verifiable_checkbox",
+              "label": "I have tried different climbing techniques such as smearing, crimping, wedging, layback and mantling.",
+              "dialog_text": "The youth member should attempt to demonstrate these techniques to the best of their ability. It does not matter for Stage 4 if they are not 100% perfect."
+            },
+            {
+              "id": "four_climbs_natural_surface_stage_a1802c",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in and logged four climbs on natural surfaces at this Stage.",
+              "dialog_text": "The youth member needs to do four climbs and log them in their logbook. The youth member should include where they did the activities, who they did them with, how high they were and if they were graded how difficult was the grade. These should be in addition to any climbing the youth member did in previous Stages."
+            },
+            {
+              "id": "explain_difference_type_climb_cf9e52",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the difference between single-pitch, multi-pitch, top-rope, lead climbing and seconding, and bouldering climbing methods.",
+              "dialog_text": "The youth member should be able to explain each of these climbing methods and show an understanding of each one during this discussion."
+            },
+            {
+              "id": "thread_belay_device_climb_safe_cf9e52",
+              "type": "verifiable_checkbox",
+              "label": "I can thread a belay device to keep the climber safe.",
+              "dialog_text": "The youth member could use any belay device of their choice as long as they are familiar with it and it is suitable for the activity."
+            },
+            {
+              "id": "belay_other_climb_cf9e52",
+              "type": "verifiable_checkbox",
+              "label": "I can belay another person while they are climbing.",
+              "dialog_text": "The youth member needs to safely belay another climber and include this in their logbook, and indicate who can verify this activity."
+            },
+            {
+              "id": "tie_self_climb_rope_cf9e52",
+              "type": "verifiable_checkbox",
+              "label": "I can tie myself into the end of the climbing rope.",
+              "dialog_text": "The youth member should be able to demonstrate this using a suitable knot which is dressed correctly. Ideas for this could be a rethreaded figure of 8 or rethreaded double bowline with stopper knot."
+            },
+            {
+              "id": "demonstrate_good_climb_technique_cf9e52",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated good climbing techniques.",
+              "dialog_text": "The youth member could demonstrate techniques such as; good hand placement, foot placement, weighting on feet and good centre of gravity."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "identify_improvements_future_climbing_73f6f3",
+              "type": "verifiable_checkbox",
+              "label": "I can identify improvements for future climbing activities.",
+              "dialog_text": "The youth member should discuss with their Patrol or Unit the climbing activities they have participated in at this stage and identify where they can improve their skills and the activities for next time."
+            },
+            {
+              "id": "check_equipment_damage_discuss_repair_73f6f3",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should demonstrate a gear inspection after their activity. This includes: \n * Visual inspection of their harness including rips, tears and fraying \n * Visual and physical checks of ropes by running the rope through their hands end to end looking/feeling for lumps, bumps, flattening, fraying"
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

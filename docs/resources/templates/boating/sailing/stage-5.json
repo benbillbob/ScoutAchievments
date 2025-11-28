@@ -1,0 +1,202 @@
+{
+  "template": "oas/boating/sailing/5",
+  "meta": {
+    "stage": 5,
+    "stream": "sailing"
+  },
+  "version": 3,
+  "document": [
+    {
+      "title": "Stage 5 - Sailing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "identify_food_water_requirements_sailing_trips_f59871",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify food and water requirements for day trips.",
+              "dialog_text": "The youth member should consider how they might identify the needs of a particular trip, given people, location, season, and access to food and water sources. They should be able to: \n * Specify how much water to carry, and how often they will need to re-fill \n * Specify how many of each meal they will need (breakfast, lunch, dinner, snacks) and for how many people \n * Identify suitable foods for sailing with regard to energy content, durability, perishability, and deliciousness \n * Estimate overall energy requirements: How strenuous is the day?  Will it make them eat more?"
+            },
+            {
+              "id": "select_routes_minimise_damage_a6d2e1",
+              "type": "verifiable_checkbox",
+              "label": "I can select routes that minimise damage to the environment.",
+              "dialog_text": "The youth member should demonstrate understanding in their plan that they are able to select appropriate launching points and rest stops to ensure minimal damage to the environment."
+            },
+            {
+              "id": "identify_hazards_associated_sailing_procedures_e6cc46",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated with sailing and procedures I can take to minimise the risks.",
+              "dialog_text": "The youth member should identify the difference between a hazard and a risk. They should provide a hazard assessment and will need to account for: \n * Human hazards \n * Environmental hazards \n * Equipment hazards \n \nThey should include in their plan what steps they will take to minimise these hazards during an activity. They should then consider the risks that may come from these hazards and how they will mitigate these on an activity. This step could be done as a Patrol or individual before their sailing trip."
+            },
+            {
+              "id": "planned_small_sailing_trip_all_requirements_62e677",
+              "type": "verifiable_checkbox",
+              "label": "I have planned a day of small boat sailing taking into consideration all personal and group equipment and all requirements for the trip.",
+              "dialog_text": "The youth member should plan a day sailing activity with their patrol. Their plan should include weather, equipment requirements, food and water, maps and a float plan, as well as emergency contact and contingency plan.  If they need any assistance they should speak to a Scout at a higher stage or a skilled adult to assist them with their planning."
+            },
+            {
+              "id": "learnt_knots_completing_and_assisting_learning_765862",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt another two knots since completing Stage 3 that will help me while sailing and have assisted a Stage 3 Scout in learning their knots.",
+              "dialog_text": "The youth member should learn another two knots which are relevant to the sailing activity. If they have forgotten the three they learned during stage 3 then they should refresh their skills and assist a Stage 3 scout in learning their knots."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "complete_Provide_First_Aid_60bd37",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed* a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "demonstrate_avoid_injury_c8690c",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate techniques to avoid injury when setting up, packing up or moving equipment.",
+              "dialog_text": "The youth member should be able to demonstrate appropriate lifting and weightbearing techniques."
+            },
+            {
+              "id": "steer_small_sail_craft_landing_approach_c8690c",
+              "type": "verifiable_checkbox",
+              "label": "I can steer my small sail craft to come alongside another object and can make a jetty or beach approach.",
+              "dialog_text": "The youth member should be able to demonstrate, during their sailing activity, safely steering their sailboat alongside another object so that they can disembark."
+            },
+            {
+              "id": "steering_small_craft_all_points_a980b5",
+              "type": "verifiable_checkbox",
+              "label": "I have steered a small sail craft on all points of sailing.",
+              "dialog_text": "The youth member should be able to demonstrating steering their sailboat on all ten of the points of sailing. Close Hauled, Close Reach, Beam Reach, Broad Reach, Training Run, Run, Sailing Upwind, Gybing and Sail Trim."
+            },
+            {
+              "id": "helped_explain_safety_rules_water_5d8492",
+              "type": "verifiable_checkbox",
+              "label": "I have helped a Stage 2 or 3 Scout explain the basic safety rules for being near water.",
+              "dialog_text": "The youth member should help a Scout working on Stage 2 or 3 of Boating, Aquatic or Paddling and assist them understand the basic safety rules for being near water."
+            },
+            {
+              "id": "reefed_sail_e8150e",
+              "type": "verifiable_checkbox",
+              "label": "I have reefed a sail, sailed with a reefed sail and taken out a reef.",
+              "dialog_text": "The youth member should, during their sailing activity, demonstrate reefing a sail, sailing with it and then taking out the reef. They should write up what skills they demonstrated in their activity logbook for future reference."
+            },
+            {
+              "id": "float_plan_46e43e",
+              "type": "verifiable_checkbox",
+              "label": "I have created and used a float plan.",
+              "dialog_text": "The youth member should have created their float plan in their planning of the day-sailing activity. Their float plan should include the description of the vessel, destination and general route being taken, contact information and the timeframe of their activity. This should then be given to someone not attending so that it can give authorities a head start in looking for them if they fail to reach their destination."
+            },
+            {
+              "id": "collision_regulations_6423b7",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the collision regulations for sailing.",
+              "dialog_text": "The youth member should explain to a Scout working on Stage 3 or lower what the collision regulations are for sailing, with regards to another sail boat and to power boats too."
+            },
+            {
+              "id": "steer_crewed_row_boat_e8150e",
+              "type": "verifiable_checkbox",
+              "label": "I can steer a crewed rowing boat using the correct rowing orders OR I have demonstrated steering a sailboat  upwind,  bearing off, reaching, and going downwind.",
+              "dialog_text": "The youth member should demonstrate steering either a rowing boat or a sailboat. If demonstrating sailboat steering they will need to demonstrate sailing upwind, bearing off, reaching, and steering downwind. They should write up what they achieved in their logbook."
+            },
+            {
+              "id": "controlled_gybes_46e43e",
+              "type": "verifiable_checkbox",
+              "label": "I can perform controlled gybes whilst sailing downwind and know how to avoid unexpected gybes.",
+              "dialog_text": "The youth member should demonstrate changing course by swinging the sail across a following wind in a controlled manner whilst sailing downwind and should be able to discuss with their Patrol or Mentor how to avoid unexpected gybes."
+            },
+            {
+              "id": "local_weather_patterns_6423b7",
+              "type": "verifiable_checkbox",
+              "label": "I can explain local weather patterns and signs of bad weather.",
+              "dialog_text": "The youth member should be able to explain the local weather patterns at the location of their activity and be able to notice signs of bad weather whilst out on the water."
+            },
+            {
+              "id": "load_trim_boat_e8150e",
+              "type": "verifiable_checkbox",
+              "label": "I can load a boat with crew and equipment and trim it correctly.",
+              "dialog_text": "The youth member should demonstrate loading a sailboat with their crew and the necessary equipment, and trim their sails correctly."
+            },
+            {
+              "id": "competence_all_roles_46e43e",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated competence at all roles on board.",
+              "dialog_text": "The youth member should demonstrate being competent in the sailing roles which are the Boat Captain, Tactician, The Helm, Main Sheet, Head Sail Trimmer, Bowman, Pitman, Mast man, Ballast. Depending on the size of their boat one person might be doing several roles simultaneously."
+            },
+            {
+              "id": "mob_procedures_6423b7",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated proper Man Over Board (MOB) procedures while on the water.",
+              "dialog_text": "The youth member should demonstrate the correct procedures if someone falls overboard. Firstly, based on their activity they will need to have a plan before they set sail, should an emergency arise, and everyone in their crew should know what that plan is, and then demonstrate it through mock emergency drills."
+            },
+            {
+              "id": "demonstrated_ability_set_sails_e8150e",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated an ability to set the sails using tell tales and leech tails to respond to wind conditions.",
+              "dialog_text": "The youth member should demonstrate being able to read the tell-tales and respond accordingly."
+            },
+            {
+              "id": "five_days_sailing_46e43e",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 5 days of sailing on safe, familiar waters by the end of Stage 5, at least two of which involved moderate wind conditions.",
+              "dialog_text": "The youth member needs to participate in five days of sailing and write their activities in their logbook. This should include where they sailed , who they did it with, what the weather was like, including the wind conditions and any other interesting information about their activity. Photos are also great evidence to include in their logbook.  Moderate wind is considered 11 to 16 knots (Beaufort scale)."
+            },
+            {
+              "id": "basic_maintenance_6423b7",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted with basic boat maintenance tasks.",
+              "dialog_text": "The youth member should assist with basic sailboat maintenance tasks, which include but are not limited to checking anchor, sails, rigging and inspect the moorings, check all moving parts, hinges, tracks and zippers and not ignoring rust."
+            },
+            {
+              "id": "manoeuvre_commands_46e43e",
+              "type": "verifiable_checkbox",
+              "label": "I can manoeuvre the sailboat properly while giving the proper commands to the crew.",
+              "dialog_text": "The youth member should demonstrate this by Captaining a sail boat during their sailing activity and following the communication method they have outlined in their float plan."
+            },
+            {
+              "id": "sailboat_towing_6423b7",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a sailboat towing situation.",
+              "dialog_text": "The youth member could do this through a mock emergency activity. They need to remember to write it in their logbook and include their role, who was involved, the weather conditions, location and anything else that was memorable."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "washing_storing_sails_4a956c",
+              "type": "verifiable_checkbox",
+              "label": "I have helped my crew to understand the importance of looking after the boat and rigging, including washing and storing the sails appropriately.",
+              "dialog_text": "The youth member should assist their crew in understanding the importance of looking after the sailing equipment and how to do it properly."
+            },
+            {
+              "id": "next_trip_learned_improved_4a956c",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed with my crew what we did well and what we could learn from, to enhance the next sailing trip.",
+              "dialog_text": "The youth member should be continually reviewing their performance during their sailing activities and making small adjustments along the way. At the end of the activity they should review their performance as a whole and identify ways they could improve. \n \nCould they have improved their planning, what equipment they brought or their skills? \n \nThey should then discuss their activity and determine what could be done better to make the next sailing trip even better."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

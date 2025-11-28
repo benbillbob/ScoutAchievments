@@ -1,0 +1,112 @@
+{
+  "template": "oas/bushcraft/pioneering/6",
+  "meta": {
+    "stage": 6,
+    "stream": "pioneering"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 6 - Pioneering",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "understand_maintain_taken_wellbeing_actions_appropriate_project_health_1b7ef7",
+              "type": "verifiable_checkbox",
+              "label": "I understand and have taken the appropriate actions to maintain health and wellbeing on a pioneering project.",
+              "dialog_text": "The youth member should understand that pioneering is often a physically demanding activity and therefore it is important to consider hydration and nutrition as part of their activity planning."
+            },
+            {
+              "id": "including_taking_led_of_principles_minimal_planning_materials_89d070",
+              "type": "verifiable_checkbox",
+              "label": "I have led the planning of a pioneering project including sourcing pioneering materials, taking into consideration minimal impact principles.",
+              "dialog_text": "The youth member should consider the local environment when planning their sourcing of pioneering materials. Ensure that they have landowners permission. Often landowners wish to thin their bushland to reduce risk of bushfires and those trees are ideal for harvesting naturally. The youth member needs to ensure the material is harvested in a non-detrimental manner, taking consideration of the other fauna and flora in the surrounding area, the slope, soil type and erodibility, presence of waterways, and the presence of biodiversity values as well as tree size."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "5_major_metres_shelter_of_long_patrol_scouts_a02308",
+              "type": "verifiable_checkbox",
+              "label": "I have worked with a Patrol of Scouts to plan and construct a major project which is 5 metres high, or  10 metres long, or can shelter a minimum of a Patrol.",
+              "dialog_text": "The youth member should consider doing this on a camp or activity for a purpose other than just meeting this requirement. A major project is primarily defined by size of structure (5 metres by 10 metres) and also the length of time that is required for its construction. The project should take approximately 6 hours, including planning."
+            },
+            {
+              "id": "pulleys_used_project_help_pioneering_0b5b38",
+              "type": "verifiable_checkbox",
+              "label": "I have used pulleys to help with a pioneering project.",
+              "dialog_text": "The youth member will need to design a project which will require the use of pulleys. This should be a different project to what they undertook in previous Pioneering Stages.  Pulleys are often used to provide tension and tethering between structure and anchor point, as well as hoisting a flag or material to the top of a pole or structure."
+            },
+            {
+              "id": "overseen_4_projects_their_of_stage_undertaking_scout_f9b91e",
+              "type": "verifiable_checkbox",
+              "label": "I have overseen a Scout undertaking one of their Stage 4 pioneering projects.",
+              "dialog_text": "The youth member should discuss with a Scout undertaking Stage 4 pioneering what projects they are wanting to complete. Then assist and teach them the skills required to achieve the project requirements. At the end of the activity, review and assess their competency."
+            },
+            {
+              "id": "maintain_equipment_group_activity_during_care_pioneering_a00849",
+              "type": "verifiable_checkbox",
+              "label": "I know how to care for and maintain group equipment during a pioneering activity.",
+              "dialog_text": "The youth member should inspect all equipment prior to construction. Ensure the poles are sound without rot or infestations. Check pulleys for rust, cracks and other damage. Ensure that all ropes are not rotting or damaged."
+            },
+            {
+              "id": "lashings_learnt_splices_knots_assist_me_pioneering_extra_f40b3f",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt two extra knots, lashings or splices to assist me in pioneering.",
+              "dialog_text": "The youth member should be considering more advanced or technical (for a specific purpose) knots at this Stage. They should be competent at applying these technical knots in different ways/to solve different problems during a pioneering activity."
+            },
+            {
+              "id": "6_taken_ten_part_of_stage_pioneering_activities_3faf6d",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in ten pioneering activities by the end of Stage 6.",
+              "dialog_text": "The youth member should have challenged themselves to try and undertake ten different types of pioneering projects."
+            },
+            {
+              "id": "handling_of_correct_camp_axe_bow_use_demonstrate_c8ee69",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the correct handling and use of a camp axe or bow saw.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "presentation_pioneer_of_group_lower_completed_stage_activity_8222ba",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts at a lower stage on a pioneer activity I have completed.",
+              "dialog_text": "The presentation could be in person, via a video the youth member has made or a written report and should cover the design, planning and construction of some different pioneering projects that the youth member led and assisted with. The aim of this presentation is to encourage those that watch it to be inspired to create some unique and exciting pioneering structures. The youth member should also point out their learnings so the audience can be aware of some classic pitfalls when designing and building a pioneering structure."
+            },
+            {
+              "id": "4_equipment_of_correct_stage_scouts_maintenance_pioneering_6d23ef",
+              "type": "verifiable_checkbox",
+              "label": "I can teach the correct maintenance of pioneering equipment to Scouts at Stage 4.",
+              "dialog_text": "You should know different ways to prevent rust from building up in the different devices, how to keep rope from being damaged, and how to prevent water damage to poles."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

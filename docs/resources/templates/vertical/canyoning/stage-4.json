@@ -1,0 +1,166 @@
+{
+  "template": "oas/vertical/canyoning/4",
+  "meta": {
+    "stage": 4,
+    "stream": "canyoning"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Canyoning",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "safe_unsafe_canyon_site_94f0b9",
+              "type": "verifiable_checkbox",
+              "label": "I know what makes a safe and unsafe canyon activity.",
+              "dialog_text": "The youth member should be able to point out hazards regarding the canyon accessibility, available evacuation routes, source and condition of water, and weather considerations."
+            },
+            {
+              "id": "prepare_equipment_transport_canyon_9e0c3a",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare required equipment for safe transportation to a canyoning activity location.",
+              "dialog_text": "The youth member should be able to demonstrate organising safe transportation of canyoning gear to the canyon. They will need to consider what gear is required depending on whether their canyon is horizontal or vertical. If using any abseiling gear for vertical canyons, consider contaminates when transporting such as fuels, weather and making sure ropes don’t get tangled or damaged."
+            },
+            {
+              "id": "read_itinerary_proposed_canyon_0897a4",
+              "type": "verifiable_checkbox",
+              "label": "I can read an itinerary for a proposed canyoning trip and understand what I am required to do or take and why.",
+              "dialog_text": "The youth member will need to demonstrate an understanding of what is needed for the canyoning activity from the itinerary by discussing the gear list, menu and route with the trip leader and by bringing what is required to the activity."
+            },
+            {
+              "id": "why_wear_helmet_canyon_c10bb7",
+              "type": "verifiable_checkbox",
+              "label": "I know why and where I should wear a helmet for canyon activities.",
+              "dialog_text": "The youth member will need to explain when and where they need to wear a helmet and the importance of wearing a helmet. This will depend on the type of canyoning activity they are doing (vertical or horizontal) and any environmental risks."
+            },
+            {
+              "id": "personal_equipment_safety_checks_canyon_afdf241b",
+              "type": "verifiable_checkbox",
+              "label": "I have completed all necessary personnel and equipment safety checks, using the ABCDE check with a buddy, prior to commencing a canyoning activity.",
+              "dialog_text": "The youth member should be able to explain and demonstrate what the ABCDE check with their buddy, including why it is important to do these things before each abseil within the canyon. \n * A - Anchor(s) \n * B - Buckles \n * C - Carabiner(s) \n * D - Descender \n * E - Everything else e.g. gloves, shoelaces, long hair tied back, prusiks on harness"
+            },
+            {
+              "id": "care_handle_store_rope_harness_helmet_canyon_394038",
+              "type": "verifiable_checkbox",
+              "label": "I know how to care for, handle and store a canyoning rope, harness and helmet.",
+              "dialog_text": "The youth member will need to explain and demonstrate caring for, handling and storing their abseiling gear used in canyons."
+            },
+            {
+              "id": "canyon_setup_techniques_different_07fd288",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed different setup techniques for canyons.",
+              "dialog_text": "The youth member needs to discuss three different set up techniques within a canyon, including the benefits and disadvantages for each one."
+            },
+            {
+              "id": "weather_impact_canyon_evacuate_07fd28",
+              "type": "verifiable_checkbox",
+              "label": "I know how weather systems can impact canyoning activities and have discussed options to evacuate when necessary.",
+              "dialog_text": "The youth member will need to discuss how storms, heavy to light rain and wind and heat could affect their activity and evacuation plan."
+            },
+            {
+              "id": "signs_symptoms_hypo_hyperthermia_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of hypothermia and hyperthermia.",
+              "dialog_text": "The youth member should be aware of the general and most common indicators: This could be learnt through mock emergencies and research."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "prepare_belay_canyon_52241b",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare a belay for a proposed canyoning activity.",
+              "dialog_text": "The youth member should be able to set up and prepare a safe belay system which is suitable for the abseiling within the canyoning activity."
+            },
+            {
+              "id": "wet_conditions_affect_safety_canyon_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I know how wet conditions can affect my safety when canyoning.",
+              "dialog_text": "The youth member should be able to explain what might change in the environment under wet conditions, and how they can manage the safety of the activity."
+            },
+            {
+              "id": "communication_calls_canyon_17165b",
+              "type": "verifiable_checkbox",
+              "label": "I know the communication calls and script to follow whilst canyoning.",
+              "dialog_text": "The youth member should demonstrate the communication calls between an abseiler and belayer during a canyoning activity."
+            },
+            {
+              "id": "two_canyon_sessions_logged_stage_ce80cc",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in and logged a minimum of two canyoning activities at this stage, one of which is horizontal and one vertical.",
+              "dialog_text": "The youth member needs to do two canyoning activities and log them in their logbook. They should include where they did the activities, who they did it with and high they were and how many abseils they did."
+            },
+            {
+              "id": "demonstrate_canyon_techniques_17165b",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate canyoning techniques within a variety of terrain obstacles, such as liloing, rock-scrambling, swimming and wading through rock pools.",
+              "dialog_text": "The youth member should demonstrate these techniques."
+            },
+            {
+              "id": "thread_descending_device_abseil_line_8b43dd",
+              "type": "verifiable_checkbox",
+              "label": "I can thread a descending device to the abseil line and clip onto the line safely.",
+              "dialog_text": "The youth member could use any descending device of their choice as long as they are familiar with it and it is suitable for the activity."
+            },
+            {
+              "id": "demonstrate_correct_posture_technique_abseil_canyon_8b43dd",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the correct posture and technique while abseiling, using double rope and in a slippery canyon.",
+              "dialog_text": "The youth member should be positioned with their feet flat on the wall and legs at right angles (90 degrees) and shoulder width apart."
+            },
+            {
+              "id": "bottom_belay_observe_self_belay_8b43dd",
+              "type": "verifiable_checkbox",
+              "label": "I can bottom belay or keep an eye on another person while they are abseiling if they are on self-belay.",
+              "dialog_text": "The youth member needs to demonstrate the correct and safe bottom belaying procedure during an activity. They should stop and slow the abseiler and ensure they are using the correct communication during the process and log this in their logbook."
+            },
+            {
+              "id": "revisit_knotting_skills_canyon_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I have revisited my knotting skills and can tie an Alpine Butterfly, Figure of 8 re-threaded, Double Fisherman’s, Tape and a Prusik knot and I can apply them to canyoning activity situations.",
+              "dialog_text": "The youth member should demonstrate all of these knots in a practical way during the canyoning activity and ensure they are set and dressed correctly."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "identify_improvements_future_canyoning_73f6f3",
+              "type": "verifiable_checkbox",
+              "label": "I can identify improvements for future canyoning activities.",
+              "dialog_text": "The youth member should discuss with their Patrol or Unit the canyoning activities they have participated in at this stage and identify where they can improve their skills and the activities for next time."
+            },
+            {
+              "id": "check_equipment_damage_discuss_repair_73f6f3",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should demonstrate a gear inspection after their activity. This includes: \n * Visual inspection of their harness including rips, tears and fraying \n * Visual and physical checks of ropes by running the rope through their hands end to end looking/feeling for lumps, bumps, flattening, fraying. \n * Dry bags should be checked for cuts or deterioration in the lining and can be re-waterproofed where possible. "
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

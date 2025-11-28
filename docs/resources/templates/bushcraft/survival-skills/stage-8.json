@@ -1,0 +1,106 @@
+{
+  "template": "oas/bushcraft/survival-skills/8",
+  "meta": {
+    "stage": 8,
+    "stream": "survival-skills"
+  },
+  "version": 3,
+  "document": [
+    {
+      "title": "Stage 8 - Survival skills",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "stage_scout_lower_bush_obtain_another_water_techniques_c966ee",
+              "type": "verifiable_checkbox",
+              "label": "I have taught another Scout in a lower Stage techniques to obtain water in the bush.",
+              "dialog_text": "The youth member should be able to instruct another Scout in techniques for obtaining drinkable water, such as: \n * Digging a hole in a damp area \n * Collecting transpiration moisture from vegetation \n * Constructing a solar still \n * Desalinating salt water \n \nIf the youth member is a Sea Scout, they may substitute ‘in the bush’ for ‘on a boat’."
+            },
+            {
+              "id": "mentored_stages_lower_of_scouts_planning_camp_survival_dac89f",
+              "type": "verifiable_checkbox",
+              "label": "I have mentored Scouts in lower Stages in the planning of a survival camp.",
+              "dialog_text": "The youth member could assist Scouts in either Stage 6 or 7. Their camp must include at least one night spent out. Risk mitigation and environmental impact needs to be included in the planning."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "wood_flat_hooks_improvised_trenches_only_surfaces_camp_864a39",
+              "type": "verifiable_checkbox",
+              "label": "I can cook a complete camp meal using only improvised natural cooking surfaces and devices (cooking only using flat stones, wood planks, cooking cranes or hooks, spits, covered pits or trenches).",
+              "dialog_text": "The youth member should demonstrate these skills during an activity or planned survival camp. They will need to maintain the same fire safety considerations as if using a purchased camp or hiking stove."
+            },
+            {
+              "id": "traditional_hay_as_box_of_similar_cook_attendees_63fa95",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and cook a three-course camp meal for attendees of a survival camp using traditional means such as a hay box or similar.",
+              "dialog_text": "Guidance under development."
+            },
+            {
+              "id": "find_constellations_identifying_approximately_navigate_3km_possible_from_4de7e3",
+              "type": "verifiable_checkbox",
+              "label": "I can find the Southern Cross and use it to navigate approximately 3km at night to and/or from a campsite or activity along with identifying four other constellations by which it is possible to navigate without a compass.",
+              "dialog_text": "The youth member should navigate and maintain their bearing using the Southern Cross for around 3 kilometres in length. They will need to ensure that the conditions are fair enough to navigate (i.e. minimal cloud cover)."
+            },
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the OAS, the Wilderness First Aid skillset (SISSS00126) includes: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses \n(or their replacement)."
+            },
+            {
+              "id": "rain_conditions_light_maintain_heavy_fire_df19da",
+              "type": "verifiable_checkbox",
+              "label": "I can light and maintain a fire in heavy rain conditions.",
+              "dialog_text": "The youth member should be able to light a fire in heavy rain and maintain it for long enough to be able to cook a meal. \n \nMock heavy rain conditions could be created if necessary. \n \nThe only artificial tools the youth member may use are a: \n * Pocket knife or multi-tool \n * Hatchet \n * Flint"
+            },
+            {
+              "id": "bushfire_conditions_escape_adf19d",
+              "type": "verifiable_checkbox",
+              "label": "I can describe and demonstrate the steps to take if caught in a bushfire.",
+              "dialog_text": "The youth member should demonstrate a knowledge of what to do if they were to be caught in a bushfire. They should be able to understand and communicate what to do and the steps involved. These could include moving to an area already burnt, finding a body of water, etc."
+            },
+            {
+              "id": "missing_ground_as_of_kilometres_1_such_2_b5fa24",
+              "type": "verifiable_checkbox",
+              "label": "I have led a ground search exercise for a missing person using appropriate search techniques such as hasty search, grid search over an area of 1 - 2 square kilometres.",
+              "dialog_text": "The youth member should be able to lead a simulated search for a missing person lost in a bushland area. Such a search would normally involve a variety of techniques such as: \n * Hasty search \n * Feature searching \n * Sound and light searching \n * Line searching \n \nThe area to be searched should be of sufficient size and terrain complexity that is requires the youth member to make decisions about allocating and prioritising resources. As a rough guide, this would be a minimum of 1-2km2 in rainforest; 3-4km2 in open woodland; and 5-6km2 in open scrub or desert. \n \nThe youth member should also lead a team on an evacuation simulation. \n \nThe search may be contextualised; for example, if the youth member has an interest in climbing, they may undertake a search in rocky terrain. However, the focus should be on land Search and Rescue and should not require technical skills such as vertical rescue to successfully complete. \n \nSea Scouts may include a coastal or marine component in the search, for example as an exercise searching for overboard crew."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "been_skill_creation_development_participants_of_its_describe_67151a",
+              "type": "verifiable_checkbox",
+              "label": "I can describe a survival plan and how the skill development needs of participants have been met in its creation.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

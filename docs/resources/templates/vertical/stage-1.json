@@ -1,0 +1,112 @@
+{
+  "template": "oas/vertical/1",
+  "meta": {
+    "stage": 1,
+    "stream": "vertical"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 1 - Vertical",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "clothes_dress_rock_activity_0ad3b4",
+              "type": "verifiable_checkbox",
+              "label": "I know what the best type of clothes for a rock activity are and can dress myself for an activity.",
+              "dialog_text": "The youth member should be able to select appropriate clothing for the activity. Consider if the activity is indoors or outdoors. Think about being SunSmart and what clothing should be worn with a harness, how the youth member should wear their hair and how to keep all skin protected from rocks."
+            },
+            {
+              "id": "climb_trees_no_damage_ed943e",
+              "type": "verifiable_checkbox",
+              "label": "I know not to break or damage trees when climbing them.",
+              "dialog_text": "The youth member should be able to discuss and show their knowledge on how to care for trees and how to ensure trees are protected when and if climbing them, particularly how to avoid breaking smaller branches and how to protect undergrowth or animals."
+            },
+            {
+              "id": "activities_lost_stop_0c7a8d",
+              "type": "verifiable_checkbox",
+              "label": "I know what to do if I get lost at an activity.",
+              "dialog_text": "The youth member should consider actions when they get lost and role play or discuss such actions: \n * Stopping \n * Have a plan of action \n * Try and work out where you are \n \nDepending on the plan and the activity, the youth member might: \n * Retrace their steps to the last checkpoint where they knew their location \n * Stay where they are and someone will come find them \n * Go to a predetermined location to find the rest of their Patrol \n \nWhen lost, people tend to walk in a line that bends to the left so over time they walk in circles and become more lost so it is very important to stop and assess.  \n \nNote: Check this with core statements that are similar and apply an activity specific knowledge."
+            },
+            {
+              "id": "explain_buddy_system_fb3ada",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the buddy system.",
+              "dialog_text": "The youth member should be able to describe what the Buddy System is and how using the buddy system assists in keeping them safe. This includes: \n * Staying in pairs or threes \n * Making sure they stay with Adult Leaders/supervisors \n * Understanding the boundaries of their activity and that it is important for people to know where they are \n \nThe youth member should then demonstrate this on a Vertical activity."
+            },
+            {
+              "id": "discuss_helmet_purpose_bc9574",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed what the purpose of a helmet is.",
+              "dialog_text": "The youth member should understand that there are different types of helmets for different activities, what helmets are for and how they help during vertical activities."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "safety_rules_rock_c4b54a",
+              "type": "verifiable_checkbox",
+              "label": "I know the safety rules for climbing on rocks, trees, fences and man-made structures.",
+              "dialog_text": "The youth member should be able to demonstrate these safety rules. They should follow the rules outlined by the activity leader and consider; \n * Wearing a helmet and other safety rules to keep safe \n * Inspect the natural or man made structure before they climb - will it take their weight? \n * The need for a spotter or belayer depending on activity"
+            },
+            {
+              "id": "rock_playground_others_62ee19",
+              "type": "verifiable_checkbox",
+              "label": "I have been to a rock playground and know how to play safely and cooperatively with others.",
+              "dialog_text": "The youth member should visit a rock playground which could be: \n * Bouldering wall in a park \n * Rock-climbing centre \n * National park with areas of large rocks (1-2 meters of the ground rocks) \n \n While there, they should play a game, do an activity and learn about the rocks and height."
+            },
+            {
+              "id": "care_personal_equipment_rock_73b449",
+              "type": "verifiable_checkbox",
+              "label": "I can take care of my personal equipment for the duration of a rock activity.",
+              "dialog_text": "The youth member should demonstrate that they can care for equipment by not hitting or grinding it against rocks and not throwing or dropping equipment. \n \nEquipment would vary depending on the rock activity but could include: \n * Water bottles \n * Jumpers \n * Hat \n * Hardwear \n * Helmet \n * Backpack"
+            },
+            {
+              "id": "wear_adjust_rock_helmet_233981",
+              "type": "verifiable_checkbox",
+              "label": "I know how to wear and adjust a helmet.",
+              "dialog_text": "The youth member should be able to demonstrate correct wearing of a helmet that is specifically designed for rock related activities. \n \nEnsure that the helmet is the correct size, that it is adjusted at the back so that it doesn't fall off when they shake their head, prior to doing up the chin strap. \n \nThe youth member's helmet should cover their forehead and sit two (2) finger width above their eyebrows. \n \nEnsure that the strap is adjusted to fit two (2) fingers between chin and strap, and can not come over the chin."
+            },
+            {
+              "id": "contact_emergency_services_1cf7a8",
+              "type": "verifiable_checkbox",
+              "label": "I know how to contact the emergency services.",
+              "dialog_text": "The youth member should have participated in mock emergencies. They should know the standard emergency number 000 and global emergency number from mobiles 112 and, depending on their activity and equipment available, information about Personal Locator Beacons and Radios. \n \nThe youth member should be prepared to provide information to emergency services such as: \n * Whether they are requesting police, fire brigade, or ambulance \n * Their name \n * Their location \n * The nature of the emergency \n * How many people are injured and what types of injury \n * Access to their location"
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "enjoyed_learnt_improved_rock_56f550",
+              "type": "verifiable_checkbox",
+              "label": "I can talk about what I enjoyed, learnt, or improved upon, by participating in a rock-based activity.",
+              "dialog_text": "The youth member should review the rock-based activity including things such as: \n * What went well? \n * What was fun? \n * What was not? \n * What did they learn? \n * How can they apply what they have learnt? \n \nConsider using aids for this such as Review> ball, SPICES cards, Method question flash cards etc."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "template": "oas/boating/sailing/4",
+  "meta": {
+    "stage": 4,
+    "stream": "sailing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Sailing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "signs_symptoms_hypo_hyperthermia_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of hypothermia and hyperthermia.",
+              "dialog_text": "The youth member should be aware of the general and most common signs and symptoms or both hypothermia and hyperthermia. This could be through research and demonstrated through mock emergencies. The youth member should consider how they would avoid or prevent themselves and others getting hypothermia and hyperthermia during sailing activities."
+            },
+            {
+              "id": "sufficient_fluids_available_activity_9cc451",
+              "type": "verifiable_checkbox",
+              "label": "I ensure sufficient fluids are available for the duration of the activity.",
+              "dialog_text": "The youth member should be aware of how much drinking water to bring for their sailing activity whilst out on the water. This could include other drinks such as electrolyte replacement drinks. They should also consider where they can top up their water at the end or during the activity."
+            },
+            {
+              "id": "read_understand_itinerary_proposed_sailing_boat_trip_de8da3",
+              "type": "verifiable_checkbox",
+              "label": "I can read an itinerary for a proposed small sailing boat trip and understand what I am required to do.",
+              "dialog_text": "The youth member will need to demonstrate understanding of a sailing trip from the itinerary, by discussing the gear list, time of departure and arrival home, menu and route with the trip leader and by bringing what is required to the activity."
+            },
+            {
+              "id": "identify_equipment_required_law_d45c8a",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the equipment I am required by law to have with me while boating.",
+              "dialog_text": "The youth member should check their local marine safety legislation as to what equipment they are required to have. They should also follow their branch policies and best practice regarding required equipment. Items could include PFD, whistle, two way radio, satellite phone or EPIRB, first aid kit, etc."
+            },
+            {
+              "id": "prepare_equipment_safe_transportation_bad815",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare equipment, where required, for safe transportation to an activity location including the requirements to rig the boat.",
+              "dialog_text": "The youth member should be able to demonstrate organising safe transportation of sailing equipment gear to their sailing activity location. They need to consider what gear they need, who will transport gear, how it will be transported, and securing gear before transportation."
+            },
+            {
+              "id": "name_eight_parts_small_sailboat_b883d4",
+              "type": "verifiable_checkbox",
+              "label": "I can name 8 different parts of a small sailboat, what they do and what they are needed for.",
+              "dialog_text": "The youth member should be able to name and demonstrate an understanding of eight different parts of a small sail boat."
+            },
+            {
+              "id": "explain_damaged_centreboards_sailing_performance_afa584",
+              "type": "verifiable_checkbox",
+              "label": "I can explain how damaged centreboards can affect my sailing performance.",
+              "dialog_text": "The youth member should be able to discuss and demonstrate understanding centreboards and the effect they have on the performance of their boat should they get damaged."
+            },
+            {
+              "id": "prepared_patrol_small_sailboat_81abe4",
+              "type": "verifiable_checkbox",
+              "label": "I have prepared with my Patrol a small sailboat for towing on the water.",
+              "dialog_text": "The youth member should set up a safe way to enable their boat to be towed whilst on the water. They should take into consideration their location and weather conditions."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "participated_two_sailboat_trips_0ec861",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in and logged at least two small sailboat trips at this stage.",
+              "dialog_text": "The youth member needs to go on two small sailboat activities of at least a couple of hours each and log them in their logbook. They should include where they did the activities, who they did it with, what the weather was like and any other interesting information about their activity. These should be in addition to any sailing they did in earlier Stages."
+            },
+            {
+              "id": "assisted_steer_small_sailboat_wind_1de02e",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted to steer a small sailboat going upwind or downwind at this stage.",
+              "dialog_text": "The youth member should successfully assist steering during the sailing activity, this can be done upwind or downwind. They should make sure they have included their role in the activity in their logbook."
+            },
+            {
+              "id": "learnt_four_sailing_principles_edbd1d",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt a minimum of four sailing principles during Stage 4 and have demonstrated an understanding of them while on the water.",
+              "dialog_text": "The youth member should have learned a minimum of four sailing principles and been able to demonstrate their understanding of these principles during their sailing activities. The five essentials of sailing are balance, boat trim, sail setting, centreboard and course made good."
+            },
+            {
+              "id": "assisted_rigging_sail_name_three_types_b1451c",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted with rigging a sail and can name three types of sails and the parts of those sails.",
+              "dialog_text": "The youth member should demonstrate their understanding and knowledge of sails by assisting in rigging a small sailboat, as well as discussing three types of sails and the parts of those sails."
+            },
+            {
+              "id": "crew_jib_edbd1d",
+              "type": "verifiable_checkbox",
+              "label": "I have been a part of a crew and can work the jib sheet under instruction.",
+              "dialog_text": "The youth member should demonstrate working as a team with their crew and managing the jib sheet under instruction."
+            },
+            {
+              "id": "interpret_navigation_marks_b1451c",
+              "type": "verifiable_checkbox",
+              "label": "I can interpret navigation marks and know how to maintain a lookout.",
+              "dialog_text": "The youth member should be able to interpret navigation marks on nautical maps and on the water, and know how to maintain a lookout for other vessels to avoid risk of collision, stranding and other hazards."
+            },
+            {
+              "id": "wind_tide_swell_edbd1d",
+              "type": "verifiable_checkbox",
+              "label": "I understand the effect of wind, tide, swell and ocean floors on sailing conditions and adapt my activities to suit.",
+              "dialog_text": "The youth member should be able to demonstrate understanding by discussing the effect of wind, tide, swell and ocean floors on sailing conditions. Additionally, they should act in accordance with the weather conditions when on their sailing activities."
+            },
+            {
+              "id": "capsize_training_b1451c",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in three capsize training drills, at least one in deep water.",
+              "dialog_text": "The youth member should safely capsize their small sailboat while sailing. They can do this by leaning to one side until the craft capsizes, ensuring they keep hold of their craft and signal for help. They should then, with assistance, right their sailboat and climb back on board. They will need to write these rescue training drills in their logbook, indicating where they did them, who they were with and what the weather conditions were like as well as anything else that was memorable. This should be done under direct supervision from a skilled adult sailor."
+            },
+            {
+              "id": "anchor_boat_edbd1d",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted with anchoring a small boat.",
+              "dialog_text": "The youth member should assist a Scout with the anchoring of a small sailboat."
+            },
+            {
+              "id": "communication_methods_b1451c",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated methods to communicate effectively with other crew members.",
+              "dialog_text": "The youth member should establish a communication method with the crew of their sailboat and with the other boats in their activity. They should then demonstrate understanding of these agreed communication methods, by using them during the activity."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "identify_improve_sailing_skills_4d0bff",
+              "type": "verifiable_checkbox",
+              "label": "I can identify where I have begun to improve my sailing skills, and where I would like to further improve.",
+              "dialog_text": "The youth member should discuss with their Patrol or Unit the sailing activities they have participated in at this stage and identify where they can improve their skills and the activities for next time."
+            },
+            {
+              "id": "checked_equipment_damaged_repaired_replaced_4d0bff",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should demonstrate a gear inspection after their activity. This is best as a visual inspection of their sailboat and PFD. They should be looking for cracks or holes. If there is anything that needs repairing or replacing, they should discuss it with the leader-in-charge of the equipment. They should also ensure that they pack away and store their equipment according to maintenance procedures to increase the life of the sailboat."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

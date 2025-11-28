@@ -1,0 +1,111 @@
+---
+sourceUrl: file://resources/templates/vertical/canyoning/stage-7.json
+stream: vertical/canyoning
+stage: 7
+version: 1
+lastFetchedAt: 2025-11-28T02:12:21.357Z
+checksum: c001c17d0cee896376a6ed135d643affbb2a438050eed06fed25fc7915b004d4
+---
+
+# Stage 7 - Vertical / Canyoning
+
+## Plan>
+
+### I have completed Stage 5 and below of the 3 Core Outdoor Adventure Skills.
+
+The youth member will need to have completed Stage 5 and below of Bushcraft (survival skills), Camping and Bushwalking.
+
+
+### I can pack for a day canyon trip which I will be the party leader for.
+
+The youth member should know what is required to be packed for a canyoning activity, taking into consideration the location and itinerary for the activity. The youth member will also need to take into consideration items which will be needed for their party such as additional water, first aid items, specialised equipment for the activity etc.
+
+
+### I have learnt two more knots that have application in a rescue situation, since Stage 5.
+
+The youth member should already know how to tie an Alpine Butterfly, Figure of 8 re-threaded, Double Fisherman’s, Tape and a Prusik knot, as well as the two additional knots they learned in Stage. The youth member needs to ensure they still can tie these knots and choose an additional two knots to learn at this Stage. Options could be Munter hitch, French Prusik, Klemheist, or any other knots applicable to rescue situations in a canyon.
+
+
+### I can plan and lead a two-day canyoning trip, including site selection, camp selection and group requirements, taking into consideration organisational policies and rules, with mentoring by a qualified person.
+
+The youth member should plan and take primary leadership, which includes responsibility and risk management for the canyoning trip. The youth member will need to take into consideration their State and local Government regulations and the Australian Adventurous Activity Standards. The youth member will need to have their plan reviewed and supervised by a highly skilled canyoner.
+
+
+### I have assisted a Stage 5 Scout with their requirements and needs for completion of Stage 5 Canyoning.
+
+The youth member will need to assist a Stage 5 Scout in canyoning, and discuss with them their competencies for Stage 5 and assist them where they need help. This may see the youth member acting as a Mentor for the Stage 5 Scout.
+
+
+### I have set up multiple canyon abseils and climbs using a variety of anchors and on a variety of cliff faces varying in height and difficulty.
+
+The youth member will need to demonstrate at least five full abseiling set-ups in a canyon, using safe anchors, appropriate belay system and correct knots, and ensure that a skilled canyoner has checked their set up before the youth member tests the lines. The youth member should note it in their log and ensure the skilled canyoner is detailed as the verifier.
+
+
+### I know if I need to engage with authorities before commencing a canyoning activity.
+
+The youth member should demonstrate awareness and an understanding when they would need to engage with authorities before canyoning, such as landowners, national parks, and based on Scouting policies notification of parents and Group Leaders etc.
+
+
+## Do>
+
+### I can apply correct body position in moving water to minimise the potential for foot entrapment.
+
+The youth member will need to demonstrate how to correctly move in flowing water (this might be in mock situation or in a canyon with flowing medium paced water in Australian conditions) to minimise risk of entrapment.
+
+
+### I can assist in the organisation of a canyon skills day which includes water rescue techniques practice.
+
+The youth member should assist a skilled canyoner in organising a canyoning skills day including rescue practice in flowing canyon water. The youth member should note it in their log and ensure the skilled canyoner is detailed as the verifier.
+
+
+### I have demonstrated climbing techniques on an exit route from a canyon.
+
+The youth member will need to exit a canyon by using suitable and safe climbing techniques. They should note it in their log and ensure a skilled canyoner is detailed as the verifier.
+
+
+### I have been involved in vertical rescue drills that include self-rescue and two rescues of others including raising, lowering and a mechanical advantage system.
+
+The youth member needs to complete and log their canyoning rescue drills indicating that they have undertaken these skills. The youth member should also include in their log where they did the activities, who they did them with and what skills they learnt.
+
+
+### I have established a suitable communication system for participants to use while canyoning.
+
+The youth member should establish and demonstrate the communication calls between the abseiler and the belayer during their canyoning activity. The youth member will need to consider the type of cliff, water flow, drop and what equipment they have access to.
+
+
+### I have demonstrated attachment to an alternate belay or safety system when self-belaying to maintain safety in the event of a fall.
+
+The youth member will need to demonstrate transferring from one belay to another while keeping safe (attached) to rope at all times. It is likely this still will be needed in confined spaces/ multi-pitch activities and therefore the youth member will need to develop this knowledge and skill in Stage 7 for use in Stages 8 and 9.
+
+
+### I have been the party leader on a canyoning trip.
+
+The youth member should demonstrate their leadership and navigational skills in a canyon during a canyoning trip. throughout all stages of planning, participating and reviewing. They will also need to demonstrate looking after the wellbeing of the group throughout the entire trip experience including the post trip review.
+
+
+### I have completed 18 canyons by the completion of Stage 7 with ten of them being different.
+
+The youth member needs to complete and log 18 canyoning activities, with a minimum of 10 different canyons. The youth member should include in their log when they did the activities, where they did the activities, who they did them with, the height of the climbs involved and if applicable the grade of the canyon.
+
+
+### I have established the abseiling ropes and belays for a canyoning trip at this Stage.
+
+The youth member will need to demonstrate establishing all abseiling lines and belays for a canyoning trip during Stage 7. This could be in conjunction with another 'I' statement like being a party leader for a Canyon or as a standalone. The weather, length of session and experience of the group should be taken into consideration when choosing to complete this statement.
+
+
+## Review>
+
+### I can provide feedback to my patrol of Scouts on how we could improve our canyoning expeditions in the future, considering risk management, safety, equipment management, location selection, level of difficulty, training, etc.
+
+The youth member will need to provide feedback to their Patrol that is suggested in the 'I' statement.
+
+
+## Verify
+
+### My logbook is up to date at the end of this stage.
+
+
+### Upload supporting documents
+
+_Each file should be less than 10MB in size._
+

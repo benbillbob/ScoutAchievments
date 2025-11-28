@@ -1,0 +1,136 @@
+{
+  "template": "oas/paddling/canoeing/white-water-rafting/8",
+  "meta": {
+    "stage": 8,
+    "stream": "white-water-rafting"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - White water rafting",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "teach_pack_whitewater_canoe_bc7f99",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another youth how to pack for a rafting expedition.",
+              "dialog_text": "The youth member should know what is required to prepare for a whitewater rafting expedition based on their 'I' statements from Stages 1-7. The youth member should be able to effectively pass this knowledge on to another Scout, working on a lower Stage. If it has been a while since the youth member prepared for a white water rafting expedition, they should brush up on their skills and look back on their previous activity reviews. The youth member will know if they are successful in their teachings if that Scout is able to demonstrate preparing for a whitewater rafting expedition."
+            },
+            {
+              "id": "teach_plan_raft_trip_ba26ee",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another youth how to plan a rafting trip in unfamiliar territory using the appropriate tools.",
+              "dialog_text": "The youth member should know what is required to plan for a whitewater rafting activity based on their 'I' statements from Stages 1-7. The youth member should be able to effectively pass this knowledge on to another Scout, working on a lower stage. If it has been a while since the youth member planned a whitewater rafting activity they should look back on their previous activity plans. The youth member will know if they are successful in their teachings if that Scout is able to demonstrate successfully planning a whitewater rafting activity."
+            },
+            {
+              "id": "organise_instructional_session_basic_skills_raft_61ab57",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted in the organisation of an instructional session to teach younger Scouts basic rafting skills.",
+              "dialog_text": "The youth member's rafting activity and teaching session should be based on the needs of the group. This is likely to include skills such as entering/exiting the raft safely, people placement in the raft, support strokes, paddling for rafting and staying upstream when capsizing."
+            },
+            {
+              "id": "improve_group_equipment_2fd813",
+              "type": "verifiable_checkbox",
+              "label": "I can make recommendations to improve group equipment in a whitewater environment.",
+              "dialog_text": "The youth member should be able to use their experience and knowledge gained over the last 7 Stages to recommend improvements to the groups whitewater expedition equipment based on their needs and the objectives of the activities planned."
+            },
+            {
+              "id": "mechanical_advantages_whitewater_environment_d4cb31",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the uses of mechanical advantages systems in whitewater environments.",
+              "dialog_text": "The youth member should be able to identify a situation which requires the use of a mechanical advantage and then determine which type of system is required. The youth member could use z drags, pig-rigs vector pulls, 3:1 ratio or even 4:1 ratios. It may be worth the youth member practicing the different types on land to see how they work."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "inspect_rapid_raft_6237f5",
+              "type": "verifiable_checkbox",
+              "label": "I can inspect a rapid to determine the best lines for running it.",
+              "dialog_text": "The youth member should demonstrate the ability to read the rapids ahead and then communicate them with their Patrol and safely navigate through the rapids."
+            },
+            {
+              "id": "recognise_rapid_beyond_skill_level_raft_6237f5",
+              "type": "verifiable_checkbox",
+              "label": "I can recognise a rapid that is beyond my skill level to run.",
+              "dialog_text": "The youth member should be able to recognise the different grades of rapids and from experience know their limitations."
+            },
+            {
+              "id": "rescue_capsized_loaded_raft_534643",
+              "type": "verifiable_checkbox",
+              "label": "I can rescue a capsized loaded raft and get the swimmers to safety.",
+              "dialog_text": "The youth member should have already demonstrated rescues in previous stages. They should now demonstrate how to deal with a loaded raft. The youth member will need to: \n * Assess and identify potential hazards and risks \n * Choose a rescue method suitable for the situation \n * Ensure they communicate with the group \n \nThe youth member should demonstrate this skill in a couple of different environments such as different grades of rapids or different weather conditions. \n \nThe youth member needs to log their rescues and ensure they include a description as to the conditions and what they did during the rescue."
+            },
+            {
+              "id": "whitewater_rescue_drill_mechanical_advantage_system_raft_5e37c6",
+              "type": "verifiable_checkbox",
+              "label": "I have been involved in a whitewater rescue drill which includes the use of a mechanical advantage system.",
+              "dialog_text": "The youth member should put into practice their skills to identify a situation which requires the use of a mechanical advantage. The rescue scenario could use z drags, pig-rigs vector pulls, 3:1 ratio or even 4:1 ratios. The youth member needs to log their rescue drill describing the methods used and the environment it occurred in."
+            },
+            {
+              "id": "port_raft_around_rapid_5e37c6",
+              "type": "verifiable_checkbox",
+              "label": "I can efficiently and safely port my raft around a rapid.",
+              "dialog_text": "The youth member should be able to demonstrate either carrying their raft over shallow rapids, or around the rapids depending on the situation and ensuring that they unload it if necessary."
+            },
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the OAS, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses."
+            },
+            {
+              "id": "6_days_whitewater_raft_grade_2_0791d6",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 6 days of whitewater rafting in Grade 2 water or above by the end of Stage 8.",
+              "dialog_text": "The youth member needs to complete and log at least 6 days of whitewater rafting by the end of this Stage. The youth member should include in their log when they did the activities, where they did the activities, who they did the activities with, the rivers' conditions and grade during the activities, and any additional rapid features."
+            },
+            {
+              "id": "establish_group_paddle_commands_raft_0791d6",
+              "type": "verifiable_checkbox",
+              "label": "I have established group paddling commands and have used these with a rafting group.",
+              "dialog_text": "The youth member should understand what the common paddling commands are and be able to effectively explain them to their rafting Patrol. The common commands are: \n * Paddle forward \n * Paddle backwards \n * Left back \n * Right back \n * Stop \n * High side \n * Lean in"
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "review_personal_whitewater_raft_performance_5728ef",
+              "type": "verifiable_checkbox",
+              "label": "I can review my own whitewater rafting performance and identify potential improvement.",
+              "dialog_text": "The youth member may film themselves practicing skills such as strokes or rescues and identify through the video and others feedback skills they can improve on. The youth member will likely know areas where they can improve."
+            },
+            {
+              "id": "provide_instruction_feedback_raft_5728ef",
+              "type": "verifiable_checkbox",
+              "label": "I can provide instruction and feedback to a Patrol of Scouts who are planning to experience whitewater rafting.",
+              "dialog_text": "The youth member will need to provide guidance on the Patrol's skills and readiness to engage in whitewater activities."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

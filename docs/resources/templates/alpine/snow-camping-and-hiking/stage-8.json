@@ -1,0 +1,124 @@
+{
+  "template": "oas/alpine/snow-camping-and-hiking/8",
+  "meta": {
+    "stage": 8,
+    "stream": "snow-camping-and-hiking"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Snow camping and hiking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "stick_important_trails_outdoors_f3caf1",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another Scout how to plan an overnight snow camp or hike in unfamiliar territory, using the appropriate tools.",
+              "dialog_text": "The youth member needs to demonstrate they know what is required to plan for an overnight snow camp/snowshoe tour based on their 'I' statements from Stages 1-7. They should be able to effectively pass this knowledge on to another Scout, working on a lower stage. \n \nThe youth member will know if they are successful in their teachings when that Scout is able to demonstrate successfully planning an overnight snow camp."
+            },
+            {
+              "id": "system_buddy_ba85fd",
+              "type": "verifiable_checkbox",
+              "label": "I can make recommendations to improve group equipment.",
+              "dialog_text": "The youth member is required to use their experience and knowledge gained over the last seven (7) stages to recommend improvements to the groups snowshoeing and snow camping expedition equipment, based on their needs and the objectives of the activities planned."
+            },
+            {
+              "id": "activities_stop_lost_70951a",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt additional information on how weather and snow conditions will affect my trip and have shared this with my activity Patrol.",
+              "dialog_text": "The youth member is required to research to extend their current knowledge on weather and snow conditions and share their learnings with their patrol. They should always be checking the likely weather conditions when initially drafting their plan, two weeks out, one week out and just before their activity. They also need to demonstrate reading changes in weather while on any snowshoeing or snow camping trips."
+            },
+            {
+              "id": "address_emergency_location_87d20a",
+              "type": "verifiable_checkbox",
+              "label": "I can plan appropriate food & drinks to meet the energy requirements of snow based activities.",
+              "dialog_text": "The youth member needs to plan, for a project patrol, food and drink requirements for an upcoming snowshoeing or snow camping journey, taking into consideration proposed weather, terrain, group experience and their normal food and drink requirements and apply these needs to an alpine activity."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "sleeping_reasons_outdoors_shelter_b19b55",
+              "type": "verifiable_checkbox",
+              "label": "I can carry out field repairs on snowshoes in snow conditions.",
+              "dialog_text": "The youth member should have a small repair kit in their pack to carry out emergency field repairs in case things get broken. They should design their kit, taking into consideration their personal gear and resources and carry what they need to do the repairs."
+            },
+            {
+              "id": "strike_match_cd933c",
+              "type": "verifiable_checkbox",
+              "label": "I have led a multi-night snow camp or snowshoeing activity.",
+              "dialog_text": "The youth member needs to have led a multi-night snowshoeing and/or snow camping journey at this stage. They should be entering this in their log, detailing their location, environmental conditions and who they were with."
+            },
+            {
+              "id": "collect_campfire_preparing_sticks_1e52d8",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the Outdoor Adventure Skills, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses."
+            },
+            {
+              "id": "safe_around_campfire_14dccc",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a less experienced Scout in advancing their skills on three of the requirements from Stage 6 or below.",
+              "dialog_text": "The youth member is required to mentor Stage 6 or below Scouts by sharing knowledge and demonstrating how to perform certain skills that they need development in."
+            },
+            {
+              "id": "basic_skills_participated_navigational_game_4c1dfe",
+              "type": "verifiable_checkbox",
+              "label": "I have tried to construct an igloo or snow cave with my activity Patrol to fit the Patrol.",
+              "dialog_text": "The youth member needs to demonstrate the construction of an igloo or snow cave, taking into consideration the risks associated with this activity, especially if they are planning to stay and cook in their igloo or cave."
+            },
+            {
+              "id": "hitch_camp_clove_knot_clothesline_hang_45aa25",
+              "type": "verifiable_checkbox",
+              "label": "I have completed 15 days of snow camping and snowshoeing by the completion of Stage 8.",
+              "dialog_text": "The youth member is required to have participated in at least 15 days of snow camping and snowshoeing by the end of this stage. They need to log their activities and include their role in the activity (did they participate, assist or lead), the skills demonstrated, where they did their activities, who they were with and what they learned during the trips. They could also include photographs of their trips."
+            },
+            {
+              "id": "ropes_pack_away_correctly_2f91f1",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a low visibility snow walk activity, such as at night time or in a snow storm, demonstrating appropriate techniques including leapfrogging.",
+              "dialog_text": "The youth member should have participated in an activity in low visibility, where they would need to use appropriate navigational techniques. They should log this activity and indicate what they did, what conditions were and who they were with. They should practice the appropriate skills before doing this activity."
+            },
+            {
+              "id": "mess_camp_keep_dilly_bag_clean_kit_225246",
+              "type": "verifiable_checkbox",
+              "label": "I have appropriately led a response to a real or mock incident and completed a post-incident report.",
+              "dialog_text": "The youth member should plan and lead a response to a mock emergency or incident. Scouts working on Stage 7 need to participate in a rescue skills development day so they should involve them in their scenario, if possible. They should complete their post-incident report and provide it to their mentor for review."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "talk_improved_learnt_playing_enjoyed_navigational_game_c43b94",
+              "type": "verifiable_checkbox",
+              "label": "I have mentored other Scouts by supporting them to experience alpine adventures and understand the benefits of completing a logbook entry for their alpine adventures.",
+              "dialog_text": "The youth member should determine who is interested in alpine adventures and involve them in activities they plan. They should also show them their logbook, talk about the adventures and explain the importance of keeping a log, which is not only as evidence of their skills and experiences but also a reminder of the amazing adventures they have been on."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

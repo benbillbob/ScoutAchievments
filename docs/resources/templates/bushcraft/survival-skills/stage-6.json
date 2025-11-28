@@ -1,0 +1,130 @@
+{
+  "template": "oas/bushcraft/survival-skills/6",
+  "meta": {
+    "stage": 6,
+    "stream": "survival-skills"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 6 - Survival skills",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "clothing_principles_of_controls_understand_use_body_temperature_c1d533",
+              "type": "verifiable_checkbox",
+              "label": "I understand the principles of body temperature controls and the use of clothing.",
+              "dialog_text": "The youth member's response should be relevant to the types of environments their Unit undertakes trips in. \n \nLayering is incredibly important. An important mantra to remember is that 'if you are not at one stage of the activity wearing all of your clothes, then you have brought too many'. \n \nIt is important to bring appropriate clothing that will retain enough heat when it is cold, and release plenty of heat during  warm times. Furthermore, clothing and layers should be designed to combat wind chill/the damage caused by long term exposure to wind, while still being breathable so that the the youth member does not sweat lots during the activity."
+            },
+            {
+              "id": "assisted_impact_principles_of_minimal_planning_consideration_choosing_e3bb05",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted in the planning of a survival camp taking into consideration minimal impact principles and land management regulations when choosing a campsite.",
+              "dialog_text": "The youth member should assist in planning a survival camp of at least one night out, in survival conditions. If they are a Sea Scout, they may plan a survival camp as a marine activity and substitute a makeshift raft which they have constructed as part of the camp instead of a campsite."
+            },
+            {
+              "id": "without_electronic_four_means_searchers_signal_send_different_b85458",
+              "type": "verifiable_checkbox",
+              "label": "I know how to send a signal for help (without any electronic means) in four different ways that can be observed by air searchers.",
+              "dialog_text": "The youth member should research and plan equipment for four of the following signalling methods: \n * Mirror \n * Fire/smoke signals \n * Semaphore \n * International distress signs"
+            },
+            {
+              "id": "different_of_techniques_knowledge_search_ground_460e61",
+              "type": "verifiable_checkbox",
+              "label": "I have knowledge of different ground search techniques.",
+              "dialog_text": "The youth member could research and have knowledge of some of the following Search and Rescue techniques: \n * Grid Search \n * Choke Point Search \n * Containment Search"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "flint_light_means_only_steel_using_friction_mechanical_38ef96",
+              "type": "verifiable_checkbox",
+              "label": "I can light a fire using only mechanical means (flint and steel or friction).",
+              "dialog_text": "The youth member should be able to light a fire by mechanical means which includes the use of a constructed bow drill/bow press/etc using natural or artificial materials so long as the youth member still solely uses friction and their personal action to create the fire. \n \nIt may be useful to spend time looking at YouTube videos, books in a local library, or talking to subject matter experts to fully grasp the concepts surrounding friction based fire lighting."
+            },
+            {
+              "id": "bearings_determine_map_resection_using_back_triangulation_position_fad509",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to determine my position on a map using back bearings and triangulation or resection.",
+              "dialog_text": "The youth member should be able to determine their position with a reasonable degree of accuracy. They may use a topographic map at a scale such as 1:25000 or 1:50000, with a compass."
+            },
+            {
+              "id": "kilometres_bearing_untracked_magnetic_using_3_compass_predetermined_b58663",
+              "type": "verifiable_checkbox",
+              "label": "I have navigated using a magnetic compass bearing (untracked) for 3 kilometres to a predetermined fixed point.",
+              "dialog_text": "The youth member should be able to navigate to a specific location over a distance of 3km using a map and a magnetic compass. 3km is a nominal distance which will reveal errors in compass bearings, where shorter distances will not have the same impact."
+            },
+            {
+              "id": "outdoors_impact_environment_minimal_others_focusing_activity_run_801895",
+              "type": "verifiable_checkbox",
+              "label": "I have considered the impact that myself and others have on the environment and have run an activity focusing on minimal impact when enjoying the outdoors.",
+              "dialog_text": "Guidance under development."
+            },
+            {
+              "id": "under_water_obtain_conditions_ways_survival_correctly_demonstrate_6b361a",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate two ways to correctly obtain water under survival conditions.",
+              "dialog_text": "The youth member should demonstrate two methods, which may include: \n * Digging a hole in a damp area \n * Creating a filter and filtering swamp/puddle water \n * Collecting transpiration moisture from vegetation \n * Constructing a solar still \n * Desalinating salt water \n \nPlease ensure it is purified appropriately prior to drinking. This should be via boiling or 6 hours in a clear container in the direct sun (The SODIS method)."
+            },
+            {
+              "id": "maintain_during_activity_equipment_care_survival_group_c71110",
+              "type": "verifiable_checkbox",
+              "label": "I know how to care for and maintain group equipment during a survival activity.",
+              "dialog_text": "The youth member should consider the survival equipment their group has and demonstrate care and maintenance of that equipment."
+            },
+            {
+              "id": "light_natural_materials_using_adverse_conditions_fire_9f0615",
+              "type": "verifiable_checkbox",
+              "label": "I can light a fire in adverse conditions using natural materials.",
+              "dialog_text": "The youth member will need to light and maintain a fire using flint and steel or a bow drill. \n \nAdverse conditions can include: \n * Heavy wind \n * Heavy rain \n * Heavy snow \n * Storm \n * Other adverse conditions depending on location. \n \nThe youth member could create mock adverse conditions to challenge themselves before they are caught out in a storm."
+            },
+            {
+              "id": "of_gear_stage_correct_maintenance_teach_4_survival_009332",
+              "type": "verifiable_checkbox",
+              "label": "I can teach the correct maintenance of survival gear to Scouts at Stage 4.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "lower_of_stage_given_presentation_experiences_survival_group_a69df1",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation about my survival experiences to a group of Scouts at a lower Stage.",
+              "dialog_text": "The presentation should cover different survival experiences that the youth member has led and assisted with. The aim of the presentation is to encourage those that watch it to be inspired to create some unique and exciting camps and activities. The youth member should also point out their learnings so the audience can be aware of some classic pitfalls when in survival situations."
+            },
+            {
+              "id": "shapes_skills_of_experiences_reflected_understanding_survival_this_5a2e43",
+              "type": "verifiable_checkbox",
+              "label": "I have reflected on my understanding of survival and survival skills and how this shapes my experiences.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

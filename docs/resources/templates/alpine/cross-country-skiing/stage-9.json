@@ -1,0 +1,124 @@
+{
+  "template": "oas/alpine/cross-country-skiing/9",
+  "meta": {
+    "stage": 9,
+    "stream": "cross-country-skiing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 9 - Cross country skiing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "first_aid_update_f11b15",
+              "type": "verifiable_checkbox",
+              "label": "I have kept my first aid qualifications up to date.",
+              "dialog_text": "The youth member needs to have kept their CPR and first aid qualifications current, by updating CPR annually and redoing their first aid course every three years or as required for their wilderness skill set."
+            },
+            {
+              "id": "extended_ski_trip_8d5be6",
+              "type": "verifiable_checkbox",
+              "label": "I can plan for an extended ski touring trip in a new and exciting location.",
+              "dialog_text": "Building on the knowledge and experience that the youth member has acquired in Stages 1-8, they now need to challenge themselves to plan an extended ski touring trip of four days or more in a new and exciting location. They should take into consideration route plan, transport, emergency contingency plans, participants, food and accommodation."
+            },
+            {
+              "id": "detailed_risk_management_c907a1",
+              "type": "verifiable_checkbox",
+              "label": "I can develop a detailed risk management plan for a ski tour involving challenging terrain for a period of four days or more including potentially dangerous weather hazards.",
+              "dialog_text": "The youth member will have done a detailed trip plan in Stage 7 and assisted Scouts in Stage 8 to plan overnight ski tours. They need to demonstrate further research and revision of their previous detailed risk management plans to include challenging terrain and dangerous weather hazards for a period of four (4) or more days."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "equipment_check_assist_838454",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a Stage 7 Scout or below to check equipment for working condition, safety and suitability, according to relevant legislation and manufacturer recommendations.",
+              "dialog_text": "The youth member is required to work with a Scout at Stage 7 or below to check their equipment and discuss the suitability and safety of it, according to the relevant legislation and manufacturer's recommendations."
+            },
+            {
+              "id": "ski_tour_challenging_terrain_c2ad8a",
+              "type": "verifiable_checkbox",
+              "label": "I can lead a ski tour involving challenging terrain for a period of four days or more.",
+              "dialog_text": "The youth member is required to put their planning into practice and lead a ski tour involving challenging terrain for a period of four (4) days or more. They should make sure they have a home base contact and have had their plan checked by a highly skilled cross country skier (depending on terrain and participants on the trip)."
+            },
+            {
+              "id": "towed_equipment_812e29",
+              "type": "verifiable_checkbox",
+              "label": "I have towed equipment to support a ski touring trip.",
+              "dialog_text": "The youth member must demonstrate being able to tow their equipment whilst cross country skiing. They could use a pulk, which is a specialised sled for pulling gear behind you or be resourceful and adapt a toboggan. They should also consider their equipment and the terrain they are skiing on as some gear can destroy groomed trails."
+            },
+            {
+              "id": "undertaken_20_days_6c6236",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 20 days of skiing by the end of Stage 9.",
+              "dialog_text": "The youth member is required to have participated in at least 20 days of ski touring by the end of this Stage. They should log their activities and include their role in the activity, the skills demonstrated, where did they do their skiing, who were they with and what they learned during the trips. They could also include photographs of their trips."
+            },
+            {
+              "id": "develop_ski_skills_ee3265",
+              "type": "verifiable_checkbox",
+              "label": "I have continued to develop my ski skills and can show two new ski skills that I have learned.",
+              "dialog_text": "The youth member needs to review the cross country skiing techniques that they are already familiar with and then research additional skills and techniques that they have yet to learn, and discuss these with their mentor."
+            },
+            {
+              "id": "safety_procedures_ski_touring_999768",
+              "type": "verifiable_checkbox",
+              "label": "I understand the risks and am able to implement appropriate safety procedures for ski touring in extreme alpine conditions.",
+              "dialog_text": "The youth member is required to discuss the risks, based on their detailed risk management plan, with their mentor and demonstrate implementation of the appropriate safety procedures for ski touring in extreme conditions."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "hang_knot_clothesline_clove_hitch_camp_faf098",
+              "type": "verifiable_checkbox",
+              "label": "I have identified potential areas of improvement for future skiing instructional sessions.",
+              "dialog_text": "The youth member is required to review the last time they gave instructions and assisted Scouts in learning cross country skiing, and identify where they can improve their instructional techniques."
+            },
+            {
+              "id": "correctly_ropes_pack_away_31aa9f",
+              "type": "verifiable_checkbox",
+              "label": "I can evaluate all aspects of skiing instructional sessions, and determine skill advancement for others and myself on future trips.",
+              "dialog_text": "The youth member needs to be able to determine how to further advance Scouts working on earlier stages and how they can advance their own skills through different skiing trips."
+            },
+            {
+              "id": "bag_mess_keep_dilly_clean_kit_camp_cb5a91",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts on the skills I have gained from completing the Alpine Outdoor Adventure Skills.",
+              "dialog_text": "The youth member's presentation needs to focus on an interesting, fun, challenging or unique aspect (or aspects) about the skills they have gained. It is recommended that a presentation is visual, exciting and inspiring, rather than a dreary or boring PowerPoint and speech. One aim should be to enthuse other Scouts to take up cross country skiing as a pursuit."
+            },
+            {
+              "id": "enjoyed_navigational_improved_playing_game_talk_learnt_9099d2",
+              "type": "verifiable_checkbox",
+              "label": "I have considered what I would like to do with the level of skill I have gained through the Alpine Outdoor Adventure Skills, and discussed it with a trusted mentor.",
+              "dialog_text": "The youth member should reflect on and consider what they would like to do with the level of skill they have gained throughout the Alpine Outdoor Adventure Skills Stages. \n \nThey could have a conversation with a mentor or friend to bounce their ideas off. Ideas could include a job in the industry, accrediting their youth program-developed skills through the Scouts Australia Institute of Training (SAIT), joining a ski club or helping out with a Scouting activities team to support more youth through the Outdoor Adventure Skills. It is their journey."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

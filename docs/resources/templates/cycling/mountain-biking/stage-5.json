@@ -1,0 +1,184 @@
+{
+  "template": "oas/cycling/mountain-biking/5",
+  "meta": {
+    "stage": 5,
+    "stream": "mountain-biking"
+  },
+  "version": 3,
+  "document": [
+    {
+      "title": "Stage 5 - Mountain biking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "two_sources_information_bike_selection_adasd3123",
+              "type": "verifiable_checkbox",
+              "label": "I know where two sources of information about bike selection can be gained and have looked into bike selection.",
+              "dialog_text": "The youth member should consider the following when choosing a bike. Bikes have different sizes. The stand over height, seat post height, geometry from the seat to the handlebars, and the clearance height of the bottom bracket to the ground are all things that that should be considered when choosing a bike. A local bike store will be very willing to talk to the Scout about how to find an appropriate bike fit."
+            },
+            {
+              "id": "identify_food_water_requirements_7dd5f4",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify food and water requirements for a day of mountain biking.",
+              "dialog_text": "The youth member needs to understand and plan their food and water requirements based on the type of activity they are doing, especially as mountain biking involves typically very large elevation changes through semi remote bush. It is therefore critical to be 100% certain of where and the Patrol/the youth member will be resupplied with water and food, or bring enough to last throughout the day (and additional safety water)."
+            },
+            {
+              "id": "environmental_route_selection_151129",
+              "type": "verifiable_checkbox",
+              "label": "I can select routes that minimise damage to the environment.",
+              "dialog_text": "The local Shire, Library or Council may have information regarding local wildlife and vegetation, local cycling paths through parks and community spaces, and where local Cycling services are located."
+            },
+            {
+              "id": "clean_bike_prevent_damage_72e204",
+              "type": "verifiable_checkbox",
+              "label": "I know how to clean a bike to prevent damage.",
+              "dialog_text": "The youth member should demonstrate an understanding about the importance of spending time so that they are able to clean and clear mud/muck out of their bike, on their own. Dirt, muck and mud can build up in hot spots on the bike, such as the bottom bracket and rear derailleur."
+            },
+            {
+              "id": "identify_mountain_biking_tools_parts_843150",
+              "type": "verifiable_checkbox",
+              "label": "I can identify mountain biking tools and spare parts.",
+              "dialog_text": "The youth member should know that there are many specialist tools that they might become familiar with at this stage. They should (maybe with assistance) be able to disassemble, clean, and reassemble their rear derailleur. Other complex operations should be able to be completed, such as replacing brake/gear cables, and spokes in a wheelset."
+            },
+            {
+              "id": "apply_lubrication_514",
+              "type": "verifiable_checkbox",
+              "label": "I can apply lubrication when required.",
+              "dialog_text": "The youth member should be able to demonstrate applying lubricating oils to bike parts in maintenance checks before riding a bike. A good way to learn this skill is through helping others."
+            },
+            {
+              "id": "adjust_tyre_pressure_38c514",
+              "type": "verifiable_checkbox",
+              "label": "I know how to adjust tyre pressure according to the terrain.",
+              "dialog_text": "The youth member should be able to explain that tyre pressure may need to be varied depending on the surface of the trails/path that they are riding on. The youth member could get assistance from a Stage 8 Scout to gain an understanding about what the change in tyre pressure is actually doing to the wheel, and what the positives and minuses of these air pressure changes are, as well as how different terrain can dictate ideal tyre pressure."
+            },
+            {
+              "id": "equipment_tether_feet_pedal_514",
+              "type": "verifiable_checkbox",
+              "label": "I know the benefits of equipment that tethers my feet to the pedal.",
+              "dialog_text": "The youth member should research and discuss the different ways to tether their feet to the pedals and the benefits associated with this."
+            },
+            {
+              "id": "requirements_additional_equipment_9415ee",
+              "type": "verifiable_checkbox",
+              "label": "I know different methods for carrying additional equipment on my mountain bike.",
+              "dialog_text": "The youth member should know how to pack equipment onto the bike in various ways and how that might affect their travelling speed. There are many online resources on YouTube and other websites that discuss packing options, but essentially it comes down to two options: Panniers or frame bags and other bike packing bags."
+            },
+            {
+              "id": "assisted_planning_mountain_biking_trip_c514",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted in planning a mountain biking trip.",
+              "dialog_text": "The youth member should assist in planning a mountain bike trip and will need to consider risk factors and complete a risk assessment. They should also consider the ability of their Patrol members and what the terrain, conditions will be."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "complete_Provide_First_Aid_60bd37",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "apply_smooth_timely_gear_changes_4349b6",
+              "type": "verifiable_checkbox",
+              "label": "I can apply smooth and timely gear changes and component lock outs across different terrain features.",
+              "dialog_text": "The youth member should demonstrate gear changes at appropriate times of the ride, when there is little or no pressure. This means that when going up a hill, or accelerating quickly with force, the gears should not be changed. Excess changing under force will wear the gears and chain, and reduce the life expectancy of the bike."
+            },
+            {
+              "id": "demonstrate_braking_techniques_811cc1",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated recommended braking techniques for downhill and cross-country conditions.",
+              "dialog_text": "The youth member should demonstrate the recommended braking techniques based on their bike braking system. Different braking techniques may be needed depending on the style of brake (drum, disc, V brake). Different weather conditions may also affect the appropriate braking requirements."
+            },
+            {
+              "id": "demonstrate_comfortable_cadence_wq0d7a",
+              "type": "verifiable_checkbox",
+              "label": "I can adopt a comfortable cadence for the terrain encountered.",
+              "dialog_text": "The youth member should demonstrate cadence and understand that this is an incredibly important skill over long distance riding, especially group riding. Having an appropriate cadence reduces the strain on joints and leg muscles, and improves cycling efficiency."
+            },
+            {
+              "id": "navigate_trails_efficient_cornering_fb0f46",
+              "type": "verifiable_checkbox",
+              "label": "I know how to navigate trails and apply efficient cornering techniques.",
+              "dialog_text": "The youth member should demonstrate efficient cornering techniques involve body position and foot positioning. Discuss this with a Scout working on Stage 7 or a Subject Matter Expert, and then spend time in an appropriate environment learning the skills by doing them!"
+            },
+            {
+              "id": "undertaken_five_days_mountain_biking_24e923",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least five days of mountain biking by the end of Stage 5.",
+              "dialog_text": "The youth member needs to complete 5 days of mountain biking at this Stage. A day is counted as 6 hours. They should include where they did the activities, who they did them with, what the weather conditions were like and any other interesting information about the activity."
+            },
+            {
+              "id": "replace_cable_4f0ac9",
+              "type": "verifiable_checkbox",
+              "label": "I can replace a cable.",
+              "dialog_text": "The youth member could get a Stage 7 Scout to provide guidance. They can do this in a workshop or if the youth member has more experience, they could do this out in the field."
+            },
+            {
+              "id": "fix_broken_chain_f17c9a",
+              "type": "verifiable_checkbox",
+              "label": "I can fix a broken chain.",
+              "dialog_text": "The youth member could get a Stage 7 Scout to provide guidance. They can do this in a workshop or if the youth member has more experience, they could do this out in the field."
+            },
+            {
+              "id": "day_exploring_bike_trail_hub_521059",
+              "type": "verifiable_checkbox",
+              "label": "I have spent a day exploring a mountain bike trail hub.",
+              "dialog_text": "The youth member should plan their day and research the many websites that have maps showing local trails. They can also go to their local shire and source information from them."
+            },
+            {
+              "id": "adjusted_body_weight_position_handling_50474e",
+              "type": "verifiable_checkbox",
+              "label": "I have adjusted my body weight and pedal position to assist in my handling across various terrain.",
+              "dialog_text": "The youth member should learn different body positioning techniques from multiple sources such as cycling clinics, Subject Matter Experts, experienced youth members, YouTube and other cycling websites."
+            },
+            {
+              "id": "assisted_stage_three_adjust_bike_740d7a",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted Stage 3 or below cyclists with how to test and adjust their bikes before a ride.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "mountain_bike_riding_journey_presentation_a530fa",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation about one mountain bike riding journey to my Unit.",
+              "dialog_text": "The youth member's presentation should be regarding an interesting, fun, challenging or unique aspect(s) about one of the rides that they have undertaken. Because of the nature of the adventurous activity, it is recommended that a presentation is very visual, exciting and inspiring, rather than a dreary or boring PowerPoint/speech."
+            },
+            {
+              "id": "record_maintenance_a530fa",
+              "type": "verifiable_checkbox",
+              "label": "I have recorded maintenance that I have done on my bike(s).",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

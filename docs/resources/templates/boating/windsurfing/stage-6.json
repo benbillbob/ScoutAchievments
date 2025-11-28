@@ -1,0 +1,106 @@
+{
+  "template": "oas/boating/windsurfing/6",
+  "meta": {
+    "stage": 6,
+    "stream": "windsurfing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 6 - Windsurfing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "demonstrate_full_understanding_local_racing_rules_9b6feb",
+              "type": "verifiable_checkbox",
+              "label": "I have and can demonstrate, a full understanding of the local racing rules.",
+              "dialog_text": "The youth member should approach a local club or competition and learn local racing rules for windsurfing and why they are in place."
+            },
+            {
+              "id": "undertsand_taken_action_hydration_ec1450",
+              "type": "verifiable_checkbox",
+              "label": "I understand and have taken the appropriate actions to maintain hydration.",
+              "dialog_text": "The youth member should be able to demonstrate an understanding by including the details of how much water and electrolytes they will be providing for themselves and their Patrol in their float plan"
+            },
+            {
+              "id": "understand_explain_air_dynamics_sail_968c07",
+              "type": "verifiable_checkbox",
+              "label": "I understand and can explain air dynamics on a sail.",
+              "dialog_text": "The youth member should be able to explain air dynamics on a sail and how it applies when windsurfing."
+            },
+            {
+              "id": "evaluate_local_sailing_hazards_e6d620",
+              "type": "verifiable_checkbox",
+              "label": "I can evaluate local sailing hazards.",
+              "dialog_text": "The youth member should be able to evaluate local sailing hazards using maritime maps, navigational charts and local knowledge of the area. Their risk assessment should include these hazards and mitigation strategies to reduce the possible risks."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "sail_all_points_windsurfer_variety_conditions_9c791e",
+              "type": "verifiable_checkbox",
+              "label": "I can sail all points of sailing on a windsurfer in a variety of conditions, knowing where to tack and gybe, use a harness and a beach start.",
+              "dialog_text": "The youth member should be able to demonstrate sailing their windsurfer in varying conditions and demonstrate tacking, using a gybe and harness as well as performing a beach start. They should write in their logbook when they have performed these skills and who was there to verify their skill. Photographs and video would be beneficial too as they can review the video and work out where they need to improve."
+            },
+            {
+              "id": "demonstrated_proper_steering_techniques_strong_wind_536406",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated proper steering techniques in stronger winds.",
+              "dialog_text": "The youth member should demonstrate correct steering techniques in moderate winds of 11 to 16 knots and fresh wind conditions 17 to 26 knots (Beaufort Scale)."
+            },
+            {
+              "id": "participated_windsurfer_rescue_4d3f6b",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a windsurfer rescue as both the rescuer and the one being rescued.",
+              "dialog_text": "The youth member should have already had some practice in Stage 5 demonstrating the correct procedures for self-rescue. In a mock rescue drill, they should be able to successfully rescue someone from a windsurfing scenario and in turn be rescued by someone. They should remember to log their rescue activity and noting what they did during the activity (Photos or video can be great evidence too)."
+            },
+            {
+              "id": "undertaken_10_days_sailing_4c7554",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 10 days of sailing by the end of Stage 6.",
+              "dialog_text": "The youth member needs to do ten (10) windsurfing activity days and ensure they are in their logbook. A day is counted as roughly 2-4 hours of activity time depending on conditions and skill of their Patrol. In their log they should include when they did the activity, where they did the activities, who they did it with, what the weather was like and any other interesting information about the activities."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "presentation_Stage_4_windsurfing_74d33d",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts in Stage 4 or lower on a windsurfing activity I have completed.",
+              "dialog_text": "The youth member's presentation should be around three to five minutes long and may be in person or as a pre-recorded video followed by questions. \n \nThe content of the reflection is at their discretion and the purpose of the presentation is to encourage younger Scouts to become excited about windsurfing opportunities."
+            },
+            {
+              "id": "correct_maintenance_windsurfing_equipment_74d33d",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the correct maintenance of windsurfing equipment following the conclusion of a windsurfing activity.",
+              "dialog_text": "The youth member should demonstrate correctly cleaning, storing and maintenance of gear after their windsurfing activity. If any equipment is damaged they should ensure it is reported to their adult Leader."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

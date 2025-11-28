@@ -1,0 +1,142 @@
+{
+  "template": "oas/paddling/canoeing/canoeing/8",
+  "meta": {
+    "stage": 8,
+    "stream": "canoeing"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Canoeing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "teach_pack_whitewater_canoe_bc7f99",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another youth member how to pack for a canoeing whitewater expedition.",
+              "dialog_text": "The youth member should know what is required to prepare for a whitewater canoe expedition based on their 'I' statements from Stages 1-7. The youth member should be able to effectively pass this knowledge on to another Scout, working on a lower stage. If it has been a while since the youth member prepared for a whitewater canoe expedition, they should brush up on their skills and look back on their previous activity reviews. The youth member will know if they are successful in their teachings if that Scout is able to demonstrate preparing for whitewater canoe expedition."
+            },
+            {
+              "id": "teach_plan_canoe_trip_ba26ee",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another youth how to plan a canoe trip in unfamiliar territory using the appropriate tools.",
+              "dialog_text": "The youth member should know what is required to plan for a canoe activity based on their 'I' statements from Stages 1-7. The youth member should be able to effectively pass this knowledge on to another Scout, working on a lower stage. If it has been a while since the youth member planned a canoe activity they should look back on their previous activity plans. The youth member will know if they are successful in their teachings if that Scout is able to demonstrate successfully planning a whitewater canoe activity."
+            },
+            {
+              "id": "organise_instructional_session_basic_skills_canoe_61ab57",
+              "type": "verifiable_checkbox",
+              "label": "I have led in the organisation of an instructional session to teach other Scouts basic canoe skills.",
+              "dialog_text": "The youth member should be involved in drafting a plan in order to teach basic canoe skills to Scouts. The youth member's canoe activity and teachings should be based on the group needs and the youth member should ensure they have another skilled canoer look over their plans."
+            },
+            {
+              "id": "improve_group_equipment_2fd813",
+              "type": "verifiable_checkbox",
+              "label": "I can make recommendations to improve group equipment in a whitewater environment.",
+              "dialog_text": "The youth member should be able to use their experience and knowledge gained over the last 7 Stages to recommend improvements to the groups whitewater expedition equipment based on their needs and the objectives of the activities planned."
+            },
+            {
+              "id": "mechanical_advantages_whitewater_environment_d4cb31",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the uses of mechanical advantages systems in white water environments.",
+              "dialog_text": "The youth member should be able to identify a situation which requires the use of a mechanical advantage and then determine which type of system is required. The youth member could use z drags, pig-rigs vector pulls, 3:1 ratio or even 4:1 ratios. It may be worth the youth member practicing the different types on land to see how they work."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "recognise_rapid_beyond_skill_level_canoe_6237f5",
+              "type": "verifiable_checkbox",
+              "label": "I can recognise a rapid that is beyond my skill level to run.",
+              "dialog_text": "The youth member should be able to recognise the different grades of rapids and from experience know their limitations."
+            },
+            {
+              "id": "cutting_eddies_currents_canoe_534643",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate cutting into an eddy in slow to medium flowing water in my canoe.",
+              "dialog_text": "The youth member need to demonstrate cutting into an eddy from slow to medium flow water. If demonstrated correctly the youth member will not capsize their canoe and all members of their canoe and other boats will remain safe and injury free during this task."
+            },
+            {
+              "id": "swimmers_to_safety_whitewater_environment_a1cdea",
+              "type": "verifiable_checkbox",
+              "label": "I can get swimmers to safety in a white water environment.",
+              "dialog_text": "The youth member should demonstrate in a rescue scenario the ability to get a swimmer to safety in a whitewater environment. The youth member should demonstrate: \n * Using a throw rope or bag to then tow them to safety \n * Swimming in moving water to find, rescue and tow a patient out of harms way"
+            },
+            {
+              "id": "whitewater_rescue_drill_mechanical_advantage_system_canoe_5e37c6",
+              "type": "verifiable_checkbox",
+              "label": "I have been involved in a white water rescue drill which includes the use of a mechanical advantage system and rescuing a capsized loaded canoe.",
+              "dialog_text": "The youth member should put into practice their skills to identify a situation which requires the use of a mechanical advantage. The rescue scenario could use z drags, pig-rigs vector pulls, 3:1 ratio or even 4:1 ratios. The youth member needs to log their rescue drill describing the methods used and the environment it occurred."
+            },
+            {
+              "id": "explain_responsibilities_leader_whitewater_edeb19",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the responsibilities of a trip leader in a whitewater environment.",
+              "dialog_text": "The youth member should be able to explain to their Patrol what their responsibilities as a trip leader are. This should include the planning, doing and reviewing of the activity. The Patrol should understand additional responsibilities of the trip leader and know how they can assist the trip leader with tasks."
+            },
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the OAS, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses."
+            },
+            {
+              "id": "support_monitor_improve_stroke_0791d6",
+              "type": "verifiable_checkbox",
+              "label": "I have, whilst paddling, supported a less experienced Scout to monitor and improve their stroke techniques.",
+              "dialog_text": "The youth member will need to, while paddling their canoe, give feedback to other Scouts on their paddle strokes including paddle placement, persons position and handling of paddle to support them in improving their strokes."
+            },
+            {
+              "id": "3_days_whitewater_canoe_grade_2_0791d6",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least three days of whitewater paddling in Grade 2 water or above by the end of Stage 8.",
+              "dialog_text": "The youth member needs to complete and log at least 3 days of whitewater canoeing by the end of this Stage. The youth member should include in their log when they did the activities, where they did the activities, who they did them with, what the conditions were, the grade the rivers were and any additional rapid features."
+            },
+            {
+              "id": "led_skills_day_canoe_rescue_s91d6",
+              "type": "verifiable_checkbox",
+              "label": "I have led a skills day for canoeing including teaching other Scouts basic rescue techniques and strokes.",
+              "dialog_text": "The youth member needs to plan and lead a canoeing skills day for less experienced Scouts who are working between Stages 4 and 6. The skills day could include stroke development, rescue practise, planning for trip skills, reading weather skills. The youth member should use local District/Region communications to promote the day and they will need another skilled paddler to be, at minimum, remote support for the day."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "review_personal_whitewater_canoe_performance_5728ef",
+              "type": "verifiable_checkbox",
+              "label": "I can review my own whitewater canoeing performance and identify potential improvement.",
+              "dialog_text": "The youth member may film themselves practicing skills such as strokes or rescues and identify through the video and others feedback skills they can improve on. The youth member will likely know areas where they can improve."
+            },
+            {
+              "id": "provide_instruction_feedback_canoe_5728ef",
+              "type": "verifiable_checkbox",
+              "label": "I can provide instruction and feedback to a Patrol of Scouts who are planning to experience whitewater canoeing.",
+              "dialog_text": "The youth member will need to provide guidance on the Patrol's skills and readiness to engage in whitewater activities."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "template": "oas/camping/5",
+  "meta": {
+    "stage": 5,
+    "stream": "camping"
+  },
+  "version": 3,
+  "document": [
+    {
+      "title": "Stage 5 - Camping",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "campsites_minimise_damage_environment_select_4f58f9",
+              "type": "verifiable_checkbox",
+              "label": "I can select campsites that minimise damage to the environment.",
+              "dialog_text": "The youth member should be able to select a campsite which has been used for camping before, or is a designated camping location. This is to ensure that impact on the site does not spread to pristine areas. \nIn wilderness/protected areas (such as a National Park), the campsite should be selected minimise damage to the environment and should have a short time period for use and a small amount of campers."
+            },
+            {
+              "id": "take_minimise_camping_actions_identify_hazards_possible_these_1c406e",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards with camping and I know how to take actions to minimise these risks.",
+              "dialog_text": "The youth member should be able to consider types of risks that relate to a camp setting including risks to Person, Equipment and Environment. The youth member then needs to be able to identify the ways to reduce or remove the risks which they have identified. With a Patrol work through if there are other risks that the youth member did not identify. Risks could include things such as: \n * Hygiene issues leading to sickness \n * Injury \n * Burns \n * Trips and falls \n * Breakage of tents \n * Other"
+            },
+            {
+              "id": "size_appropriate_location_of_group_water_plan_suitable_549286",
+              "type": "verifiable_checkbox",
+              "label": "I can plan suitable access to water, appropriate to the size of the group and location.",
+              "dialog_text": "The youth member should consider natural water sources, how to collect water while on camp, how much water may need to be brought with them, how to purify any water collected etc."
+            },
+            {
+              "id": "selection_camping_equipment_information_source_where_75752a",
+              "type": "verifiable_checkbox",
+              "label": "I know where to source information about camping equipment selection.",
+              "dialog_text": "Consider sources of information such as: \n * personal review and support for gear, \n * online reviews depending on what conditions you are using the product in, \n * blogs, \n * local adult Leaders and Subject Matter Experts. \n \nMake sure you get a cross section of reviews of the same product so as you know whether it will best suit your purpose or not. The youth member should run through this process to research an item they are interested in."
+            },
+            {
+              "id": "weather_activities_all_plan_conditions_bc6fa5",
+              "type": "verifiable_checkbox",
+              "label": "I know how to plan for activities in all weather conditions.",
+              "dialog_text": "Weather is consider an 'external risk'. That is, a factor which is at least partially outside of your control, no matter the preparation. Preparation could include: \n * looking at historical weather data of the area you will be camping in \n * making sure that your equipment, gear and clothing will mitigate as much of the weather expectations as possible. \n \nConditions include: \n * high rain \n * wind \n * storms \n * heat \n * snow \n * bushfire risk."
+            },
+            {
+              "id": "show_overnight_gear_camp_needed_personal_lightweight_81adb0",
+              "type": "verifiable_checkbox",
+              "label": "I can show the personal gear needed for an overnight lightweight camp.",
+              "dialog_text": "The youth member should go through a gear packing exercise where they can show all personal essential items for a lightweight camp/hike. Items that could be included are: \n * backpack/bag \n * sleeping bag \n * mat \n * tent \n * emergency equipment \n * boots \n * rain coat \n * clothes \n * cooker \n \nThe youth member should be able to explain why they need each item. This explanation could occur in many different ways."
+            },
+            {
+              "id": "camping_organisational_accordance_plan_policies_trip_a14643",
+              "type": "verifiable_checkbox",
+              "label": "I can plan a camping trip in accordance with organisational policies",
+              "dialog_text": "The youth member should consult Scouts Australia's Policy & Rules, and any Branch policy documents that may relate to camping or the type of camp the youth member wants to organise. The youth member should consider the personal and program needs of the members attending the camp they are organising."
+            },
+            {
+              "id": "cultural_environmental_heritage_of_planning_activities_significance_which_b3a520",
+              "type": "verifiable_checkbox",
+              "label": "I have investigated the cultural, environmental and heritage significance of the areas in which I am planning activities.",
+              "dialog_text": "The youth member should be encourage to conduct their own research into the area they plan to camp in. Multiple, varied and reputable sources should be used (for example; National Parks and Wildlife). \nThe youth member should be able to explain the cultural significance of the area they intend to camp in. They should also be able to explain if there are any significant environmental or heritage aspects to the area."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "first_including_aid_completed_cpr_course_provide_provider_9a6d1a",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed* a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "teach_scout_pack_another_camp_ed6d76",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another Scout what to pack for a camp.",
+              "dialog_text": "The youth member should consider the needs of the individual Scout, what stage they are at and what type of camp they are going on. This could be an activity with a Patrol or Unit or an individual and should be about guiding them, rather than doing the task for them."
+            },
+            {
+              "id": "demonstrate_human_minimising_dealing_food_solid_protect_camping_0734c3",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the appropriate measures for minimising and dealing with food waste, solid waste and human waste, to protect the environment while camping.",
+              "dialog_text": "The youth member should have a primary aim of reducing waste, with a secondary aim to manage the waste (it's easier to manage a smaller amount). Consider: \n * How can rubbish be cut down? \n * How can human waste be stored properly while on camp? \n * How can human waste be disposed of either during or after camp? \n * How can we best protect water sources from waste?"
+            },
+            {
+              "id": "demonstrate_including_local_fauna_of_trees_shade_best_4856b3",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the best layout for a campsite and explain my reasoning, including the type of ground, the position of trees, proximity to water, local fauna, shade and shelter.",
+              "dialog_text": "The youth member should go about designing a camp layout for a particular campsite they select. This could tie into a camping activity they are organising or could just be them planning a site to determine the best lay-out options. Consider: \n * How far away should tents be from water sources? \n * How far away should the toilet be? \n * Where is the fire located? \n * Which direction are tents facing? \n * What other structures are needed? \n * Where is other group gear stored?"
+            },
+            {
+              "id": "portable_3course_open_cook_stove_using_fire_oven_30ae12",
+              "type": "verifiable_checkbox",
+              "label": "I can cook a 3-course meal using a camp oven, portable hike stove or open fire.",
+              "dialog_text": "The youth member should be able to cook a 3-course meal at camp, including the Plan> for it beforehand and the Review> afterwards. The meal could include a combination of starter, entrée, main, dessert, and supper. Any combination is suitable as long as it fits the groups' needs. The youth member should cook for a minimum of a Patrol and should not be expected to cook for any more than a Unit depending on their abilities. They should take into consideration any dietary requirements of the group."
+            },
+            {
+              "id": "demonstrate_tents_damages_minor_repair_14b43b",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to repair minor damages to tents.",
+              "dialog_text": "The youth member should mend Group, Patrol or personal tents. This could be any repair job, depending on what the damaged tent component is, such as: \n * Fly \n * Base \n * Small holes \n * Seam seal \n * Tears or rips"
+            },
+            {
+              "id": "away_spent_16_of_camping_stage_nights_end_52000a",
+              "type": "verifiable_checkbox",
+              "label": "I have spent 16 nights away camping by the end of Stage 5.",
+              "dialog_text": "Through Stage 1 to the completion of Stage 5, the youth member will have spent a minimum of 16 nights camping in a tent on many different camping adventures."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "prepare_identified_made_cook_could_threecourse_next_camp_3808b1",
+              "type": "verifiable_checkbox",
+              "label": "I have identified improvements that could be made to a three-course meal for next time I prepare a menu and cook on camp.",
+              "dialog_text": "The youth member should review their Plan> and Do> components of their 3 course meal and consider things that could have been done better. This could be food selection, cooking times, quantity, taste etc. The youth member should include these Review> items into their next Plan>."
+            },
+            {
+              "id": "cultural_environmental_part_identified_of_been_impacts_activities_e05e72",
+              "type": "verifiable_checkbox",
+              "label": "I have identified cultural, historical or environmental impacts in the activities I have been a part of, and have identified ways to lessen these impacts.",
+              "dialog_text": "Through the identification of impacts, youth members need to consider their impact and note and/or communicate how they will Plan> and work towards minimising these impacts through future trips."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

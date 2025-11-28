@@ -1,0 +1,148 @@
+{
+  "template": "oas/alpine/downhill-skiing/5",
+  "meta": {
+    "stage": 5,
+    "stream": "downhill-skiing"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 5 - Downhill skiing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "core_5_outdoor_each_skills_of_adventure_stage_bae7ac",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 in each of the Core Outdoor Adventure Skills.",
+              "dialog_text": "The youth member will need to have completed Stage 5 and below in Bushcraft (Survival Skills stream), Bushwalking and Camping."
+            },
+            {
+              "id": "access_information_environmental_weather_relevant_interpret_sources_9448ce",
+              "type": "verifiable_checkbox",
+              "label": "I can access relevant sources to interpret weather and environmental information.",
+              "dialog_text": "The youth member should build on the skills they gained in Stage 3 Alpine, where they demonstrated how to get different weather forecasts. They should be able to interpret the weather and environmental information sourced to support planning their activities. They should demonstrate these skills for at least one skiing trip."
+            },
+            {
+              "id": "ski_resorts_defined_trails_follow_8e21e3",
+              "type": "verifiable_checkbox",
+              "label": "I follow defined trails on ski resorts.",
+              "dialog_text": "The youth member should describe why they should stay on defined trails and demonstrate this while skiing. They must provide evidence to their two-up peer for review or to another skilled skier on the trip."
+            },
+            {
+              "id": "alpine_action_within_associated_minimise_take_risks_identify_3f8489",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated within an alpine environment and I know how to take action to minimise these risks.",
+              "dialog_text": "The youth member should discuss identifying the difference between a hazard and a risk. They should provide a hazard assessment to do with (Australian) alpine environments and will need to account for: \n * Human hazards \n * Environmental hazards \n * Equipment hazards \n \nThey should include in their plan what steps they will take to minimise these hazards during an activity. They should consider the risks that may come from these hazards and how they will mitigate these on an activity. This step could be done as a Patrol or by an individual before a skiing trip, and should build on any risk mitigation that occurred in Stage 4."
+            },
+            {
+              "id": "equipment_location_safe_prepare_activity_transportation_441a07",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare equipment for safe transportation to an activity location.",
+              "dialog_text": "The youth member should be able to plan safe transportation of ski equipment, depending on where the activity will be and who will be going. This should be done for the whole activity and can be planned by a Patrol or individual depending on who is attending the activity and what stages they are working on."
+            },
+            {
+              "id": "ski_where_information_equipment_selection_find_appropriate_f2f593",
+              "type": "verifiable_checkbox",
+              "label": "I know where to find information about appropriate ski equipment selection.",
+              "dialog_text": "The youth member will need to research and list multiple sources of information on appropriate ski equipment selection for Australian conditions."
+            },
+            {
+              "id": "ski_layer_including_clothing_equipment_able_trip_pack_744d9d",
+              "type": "verifiable_checkbox",
+              "label": "I am able to pack the appropriate clothing and equipment for a weekend ski trip, including knowing how to layer clothing and select the right protective clothing.",
+              "dialog_text": "The youth member should pack for, and participate in, a two-day ski trip, where downhill skiing is the primary activity and objective. The two-day ski trip should include roughly four (4) to five (5) hours of skiing each day, staying in a campground or accommodation (ski chalet). This can be done over a two-day weekend, or over an extended period if travelling is easier."
+            },
+            {
+              "id": "area_signs_practices_safety_sport_minimal_skiing_responsibility_5c8e38",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the Alpine Responsibility Code, skiing practices, snow sport area signs and regulations and minimal impact codes to ensure safety and protection of the environment.",
+              "dialog_text": "The youth member should be able to explain and demonstrate the Alpine Responsibility Code, as well as the signage and regulations for the area where they are undertaking the activity."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "recognised_including_from_successfully_cpr_provide_provider_first_a97c7d",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed* a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "selected_good_equipment_working_order_checked_db595e",
+              "type": "verifiable_checkbox",
+              "label": "I have selected equipment and checked that it is in good working order.",
+              "dialog_text": "The youth member should select equipment and be able to discuss the reasons they chose that equipment, taking into consideration construction, design and environmental impact. They will need to check any equipment they are using to make sure it is in good working order."
+            },
+            {
+              "id": "balance_whilst_skiing_demonstrate_of_coordination_degree_movement_5a4783",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a degree of balance, movement and coordination whilst downhill skiing.",
+              "dialog_text": "The youth member should be demonstrating their improved skills to their two-up peer or other skilled skier for review. The youth member can demonstrate these skills either in person or they could video their skiing for review at a later time."
+            },
+            {
+              "id": "stance_while_skiing_adjust_body_increase_dynamics_a56a4d",
+              "type": "verifiable_checkbox",
+              "label": "I can adjust my body stance to increase my dynamics while skiing.",
+              "dialog_text": "The youth member should be demonstrating these skills while skiing and providing evidence to their two-up peer or other skilled skier for review. The youth member can demonstrate these skills either in person or they could video their skiing for review at a later time."
+            },
+            {
+              "id": "green_speed_runs_beginner_of_terrain_through_turns_ad9381",
+              "type": "verifiable_checkbox",
+              "label": "I can control my speed on beginner terrain (green runs) by traversing and through the shape of my turns.",
+              "dialog_text": "The youth member should demonstrate speed control to their two-up peer. The youth member can demonstrate these skills either in person or they could video their skiing for review at a later time."
+            },
+            {
+              "id": "basic_execute_beginner_terrain_intermediate_parallel_turns_1bff66",
+              "type": "verifiable_checkbox",
+              "label": "I can execute basic parallel turns on beginner to intermediate terrain.",
+              "dialog_text": "The youth member should demonstrate basic parallel turns on beginner to intermediate terrain to their two-up peer. The youth member can demonstrate these skills either in person or they could video their skiing for review at a later time."
+            },
+            {
+              "id": "whilst_skiing_personal_of_others_take_measures_safety_bf701c",
+              "type": "verifiable_checkbox",
+              "label": "I can take measures to guard my personal safety and the safety of others whilst skiing.",
+              "dialog_text": "The youth member should always consider their personal safety and the safety of others, taking into consideration the environment around them, their equipment and others they are with. They need to demonstrate this care and consideration on their ski trips."
+            },
+            {
+              "id": "skiing_continued_skills_of_develop_end_this_through_23741f",
+              "type": "verifiable_checkbox",
+              "label": "I have continued to further develop my downhill skiing skills through a minimum of six (6) days skiing by the end of this stage.",
+              "dialog_text": "The youth member should have completed at least six (6) days of downhill skiing by the end of this Stage. They should have logged their activities, including when they did the activities, where they did the activities, who they did them with, what the weather was like, and any other interesting information about the activity."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "improvements_potential_performance_review_own_identify_6ba3d3",
+              "type": "verifiable_checkbox",
+              "label": "I can review my own performance and identify potential improvements.",
+              "dialog_text": "The youth member should reflect on their performance and skills they have developed for this stage, identifying where they may be able to improve techniques or skills as they progress."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+    "template": "sia/scout/overview",
+    "version": 1,
+    "document": {
+        "title": {
+            "type": "plain_text",
+            "label": "Special Interest Areas"
+        },
+        "description": {
+            "type": "plain_text",
+            "label": "Special Interest Areas cover six categories that you may choose to explore. What are your interests? Set your own goals and then Plan>Do>Review> to complete a project!"
+        },
+        "empty_state": {
+            "type": "markdown_text",
+            "label": "Let’s create a Special Interest Area project!"
+        },
+        "info_box": {
+            "type": "markdown_text",
+            "label": "Complete 6 projects, each totalling at least 8 hours across at least 3 areas to achieve this requirement for your Australian Scout Award. \n \n####The Special Interest Areas are: \n * Adventure & Sport \n * Arts & Literature \n * Creating a Better World \n * Environment \n * Growth & Development \n * STEM & Innovation",
+            "links": [
+                {
+                    "path": "/resources/sia/scout/sia_prompters.pdf",
+                    "text": "About Special Interest Areas"
+                },
+                {
+                    "url": "https://pr.scouts.com.au/achievement-pathways/#sia",
+                    "text": "More resources"
+                }
+            ]
+        }
+    }
+}

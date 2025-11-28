@@ -1,0 +1,118 @@
+{
+  "template": "oas/boating/1",
+  "meta": {
+    "stage": 1,
+    "stream": "boating"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 1 - Boating",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "dress_myself_boating_trip_9347b1",
+              "type": "verifiable_checkbox",
+              "label": "I can dress myself for a boating trip.",
+              "dialog_text": "The youth member should be able to select appropriate clothing for the activity and the expected weather conditions. They should wear clothing that is fast drying and able to keep them warm when wet. Depending on the weather and season, layers of clothing are usually best or a long-sleeve activity shirt for sun protection, hat and closed toe-shoes are always appropriate."
+            },
+            {
+              "id": "explain_buddy_system_1305a5",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the buddy system.",
+              "dialog_text": "The youth member should be able to describe what the Buddy System is and how it works for a boating adventure."
+            },
+            {
+              "id": "understand_wear_PFD_b6ec21",
+              "type": "verifiable_checkbox",
+              "label": "I know what a PFD is and why I have to wear one when on a boat.",
+              "dialog_text": "The youth member should be able to explain the purpose of a PFD (Personal Floatation Device), and why they should wear one when on a boat."
+            },
+            {
+              "id": "understand_buddy_boat_capsize_65ab06",
+              "type": "verifiable_checkbox",
+              "label": "I know how to stay with my buddy and the boat if it tips over.",
+              "dialog_text": "The youth member should be able to explain how to keep hold of the boat if they are in the water, and how to keep a track of their buddy so they can help each other."
+            },
+            {
+              "id": "take_care_equipment_boating_trip_7f7fa0",
+              "type": "verifiable_checkbox",
+              "label": "I can take care of my equipment for the duration of a boating trip.",
+              "dialog_text": "The youth member will need explain how they would look after their equipment, which includes keeping their food and warm clothing dry, and any other personal belongings safe and with them. They should then demonstrate this on their boating adventure."
+            },
+            {
+              "id": "reef_knot_f76353",
+              "type": "verifiable_checkbox",
+              "label": "I can tie a reef knot.",
+              "dialog_text": "The youth member should be able to tie a reef knot and know what its purpose is when it comes to boating activities."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "swim_10_meters_PFD_d3c9a0",
+              "type": "verifiable_checkbox",
+              "label": "I can swim 10 meters with a PFD.",
+              "dialog_text": "The youth member should be able to swim 10 metres while correctly wearing their PFD."
+            },
+            {
+              "id": "explain_risks_weather_exposure_f447e5",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the risks of exposure to weather.",
+              "dialog_text": "The youth member should be able to discuss and demonstrate understanding of the risks of cold water, winds, hot conditions etc. while on the water."
+            },
+            {
+              "id": "get_in_out_watercraft_4c0767",
+              "type": "verifiable_checkbox",
+              "label": "I can get in and out of my watercraft safely.",
+              "dialog_text": "The youth member should demonstrate safely getting in and out of their watercraft without falling in or damaging anything."
+            },
+            {
+              "id": "participated_short_boating_adventure_1e3b44",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in a short boating adventure of at least one hour.",
+              "dialog_text": "The youth member should go on a boating adventure and practice basic techniques specific to their watercraft. They should demonstrate understanding of the buddy system and working as a team."
+            },
+            {
+              "id": "knowledge_bow_stern_9426be",
+              "type": "verifiable_checkbox",
+              "label": "I can show where the bow and stern are on a boat.",
+              "dialog_text": "The youth member should be able to demonstrate where the bow and stern are located on their watercraft and what bow and stern represents."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "discussed_enjoyed_participating_boat_trip_acdb47",
+              "type": "verifiable_checkbox",
+              "label": "I can talk about what I enjoyed by participating in a boating trip.",
+              "dialog_text": "The youth member should always review their adventures and should talk about their favourite thing from their boating trip with other Scouts or leaders."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

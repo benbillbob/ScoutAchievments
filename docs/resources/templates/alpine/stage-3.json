@@ -1,0 +1,142 @@
+{
+  "template": "oas/alpine/3",
+  "meta": {
+    "stage": 3,
+    "stream": "alpine"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 3 - Alpine",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "pack_snow_trip_daypack_cfc3ca",
+              "type": "verifiable_checkbox",
+              "label": "I can pack a daypack for a snow trip.",
+              "dialog_text": "The youth member should refer to what they have learned in Stage 1 for items they should have in their pack. The youth member should be able to pack a day pack (less than 30 litres) with personal items required for the day. This will vary according to weather and terrain, but should include: \n * food or snacks \n * drinking water \n * wet weather gear \n * warm clothing \n * sun protection \n \nThe youth member should be able to justify the inclusion or exclusion of different items. \n \nThe youth member should pack their items and consider weight distribution (heaviest items closest to the spine), waterproofing (with a plastic bag) and durability. \n \nThe youth member could provide guidance to a Stage 1 Scout when they are learning what to put in their pack."
+            },
+            {
+              "id": "where_will_different_weather_area_activity_snow_forecasts_60cd1e",
+              "type": "verifiable_checkbox",
+              "label": "I know how and where to get the different weather forecasts for the area I will be in for my snow activity.",
+              "dialog_text": "The youth member should include getting the latest weather forecast as part of their planning for snow activities. The most reliable online weather predictions come from the Bureau of Meteorology website. It is important to show the ability to navigate to credible sources of weather information. Do not forget to check individual state or territories' Department of Parks and Wildlife (or equivalent) for the most up to date information regarding extreme weather events that will be effecting local areas. Alpine-related forecasts may also be found on resort or National Parks sites. The youth member should demonstrate finding out the local forecast for an upcoming alpine activity."
+            },
+            {
+              "id": "effect_weather_of_explain_activities_alpine_9dae7a",
+              "type": "verifiable_checkbox",
+              "label": "I know and can explain the effect of weather on alpine activities.",
+              "dialog_text": "The youth member should demonstrate an understanding of the effects that a change in different elements of the weather in an Alpine area (e.g. wind, rain, snow and sun) may have. An example of this is how a change in wind direction may bring warmer or colder conditions quite suddenly. The youth member should also demonstrate how the Alpine environment may impact the changes in the weather."
+            },
+            {
+              "id": "dressing_understand_layering_snow_activities_principle_6613c1",
+              "type": "verifiable_checkbox",
+              "label": "I understand the layering principle when dressing for snow activities.",
+              "dialog_text": "The youth member should demonstrate their understanding through discussion on layering clothing based on the weather, and this should be evident when they undertake their activity."
+            },
+            {
+              "id": "balanced_plan_snow_activities_meal_63b4ff",
+              "type": "verifiable_checkbox",
+              "label": "I can plan a balanced meal for activities on the snow.",
+              "dialog_text": "The menu should cover a weekend alpine trip, assuming a Saturday morning start: \n * lunch x 2 \n * dinner x 1 \n * dessert x 1 (could also be supper or a midnight snack) \n * breakfast x 1 \n * drinks \n * snacks \n * emergency meal portion \n \nThe youth member should consider their activity levels and understand that in the cold they will want to be eating warm meals and hot drinks, where possible. Their menu should consider their location - are they able to go back to an alpine lodge for lunch or are they carrying all their food with them? The meals should be nutritious and support a lot of energy use and exercise."
+            },
+            {
+              "id": "compass_8_points_learnt_of_main_fce053",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt the 8 main points of a compass.",
+              "dialog_text": "The youth member should be able to discuss these points and then demonstrate this knowledge a few times to ensure it is a known skill, including degrees. \n * North - 0 degrees or 360 degrees \n * North East - 45 degrees \n * East - 90 degrees \n * South East - 135 degrees \n * South - 180 degrees \n * South West - 225 degrees \n * West - 270 degrees \n * North West - 315 degrees"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "aid_first_use_stands_situations_drsabcd_5596ed",
+              "type": "verifiable_checkbox",
+              "label": "I know what DRSABCD stands for and how to use it in first aid situations.",
+              "dialog_text": "The youth member needs to demonstrate their understanding of the steps of DRSABCD in a mock emergency situation. \n * D - Danger \n * R - Response \n * S - Send for help \n * A - Airway \n * B - Breathing \n * C - CPR \n * D - Defibrillation"
+            },
+            {
+              "id": "hypothermia_familiar_am_of_symptoms_signs_hyperthermia_75807b",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of hypothermia and hyperthermia.",
+              "dialog_text": "The youth member should be aware of the most common signs and symptoms. This could be learned through research. The youth member should be able to demonstrate an understanding of how they would minimise the changes of themselves and others getting hypothermia or hyperthermia."
+            },
+            {
+              "id": "this_downhill_snowshoeing_crosscountry_stage_skiing_snowboarding_sport_34171f",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in an alpine sport (e.g. downhill skiing, cross-country skiing, snowshoeing, snowboarding) at this Stage.",
+              "dialog_text": "The youth member should take part in, and log, an alpine sport activity of at least half a day in length. These should be in addition to the activities completed in Stage 2. For the purposes of this statement, half a day is the equivalent of three (3) hours. The record in the log should include: \n * when the activity occurred \n * where the activity was \n * who was part of the activity \n * what they learned during the activity"
+            },
+            {
+              "id": "journey_specialist_equipment_of_3_kilometres_least_snow_4b1d22",
+              "type": "verifiable_checkbox",
+              "label": "I have completed a journey of at least 3 kilometres using specialist snow equipment.",
+              "dialog_text": "The youth member should complete their journey and add the details to their log. The journey could be undertaken using snowshoes, cross-country skiing, downhill skiing or snowboarding."
+            },
+            {
+              "id": "demonstrated_basic_skills_activity_navigational_our_sport_alpine_ae6cf1",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated my basic navigational skills during our alpine sport activity.",
+              "dialog_text": "The youth member should be able to demonstrate basic navigational skills. They should be able to demonstrate the ability to orientate a map and follow a simple compass trail."
+            },
+            {
+              "id": "emergency_group_small_shelter_snow_built_0e3fa0",
+              "type": "verifiable_checkbox",
+              "label": "I have built an emergency shelter in the snow, with a small group.",
+              "dialog_text": "The youth member should build an emergency shelter in the snow with their Patrol. They will need to look at the resources available, including what they might be able to use that is around them as well as any survival equipment they have brought with them."
+            },
+            {
+              "id": "importance_1_scout_system_buddy_of_teach_stage_1e69dc",
+              "type": "verifiable_checkbox",
+              "label": "I can teach the importance of the buddy system to a Scout in Stage 1.",
+              "dialog_text": "The youth member should be able to teach a younger or less experienced Scout, who is currently working on Stage 1 Alpine, the importance of the buddy system and how it is there to keep them safe."
+            },
+            {
+              "id": "aid_basic_first_me_made_all_snow_activities_511343",
+              "type": "verifiable_checkbox",
+              "label": "I have made a basic first aid kit that I take with me on all snow activities.",
+              "dialog_text": "The youth member should put together a basic first aid kit that is specific to their chosen activity. They should be able to explain why they have chosen to put each item in their kit and how to use it. This kit should have the usual basic first aid supplies as well as alpine activity specific supplies including (but not limited to): \n * emergency space blanket, \n * bandages, \n * bandaids, \n * antiseptic cream, \n * wound covers, \n * tweezers, \n * sunscreen, and \n * lip balm"
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "our_safety_adventure_we_ways_improve_next_discussed_721550",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed with my Patrol ways we can improve safety for our next alpine adventure.",
+              "dialog_text": "The youth member should reflect on and review their activity. They should consider: \n * what went well? \n * what didn't go to plan? \n * what changes they might make if running this activity again? \n * how could this activity be more fun, challenging, adventurous and inclusive next time?"
+            },
+            {
+              "id": "skills_like_learn_identify_improve_would_alpine_sports_170453",
+              "type": "verifiable_checkbox",
+              "label": "I can identify alpine sports skills I would like to learn or improve.",
+              "dialog_text": "The youth member should discuss which alpine sports they would like to increase their skills in - cross-country skiing, downhill skiing, snowboarding, snowshoeing or snow camping."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

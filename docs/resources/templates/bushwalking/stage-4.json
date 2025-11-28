@@ -1,0 +1,154 @@
+{
+  "template": "oas/bushwalking/4",
+  "meta": {
+    "stage": 4,
+    "stream": "bushwalking"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Bushwalking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "trip_itinerary_proposed_bushwalk_8194fc",
+              "type": "verifiable_checkbox",
+              "label": "I can read a trip itinerary for a proposed bushwalk and understand what I am required to plan for and what my role is.",
+              "dialog_text": "The youth member will be able to \n * state equipment requirements \n * state where the trip is going from and to, what time and dates the trip is on and can inform parents or carers of emergency contacts and the process for contact if they are concerned \n * outline their role on the trip and how they can demonstrate appropriate behaviour and best practise \n \nThe youth member should also consider what skills they can further develop or gain on this trip, and how they can best prepare themselves and the trip leader for this."
+            },
+            {
+              "id": "select_equipment_protective_clothing_50adc9",
+              "type": "verifiable_checkbox",
+              "label": "I know how to select equipment and protective clothing including footwear according to expected weather conditions.",
+              "dialog_text": "The youth member should include, as appropriate: \n * clothing \n * footwear \n * warm clothing \n * headgear (beanie, sun hat, cap) \n * wet weather gear \n \nThis should build on their learning and experiences from Stages 1 to 3. \n \nAs this is about how to select gear, not neccessarily what gear to have or take, it is important the youth member can consider the weather conditions and then where to source appropriate gear they need. This may be from family, friends, or a specialist store. They should have a look at some technical gear online. For example, what is the difference between a Rainbird raincoat and a gortex raincoat?"
+            },
+            {
+              "id": "pack_weight_appropriate_d11c18",
+              "type": "verifiable_checkbox",
+              "label": "I always ensure pack weight is appropriate to my body weight and level of fitness.",
+              "dialog_text": "The weight of the youth member’s pack should be no more than ¼ (one quarter) of their body weight if they are under 16, or no more than 1/3 (one third) their body weight if they are older than 16. This may be modified for physically strong or very experienced bushwalkers. \n \nYouth members should be able to pack their own packs, ensuring that involvement from other people is kept to a minimum; weighing the pack; and then do a pack check to identify important items that have been excluded, and heavy/unnecessary items which have been included. Note that at this Stage youth members may still be relatively young and may not be able to carry all their own equipment. It is still important for them to go through the exercise of packing. \n \nThe youth members should also have considered where weight is placed in the pack, and be able to justify their decisions. Patrol Leaders, SMES or adult Leaders should remember that it is likely some packing decisions will be driven by the size and shape of an object, rather than ideal placement or distribution of weight. For example, if they have a small backpack. youth members should not be penalised for their equipment, but rather should be examined on how they have dealt with the equipment they have."
+            },
+            {
+              "id": "weight_distribution_68a351",
+              "type": "verifiable_checkbox",
+              "label": "I always ensure my equipment weight is distributed throughout my pack so my centre of gravity is balanced while bushwalking.",
+              "dialog_text": "The youth member should ensure that: \n * Heaviest items are placed in between the shoulder blades towards the centre to lower sections of the pack and more importantly the spine \n * Medium items are packed around the heaviest items \n * Left and right sides of the pack should be balanced \n * Pack should sit more or less vertically \n * Pack should not pull the shoulders backwards \n \nThe location of equipment in the pack is crucial for comfortability, stability and access to equipment. All of these things need to be taken into consideration when packing."
+            },
+            {
+              "id": "communication_devices_8300bf",
+              "type": "verifiable_checkbox",
+              "label": "I am aware of a range of communication devices and can choose appropriate communications equipment for the location I am in.",
+              "dialog_text": "The youth member should consider things that are: \n \nAppropriate for bushwalking: \n * Whistles are always required for everybody \n * Mobile phones/smartphones; the youth member should specify some method of protecting these from physical damage, water, and (if appropriate) from cold. \n \nMay be appropriate depending on location/context: \n * UHF radios are rarely appropriate except for very short-range communications, such as within a party \n * Smartphone apps are only appropriate if the youth member can specify an official app promoted by an emergency service \n * Satellite devices (eg: PLB, SPOT): the youth member may suggest marine satellite distress beacons (EPIRBs) - this is not wrong, however, the antenna design on some EPIRBs relies on being in water to reflect the signal \n * Flares (smoke or distress) have very limited applicability \n \nNever appropriate for bushwalking: \n * Social media platforms (reliability) \n * 27Mhz/marine VHF radios (regulations), VHF radios (weight, regulations) \n * Radio scanners (one-way traffic) \n * Legacy techniques such as signalling mirrors, Morse code, and semaphore (rare skills) \n \nThe youth member should remember that just because a method of communication exists doesn’t mean it’s appropriate for bushwalking. There may be other methods of communication that are appropriate, depending on location and knowledge. The main thing is the youth member considers the most appropriate forms and items that multiple people in the group can use."
+            },
+            {
+              "id": "menu_food_list_4b19a0",
+              "type": "verifiable_checkbox",
+              "label": "I can work with others to prepare a menu and food list for a weekend bushwalk.",
+              "dialog_text": "The menu should cover a weekend bushwalk with a Saturday morning start: \n * Lunch x2 \n * Dinner x1 \n * Dessert x1 (can replace with Supper or Midnight Snack if desired) \n * Breakfast x1 \n * Drinks \n * Snacks \n * Emergency meal portion \n \nThe menu for food hygiene standards is unlikely contain perishable ingredients such as raw meat, or breakable items such as eggs (however depending on season and location some of these items may be appropriate. All ingredients should be dry or reasonably light; for example, pasta sauce in a jar would not be appropriate, but it would be acceptable if it was sold in robust plastic packaging."
+            },
+            {
+              "id": "appropriate_map_ffad06",
+              "type": "verifiable_checkbox",
+              "label": "I can obtain and become familiar with the appropriate map for the intended walk.",
+              "dialog_text": "The youth member needs to be able to sources the maps needed for the bushwalk, know all the components, through a conversation with the Patrol or Unit demonstrate the components and know the features they will come across on the walk by looking at the map."
+            },
+            {
+              "id": "natural_navigation_373335",
+              "type": "verifiable_checkbox",
+              "label": "I can identify natural navigational aids.",
+              "dialog_text": "The youth member, before a bushwalk and while on a walk, should be able to identity natural features such as: \n * handrails \n * catching features \n * spur \n * gully \n * ridge \n * peaks (to use with back bearings) \n * knoll \n * the sun \n * moss on trees"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "familiar_confident_bearing_819dd7",
+              "type": "verifiable_checkbox",
+              "label": "I have, throughout the planning stage, become more familiar and confident with taking a bearing, including accounting for magnetic variation.",
+              "dialog_text": "By the end of this Stage, the youth member should be able to: \n * Go through the steps of taking a bearing on a map \n * Go through the steps of taking a bearing off the land \n * take a bearing 3 times on three different features or landforms from a map, convert it to a magnetic bearing, and identify those features on the ground using the magnetic bearing \n * Specify the approximate magnetic variation for their local area. \n \nIt is acceptable for the youth member to still not be particularly confident taking a bearing at the end of this stage; the important thing is that the youth member has demonstrated improvement. It is understood that this may be difficult for stage 6 Scouts or the Adult Leaders to assess and track."
+            },
+            {
+              "id": "ascending_descending_techniques_0b70fe",
+              "type": "verifiable_checkbox",
+              "label": "I can apply ascending techniques and descending techniques on slopes.",
+              "dialog_text": "The youth member should consider multiple techniques to help themselves and protect the enviroment. \n \nTechniques can include: \n * zig-zagging across steep terrain \n * ascending diagonally across a large slope \n * mutual support with your buddy \n \nAids can include: \n * trekking poles \n * hand lines"
+            },
+            {
+              "id": "appropriate_posture_635e84",
+              "type": "verifiable_checkbox",
+              "label": "I know how to adopt appropriate posture when lifting and carrying a backpack.",
+              "dialog_text": "The youth member should use the following techniques: \n * lift the pack onto their knee, and them swing it around onto their back \n * lift the pack onto a raised surface (lifting using their leg muscles), then place the straps on their shoulders and stand up \n * get a friend to help lift the pack and then slips into the shoulder straps \n * once the youth member has the back pack on it is important the pack is fitted for the youth member \n \nDo not allow the youth member to throw the backpack on over their head, because it risks injury if they make a mistake."
+            },
+            {
+              "id": "hazards_safely_minimise_risks_611886",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the approach to hazards safely and minimise risks to self and group where possible.",
+              "dialog_text": "The youth member should be able to identify potential hazards while on walks and act appropriately to avoid the hazard becoming a risk to the group or individual \n * e.g appropriately crossing a stream while slippy surfaces are present \n * e.g noting blisters/ foot problems and treating before they become a serious issue \n * e.g walking through thick scrub and needing to protect against potential snakes, spiders, ticks, etc."
+            },
+            {
+              "id": "logged_two_day_bushwalk_2b6c32",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in and logged a two-day bushwalk at this Stage.",
+              "dialog_text": "The bushwalk must be an overnight bushwalk where the youth member carried overnight gear (tent, stove, sleeping gear, food, emergency gear etc) and camped overnight in the field rather than in built accommodation. The criteria may be varied for youth members with additional needs. For example: \n * a youth member with spinal issues may have their pack carried for them \n * a youth member who requires access to a toilet may stay in built accommodation \n \nIt is expected that the youth member will have taken part in two full days of walking, with 6 hours of activity each day."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "identify_improvements_2b6c32",
+              "type": "verifiable_checkbox",
+              "label": "I can identify improvements I can make in planning and leading future bushwalking trips.",
+              "dialog_text": "The youth member should focus on what didn’t work well and what can change to avoid the situation again."
+            },
+            {
+              "id": "equipment_damage_discuss_2b6c32",
+              "type": "verifiable_checkbox",
+              "label": "I have checked bushwalking equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should look for specific damage and wear-and-tear on equipment. Items they can look for could include: \n * condition of webbing on backpacks, \n * condition of sewn-in straps on packs, especially shoulder straps \n * plastic fatigue on pack buckles, side-release clips \n * rips and tears in tents \n * damaged tent zips \n * bent or fatigued alloy tent poles \n * cracked or frayed fibreglass tent poles \n * condition of soles on boots \n * condition of jets on gas stoves \n * condition of O-ring seals on Trangia stoves \n * free but not loose rotation of compass bezel \n * lack of bubble in compass fluid and free rotation of the needle"
+            },
+            {
+              "id": "key_learnings_journey_2b6c32",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed with my Patrol and Leaders what my key learnings are from the bushwalking journey.",
+              "dialog_text": "The discussion should be led by the youth member, and the content should be guided by them. However, they should generally cover topics such as: \n * What was challenging? How was this overcome? \n * Were contingencies needed? \n * Did everyone pack appropriately? \n * What did they learn about themself? \n * Did it take the expected amount of time? \n \nA supporting person should ask questions to fill in any of the topics above which the youth member does not cover."
+            },
+            {
+              "id": "identify_route_variations_2b6c32",
+              "type": "verifiable_checkbox",
+              "label": "I have identified places in bushwalks I have been part of where a route variation could have occurred.",
+              "dialog_text": "The youth member needs to think about bushwalks they have been on, and identify where would have been appropriate in the bushwalks to change the route they took."
+            },
+            {
+              "id": "review_reflected_australian_walking_track_grading_system_2b6c32",
+              "type": "verifiable_checkbox",
+              "label": "I have reviewed and reflected on the bushwalking I have completed so far, and considered where these walks fit in the Australian Walking Track Grading System.",
+              "dialog_text": "The Australian Walking Track Grading System can be readily found on the internet. In the youth member's logbook, they should start recording what grade of track they have walked on."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

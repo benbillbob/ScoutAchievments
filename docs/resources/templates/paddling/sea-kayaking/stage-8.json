@@ -1,0 +1,112 @@
+{
+  "template": "oas/paddling/sea-kayaking/8",
+  "meta": {
+    "stage": 8,
+    "stream": "sea-kayaking"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Sea kayaking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "teach_plan_sea_kayak_trip_ba26ee",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another youth how to plan a sea kayaking activity in unfamiliar territory using the appropriate tools.",
+              "dialog_text": "The youth member should know what is required to plan for a sea kayaking expedition based on their 'I' statements from Stages 1-7. The youth member should be able to effectively pass this knowledge on to another Scout, working on a lower Stage. \n \nIf it has been a while since the youth member planned a sea kayaking expedition they should look back on their previous activity plans. \n \nThe youth member will know if they are successful in their teachings if that Scout is able to demonstrate successfully planning a sea kayaking expedition."
+            },
+            {
+              "id": "organise_instructional_session_basic_skills_sea_kayak_61ab57",
+              "type": "verifiable_checkbox",
+              "label": "I have led the organisation of an instructional session to teach younger Scouts basic sea kayaking skills.",
+              "dialog_text": "The youth member should be involved in drafting a plan in order to teach basic sea kayaking skills to Scouts. The youth member's sea kayaking activity and teachings should be based on the group needs and the youth member should ensure they have another skilled sea kayaker look over their plans."
+            },
+            {
+              "id": "improve_group_equipment_sea_kayak_2fd813",
+              "type": "verifiable_checkbox",
+              "label": "I can make recommendations to improve group equipment.",
+              "dialog_text": "The youth member should be able to use their experience and knowledge gained over the last seven (7) Stages to recommend improvements to the groups sea kayaking expedition equipment based on their needs and the objectives of the activities planned."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "plan_lead_3_night_sea_kayak_trip_6237f5",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and lead a sea kayaking trip with my Patrol of at least three nights and stay at a different location each night.",
+              "dialog_text": "The youth member needs to plan and lead this journey, while having remote supervision. The activity needs to go across 3 nights and 4 days with each night in a different location. All equipment, risk assessments, emergency action plans, route plan, and menus should be planned and carried with the group during the journey. The youth member should have some remote supervision (home base) to check in with when they can."
+            },
+            {
+              "id": "navigate_techniques_sea_charts_534643",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate navigation through waves when paddling.",
+              "dialog_text": "The youth member should demonstrate navigation techniques including reading sea charts in open water. They also need to demonstrate calculating distances and follow a bearing, taking into consideration the sea conditions."
+            },
+            {
+              "id": "rescue_capsized_loaded_sea_kayak_a1cdea",
+              "type": "verifiable_checkbox",
+              "label": "I can rescue a capsized loaded kayak and take action to ensure group safety after the rescue has occurred.",
+              "dialog_text": "The youth member should have already demonstrated rescues in previous Stages, and they should now demonstrate how to deal with a loaded kayak. The youth member will need to: \n * Assess and identify potential hazards and risks \n * Choose a rescue method suitable for the situation and ensure they communicate with the group \n \nThe youth member should demonstrate this skill in a couple of different environments such as different sea, beach and bay conditions or different weather conditions. The youth member needs to log their rescues and ensure they include a description as to the conditions and what they did during the rescue."
+            },
+            {
+              "id": "across_into_down_wind_paddle_5e37c6",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate paddling my sea kayak across, into and down wind.",
+              "dialog_text": "The youth member needs to demonstrate these three skills in a controlled manner and with high technical ability. The wind might be varying speeds and depending on the condition may impact how long the youth member should demonstrate these skills for."
+            },
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the OAS, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses."
+            },
+            {
+              "id": "20_days_paddling_sea_kayak_0791d6",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 20 days of paddling by the end of Stage 8.",
+              "dialog_text": "The youth member needs to complete and log at least 20 days of sea kayaking by the end of this Stage. The youth member should include in their log when they did the activities, where they did the activities, who they did them with, what the conditions were and the grade the environments were. Additionally the youth member may add commentary around what they saw, issues they had or things that were interesting on the trip."
+            },
+            {
+              "id": "undertake_repairs_sea_kayak_equipment_0791d6",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken repairs on a piece of sea kayaking equipment.",
+              "dialog_text": "The youth member needs to undertake repairs on a pieces of sea kayaking equipment. This could be a spray deck, PDF, parts of the boat or paddle etc."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "provide_instruction_feedback_sea_kayak_5728ef",
+              "type": "verifiable_checkbox",
+              "label": "I can provide instruction and feedback to a Patrol of Scouts that I have led on a sea kayaking activity, helping participants to improve their sea kayaking skills.",
+              "dialog_text": "The youth member needs to provide feedback on skill development for less experienced Scouts working on sea kayaking. Feedback could be about equipment selection, paddle strokes, paddle placement and hold, how they are sitting in their craft etc."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

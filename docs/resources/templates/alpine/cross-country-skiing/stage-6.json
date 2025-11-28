@@ -1,0 +1,142 @@
+{
+  "template": "oas/alpine/cross-country-skiing/6",
+  "meta": {
+    "stage": 6,
+    "stream": "cross-country-skiing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 6 - Cross country skiing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "4_pack_stage_teach_ski_tour_scout_overnight_7b7903",
+              "type": "verifiable_checkbox",
+              "label": "I can teach a Stage 4 Scout what to pack for an overnight ski tour.",
+              "dialog_text": "The youth member should know what is required to be packed for an overnight ski tour, taking into consideration the location and itinerary for the activity. \n \nThe youth member should be able to effectively pass this knowledge on to another Scout, working on a lower stage. They will know if they are successful in their teachings if that Scout brings the correct items for the activity, demonstrating understanding of the instructions and guidance before the activity."
+            },
+            {
+              "id": "possibilities_transportation_equipment_ski_route_tour_overnight_including_0e4d86",
+              "type": "verifiable_checkbox",
+              "label": "I can plan an overnight ski tour, including equipment, food, transportation, emergency evacuation possibilities, route and navigation.",
+              "dialog_text": "The youth member should plan an overnight ski tour, including routes, transport and risk management for the tour. Remember that one element of the Scout Method is Patrol system, so the youth member doesn't need to do everything themself. Working in a small team will help them enjoy their planning and with the Patrol's input into the plan, it will be a fantastic ski tour. \n \nThe youth member will need to have their plan reviewed and approved by a skilled cross country skier. This may be a youth member who has completed Stage 8 or an adult."
+            },
+            {
+              "id": "detailed_am_developed_planning_risk_management_plan_trip_b910e8",
+              "type": "verifiable_checkbox",
+              "label": "I have developed a detailed risk management plan for a trip that I am planning.",
+              "dialog_text": "The youth member should include a detailed risk management plan for the overnight ski tour they are planning. They are already able to identify possible hazards and how to minimise these risks based on their skills in Stage 5. \n \nBased on their further experience and knowledge in cross country skiing, the youth member should enhance their risk management plan. They should also ensure that emergency evacuation routes are present in their plan."
+            },
+            {
+              "id": "below_4_stage_teach_equipment_maintain_store_scout_e23d09",
+              "type": "verifiable_checkbox",
+              "label": "I can teach a Stage 4 or below Scout how to care for, store and maintain group equipment.",
+              "dialog_text": "At this Stage the youth member should know how to care for, store and maintain their cross country skiing group equipment and they should be able to pass that knowledge on to others. \n \nThe youth member should know they are successful in their teaching when the Stage 4 Scout is able to demonstrate this knowledge."
+            },
+            {
+              "id": "standards_etc_allday_aa_legislation_requirements_safe_ski_5ffe2c",
+              "type": "verifiable_checkbox",
+              "label": "I know the legislation and policies for safe conduct of an all-day ski tour (e.g. AA standards, legal requirements, etc.).",
+              "dialog_text": "The youth member should review and be able to discuss legislation and policies around safe conduct of an all-day ski tour, including the Alpine Code, and environmental considerations. They will need to consider their location and local policies and procedures, as well as the Australian Adventurous Activities Standards."
+            },
+            {
+              "id": "different_could_patrol_activity_researched_shelters_emergency_snow_b4a120",
+              "type": "verifiable_checkbox",
+              "label": "I have researched different emergency snow shelters that I could build with my activity patrol.",
+              "dialog_text": "The youth member is required to research the different options for emergency snow shelters, considering their location and available resources in the process. The youth member will also need to be able to show an understanding of the skills they will need to build these types of shelters."
+            },
+            {
+              "id": "understand_ice_dangers_associated_during_skiing_d2ba49",
+              "type": "verifiable_checkbox",
+              "label": "I understand the dangers associated with ice during skiing.",
+              "dialog_text": "The youth member should demonstrate their knowledge by discussing the dangers around ice during skiing to their two-up peer, or to the activity leader if there is no Stage 8 or higher peer."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "this_stage_above_ski_led_tour_of_overnight_39e1fd",
+              "type": "verifiable_checkbox",
+              "label": "I have led an overnight ski tour with the supervision of a Stage 8 Scout or above at this stage.",
+              "dialog_text": "The youth member should lead the overnight ski tour they have been planning throughout Stage 6. They should ask a Stage 8 Scout (their two-up peer mentor) to review their planning, including risk assessment. It is also a good idea to get an adult to look over the risk assessment as well. \n \nDepending on their plan and circumstances, supervision by the Stage 8 Scout could be direct or indirect. Definitions of supervision can be found in the Australian Adventurous Activities Standards. \n \nAdditionally, there should be a skilled and informed home base contact."
+            },
+            {
+              "id": "water_safe_alpine_supply_demonstrate_keep_of_obtain_3b36bf",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to obtain and keep a supply of safe drinking water in the alpine environment.",
+              "dialog_text": "The youth member should have gained the knowledge on how to obtain and keep a supply of safe drinking water in Stage 4. The youth member must demonstrate their knowledge gained in previous Stages on their planned ski tour."
+            },
+            {
+              "id": "casuality_alpine_participated_emergency_response_simulated_daae8b",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in an alpine emergency response for a simulated casualty.",
+              "dialog_text": "The youth member should participate in a mock emergency, relating to cross country skiing, in alpine conditions. This mock emergency should be run and managed by a Stage 8 peer, suitably skilled cross country skier or alpine emergency expert."
+            },
+            {
+              "id": "movement_turn_gliding_linked_usage_of_showing_execute_0a3878",
+              "type": "verifiable_checkbox",
+              "label": "I can execute a gliding wedge, wedge turn and linked wedge showing effective usage of planes of movement.",
+              "dialog_text": "The youth member should demonstrate their improved skills to their two-up peer, or another suitably skilled skier. This could be done in person, or a video could be taken to review their skiing at a later point."
+            },
+            {
+              "id": "nonpatrolled_slopes_skills_ski_conditions_including_grade_medium_bf16c3",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated ski touring skills in various non-patrolled conditions, including medium grade slopes.",
+              "dialog_text": "The youth member should take part in ski touring in various non-patrolled conditions on different types of slopes. They should log their activities, including the skills demonstrated, where they did their touring, who they were with and what they learned during the trip(s). If their two-up mentor is not with them, they could video their skills for later review."
+            },
+            {
+              "id": "below_4_stage_basics_cross_country_of_scout_188c76",
+              "type": "verifiable_checkbox",
+              "label": "I have taught a Stage 4 Scout or below the basics of cross country skiing.",
+              "dialog_text": "The youth member should be able to effectively pass on their knowledge of cross country skiing to assist another Scout working on a lower stage. \n \nThe youth member will know if they are successful in their teachings when that Scout is able to demonstrate those skills and understands the safety element and knowledge they have been taught. This could include fitting their skis and moving/turning on their skis for the first time."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "entries_stage_all_of_activities_written_completed_skiing_f9e0db",
+              "type": "verifiable_checkbox",
+              "label": "I have written logbook entries for all of the skiing activities I have completed at this stage.",
+              "dialog_text": "The youth member should log their activities and include \n * the skills demonstrated, \n * location of the activities, \n * who they were with, \n * what the weather was like, and \n * anything else that stands out for that activity. \n \nThey may also choose to include photographs in their log."
+            },
+            {
+              "id": "below_4_stage_presentation_ski_tour_ive_of_e26f80",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts at Stage 4 or below on a ski tour I've completed.",
+              "dialog_text": "The youth member's presentation should be approximately three (3) minutes long, and may be in person or as a pre-recorded video followed by questions. The content of the reflection is at their discretion, with the purpose of the presentation being to encourage other Scouts to be excited by, or pursue, cross country skiing."
+            },
+            {
+              "id": "planned_improve_them_cross_country_skills_do_improvement_103dc7",
+              "type": "verifiable_checkbox",
+              "label": "I have identified areas for improvement in my cross country skiing skills and planned what I will do to improve them.",
+              "dialog_text": "The youth member should reflect on their experiences and skills gained working through Stage 6, trying to identify where they feel they have improved their cross country skiing skills and what skills they need to keep working on. They should determine what their next steps are and set some goals to improve in areas they feel they need to improve."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

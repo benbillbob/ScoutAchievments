@@ -1,0 +1,142 @@
+{
+  "template": "oas/alpine/cross-country-skiing/7",
+  "meta": {
+    "stage": 7,
+    "stream": "cross-country-skiing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 7 - Cross country skiing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "outdoor_adventure_below_7_stage_completed_skills_core_983bad",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 7 and below in the core Outdoor Adventure Skills.",
+              "dialog_text": "The youth member must have completed Stage 7 and below in Bushcraft (Survival Skills), Bushwalking and Camping. The core skill areas develop foundational skills for all other areas."
+            },
+            {
+              "id": "ski_of_nights_hikebag_more_length_trip_pack_ef741a",
+              "type": "verifiable_checkbox",
+              "label": "I can pack a hike-bag for a ski trip of two or more nights in length.",
+              "dialog_text": "The youth member should be able to plan and pack what is required for a two (or more) night ski trip, taking into consideration the location and itinerary for the activity. This should also include the division of group and emergency equipment."
+            },
+            {
+              "id": "requirements_ski_nights_policies_all_encompassing_procedures_trip_efb605",
+              "type": "verifiable_checkbox",
+              "label": "I can plan a ski trip for two nights encompassing all requirements and all organisational policies and procedures.",
+              "dialog_text": "The youth member should plan a two night, three day ski journey. This planning must include (at a minimum) routes, transport, risk management, food and accommodation. \n \nRemember that one element of the Scout Method is the Patrol system, so the youth member doesn't need to do everything themselves. Working in a small team will help them enjoy their planning and with the Patrol's input into the plan it will be a fantastic ski tour. \n \nThey will need to have their plan reviewed and approved by a skilled cross country skier."
+            },
+            {
+              "id": "group_risk_assess_measures_stage_scout_protect_safety_0da387",
+              "type": "verifiable_checkbox",
+              "label": "I can assess risk and advise a Stage 5 Scout on measures to protect group safety.",
+              "dialog_text": "The youth member should have completed a detailed risk management plan as part of their planning for Stage 6. Using this knowledge, they should advise and mentor a Stage 5 Scout on how to ensure group safety."
+            },
+            {
+              "id": "group_show_bring_needed_ski_of_equipment_nights_57e580",
+              "type": "verifiable_checkbox",
+              "label": "I can show my activity Patrol for a trip what group equipment to bring on a ski tour of two nights and explain why each item is needed.",
+              "dialog_text": "The youth member is required to discuss and explain their packing list that they have developed for their journey with their Project Patrol."
+            },
+            {
+              "id": "equipment_lightweight_skiing_choose_appropriate_e8a7d1",
+              "type": "verifiable_checkbox",
+              "label": "I can choose appropriate lightweight skiing equipment.",
+              "dialog_text": "The youth member should research and determine which lightweight skiing equipment is suitable for their activity, location and budget, and discuss with their Patrol as to why they have chosen those items."
+            },
+            {
+              "id": "tent_ski_touring_researched_select_appropriate_0a7df7",
+              "type": "verifiable_checkbox",
+              "label": "I have researched and can select an appropriate tent for ski touring.",
+              "dialog_text": "The youth member should undertake research into an appropriate tent for their ski touring trip, taking into consideration the environment, length of their trip, weather conditions and budget."
+            },
+            {
+              "id": "them_understand_avalanches_factors_contribute_manage_d873f5",
+              "type": "verifiable_checkbox",
+              "label": "I understand factors that can contribute to avalanches and how to manage them.",
+              "dialog_text": "The youth member should be aware of avalanches and the risks they pose through their planning and risk management in the earlier alpine stages. \n \nThe youth member should do some further research to fully understand the factors that can contribute to avalanches, any specific local attributes and what to do to minimise impact whilst cross country skiing, as well as an understanding of what to do if an avalanche does occur."
+            },
+            {
+              "id": "oas_alpine_environment_learnt_apply_elements_navigation_core_bffcff",
+              "type": "verifiable_checkbox",
+              "label": "I can apply the navigation elements learnt in the core Outdoor Adventure Skills to an alpine environment.",
+              "dialog_text": "The youth member must demonstrate that they are able to apply the navigation skills learned and developed through the Core Outdoor Adventure Skills (Stages 1-7) in an alpine environment. They should demonstrate this by navigating using a magnetic compass bearing untracked for three (3) to five (5) kilometres. They should demonstrate ability to identify natural navigational aids, and incorporating handrails and catching features into their methods of navigation. They should also have the skills to determining their location without electronic means, such as using back bearings or triangulation however also use electronic means to back up their skills by showing the use of GPS. Lastly, they should also be able to navigate at night using the Southern Cross. The youth member must demonstrate these skills in an alpine environment and tweak them as required."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "group_ski_of_equipment_nights_tour_emergency_inspect_815545",
+              "type": "verifiable_checkbox",
+              "label": "I can inspect group emergency equipment for a ski tour of two nights.",
+              "dialog_text": "The youth member is required to review and inspect their emergency equipment planned for their two night ski tour, ensuring that it is adequate for the location and Patrol undertaking the tour."
+            },
+            {
+              "id": "but_multiday_ski_menu_tour_simple_implement_nutritious_26ff4a",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and implement a simple but nutritious menu for a multi-day ski tour.",
+              "dialog_text": "The youth member should be able to: \n * Specify how much water to carry, and how often they will need to re-fill \n * Specify how many of each meal they will need (breakfast, lunch, dinner, snacks) and for how many people \n * Identify suitable foods for their ski tour with regard to energy content, durability, perishability and deliciousness \n * Estimate overall energy requirements: How strenuous is the day? Will it make you eat more? \n * Take into consideration the equipment required to prepare the food and any allergies or dietary considerations for their Patrol"
+            },
+            {
+              "id": "least_10_ski_of_7_undertaken_touring_stage_c2e268",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 10 days of ski touring by the end of Stage 7.",
+              "dialog_text": "The youth member must have taken part in at least 10 days of ski touring by the end of this stage. They should log their activities and include the skills demonstrated, when they did these activities, where they did their skiing, who they were with and what they learned during the trips. They could also include photographs or videos from their trips."
+            },
+            {
+              "id": "during_ski_touring_snow_trip_built_emergency_shelter_c9fcd4",
+              "type": "verifiable_checkbox",
+              "label": "I have built an emergency snow shelter during a ski touring trip.",
+              "dialog_text": "The youth member should put their Stage 6 research and planning of their emergency shelter into practice by building an emergency shelter with their Patrol during their ski touring trip. They could potentially do this as part of a mock emergency during their trip, or to use as a shelter for lunch or to sit in at their overnight camp."
+            },
+            {
+              "id": "development_alpine_participated_day_conditions_skills_rescue_a2812f",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a rescue skills development day for alpine conditions.",
+              "dialog_text": "The youth member should approach a Stage 9 Alpine peer, or skilled cross country skiing adult, to be involved in a mock emergency and rescue day. These skilled members (Stage 9 Alpine or suitably skilled adult) would usually be required to facilitate these days as part of maintaining their skills and currency."
+            },
+            {
+              "id": "different_ski_development_including_varying_touring_needs_led_b9b9ce",
+              "type": "verifiable_checkbox",
+              "label": "I have led a ski touring skills development session for a Patrol including varying skills for different Patrol members needs.",
+              "dialog_text": "The youth member should lead a session with a Patrol of Scouts interested in cross country skiing. They should determine what the objectives for the session are and the skill level of the session participants, before assisting the Patrol members to develop their skills. \n \nThe youth member should seek assistance for the session from other Scouts with cross country skiing skills to ensure their session runs successfully."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "improve_cross_country_we_location_feedback_of_led_f56ba2",
+              "type": "verifiable_checkbox",
+              "label": "I have provided feedback to a Patrol of Scouts that I have led on a cross country trip on how we could improve in the future, considering risk management, safety, activities, equipment management, safety, activities, equipment management, location selection, level of difficulty, etc.",
+              "dialog_text": "The youth member should have a review at the end of their activity and provide constructive feedback to the Scouts on how they could improve their skiing skills and teamwork. \n \nThe youth member should also lead the discussion in reviewing their plans and to determine what went well and what could be improved and how they could have improved upon it, considering they will be needing to do their own plans if they wish to further their knowledge on cross country skiing and alpine activities."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

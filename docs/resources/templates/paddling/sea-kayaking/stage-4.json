@@ -1,0 +1,154 @@
+{
+  "template": "oas/paddling/sea-kayaking/4",
+  "meta": {
+    "stage": 4,
+    "stream": "sea-kayaking"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Sea kayaking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "explain_stage_2_basic_rules_b947c3",
+              "type": "verifiable_checkbox",
+              "label": "I have helped a Stage 2 paddler to explain the basic safety rules for being near water.",
+              "dialog_text": "The youth member needs to help a Scout working on Stage 2 enabling them to understand how to stay safe when around and going on the water. They should include things like: \n * Weather \n * Their ability \n * Their Patrol member's abilities \n * Whether there is a skilled swimmer or adult around who can help if needed \n * Tides  \n * Location \n *Wearing a PFD \n * Swimming and wearing enclosed shoes."
+            },
+            {
+              "id": "read_understand_proposed_sea_kayaking_itinerary_5ac59e",
+              "type": "verifiable_checkbox",
+              "label": "I can read an itinerary for a proposed sea kayaking trip and understand what I am required to do.",
+              "dialog_text": "The youth member will need to demonstrate an understanding of a sea kayak trip from the itinerary, by discussing the gear list, time of departure and arrival home, menu and route with the trip leader and by bringing what is required to the activity."
+            },
+            {
+              "id": "kayaks_paddles_explain_damaged_d95d9d",
+              "type": "verifiable_checkbox",
+              "label": "I can explain how kayaks and paddles can be damaged.",
+              "dialog_text": "The youth member should be able to clearly explain why you shouldn’t stand in kayaks when on land and what dragging them over rough surfaces will do them. They should also discuss why they shouldn’t use paddles to push off when launching their kayak and how to carry their paddles correctly so they don't hurt others or damage the paddles."
+            },
+            {
+              "id": "equipment_required_law_sea_kayaking_8cfd44",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the equipment I am required by law to have with me while sea kayaking.",
+              "dialog_text": "The youth member should check their local marine safety legislation as to what equipment they are required to have. They should also follow their Branch policies and best practice regarding required equipment. Required equipment could include: \n * PFD \n * Whistle \n * Two way radio \n * Satellite phone or EPIRB \n * First aid kit"
+            },
+            {
+              "id": "prepare_equipment_safe_transport_sea_kayaking_location_f70039",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare required equipment, for safe transportation to a sea kayaking activity location.",
+              "dialog_text": "The youth member is required to demonstrate the organisation of safe transportation of kayaking equipment gear to the sea kayak activity location. They will need to consider what gear they need, who will transport gear, how it will be transported and securing gear before transportation."
+            },
+            {
+              "id": "paddling_knot_rescue_situation_9d05e5",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt a knot that will help me in a paddling rescue situation.",
+              "dialog_text": "The youth member will need to correctly demonstrate a suitable knot without guidance during a mock drill or real activity. They could choose knots such as a clove hitch, round turn and two half hitches, highwayman's hitch, bowline, or fisherman's knot. They should be able to discuss the use of their chosen knot in relation to a rescue situation and it should be a different one to the knot example they used in Stage 2."
+            },
+            {
+              "id": "keep_group_together_sea_kayaking_b40953",
+              "type": "verifiable_checkbox",
+              "label": "I understand how to keep a group together while Sea Kayaking.",
+              "dialog_text": "The youth member is required to demonstrate an understanding in ensuring good communication between the group, taking regular rest breaks, and the need to paddle at the speed of the slowest person."
+            },
+            {
+              "id": "point_out_weather_system_paddling_024788",
+              "type": "verifiable_checkbox",
+              "label": "I can point out weather systems and dangerous weather when paddling.",
+              "dialog_text": "The youth member should demonstrate an awareness of seeing the changes in weather systems whilst on their activity and what danger signs they need to be looking out for. This could include a change in wind direction, dark clouds approaching and/or a change in humidity. They should be able to determine 3 different types of clouds and what type of weather they generally bring."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "open_water_pfd_swim_help_huddle_1fb9fb",
+              "type": "verifiable_checkbox",
+              "label": "I can swim and demonstrate the HELP and huddle positions while in the water wearing a PFD away from shore at the Beach or in an open body of Salt water.",
+              "dialog_text": "The youth member should be able to demonstrate the Heat Escape Lessening Positioning and huddle position. The youth member should pull their knees together and hug them close to their chest using their arms to help prevent heat loss and reduce the risk of hypothermia. They could do this with their Patrol and huddle together in this position to conserve body heat, increase morale and help rescuers find them more easily."
+            },
+            {
+              "id": "symptoms_hypothermia_hyperthermia_8c0e07",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of hypothermia and hyperthermia.",
+              "dialog_text": "The youth member should be aware of the general and most common signs and symptoms of both hypothermia and hyperthermia. This could be learnt through research and demonstrated through mock emergencies. They should consider how they would avoid themselves and others getting hypothermia and hyperthermia during paddling activities."
+            },
+            {
+              "id": "trade_kayak_on_water_21c929",
+              "type": "verifiable_checkbox",
+              "label": "I can stand up in my kayak and trade kayaks with someone else without getting in the water.",
+              "dialog_text": "The youth member needs to demonstrate rafting up with the rest of their party and correctly moving between kayaks."
+            },
+            {
+              "id": "logged_2_sea_kayaking_activities_8e64bc",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in and logged at least two sea kayaking activities at this Stage.",
+              "dialog_text": "The youth member is required to take part in two sea kayaking activities and log them in their logbook. They should include where they did the activities, who they did them with, what the weather was like and any other interesting information about the activity. These should be in addition to any sea kayaking they did in earlier Stages."
+            },
+            {
+              "id": "map_of_using_plan_trip_chart_area_73aa25",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to plan a day trip using a map or chart of the area.",
+              "dialog_text": "The youth member needs to demonstrate being able to use a map or chart to plan a day trip. They should consider the speed they can travel and identify the rest areas, points of interest, safe exits and emergency exits."
+            },
+            {
+              "id": "strokes_basic_sweep_rudder_eg_forward_draw_reverse_e0b289",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate basic kayak strokes (e.g. forward, reverse, draw, stop, sweep and rudder).",
+              "dialog_text": "The youth member should have learned at least 5 strokes through Stage 1 to Stage 4. The youth member should effectively demonstrate these strokes during a sea kayaking activity, taking into consideration the conditions of the waterway and any hazards they encounter on their activity."
+            },
+            {
+              "id": "rudder_stroke_demonstration_bd5996",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate using a rudder while kayaking, or rudder stroke.",
+              "dialog_text": "The youth member needs to demonstrate using a sea kayak rudder or rudder stroke if the kayak does not have an inbuilt rudder."
+            },
+            {
+              "id": "balance_manner_controlled_launch_maintain_sea_kayak_037652",
+              "type": "verifiable_checkbox",
+              "label": "I can launch my sea kayak in a controlled manner and maintain balance.",
+              "dialog_text": "The youth member needs to demonstrate getting into their sea kayak in a safe controlled manner. Once in, they should demonstrate moving off from the bank or ramp by using strokes to manoeuvre the sea kayak from the side."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "identify_activities_improvements_sea_future_kayaking_5ba4ab",
+              "type": "verifiable_checkbox",
+              "label": "I can identify where I have begun to improve my sea kayaking skills, and where I would like to further improve.",
+              "dialog_text": "The youth member should discuss with their Patrol or Unit the sea kayaking activities they have participated in at this Stage and identify where they can improve their skills and the activities for next time."
+            },
+            {
+              "id": "replaced_checked_if_repaired_needs_discussed_damage_equipment_c10502",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member is required to demonstrate a gear inspection after their activity including a visual inspection of their sea kayak, paddle, and PFD. They should be looking for rips, tears, cracks or holes. If there is anything that needs repairing or replacing they should discuss it with the leader in charge of the equipment."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "template": "oas/alpine/downhill-skiing/9",
+  "meta": {
+    "stage": 9,
+    "stream": "downhill-skiing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 9 - Downhill skiing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "stick_outdoors_important_trails_b7c446",
+              "type": "verifiable_checkbox",
+              "label": "I have kept my first aid qualifications up to date.",
+              "dialog_text": "The youth member needs to have kept their CPR and first aid qualifications current, by updating CPR annually and redoing their first aid course every three years or as required for their wilderness skill set."
+            },
+            {
+              "id": "buddy_system_2342eb",
+              "type": "verifiable_checkbox",
+              "label": "I can develop a detailed risk management plan for a downhill ski trip with a Unit, involving challenging terrain skiing and spanning three days or more, including potentially dangerous weather hazards.",
+              "dialog_text": "The youth member will have done a detailed trip plan in Stage 7 and assisted Scouts in Stage 8 to plan overnight ski tours. They need to demonstrate further research and revision of their previous risk management plans to include challenging terrain and dangerous weather hazards for a period of three (3) or more days."
+            },
+            {
+              "id": "stop_activities_lost_7acb81",
+              "type": "verifiable_checkbox",
+              "label": "I have planned my dream international skiing experience, including all logistical and activities planning.",
+              "dialog_text": "The youth member should be well versed in planning overnight ski tours by this stage, based on their 'I' statements from Stages 1-8. They should now challenge themselves to plan an extended ski trip in a new, exciting and international location. They should take into consideration transport, emergency contingency plans, participants, food and accommodation."
+            },
+            {
+              "id": "location_address_emergency_4bdea6",
+              "type": "verifiable_checkbox",
+              "label": "I have planned to run an alpine sport skills day for a Unit or Group.",
+              "dialog_text": "The youth member should put their planning experience that they have been developing over the last eight (8) stages into practice and lead a downhill skiing skills development day for their Unit or Group. They don't need to limit it to only one day of they live far from the snow."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "equipment_check_working_safety_303fa1",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a Stage 7 Scout or below to check equipment for working condition, safety and suitability, according to relevant legislation and manufacturer recommendations.",
+              "dialog_text": "The youth member is required to work with a Scout at Stage 7 or below to check their equipment and discuss the suitability and safety of it, according to the relevant legislation and manufacturer's recommendations."
+            },
+            {
+              "id": "risks_safety_downhill_a52c95",
+              "type": "verifiable_checkbox",
+              "label": "I understand the risks and am able to implement appropriate safety procedures for downhill skiing in extreme alpine conditions.",
+              "dialog_text": "The youth member is required to discuss the risks, based on their detailed risk management plan, with their mentor and demonstrate implementation of the appropriate safety procedures for downhill skiing in extreme conditions."
+            },
+            {
+              "id": "wide_variety_ski_terrain_weather_ff8e72",
+              "type": "verifiable_checkbox",
+              "label": "I can confidently and competently ski in a wide variety of terrain and weather conditions.",
+              "dialog_text": "The youth member should have progressed through their downhill skiing experience from Stages 1-8 and should now be able to demonstrate their skills confidently and competently in a wide variety of terrain and weather conditions. They should log their activities, noting the skills they are practicing and techniques they are able to consistently execute."
+            },
+            {
+              "id": "develop_advance_ski_skills_9821ba",
+              "type": "verifiable_checkbox",
+              "label": "I have continued to develop my ski skills and can show two new ski skills that I have learned during Stage 8 and Stage 9.",
+              "dialog_text": "The youth member needs to review the two (2) new skills which they decided to learn in Stage 8 and continue to practice them."
+            },
+            {
+              "id": "four_occasions_ski_off_piste_d7e48e",
+              "type": "verifiable_checkbox",
+              "label": "I have skied off-piste on four different occasions.",
+              "dialog_text": "The youth member is required to have participated in at least four (4) skiing sessions on off-piste terrain on different occasions by the end of this stage. They should log their activities and include their role in the activity (did they participate, assist or lead), the skills demonstrated, where they did their skiing, who they were with and what they learned during the trips. They could also include photographs of the trips."
+            },
+            {
+              "id": "days_skiing_30_b28429",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 30 days of skiing by the end of Stage 9.",
+              "dialog_text": "The youth member is required to have participated in at least 30 days of downhill skiing by the end of this Stage. They should log their activities and include their role in the activity (did they participate, assist or lead), the skills demonstrated, where they did their skiing, who they were with and what they learned during the trips. They could also include photographs of their trips."
+            },
+            {
+              "id": "mock_emergencies_snow_317dec",
+              "type": "verifiable_checkbox",
+              "label": "I have facilitated mock emergencies on the snow to aid the ongoing development and upskill of less experienced Scouts.",
+              "dialog_text": "The youth member is required to plan and lead a response to a mock emergency or incident. Scouts working on Stage 7 need to participate in a rescue skills development day, so they should involve them in the scenario if possible. They should complete their post-incident report and provide it to their mentor for review."
+            },
+            {
+              "id": "downhill_sports_weekend_e1d4e8",
+              "type": "verifiable_checkbox",
+              "label": "I have led a downhill alpine sports weekend trip for a Unit or Group.",
+              "dialog_text": "The youth member needs to plan and lead this activity with the Unit or Scout Group, organising all aspects including hire, accommodation, itinerary, risk assessment, equipment needs, transport needs, etc. for all involved."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "potential_improvement_future_aaed1c",
+              "type": "verifiable_checkbox",
+              "label": "I have identified potential areas of improvement for future skiing instructional sessions.",
+              "dialog_text": "The youth member is required to review the last time they gave instructions and assisted Scouts in learning downhill skiing, and identify where they can improve their instructional techniques."
+            },
+            {
+              "id": "evaluate_ski_sessions_e1d4e8",
+              "type": "verifiable_checkbox",
+              "label": "I can evaluate all aspects of skiing sessions, and determine skill advancement for myself and others.",
+              "dialog_text": "The youth member needs to be able to determine how to further advance Scouts working on earlier stages and how they can advance their own skills through different skiing trips."
+            },
+            {
+              "id": "skills_presentation_alpine_e1d4e8",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts on the skills I have gained from completing the Alpine Outdoor Adventure Skills.",
+              "dialog_text": "The youth member's presentation needs to focus on an interesting, fun, challenging or unique aspect (or aspects) about the skills they have gained. It is recommended that a presentation is visual, exciting and inspiring, rather than a dreary or boring PowerPoint and/or speech. One aim should be to enthuse other Scouts to take up downhill skiing as a pursuit."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

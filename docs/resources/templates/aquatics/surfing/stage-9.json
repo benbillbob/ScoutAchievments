@@ -1,0 +1,106 @@
+{
+  "template": "oas/aquatics/surfing/9",
+  "meta": {
+    "stage": 9,
+    "stream": "surfing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 9 - Surfing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "budget_prepare_manage_surfing_expedition_0ba031",
+              "type": "verifiable_checkbox",
+              "label": "I can budget, prepare and manage every aspect of the expedition.",
+              "dialog_text": "The youth member should include standard expedition costs and surfing specific costs. This activity would need to be under the close supervision of a suitably skilled person."
+            },
+            {
+              "id": "develop_risk_management_plan_surf_camp_799a38",
+              "type": "verifiable_checkbox",
+              "label": "I can develop a detailed risk management plan for a surf camp involving challenging but not dangerous conditions for a period of a minimum of 2 days.",
+              "dialog_text": "The youth member should provide detailed risk assessment and management plans as part of their surfing activity plan and will need to account for: \n * Human risk \n * Environmental risk \n * Equipment risk \n \n They should also include details of emergency management and contingency plans."
+            },
+            {
+              "id": "equipment_required_surfing_trips_knowledge_d40c52",
+              "type": "verifiable_checkbox",
+              "label": "I know what equipment is required for surfing trips and the correct use and care of this equipment.",
+              "dialog_text": "The youth member should demonstrate selecting the correct equipment and resources based on their activity plan for their surfing trip and ensure that they have the required gear and that it is safe and suitable based on legislation and manufacturers recommendations."
+            },
+            {
+              "id": "first_aid_qualification_current_794a67",
+              "type": "verifiable_checkbox",
+              "label": "I have kept my First Aid qualifications up to date.",
+              "dialog_text": "The youth member should keep their CPR and first aid course current, by updating CPR annually and redoing their first aid course every three years."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "perform_advanced_surfing_skills_fde5ac",
+              "type": "verifiable_checkbox",
+              "label": "I can perform the following skills while in waves up to 2 metres: roundhouse cut-back; snap vertical re-entry; tube riding.",
+              "dialog_text": "The youth member should be able to safely perform these skills in waves more than 1 metre, as that skill was demonstrated in Stage 7. They should take into consideration surfing etiquette. They should demonstrate these to their two-up peer, if they aren't able to attend the activity they could always video record them doing the skills for them to watch later."
+            },
+            {
+              "id": "demonstrate_360_turn_1305a2",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a 360º turn",
+              "dialog_text": "The youth member should be able to safely perform a 360º turn. They should take into consideration surfing etiquette."
+            },
+            {
+              "id": "demonstrate_airborne_turn_07f2ab",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate an airborne turn.",
+              "dialog_text": "The youth member should be able to safely perform an airborne turn. They should take into consideration surfing etiquette. They should get a buddy or friend to film them from the shore so they can use this as evidence of completing this skill. It is also a great resource to use in their presentation as part of their surfing Review>."
+            },
+            {
+              "id": "completed_30_activity_sessions_348b88",
+              "type": "verifiable_checkbox",
+              "label": "I have completed 30 activity sessions of Surfing by the completion of Stage 9.",
+              "dialog_text": "The youth member needs to participate in at least 30 surfing activities sessions and log them in their logbook. \n \nAt least four of their surfing activities should include the preparation, briefing and clean up with a minimum of one hour in the water per activity. \n \nTheir activities since Stage 7 should include the skills they have been mastering, such as tube riding, roundhouse cut-backs, snap vertical re-entries, 360º and airborne turns in waves up to two metres. Their logbook should include where they did the activities, who they did them with, the weather conditions and any other interesting information about their activity."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "evaluated_variety_surfing_experiences_personal_learning_bcac2e",
+              "type": "verifiable_checkbox",
+              "label": "I can evaluate a variety of surfing experiences I have had and describe the kinds of personal development and learning I achieved.",
+              "dialog_text": "The youth member should be able to evaluate their performance in surfing experiences and determine how they have personally developed through these experiences. They should consider how they have developed across the SPICES during their journey. They should consider their goals moving forward, where surfing will take them and how can they share these skills and learnings within their Scouting community."
+            },
+            {
+              "id": "presentation_group_skills_gained_completion_aquatics_surfing_f98f6f",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts on the skills I have gained from completing the Aquatics Outdoor Adventure Skills.",
+              "dialog_text": "The presentation should be regarding interesting, fun, challenging or unique aspect(s) about the skills they have gained. Because of the nature of the adventurous activity, it is recommended that a presentation is very visual, exciting and inspiring, rather than a dreary or boring PowerPoint/speech. The aim is to enthuse other Scouts to take up surfing as a pursuit."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

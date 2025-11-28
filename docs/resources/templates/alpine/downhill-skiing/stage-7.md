@@ -1,0 +1,145 @@
+---
+sourceUrl: file://resources/templates/alpine/downhill-skiing/stage-7.json
+stream: alpine/downhill-skiing
+stage: 7
+version: 2
+lastFetchedAt: 2025-11-26T07:49:27.666Z
+checksum: c7a20b96e995b11ce18737325e4e6190b81e764e97248ea6762ff21ab954ac9a
+---
+
+# Stage 7 - Alpine / Downhill Skiing
+
+## Plan>
+
+### I have completed Stage 7 and below in the core Outdoor Adventure Skills.
+
+The youth member must have completed Stage 7 and below in Bushcraft (Survival Skills), Bushwalking and Camping. The core skill areas develop foundational skills for all other areas.
+
+
+### I can plan a ski trip for two nights, three days encompassing all requirements and all organisational policies and procedures.
+
+The youth member should plan a two night, three day ski journey. This planning must include (at a minimum) routes, transport, risk management, food and accommodation. 
+ 
+Remember that one element of the Scout Method is the Patrol system, so they don't need to do everything themselves. Working in a small team will help them enjoy their planning and with the Patrol's input into the plan it will be a fantastic ski tour. 
+ 
+They will need to have their plan reviewed and approved by a skilled downhill skier.
+
+
+### I can assess risk and advise a Stage 5 Scout on measures to protect group safety.
+
+The youth member should have completed a detailed risk management plan as part of their planning for Stage 6. Using this knowledge, they should advise and mentor a Stage 5 Scout on how to ensure group safety.
+
+
+### I can show a Patrol what group equipment to bring on a ski trip and explain why each item is needed.
+
+The youth member is required to discuss and explain their packing list that they have developed for their journey with their Project Patrol.
+
+
+### I can plan an off-piste skiing activity, identifying safety requirements, additional equipment needed and potential hazards.
+
+The youth member should have already planned a downhill skiing trip in Stage 6. At this stage (Stage 7), they should be working on planning a trip on ungroomed, unmarked slopes, which could be in unpatrolled areas. They may not run this trip until Stage 8 or 9, however it is important for them to be familiar with the risks associated and properly plan this trip well in advance. 
+ 
+The youth member should ensure their plan has all the relevant risk management controls, emergency contingency plans, that their routes are clearly defined and easy for home-based support to determine their location if the need arises. They will need to plan transport and risk management for the trip, including suitable equipment such as EPIRB and GPS devices. 
+ 
+Remember that one element of the Scout Method is Patrol system, so they don't need to do everything themselves. Working in a small team will help them enjoy their planning and with the Patrol's input into the plan it will be a fantastic trip. 
+ 
+They will need to have their plan reviewed and approved by a very experienced skier. The ski trip may include overnight camping, or may be 'resort-based' and equate to a full (extended) weekend at the snow in 'chalet' accommodation, skiing each day. 
+ 
+The youth member should consider whether they intend to be planning this trip to occur in Australia, or overseas.
+
+
+### I understand factors that can contribute to avalanches and how to manage them.
+
+The youth member should be aware of avalanches and the risks they pose through their planning and risk management in the earlier alpine stages. 
+ 
+They should do some further research to fully understand the factors that can contribute to avalanches, any specific local attributes and what to do to minimise impact whilst downhill skiing as well as an understanding of what to do if an avalanche does occur.
+
+
+### I can identify strategies to ensure the safety and wellbeing of individuals and/or group in extreme weather conditions.
+
+The youth member should research different strategies to ensure safety and wellbeing of participants in extreme weather conditions, and they can discuss these strategies with their two-up peer or other skilled skier and potentially include them in their rescue scenarios.
+
+
+### I can identify characteristics of potentially dangerous alpine weather hazards and their possible impact on recreational alpine activities.
+
+The youth member should be able to identify characteristics of dangerous alpine weather hazards during the planning of their alpine activity as well as when they are on the slopes.
+
+
+## Do>
+
+### I can carve my turns on advanced terrain.
+
+The youth member should demonstrate their improved skills on advanced terrain to their two-up peer or another higher skilled skier. They should log their activities, noting the skills they are practicing and techniques they are able to consistently execute. They could provide video evidence to their two-up peer if they are not on the slopes with them.
+
+
+### I have learnt how to wax skis and perform other route maintenance.
+
+The youth member will need to learn how to wax their skis, if they haven't already done this, and carry out other routine maintenance, such as checking bindings, pole repairs, small boot repairs, etc. They should look after their skis - not only will they last longer but they will help them to ski better too. They should wax their skis, ideally after every trip, and keep the metal edges sharp using a ski-specific file.
+
+
+### I have attempted a new jump or trick in the terrain park at this stage.
+
+The youth member should demonstrate their new skills to their two-up peer or other skilled skier. They should log their activities, noting the skills they are practicing, the location of the terrain park and any other interesting details about their tricks.
+
+
+### I can assist less experienced Scouts to mount and dismount snow transportation, such as chair lifts and T-bars.
+
+The youth member should assist Scouts by sharing knowledge and demonstrating how to safely mount and dismount snow transportation. Scouts working on Stage 4 need to demonstrate safely riding a chairlift and other forms of snow transport.
+
+
+### I can execute alpine skiing techniques in parallel or telemark turns in advanced terrain and/or slope conditions, demonstrating efficient movement and coordination.
+
+The youth member should have progressed from intermediate to advanced terrain, and demonstrate their improved skills to their two-up peer or other skilled skier. They should log their activities, noting the skills they are practicing and techniques they are able to consistently execute.
+
+
+### I can perform linked parallel or telemark turns through the fall line in intermediate to advanced terrain.
+
+The youth member should have progressed from intermediate to advanced terrain, and demonstrate their improved skills to their two-up peer or other skilled skier. They should log their activities, noting the skills they are practicing and techniques they are able to consistently execute.
+
+
+### I have planned and led a two night, three day downhill skiing trip.
+
+The youth member should lead the two night, three day downhill skiing trip that they have been planning throughout this stage and the previous stage. They should ask a Stage 9 Scout (their two-up peer) or other skilled skier to review their planning, including their risk assessment. Depending on their plan and circumstances, supervision by their Stage 9 peer or other skilled skier could be direct, indirect or remote. The definitions of the different categories of supervision can be found in the Australian Adventurous Activities Standards.
+
+
+### I have assisted a Stage 4 Scout to learn snowploughs, linked turns and stopping.
+
+The youth member should assist a Stage 4 Scout in learning snowploughs, linked turns and how to stop safely and in control.
+
+
+### I have communicated instructions and relevant information, including safety briefings, about the ski trip in a manner suitable to the participants.
+
+The youth member should ensure they communicate their plans and instructions about their downhill skiing trip to their Patrol in a timely manner. They should also undertake a safety briefing and determine that the participants are aware of the risks and are adequately prepared for their activity before they start.
+
+
+### I have attended off-piste downhill skiing activities.
+
+The youth member should participate in off-piste downhill skiing activity and log it in their logbook, indicating where they went, who was with them and what the conditions were like.
+
+
+### I have completed 15 days of skiing by the completion of Stage 7 in a range of conditions.
+
+The youth member must have taken part in at least 15 days of downhill skiing, in a range of different conditions, including different graded slopes. They should log their activities and include the skills demonstrated, where they skied, who they were with and what they learned during the trips. If their two-up peer or skilled skier is not with them, they could video their skills for later review.
+
+
+## Review>
+
+### I can provide feedback to a team of Scouts that I have led on a downhill skiing trip on how we could improve in the future, considering risk management, safety, activities, equipment management, safety, activities, equipment management, location selection, level of difficulty, etc.
+
+The youth member should have a review at the end of their activity and provide constructive feedback to the Scouts on how they could improve their skiing skills and teamwork. 
+ 
+The youth member should also lead the discussion in reviewing their plans and to determine what went well and what could be improved and how they could have improved upon it, considering they will be needing to do their own plans if they wish to further their knowledge on downhill skiing and alpine activities.
+
+
+### I have completed a post-activity and/or trip report for my Unit Council.
+
+The youth member should take the feedback received in the review with their Patrol and document it so that they can use it to refer to when they plan their next activity. Their post-activity and/or trip report can be in any format which is suitable to them and their Unit. They could do a presentation, or it could be a blog or vlog style or even an additional column in their logbook.
+
+
+## Verify
+
+### My logbook is up to date at the end of this stage.
+
+
+### Upload supporting documents
+

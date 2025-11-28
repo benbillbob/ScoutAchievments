@@ -1,0 +1,124 @@
+{
+  "template": "oas/camping/1",
+  "meta": {
+    "stage": 1,
+    "stream": "camping"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 1 - Camping",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "system_buddy_d869d8",
+              "type": "verifiable_checkbox",
+              "label": "I know about the buddy system",
+              "dialog_text": "The youth member should be able to describe what the buddy system is and why using the buddy system assists in safety including: \n * Staying in pairs or threes \n * Making sure they stay with adult Leaders/supervisors \n * Understanding the boundaries at camp \n * That it is important for people to know where they are."
+            },
+            {
+              "id": "where_of_boundaries_out_each_go_time_may_7dddae",
+              "type": "verifiable_checkbox",
+              "label": "I know the boundaries of where I may go each time I go out camping.",
+              "dialog_text": "The youth member needs to know the boundaries at camp including the campsites boundaries, the areas around camp which they are allowed to go, the areas which they are not allowed to go, and other risks around camp."
+            },
+            {
+              "id": "while_lost_stop_camping_7b8102",
+              "type": "verifiable_checkbox",
+              "label": "I know to stop when I get lost while camping.",
+              "dialog_text": "The youth member understands the importance of stopping when they are unsure of where they are, if they do not have a buddy/adult supervision, and can discuss the importance of why they need to stay where they are."
+            },
+            {
+              "id": "fire_need_elements_make_basic_083002",
+              "type": "verifiable_checkbox",
+              "label": "I know the basic elements that you need to make a fire.",
+              "dialog_text": "The youth member should understand the elements of the combustion triangle and should list/show their understanding through the use and explanation of Fuel (kindling, wood), Heat (matches, lighter, flint and steel) and Oxygen."
+            },
+            {
+              "id": "should_of_follow_directions_this_from_activity_leader_759748",
+              "type": "verifiable_checkbox",
+              "label": "I know that I should follow directions from the leader of this activity.",
+              "dialog_text": "The youth member understands the importance of leaders including their Patrol Leaders during activities and around camp and can demonstrate listening to instructions and being a member of a team during a camping activity."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "pack_camp_bag_help_0777f8",
+              "type": "verifiable_checkbox",
+              "label": "I can help pack a bag for camp.",
+              "dialog_text": "The youth member should be able to think about what they need for camp and help pack all appropriate items including clothing, toiletries, bedding, activity gear, swimmers, rain jacket, a light etc. They should know what is inside the bag and how their gear fits within different bags."
+            },
+            {
+              "id": "strike_match_6c3e62",
+              "type": "verifiable_checkbox",
+              "label": "I can strike a match.",
+              "dialog_text": "The youth member should demonstrate striking a match after a discussion and demonstration from a more experienced Scout or adult Leader in preparation for lighting a fire."
+            },
+            {
+              "id": "food_camp_cooking_help_prepare_f67217",
+              "type": "verifiable_checkbox",
+              "label": "I can help prepare food for cooking at camp.",
+              "dialog_text": "The youth member has helped prepare food at camp or a sleep-over including basic safe good handling (washing hands, washing food, proper heating and cooling of food, safe knife handling). The youth member could demonstrate one or all of the above listed techniques."
+            },
+            {
+              "id": "sleepovers_camps_nights_andor_spent_scout_6acd4e",
+              "type": "verifiable_checkbox",
+              "label": "I have spent two nights at camps and/or Scout sleep-overs.",
+              "dialog_text": "The youth member has spent two nights either at camp or at Scout sleep-overs which do not need to be consecutive in which they demonstrate basic camping skills they have learnt and participate in setting up things that would normally be at a standing camp e.g.; a tent, a fire, the food in the kitchen, tables and chairs. This is about the youth member having the experience, if any or all of these are done well or poorly remember it's about the learning not the outcome."
+            },
+            {
+              "id": "set_camp_up_campsite_important_existing_e8bb87",
+              "type": "verifiable_checkbox",
+              "label": "I know why it is important to set up camp in an existing campsite.",
+              "dialog_text": "The youth member should learn about basic minimal impact regardless of wilderness site or caravan park, and learn how to be responsible for their surroundings and equipment so they leave the camp in a better way than they found it."
+            },
+            {
+              "id": "out_area_set_camp_sleeping_a0dc4f",
+              "type": "verifiable_checkbox",
+              "label": "I can set out my sleeping area at camp.",
+              "dialog_text": "The youth member should be able to get our their sleeping bag, roll mat or mattress/stretcher, pillow and make sure their sleeping area and belongings are kept neat and tidy (this can be done at a camp or a Scout sleep-over)."
+            },
+            {
+              "id": "gear_personal_camp_basic_care_overnight_8e6cd5",
+              "type": "verifiable_checkbox",
+              "label": "I can care for my basic personal gear on an overnight camp.",
+              "dialog_text": "The youth member should demonstrate the ability to know where their equipment is and what pieces of gear are their belongings. This can be done at a camp or a Scout sleep-over."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "talk_participating_learnt_camp_improved_enjoyed_sleepover_9bfc40",
+              "type": "verifiable_checkbox",
+              "label": "I can talk about what I enjoyed, learnt, or improved upon by participating in the camp or sleepover.",
+              "dialog_text": "The youth member should be able to think about and discuss with others what they enjoyed about their camp or sleepover and why they enjoyed it."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

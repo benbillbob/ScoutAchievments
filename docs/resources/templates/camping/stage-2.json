@@ -1,0 +1,142 @@
+{
+  "template": "oas/camping/2",
+  "meta": {
+    "stage": 2,
+    "stream": "camping"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 2 - Camping",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "explain_should_clothing_camping_whilst_wear_5d80c7",
+              "type": "verifiable_checkbox",
+              "label": "I can explain what clothing I should wear whilst camping.",
+              "dialog_text": "The youth member should consider the different types of clothing they will need for camp and how to protect themselves from hot and cold conditions. Examples could be: \n * T-Shirts or long sleeves \n * camping shorts or long pants \n * good soled, enclosed shoes for water activities as well as around camp \n * a suitable amount of socks and underwear \n * wet weather gear \n * consideration of fabric types and choices."
+            },
+            {
+              "id": "local_impact_camping_vegetation_explained_b6f617",
+              "type": "verifiable_checkbox",
+              "label": "I have explained what impact I can have on local vegetation when camping.",
+              "dialog_text": "The youth member should know what local vegetation needs to be protected and what species are introduced, around a camping area which they have selected. Consider: \n * What are three ways they can improve the local area vegetation? \n * Three ways they could have a harmful effect on the local vegetation while camping?"
+            },
+            {
+              "id": "discussed_action_case_should_of_accident_appropriate_take_2a9ffa",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed the appropriate action I should take in the case of an accident.",
+              "dialog_text": "The youth member should know that they need to work out if the accident has impacted people or equipment. If someone is seriously injured, they need to call 000 and take appropriate steps to seek emergency assistance."
+            },
+            {
+              "id": "should_discuss_precautions_before_camping_outdoors_safety_going_3730af",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss what safety precautions you should take before going camping outdoors.",
+              "dialog_text": "The youth member should consider risks and then some way to reduce or remove risks while camping. How can proper planning be conducted to reduce risk?"
+            },
+            {
+              "id": "practices_proper_camp_hygiene_a8fbbb",
+              "type": "verifiable_checkbox",
+              "label": "I know about proper hygiene practices at camp.",
+              "dialog_text": "The youth member understands that there are good and bad hygiene practices at camp and can tell a more experienced peer or adult Leader some ways to keep themselves healthy at camp. This could include: \n * washing hands \n * washing cooking equipment properly \n * proper toileting procedures."
+            },
+            {
+              "id": "services_emergency_contact_090e27",
+              "type": "verifiable_checkbox",
+              "label": "I know how to contact the emergency services.",
+              "dialog_text": "The youth member understands how to contact the emergency services through the use of 000 or 112. The following information is from the Australian Government website and should be considered when the youth member answers/demonstrates this skill: \n Stay focused, stay relevant, stay on the line \n \n The Triple Zero (000) service is the quickest way to get the righ emergency service to help you. You can contact Police, Fire, or Ambulance in life threatening or emergency situations. \n \n Assess the situation \n * Is someone seriously injured or in need of urgent medical help? \n * Is your life or property being threatened \n * Have you just witnessed a serious accident or crime? \n * If you answered YES call Triple Zero (000). \n \nMake your call \n * Stay calm and call Triple Zero from a safe place. \n * When your call is answered you will be asked if you need Police, Fire or Ambulance. If requested by the operator, state your town and location. \n * Your call will be directed to the service you asked for. When connected to the emergency service, stay on the line, speak clear and answer the questions. \n * Don't hang up until the operator tells you to do so. \n \nProviding location information: \n * You will be asked where you are. \n * Try to provide street number, street name, nearest cross street and the area. In rural areas give the full address and distances from landmarks and roads as well as the property name. \n * If calling from a mobile or satellite phone, the operator may ask you for other location information. \n * If you make a call while travelling, state the direction you are travelling and the last motorway exit or town you passed."
+            },
+            {
+              "id": "camp_picture_essential_of_bring_equipment_showing_all_280bbd",
+              "type": "verifiable_checkbox",
+              "label": "I can draw and label a picture showing all of the essential equipment to bring on a camp.",
+              "dialog_text": "The youth member can draw, label and/or list all the essentials to take on camp which includes: \n * clothing appropriate for conditions \n * rain gear \n * sun smart gear \n * sleeping/bedding equipment \n * proper footwear \n * toiletries \n * personal light source \n * shelter such as a tent \n The youth member may also choose to draw/list group equipment such as additional shelter, lighting, cooking gear etc."
+            },
+            {
+              "id": "risks_benefits_fire_associated_5ecfe9",
+              "type": "verifiable_checkbox",
+              "label": "I know the benefits and risks associated with fire.",
+              "dialog_text": "The youth member should be able to discuss and list the benefits of fire such as warmth, safety signalling, light, cooking ability etc and also the risks such as burns to humans, fire growing out of control and destroying property and life, too close to tents and embers catching tents alight etc."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "camp_handling_safe_basic_of_importance_demonstrate_hygiene_a5ef63",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate basic safe food handling and the importance of hygiene at camp.",
+              "dialog_text": "The youth member has participated in activities which demonstrate the difference between proper and improper hygiene principles at camp. This can be demonstrated, talked about or thought about by the youth member and brought back to the Unit. The youth member should have knowledge of germs, illness spread at camp, safe personal hygiene as well as hygiene around food."
+            },
+            {
+              "id": "protect_exposed_sun_outdoors_while_myself_d1848a",
+              "type": "verifiable_checkbox",
+              "label": "I can protect myself when exposed to the sun while outdoors.",
+              "dialog_text": "The youth member would be able to demonstrate on a range of activities up until this point their understanding of safe sun protection and should be able to talk about or demonstrate equipment that helps them stay protected from the sun including Slip, Slop, Slap, Slide, Seek principles."
+            },
+            {
+              "id": "camp_around_safely_behave_tents_campfires_ead264",
+              "type": "verifiable_checkbox",
+              "label": "I can behave safely in and around tents and campfires at camp.",
+              "dialog_text": "The youth member should demonstrate: \n * not running through camp and tent areas, \n * not spraying aerosols in the tents, \n * not leaving the tent unzipped, \n * hanging up wet clothes, \n * putting shoes at the door inside, \n * only going in their own tent, \n * staying a safe distance form the fire place, \n * not throwing things in the fire and only placing appropriate materials in the fire. \n \nIt is important the youth member understands why to do these things not just how to do them."
+            },
+            {
+              "id": "bags_explain_need_sleeping_out_aired_demonstrate_cd915c",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate and explain why sleeping bags need to be aired out.",
+              "dialog_text": "The youth member should be able to un-zip a sleeping bag and place it in an appropriate place for airing (shade or light sun, cross breeze away from moisture). The youth member should be able to talk about sweating, hygiene, and the difference between something that can be washed regularly or not."
+            },
+            {
+              "id": "camp_stage_tent_nights_spent_this_829365",
+              "type": "verifiable_checkbox",
+              "label": "I have spent two nights on camp in a tent at this stage.",
+              "dialog_text": "The youth member should spent two nights at camp. This does not matter if it is consecutive or not. Remember that this will need to be logged in their log book."
+            },
+            {
+              "id": "main_tent_help_parts_up_of_set_identify_09d10b",
+              "type": "verifiable_checkbox",
+              "label": "I can help set up a tent and identify the main parts of a tent.",
+              "dialog_text": "The youth member has demonstrated helping set up a tent they have slept in and can name the base, fly, poles, pegs, guy ropes and locate, when putting up the tent, its door, air vents, vestibule, and other key features."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "talk_improved_least_learnt_from_enjoyed_camps_1c9629",
+              "type": "verifiable_checkbox",
+              "label": "I can talk about what I enjoyed, learnt, and improved upon from at least two camps.",
+              "dialog_text": "The youth member should be able to Review> their experiences from camp and talk about the things listed. If the youth member would like to talk with a peer, adult, one person or many that does not matter. It's more about the youth member's reflection than anything else. The SPICES cards or Review> Ball would be useful during this Review> period."
+            },
+            {
+              "id": "camp_new_more_differently_suggest_would_safer_enjoy_7a46be",
+              "type": "verifiable_checkbox",
+              "label": "I can suggest what I would do differently on a future camp to enjoy it more, to be safer, or to learn new things.",
+              "dialog_text": "The youth member, similarly to the above Review> point, should reflect on their experience and come up with suggestions to make it better or safer. This does not need to be a hard task and could be as simple as commenting on the fire or guy line placement, hygiene standards, having different activities, and also why these suggestions are being made."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

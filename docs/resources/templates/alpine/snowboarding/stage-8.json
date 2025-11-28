@@ -1,0 +1,124 @@
+{
+  "template": "oas/alpine/snowboarding/8",
+  "meta": {
+    "stage": 8,
+    "stream": "snowboarding"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Snowboarding",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "trails_important_stick_outdoors_9e7554",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another Scout with planning an overnight snowboarding and/or ski trip.",
+              "dialog_text": "The youth member needs to demonstrate they know what is required to plan for an overnight snowboarding trip based on their 'I' statements from Stages 1-7. They should be able to effectively pass this knowledge on to another Scout, working on a lower stage. \n \nThe youth member will know if they are successful in their teachings when that Scout is able to demonstrate successfully planning a snowboarding trip."
+            },
+            {
+              "id": "buddy_system_4bb59d",
+              "type": "verifiable_checkbox",
+              "label": "I can make recommendations to improve group equipment.",
+              "dialog_text": "The youth member is required to use their experience and knowledge gained over the last seven (7) stages to recommend improvements to the groups snowboarding equipment based on their needs and the objectives of the activities planned."
+            },
+            {
+              "id": "lost_activities_stop_1456d9",
+              "type": "verifiable_checkbox",
+              "label": "I can plan for an off-piste snowboarding trip.",
+              "dialog_text": "The youth member is required to have planned an off-piste downhill snowboarding trip in Stage 7. At this stage, they should review their previous plans and then improve upon them. \n \nThey should ensure their plan has all the relevant risk management controls, emergency contingency plans, that their routes are clearly defined and easy for their home-based support to determine their location if the need arises. \n \nRemember that one element of the Scout Method is Patrol system, so they don't need to do everything themselves. Working in a small team will help them enjoy their planning and with the Patrol's input into the plan, it will be a fantastic trip. They will need to have their plan reviewed and approved by a highly skilled snowboarder. \n \nTheir snowboard trip may include overnight camping, or may be 'resort-based' and equate to a weekend away at the snow in 'chalet' accommodation, snowboarding each day."
+            },
+            {
+              "id": "location_address_emergency_8d91a1",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt additional information on how weather and snow conditions will affect my snowboarding and have shared this with my activity Patrol.",
+              "dialog_text": "The youth member is required to research to extend their current knowledge on weather and snow conditions and share their learnings with their Patrol. They should always be checking the likely weather conditions when initially drafting their plan, two weeks out, one week out and just before their activity. They also need to demonstrate reading changes in weather while on any snowboarding trips at this stage."
+            },
+            {
+              "id": "sleeping_outdoors_shelter_reasons_7eff9b",
+              "type": "verifiable_checkbox",
+              "label": "I have researched additional snowboarding techniques and/or tricks that I would like to learn.",
+              "dialog_text": "The youth member should review the snowboarding techniques that they are already familiar with, then research additional skills and techniques that they have yet to learn and discuss these with their mentor. They should choose a skill they are going to focus on during this stage."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "strike_match_d5a963",
+              "type": "verifiable_checkbox",
+              "label": "I can carry out field repairs on snowboards and boots in snow conditions.",
+              "dialog_text": "The youth member should have a small repair kit in their pack to carry out emergency field repairs in case things get broken. They should design their kit, taking into consideration their personal gear and resources and carry what they need to do the repairs."
+            },
+            {
+              "id": "preparing_sticks_campfire_collect_cd805e",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the Outdoor Adventure Skills, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses."
+            },
+            {
+              "id": "safe_campfire_around_ffd83b",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a less experienced Scout in advancing their skills in at least three of the requirements from Stage 6 or below.",
+              "dialog_text": "The youth member is required to mentor Stage 6 or below Scouts by sharing knowledge and demonstrating how to perform certain skills that they need development in."
+            },
+            {
+              "id": "basic_participated_skills_navigational_game_852047",
+              "type": "verifiable_checkbox",
+              "label": "I have practised a range of safe snowboarding techniques in off-piste conditions, demonstrating efficient movement and coordination, while negotiating hazards and maintaining balance and control.",
+              "dialog_text": "The youth member should have progressed from intermediate terrain to advanced terrain and off-piste terrain, demonstrating their improved skills to a higher skilled snowboarder. They should log their activities, noting the skills they are practicing and techniques they are able to consistently execute."
+            },
+            {
+              "id": "clothesline_clove_camp_knot_hang_hitch_2a500f",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a night snowboarding activity.",
+              "dialog_text": "The youth member should participate in a night snowboarding activity, taking into consideration the additional risks regarding hazards and communication with their party."
+            },
+            {
+              "id": "pack_correctly_away_ropes_3ebfdb",
+              "type": "verifiable_checkbox",
+              "label": "I have taught a Patrol snowboarding techniques that I have learnt in previous stages.",
+              "dialog_text": "The youth member should find Scouts who are interested in the Alpine Outdoor Adventure Skills, in particular snowboarding, and work with them to assist them in learning snowboarding techniques they have developed through their dedication to snowboarding."
+            },
+            {
+              "id": "kit_mess_keep_bag_dilly_camp_clean_68dc57",
+              "type": "verifiable_checkbox",
+              "label": "I have completed 20 days of snowboarding by the completion of Stage 8.",
+              "dialog_text": "The youth member is required to have participated in at least 20 days of snowboarding by the end of this Stage. They need to log their activities and include their role in the activity (did they participate, assist or lead), the skills demonstrated, where they did their skiing, who they were with and what they learned during the trips. They could also include photographs of their trips."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "learnt_talk_improved_enjoyed_playing_navigational_game_32836d",
+              "type": "verifiable_checkbox",
+              "label": "I have mentored other Scouts by supporting them to experience alpine adventures, shared learnings (aside from hard skills) from my own journey, and understand the benefits of completing a logbook entry for their alpine adventures.",
+              "dialog_text": "The youth member should determine who is interested in alpine adventures and involve them in activities they plan. They should also show them their logbook, talk about the adventures and explain the importance of keeping a log, which is not only as evidence of their skills and experiences but also a reminder of the amazing adventures they have been on."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

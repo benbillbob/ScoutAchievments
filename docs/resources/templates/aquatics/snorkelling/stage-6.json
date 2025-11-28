@@ -1,0 +1,106 @@
+{
+  "template": "oas/aquatics/snorkelling/6",
+  "meta": {
+    "stage": 6,
+    "stream": "snorkelling"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 6 - Snorkelling",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "plan_snorkelling_trip_9fa6c4",
+              "type": "verifiable_checkbox",
+              "label": "I can plan a snorkelling trip, including equipment, food, transportation and swimming route.",
+              "dialog_text": "The youth member should be able to effectively plan a snorkelling trip. They will need to document their plan and include emergency plans, required personal and group equipment, suitable food, transportation and their swimming route.  They should ensure that they go through the correct activity approval processes for their Branch and/or Group."
+            },
+            {
+              "id": "taught_less_experienced_scouts_equipment_9e84dd",
+              "type": "verifiable_checkbox",
+              "label": "I have taught a less-experienced Scout how to use their snorkelling equipment.",
+              "dialog_text": "The youth member should be able to effectively pass on knowledge about how to use snorkelling gear on to another Scout, working on a lower stage. Essential skills would be how to correctly fit a mask, snorkel and fins. They will know if they are successful in their teachings if that Scout is able to use their equipment properly."
+            },
+            {
+              "id": "discuss_tides_coastal_areas_water_behaviour_14f522",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss tides and currents in coastal areas, and water behaviour in rivers and creeks, and how this may impact on my snorkelling.",
+              "dialog_text": "The youth member should be able to demonstrate understanding by discussing with a two-up peer or suitably skilled mentor.  If their activity is being run on the coast then they should demonstrate knowledge of the effect of tide and currents, and how this will impact their snorkelling activity. If their activity is being run in non-tidal areas then they should be able to discuss impact of water behaviour including currents and potential for significant temperature gradients."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "identifY_five_species_aquatic_environment_37aa69",
+              "type": "verifiable_checkbox",
+              "label": "I can identify five species in my local or regular aquatic environment (either on the surface or underwater), including hazardous species.",
+              "dialog_text": "The youth member should research aquatic species in their area and be able to identify these to their Patrol. They can either point out the species in the outdoors or they could use other techniques such as sample cards, photos or videos on an electronic device."
+            },
+            {
+              "id": "demonstrate_effective_duck_diving_303a80",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate effective duck diving.",
+              "dialog_text": "The youth member should be able to effectively do the following: \n * Take a large breath of air and hold it \n * Snorkel out to pre-equalise then reach out with their arms and hinge at the waist, so their head and arms are pointing down \n * Put their feet together and lift them up in the air \n * Using their arms to pull themselves down (use one hand to equalise) then use their legs to fin downwards. \n \nThey should aim to duck dive to a depth of approximately 2.5 meters and should not need to lift their head from the water on resurfacing."
+            },
+            {
+              "id": "remain_in_water_half_hour_5a8124",
+              "type": "verifiable_checkbox",
+              "label": "I can stay in the water continuously for half an hour without touching an edge or bottom, alternating between finning, treading water and floating as required.",
+              "dialog_text": "The youth member should write this in their logbook and include the conditions and details of their Patrol, and get it verified by their two-up peer."
+            },
+            {
+              "id": "completed_12_snorkelling_activities_91d199",
+              "type": "verifiable_checkbox",
+              "label": "I have completed 12 snorkelling activities by the completion of Stage 6 snorkelling.",
+              "dialog_text": "The youth member needs to participate in at least twelve (12) snorkelling activities and log them in their logbook. Their snorkelling activities should include the preparation, briefing and clean up with a minimum of 1 hour in the water per activity. Activities at Stage 6 should include not touching the bottom or edges for at least 30 minutes. Their logbook should include where they did the activities, who they did them with, what the weather was like and any other interesting information about their activities."
+            },
+            {
+              "id": "assisted_scouts_learning_snorkel_open_water_38ba97",
+              "type": "verifiable_checkbox",
+              "label": "In conjunction with a qualified person, I have assisted with Scouts learning to snorkel in open water.",
+              "dialog_text": "The youth member should write up their activity in their logbook, indicating how they helped and who was present. They may need to organise this through a local snorkelling school or a Scout activities team through their Branch."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "presentation_group_earlier_stages_snorkelling_activity_d0d693",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts from earlier stages on a snorkelling activity I have completed.",
+              "dialog_text": "The presentation should be around three minutes long and may be in person or as a pre-recorded video followed by questions. Including their photos of marine life would be an excellent optional extra to enhance their presentation. \nThe content of the reflection is at their discretion and the purpose of the presentation is to encourage non-snorkelling Scouts to become excited about snorkelling."
+            },
+            {
+              "id": "demonstrate_correct_maintenance_equipment_f89b1f",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the correct maintenance of equipment following the conclusion of a snorkelling activity.",
+              "dialog_text": "The youth member should demonstrate correctly cleaning and packing away group gear after a snorkelling activity. If any equipment is damaged they should ensure it is reported to their Leader so it can be fixed or replaced."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

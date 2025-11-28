@@ -1,0 +1,140 @@
+---
+sourceUrl: file://resources/templates/vertical/climbing/stage-8.json
+stream: vertical/climbing
+stage: 8
+version: 3
+lastFetchedAt: 2025-11-28T02:12:21.401Z
+checksum: f4d336e6270b6c8007f3b25f536c2a425695cda146dfc3778aca0c8e75624efb
+---
+
+# Stage 8 - Vertical / Climbing
+
+## Plan>
+
+### I can teach another youth how to prepare for a single pitch climbing expedition.
+
+The youth member should know what is required to prepare for a single climbing expedition based on their 'I-statements' from Stages 1-7. The youth member should be able to effectively pass this knowledge on to another Scout, supporting them in their skill development and learning working on a lower stage. 
+ 
+If it has been a while since the youth member prepared for a climbing expedition they should brush up on their skills and look back on their previous activity reviews. 
+ 
+It is expected that the activity would go for a full one or two days at this Stage.
+
+
+### I can plan for best practise minimal impact activities and can assist a Stage 6 Scout or lower on why site and activity specific minimal impact is important in climbing activities.
+
+The youth member should know minimal impact best practice is and be able to assist a Scout working on Stage 6 or lower the importance when climbing. The youth member should refer to the Scout Environmental Charter and be able to discuss the following with regards to Climbing: 
+ * Living sustainable lives by taking action to reduce negative impacts 
+ * Protecting and improving biodiversity 
+ * Learning about the environment and inspiring others 
+ * Enjoying and connecting 
+ * Thinking global, acting local
+
+- Living sustainable lives by taking action to reduce negative impacts
+- Protecting and improving biodiversity
+- Learning about the environment and inspiring others
+- Enjoying and connecting
+- Thinking global, acting local
+
+
+### I can teach another Scout how to plan a single pitch climbing activity in unfamiliar territory using the appropriate tools.
+
+The youth member should know what is required to plan for a single pitch climbing activity based on their 'I-statements' from Stages 1-7. The youth member should be able to effectively pass this knowledge on to another Scout, working on a lower stage to support them in their learning. This can be a couple of hours of activity, skill development, rescue practise or supporting them to run a climbing activity for a Patrol/ Unit of less experienced Scouts.
+
+
+### I can research different lead climb equipment and the applications for use.
+
+The youth member should research and provide relevant information about lead climbing equipment selection for their lead climbing activity, including the reasons for their choices.
+
+
+### I can plan my personal equipment and consider needs for group equipment for a lead climb activity.
+
+The youth member should know what is required to be packed for a lead climbing activity, taking into consideration the location and itinerary for the activity. 
+ 
+The youth member will also need to take into consideration group items which will be needed for the party such as gear, additional water, first aid items, and rescue gear. The youth member can discuss this with a skilled lead climber and their Project Patrol for this activity.
+
+
+## Do>
+
+### I have successfully completed the Wilderness First Aid skill set.
+
+The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the Outdoor Adventure Skills, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: 
+ * HLTAID011 Provide first aid 
+ * SISOFLD004 Provide first aid in remote locations 
+ * SISXEMR002 Coordinate emergency responses.
+
+- HLTAID011 Provide first aid
+- SISOFLD004 Provide first aid in remote locations
+- SISXEMR002 Coordinate emergency responses.
+
+
+### I have climbed at a top rope climbing site where I have set up all the anchor and belay systems.
+
+The youth member will need to demonstrate multiple full top rope climbing set-up using the appropriate knots, and ensure that a skilled climber has checked the youth member's set up before others test the lines. This should be indicated in their log and ensure the skilled climber has been noted as the verifier. Ideally this would be completed during a climbing skills day the youth member was leading.
+
+
+### I have seconded a climb, removing lead equipment.
+
+The youth member should ensure they follow all the safety protocols on their climbing activity. The youth member will need to log the climb in their logbook. The youth member should include when they did this climb, where they did the climb, who they did this with and any other information about the day. It is suggested the youth member starts lead climbing on low grades and with other skilled lead climbers to gain good technique.
+
+
+### I have set up a top rope climbing site and managed and/or assisted beginner climbers learning to climb at that site.
+
+The youth member will need to demonstrate a full top rope climbing set-up using the appropriate knots, and ensure they follow all the safety protocols and check the youth member's set up before they test the lines. The youth member should demonstrate assisting beginner climbers learning to climb using their set up.
+
+
+### I have determined an appropriate climbing activity plan according to participants' needs and characteristics, and by following relevant legislation and organisational policies and procedures.
+
+The youth member should draft a plan in order to teach climbing Scouts. The youth member's climbing activity and teachings should be based on the group needs and the youth member should ensure they follow relevant legislation and organisational policies and procedures.
+
+
+### I have monitored participants safety and performance while climbing and belaying and can provide appropriate feedback.
+
+The youth member should demonstrate that they are able to monitor their participants safety and their skill performance when they are climbing and belaying. The youth member should demonstrate providing effective constructive feedback where necessary so they can extend on their climbing skill.
+
+
+### I have led vertical rescue drills, lasting half a day at least, demonstrating rescue skills that include self-rescue, lower, and a haul system rescue.
+
+The youth member needs to plan and lead these climbing rescue drills, ideally with the help of a Scout working on Stage 7. The youth member should ensure they log their rescue drills indicating that they have undertaken these skills. The youth member should also include in their log where they did the climbing activities, who they did them with, and who the skilled verifier was for this activity.
+
+
+### I have developed contingency plans for climbing activities using detailed weather and environmental information gathered from relevant sources.
+
+The youth member should demonstrate their ability to obtain and interpret detailed weather and environmental information which is relevant to climbing and the location they are planning to run their activity or expedition. The youth member should also include contingency plans should the weather impact on their activity.
+
+
+### I have received feedback and evaluated relevant aspects of climbing sessions, and determined the level of learning achieved.
+
+The youth member should actively request feedback from the participants on climbing activities to ascertain learnings by the participants. They should evaluate the aspects of the sessions with their participants as well as self-assess as to how the activities went and if they met the intended activity/session goals.
+
+
+### I apply clear and accurate instructional techniques to impart activity specific knowledge, climbing skills and safety and rescue procedures.
+
+The youth member needs to demonstrate their instructional techniques based on their activity plan they have developed. The youth member will know if they are successful in their teachings if the Scouts attending the climbing activity understand what the youth member has told/ demonstrated to them and are able to demonstrate the climbing skills, safety and rescue procedures that the youth member has taught them, and feedback on the sessions should be a good indicator of where the youth member can improve.
+
+
+### I have participated in a lead climbing activity.
+
+The youth member needs to complete and log a lead climbing activity. The youth member should include in their log where they did the activity, who they did the activity with, how high the climb was, and, if they were graded, how difficult they were.
+
+
+### I have built an appropriate anchor using lead climbing equipment to belay someone while they are seconding.
+
+The youth member will need to demonstrate building an appropriate lead climbing anchor after they have led a pitch of a climb. The youth member will need to build their anchor out of lead climbing equipment such as cordulette, hexes, cams, and quick draws and demonstrate its use once they have completed the build. It is suggested the youth member practices this skill multiple times on the ground and in controlled environments before needing to do it on a climb.
+
+
+## Review>
+
+### I have mentored other Scouts by supporting them to experience climbing expeditions and understanding the benefits of completing a logbook entry for their vertical adventures.
+
+The youth member should mentor other Scouts working on lower Vertical Outdoor Adventure Skills Stages and assist them in the assessing of Scouts working two Stages below them. The youth member will need to ensure that they understand the need and benefits in completing logbook entries after every activity or expedition.
+
+
+## Verify
+
+### My logbook is up to date at the end of this stage.
+
+
+### Upload supporting documents
+
+_Each file should be less than 10MB in size._
+

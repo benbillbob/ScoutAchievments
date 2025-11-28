@@ -1,0 +1,142 @@
+{
+  "template": "oas/boating/2",
+  "meta": {
+    "stage": 2,
+    "stream": "boating"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 2 - Boating",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "correct_PFD_selection_95296c",
+              "type": "verifiable_checkbox",
+              "label": "I can select the correct PFD for me.",
+              "dialog_text": "The youth member should be able to correctly select the right size PFD for themselves considering their height, weight etc."
+            },
+            {
+              "id": "put_on_adjust_PFD_bf6834",
+              "type": "verifiable_checkbox",
+              "label": "I can put on and adjust my PFD.",
+              "dialog_text": "The youth member should be able to correctly put on and adjust their PFD. They should make sure that they do up all the clips, buckles and zips on their PFD. They can demonstrate the correct fit by holding the shoulder straps and lifting, they shouldn’t go above their ears."
+            },
+            {
+              "id": "discuss_safety_precautions_725944",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss what safety precautions we should take before going out on the water.",
+              "dialog_text": "The youth member should be able to discuss how to stay safe when going on the water. They should include things like weather and tides, and consider their location and who they are with too. Scouts working on Stage 4 can help them."
+            },
+            {
+              "id": "explain_importance_wearing_right_clothing_087089",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the importance of wearing the right clothing and safety gear while boating.",
+              "dialog_text": "The youth member should be able to describe what clothes they should wear and why they feel that these are the correct clothes to wear during a boating activity. They will need to consider the weather, climate and type of watercraft they will be using."
+            },
+            {
+              "id": "describe_four_appropriate_actions_518e98",
+              "type": "verifiable_checkbox",
+              "label": "I can describe four appropriate actions I should take if I capsize a sailboat or rowboat.",
+              "dialog_text": "The youth member should describe the appropriate actions to make sure they stay safe when capsizing. They will need to consider their location and who they are with and whether this changes their actions."
+            },
+            {
+              "id": "signal_help_631a63",
+              "type": "verifiable_checkbox",
+              "label": "I know how to signal for help.",
+              "dialog_text": "The youth member should discuss their communication with the leader of the boating activity, as this can vary. Some common signals for help are waving their hand and calling 'help' or blasting their whistle 3 times (SOS)."
+            },
+            {
+              "id": "label_diagram_describing_essential_equipment_ca631e",
+              "type": "verifiable_checkbox",
+              "label": "I can label a diagram describing all of the essential equipment required for boating activities.",
+              "dialog_text": "The youth member diagram should include water, food, clothing, first aid kit, sun safe gear, PFD, any emergency gear they see important, watercraft and equipment required for their chosen watercraft."
+            },
+            {
+              "id": "tie_knot_helping_boating_trip_31379a",
+              "type": "verifiable_checkbox",
+              "label": "I can tie a knot that will help me on a boating trip.",
+              "dialog_text": "The youth member should learn a knot specific to boating. A bowline is a great knot, or they could choose a fisherman's knot, a truckers hitch or a half hitch. They should be able to discuss the use of their chosen knot in relation to boating."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "swim_25_meters_PFD_0e6870",
+              "type": "verifiable_checkbox",
+              "label": "I can swim 25 metres wearing my PFD.",
+              "dialog_text": "The youth member should be able to swim 25 metres while correctly wearing their PFD."
+            },
+            {
+              "id": "protect_myself_exposing_sun_elements_0c6394",
+              "type": "verifiable_checkbox",
+              "label": "I can protect myself when exposed to the sun and other elements.",
+              "dialog_text": "The youth member should demonstrate suitable clothing for the activity and location, including long-sleeved tops suitable for water activities, the potential need for long legged pants, hat, sunscreen and sunglasses."
+            },
+            {
+              "id": "rig_boat_45a354",
+              "type": "verifiable_checkbox",
+              "label": "I can rig my boat with help and then practise getting into and out of my boat safely.",
+              "dialog_text": "The youth member should demonstrate correctly rigging their boat with help from others, ask a Stage 4 Scout to help or adult. They should also practice safely getting in and out of their boat."
+            },
+            {
+              "id": "participated_two_boating_trips_391c5f",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in at least two boating trips at this stage.",
+              "dialog_text": "The youth member should take part and log two boating activities of at least 1.5 hours each at this stage. These can be done on a section night or on a special planned activity or camp."
+            },
+            {
+              "id": "sit_role_boat_45a354",
+              "type": "verifiable_checkbox",
+              "label": "I can show where I should sit in my boat and I know my role when I’m in the boat.",
+              "dialog_text": "The youth member should correctly demonstrate where they should be sitting based on their role in the boat. They should also be able to discuss what their responsibilities are in the boat."
+            },
+            {
+              "id": "clean_boat_storing_391c5f",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to clean down my boat before storing it.",
+              "dialog_text": "The youth member should demonstrate how to clean their boat before storing it."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "discussed_enjoyed_learnt_improved_two_boating_trips_98b27e",
+              "type": "verifiable_checkbox",
+              "label": "I have talked about what I enjoyed, learnt, or improved upon from at least two boating trips.",
+              "dialog_text": "The youth member should talk about their favourite things about their boating trips in their log. They could talk to their Patrol, Unit, leader and it could be at Unit Council or even around a campfire."
+            },
+            {
+              "id": "suggest_improvements_review_boating_activity_98b27e",
+              "type": "verifiable_checkbox",
+              "label": "I can suggest what could be done differently on a future boating activity, to enjoy it more, to be safer, or to learn new things.",
+              "dialog_text": "The youth member should review their boating activities. Their discussion could include things they forgot, where they could go next time and how they challenge themselves further."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "template": "oas/bushcraft/pioneering/8",
+  "meta": {
+    "stage": 8,
+    "stream": "pioneering"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Pioneering",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "procedures_their_working_stage_mentored_impact_of_scout_fe667e",
+              "type": "verifiable_checkbox",
+              "label": "I have mentored a Scout working on Stage 6 with one of their pioneering projects, including minimal impact procedures.",
+              "dialog_text": "The youth member should assist and guide a Scout who is undertaking a Stage 6 pioneering project, and guide them through the common pitfalls and challenges that they will likely encounter at that Stage."
+            },
+            {
+              "id": "around_consideration_such_piece_of_play_legislation_so_93d3af",
+              "type": "verifiable_checkbox",
+              "label": "I have designed a piece of play equipment and while doing so have taken into consideration legislation around such equipment.",
+              "dialog_text": "The youth member should research and design a fun pioneering element. \n \n'Play equipment' could include: \n * Climbing frame \n * Bouldering wall \n * A-frame \n * Suspension bridge \n * Obstacle course \n \nThe youth member needs to put together a plan, based on a design, including risk mitigation for the pioneering equipment."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "team_successfully_river_led_of_construct_design_span_65a7fb",
+              "type": "verifiable_checkbox",
+              "label": "I have led a team of Scouts to successfully design and construct a bridge to span over a river or creek.",
+              "dialog_text": "The youth member should research and design a bridge which suits their location and the resources available. \n \nThe youth member should use a pivot to traverse the river, and then build the bridge supports on either bank. \n \nThe bridge may have a rope based crossing, or if adequate materials are available, a wooden crossing. \n \nThe youth member will need to ensure that the anchors on each end of the bridge are secure, and also that the span across the river is appropriately supported. \n \nConsider where there might need to be a bridge in the local area or scout hall, alternatively a mock river could be utilised to achieve the goal.  \n \nConsider safety measures and regulations for this task as part of the activity plan."
+            },
+            {
+              "id": "eye_splice_threestrand_short_back_rope_eca535",
+              "type": "verifiable_checkbox",
+              "label": "I can back splice, short splice and eye splice a three-strand rope.",
+              "dialog_text": "The youth member will need to be able to successfully splice rope using these three methods. \n \nA back splice is used at the end of a rope to prevent it from fraying. \n \nA short splice is used as a firm join between two lengths of rope to lengthen it.  \n \nAn eye splice is used to provide a loop in rope that can be secured when mooring a boat, towing something, or securing a load. \n \nAll splices may struggle to be created using synthetic/polymer based ropes, due to the lack of friction these ropes have, and so in some cases it is best to use rope made from cord or a natural fibre."
+            },
+            {
+              "id": "bush_spars_of_shelter_dining_from_built_materials_cba90b",
+              "type": "verifiable_checkbox",
+              "label": "I have built a 10-person camp dining shelter, protected on all sides from the weather, with the use of materials found in the bush, rope, plastic sheeting & spars.",
+              "dialog_text": "The youth member should assist in the building of a 10-person dining shelter. During design and construction, consider the weather conditions which main shelter elements must protect from. These include: \n * Strong wind \n * Rain \n * Dust \n * Condensation \n \nIt is unlikely that the shelter will be able to protect the insides from snow, sleet or heavy rain, however if the the youth member is up for a challenge then this is encouraged. \n \nMake sure that the frame of the shelter is constructed using reliable natural materials that are strong enough to withstand harsh weather."
+            },
+            {
+              "id": "plant_least_made_metre_threestrand_of_products_natural_923be1",
+              "type": "verifiable_checkbox",
+              "label": "I have made at least 1 metre of three-strand rope from only natural plant products found outdoors.",
+              "dialog_text": "The youth member could consider the following natural plant products for a 3-strand rope: \n * Vines \n * Wild grasses \n * Certain tree barks \n * Sea weed \n \nThe fibres are likely to need to be quite fresh or green at the time of splicing so that they form a strong rope. Make sure that no materials are stripped from living trees or plants, as this is damaging to them and the ecosystem."
+            },
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the OAS, the Wilderness First Aid skillset (SISSS00126) includes: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses \n(or their replacement)."
+            },
+            {
+              "id": "been_pioneering_completion_stage_involved_of_large_8_5dfa73",
+              "type": "verifiable_checkbox",
+              "label": "I have been involved in 10 large scale pioneering projects at the completion of Stage 8.",
+              "dialog_text": "The youth member should have been involved in ten major pioneering projects.  A major project is primarily defined by size of structure (5 metres by 10 metres) and also the length of time that is required for its construction. Projects should take approximately 6 hours each, including planning."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "been_its_plan_met_of_needs_development_pioneering_49e1d8",
+              "type": "verifiable_checkbox",
+              "label": "I can describe a pioneering  plan and how the needs of participants have been met in its development.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

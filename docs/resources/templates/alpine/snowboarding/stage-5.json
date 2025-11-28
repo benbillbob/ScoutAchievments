@@ -1,0 +1,154 @@
+{
+  "template": "oas/alpine/snowboarding/5",
+  "meta": {
+    "stage": 5,
+    "stream": "snowboarding"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 5 - Snowboarding",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "skills_adventure_each_stage_of_outdoor_5_core_9445c7",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 in each of the Core Outdoor Adventure Skills.",
+              "dialog_text": "The youth member will need to have completed Stage 5 and below in Bushcraft (Survival Skills stream), Bushwalking and Camping."
+            },
+            {
+              "id": "environmental_weather_sources_interpret_information_relevant_access_a1db35",
+              "type": "verifiable_checkbox",
+              "label": "I can access relevant sources to interpret weather and environmental information.",
+              "dialog_text": "The youth member should build on the skills they gained in Stage 3 Alpine, where they demonstrated how to get different weather forecasts. They should be able to interpret the weather and environmental information sourced to support planning their activities. They should demonstrate these skills for at least one snowboarding trip."
+            },
+            {
+              "id": "defined_follow_ski_trails_resorts_ec7703",
+              "type": "verifiable_checkbox",
+              "label": "I follow defined trails on ski resorts.",
+              "dialog_text": "The youth member should describe why they should stay on defined trails and demonstrate this while snowboarding. They must provide evidence to their two-up peer for review or to another skilled snowboarder on the trip."
+            },
+            {
+              "id": "action_associated_take_identify_alpine_hazards_possible_risks_136f04",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated within an alpine environment and I know how to take action to minimise these risks.",
+              "dialog_text": "The youth member should discuss identifying the difference between a hazard and a risk. They should provide a hazard assessment to do with alpine environments and will need to account for: \n * Human hazards \n * Environmental hazards \n * Equipment hazards \n \nThey should include in their plan what steps they will take to minimise these hazards during an activity. They should consider the risks that may come from these hazards and how they will mitigate these on an activity. This step could be done as a Patrol or by an individual before a snowboarding trip, and should build on any risk mitigation that occurred in Stage 4."
+            },
+            {
+              "id": "equipment_transportation_location_prepare_activity_safe_494513",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare equipment for safe transportation to an activity location.",
+              "dialog_text": "The youth member should be able to plan safe transportation of snowboarding equipment, depending on where the activity will be and who will be going. This should be done for the whole activity and can be planned by a Patrol or individual depending on who is attending the activity and what stages they are working on."
+            },
+            {
+              "id": "where_selection_snowboarding_appropriate_information_find_equipment_475d1d",
+              "type": "verifiable_checkbox",
+              "label": "I know where to find information about appropriate snowboarding equipment selection.",
+              "dialog_text": "The youth member will need to research and list multiple sources of information on appropriate snowboarding equipment selection for Australian conditions."
+            },
+            {
+              "id": "equipment_trip_including_weekend_pack_able_protective_layer_3c79be",
+              "type": "verifiable_checkbox",
+              "label": "I am able to pack the appropriate clothing and equipment for a weekend snowboarding trip, including knowing how to layer clothing and select the right protective clothing.",
+              "dialog_text": "The youth member should pack for, and participate in, a two-day snowboarding trip, where snowboarding is the primary activity and objective. The two-day snowboarding trip should include roughly four (4) to five (5) hours of snowboarding each day, staying in a campground or accommodation (ski chalet). This can be done over a two-day weekend, or over an extended period if travelling is easier."
+            },
+            {
+              "id": "responsibility_impact_sport_protection_regulations_of_snow_safety_78fe5c",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the Alpine Responsibility Code, snowboarding practices, snow sport area signs and regulations and minimal impact codes to ensure safety and protection of the environment.",
+              "dialog_text": "The youth member should be able to explain and demonstrate the Alpine Responsibility Code, as well as the signage and regulations for the area where they are undertaking the activity."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "including_aid_from_course_provide_recognised_successfully_provider_b9b3f7",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed* a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "good_working_appropriate_checked_selected_order_equipment_463b68",
+              "type": "verifiable_checkbox",
+              "label": "I have selected appropriate equipment and checked it is in good working order.",
+              "dialog_text": "The youth member should select suitable equipment and be able to discuss the reasons they chose that equipment, taking into consideration construction, design and environmental impact. They will need to check any equipment they are using to make sure it is in good working order."
+            },
+            {
+              "id": "degree_demonstrate_movement_balance_of_whilst_snowboarding_coordination_8bd1a3",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a degree of balance, movement and coordination whilst snowboarding.",
+              "dialog_text": "The youth member should be demonstrating their improved skills to their two-up peer or other skilled skier for review. The youth member can demonstrate these skills either in person or they could video their snowboarding for review at a later time."
+            },
+            {
+              "id": "body_adjust_stance_snowboarding_whilst_f71abe",
+              "type": "verifiable_checkbox",
+              "label": "I can adjust my body stance whilst snowboarding.",
+              "dialog_text": "The youth member should be demonstrating their skills to their two-up peer or other skilled snowboarder. The youth member can demonstrate these skills either in person or they could video their snowboarding for review at a later time."
+            },
+            {
+              "id": "shape_runs_turns_through_beginner_of_traversing_green_593c94",
+              "type": "verifiable_checkbox",
+              "label": "I can control my speed on beginner terrain (green runs) by traversing and through the shape of my turns.",
+              "dialog_text": "The youth member should demonstrate speed control to their two-up peer. The youth member can demonstrate these skills either in person or they could video their snowboarding for review at a later time."
+            },
+            {
+              "id": "turn_blend_snowbaord_basic_movements_of_slope_link_ab60cb",
+              "type": "verifiable_checkbox",
+              "label": "I can link a basic turn on a slope, showing a blend of movements on my snowboard.",
+              "dialog_text": "The youth member should demonstrate basic turns to their two-up peer. The youth member can demonstrate these skills either in person or they could video their snowboarding for review at a later time."
+            },
+            {
+              "id": "snowboard_board_blend_showing_movements_across_of_slope_897267",
+              "type": "verifiable_checkbox",
+              "label": "I can control speed by turning the board across the slope, showing a blend of movements on my snowboard.",
+              "dialog_text": "The youth member should demonstrate basic turns to their two-up peer. The youth member can demonstrate these skills either in person or they could video their snowboarding for review at a later time."
+            },
+            {
+              "id": "personal_take_safety_snowboarding_of_measures_others_guard_0c6f89",
+              "type": "verifiable_checkbox",
+              "label": "I can take measures to guard my personal safety and the safety of others whilst snowboarding.",
+              "dialog_text": "The youth member should always consider their personal safety and the safety of others, taking into consideration the environment around them, their equipment and others. They need to demonstrate this care and consideration on their snowboarding trips."
+            },
+            {
+              "id": "6_skills_develop_this_six_through_end_days_d66ca4",
+              "type": "verifiable_checkbox",
+              "label": "I have continued to further develop my snowboarding skills through a minimum of six (6) days snowboarding by the end of this stage.",
+              "dialog_text": "The youth member should have completed at least six (6) days of snowboarding by the end of this Stage. They should have logged their activities, including when they did the activities, where they did the activities, who they did them with, what the weather was like, and any other interesting information about the activity."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "performance_review_own_identify_potential_improvements_9f5c37",
+              "type": "verifiable_checkbox",
+              "label": "I can review my own performance and identify potential improvements.",
+              "dialog_text": "The youth member should reflect on their performance and skills they have developed for this stage, identifying where they may be able to improve techniques or skills as they progress."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

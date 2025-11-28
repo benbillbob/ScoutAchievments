@@ -1,0 +1,160 @@
+{
+  "template": "oas/alpine/cross-country-skiing/5",
+  "meta": {
+    "stage": 5,
+    "stream": "cross-country-skiing"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 5 - Cross country skiing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "outdoor_skills_core_of_stage_5_completed_each_f58fb3",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 in each of the Core Outdoor Adventure Skills.",
+              "dialog_text": "The youth member will need to have completed Stage 5 and below in Bushcraft (Survival Skills stream), Bushwalking and Camping."
+            },
+            {
+              "id": "minimise_select_damage_routes_environment_047781",
+              "type": "verifiable_checkbox",
+              "label": "I can select routes that minimise damage to the environment.",
+              "dialog_text": "The youth member should discuss and demonstrate selecting routes that are suitable to their group size, and the preference for surfaces. Ideally, they should be selecting trails, however, if those are not available, then routes that are predominantly: \n * deep snow (this is preferred given you should be cross country skiing) \n * hard bare earth \n * rock \n \nThe group would ideally travel single file to avoid creating multiple tracks."
+            },
+            {
+              "id": "action_possible_risks_associated_alpine_minimise_identify_within_06eed0",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated within an alpine environment and I know how to take action to minimise these risks.",
+              "dialog_text": "The youth member should discuss identifing the difference between a hazard and a risk. They should provide a hazard assessment to do with (Australian) alpine environments and will need to account for: \n * human hazards \n * environmental hazards \n * equipment hazards \n \nThey should include in their plan what steps they will take to minimise these hazards during an activity. They should consider the risks that may come from these hazards and how they will mitigate these on an activity. This step could be done as a Patrol or by an individual before a cross country skiing trip, and should build on any risk mitigation that occurred in Stage 4."
+            },
+            {
+              "id": "location_activity_prepare_safe_equipment_transportation_b0331a",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare equipment for safe transportation to an activity location.",
+              "dialog_text": "The youth member should be able to plan safe transportation of cross country ski equipment depending on where the activity will be and who will be going. This should be done for the whole activity and can be planned by a Patrol or individual depending on who is attending the activity and what stages they are working on."
+            },
+            {
+              "id": "information_find_selection_equipment_ski_appropriate_where_5d88bd",
+              "type": "verifiable_checkbox",
+              "label": "I know where to find information about appropriate ski equipment selection.",
+              "dialog_text": "The youth member will need to research and list multiple sources of information on appropriate ski equipment selection for Australian conditions."
+            },
+            {
+              "id": "affected_cooking_equipment_snow_conditions_e9bd32",
+              "type": "verifiable_checkbox",
+              "label": "I know how my cooking equipment can be affected by snow conditions.",
+              "dialog_text": "The youth member should understand the implications of altitude and cold temperatures on cooking equipment and how they can be managed. They should be able to discuss the most appropriate and cost effective methods of cooking food and boiling water when on alpine activities."
+            },
+            {
+              "id": "pack_trip_knowing_right_equipment_ski_appropriate_select_b7be86",
+              "type": "verifiable_checkbox",
+              "label": "I am able to pack the appropriate clothing and equipment for a two-day ski trip, including knowing how to layer clothing and select the right protective clothing.",
+              "dialog_text": "The youth member should pack for, and participate in, a two-day ski trip, where cross country skiing is the primary activity and objective. The two-day ski trip should include an overnight camp, with skiing on both days. This can be done over a two-day weekend, as long as there is approximately half a day of skiing on each day."
+            },
+            {
+              "id": "suitable_construction_andor_check_order_demonstrate_features_equipment_30e484",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to select suitable equipment according to design and/or construction features and local environmental issues, and check that it is in good working order.",
+              "dialog_text": "The youth member should select suitable equipment and be able to discuss the reasons they chose that equipment, taking into consideration construction, design and environmental impact. This can be done at a hire location and could be facilitated by booking in a special fitting for the group, and asking the staff member(s) to discuss the most appropriate gear with each individual."
+            },
+            {
+              "id": "skills_navigating_further_me_support_alpine_3_learnt_729b94",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt three (3) further skills to support me navigating in alpine environments.",
+              "dialog_text": "The youth member should be able to discuss the navigational skills they have learned since Stage 3 in order to assist in alpine environments. They should then learn some new skills for navigating on snow from a Stage 7 Scout, or trusted and appropriately skilled cross country skier."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "balance_of_whilst_demonstrate_confidence_skiing_crosscountry_movement_b2ace4",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a degree of balance, movement and confidence whilst cross-country skiing.",
+              "dialog_text": "The youth member should demonstrate their improved skills to their two-up peer or adult. They can demonstrate these skills either in person or they could video their skiing for review at a later time."
+            },
+            {
+              "id": "during_own_prepare_skis_ski_outing_maintain_d5a10e",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare and maintain my own skis during a ski outing.",
+              "dialog_text": "The youth member should prepare their own skis for their trip and this may include: \n * waxing \n * adjusting \n * spraying \n \nThey need to remain responsible for their condition and whereabouts during the trip."
+            },
+            {
+              "id": "skills_further_into_trips_incorporated_them_develop_ski_ba827f",
+              "type": "verifiable_checkbox",
+              "label": "I have continued to further develop my cross-country skiing skills and have incorporated them into my ski trips.",
+              "dialog_text": "The youth member should be continuously reviewing their cross-country skiing skills and identify areas for improvement during the activities they undertake. They should be working on these skills, such as balance, control, load-carrying technique, to continuously and further improve. They should be encouraged to holistically reflect and review on this further when they review their development at the end of the Stage."
+            },
+            {
+              "id": "from_aid_course_provide_first_successfully_recognised_completed_5bcef0",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed* a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "dynamics_body_adjust_while_skiing_increase_stance_fba454",
+              "type": "verifiable_checkbox",
+              "label": "I can adjust my body stance to increase my dynamics while skiing.",
+              "dialog_text": "The youth member should be able to demonstrate these skills whilst skiing. They must provide evidence to their two-up peer or other skilled cross country skier for review."
+            },
+            {
+              "id": "speed_using_whilst_of_traversing_apply_turn_shape_941469",
+              "type": "verifiable_checkbox",
+              "label": "I apply speed control whilst traversing and using the shape of the turn.",
+              "dialog_text": "The youth member should be able to demonstrate these skills whilst skiing. They must provide evidence to their two-up peer or other skilled cross country skier for review."
+            },
+            {
+              "id": "safety_personal_of_whilst_take_guard_skiing_others_00e4e8",
+              "type": "verifiable_checkbox",
+              "label": "I can take measures to guard my personal safety and the safety of others whilst skiing.",
+              "dialog_text": "The youth member should always consider their personal safety and the safety of others, taking into consideration the environment around them, their equipment and others. They need to demonstrate this care and consideration on their ski trip."
+            },
+            {
+              "id": "participated_ski_tour_twoday_711495",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a two-day ski tour.",
+              "dialog_text": "The youth member should participate in a two-day ski trip where cross country skiing is the objective. The two-day ski trip should include an overnight camp, with skiing on both days. This can be done over a two-day weekend, as long as there is approximately half a day of skiing on each day. They should write the details in their logbook."
+            },
+            {
+              "id": "trip_authorities_relevant_of_notified_completion_b293c6",
+              "type": "verifiable_checkbox",
+              "label": "I have notified the relevant authorities of trip completion.",
+              "dialog_text": "The youth member should know that they must have a plan before undertaking activities, and advise someone of that plan. This should include letting the nominated contacts when they start and when they return."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "review_performance_improvements_own_potential_identify_3cb312",
+              "type": "verifiable_checkbox",
+              "label": "I can review my own performance and identify potential improvements.",
+              "dialog_text": "The youth member should reflect on their performance and skills they have developed for this stage, identifying where they may be able to improve techniques or skills as they progress."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

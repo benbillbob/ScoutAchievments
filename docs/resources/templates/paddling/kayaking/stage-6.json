@@ -1,0 +1,166 @@
+{
+  "template": "oas/paddling/kayaking/6",
+  "meta": {
+    "stage": 6,
+    "stream": "kayaking"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 6 - Kayaking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "stage_5_three_core_021421",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 and below of the 3 core Outdoor Adventure Skills.",
+              "dialog_text": "The youth member will need to have completed Stage 5 and below of Bushcraft (survival skills), Camping and Bushwalking."
+            },
+            {
+              "id": "teach_pack_weekend_kayak_trip",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another youth what to pack for a weekend kayaking trip.",
+              "dialog_text": "The youth member is required to teach another Scout about packing for a kayaking activity, taking into consideration the location and itinerary for the activity. They should be able to effectively pass this knowledge on to another Scout, working on a lower stage. They will need to consider how they are going to convey this information."
+            },
+            {
+              "id": "kayak_equipment_need_of_group",
+              "type": "verifiable_checkbox",
+              "label": "I can check our equipment against the need of the group before commencing a trip.",
+              "dialog_text": "The youth member should write an equipment list based on their kayak activity and the participant needs. They should check to make sure the equipment they need is available from the Group or local sources such as other Scout Groups or community groups. If they don’t have an inventory of the group equipment, it would be a good idea to create one making sure to mention type, quantity and condition."
+            },
+            {
+              "id": "plan_lead_overnight_kayak_trip",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and lead an overnight kayaking trip during this stage.",
+              "dialog_text": "The youth member is required to take primary leadership, including responsibility and risk management for a kayak trip. They will need to have their plan reviewed and supervised by a skilled paddler. The plan needs to take in the route, navigation, equipment needs, food needs, emergency plan, weather and tide conditions. The overnight trip should consist of roughly 4-6 hours of activity each day and could be a through paddle or a return trip to start location."
+            },
+            {
+              "id": "learn_2_new_strokes/skills",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt 2 new strokes/kayaking skills at this stage.",
+              "dialog_text": "The youth member should have learned and been effectively demonstrating at least 6 strokes, including ruddering and support strokes by stage 5. They now need to choose another two strokes at this Stage. They could be a sweep, cross-draw stroke, C-stroke, sculling draw, reverse scull, draw, push-away stroke, running pry or a range of support strokes."
+            },
+            {
+              "id": "organise_transport_kayak_activity",
+              "type": "verifiable_checkbox",
+              "label": "I can help organise the transportation required for an activity.",
+              "dialog_text": "The youth member is required to help organise transportation for a kayak activity they are planning. This will include getting the group and gear to the location and back to your finishing point. They can do this I statement in conjunction with the planning of a kayak trip in the I statement above."
+            },
+            {
+              "id": "healthy_meal_preparation_planning_kayak",
+              "type": "verifiable_checkbox",
+              "label": "With my kayaking team, I can plan a healthy menu for our kayak adventure and help prepare the meals we have planned.",
+              "dialog_text": "The youth member is required to plan a nutritious menu for their overnight trip with their team. The youth member should help prepare these meals during their activity."
+            },
+            {
+              "id": "marine_map_compass_kayak_trip",
+              "type": "verifiable_checkbox",
+              "label": "I can use a topographical/marine map and a compass to tell where I am and where I am going while on a kayak trip.",
+              "dialog_text": "The youth member is required to demonstrate the use of a topographical/marine map and compass to indicate where they are and where they are going on their kayak trip."
+            },
+            {
+              "id": "remote_camping_regulations_area",
+              "type": "verifiable_checkbox",
+              "label": "I know how to find out the remote camping regulations in the area where I will be travelling.",
+              "dialog_text": "The youth member should research and provide sources of information about a remote camping area and the local regulations for their planned activity."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "correct_waste_disposal_remote_location_kayak",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to deal with waste while travelling in a remote location, including greywater, solid waste, food scraps and human waste.",
+              "dialog_text": "The youth member should discuss minimal environmental impact practices where they should ideally pack out any waste, or bury organics 15cm below topsoil 100m from campsite or waterways. These practises then need to be demonstrated on their kayaking trips, both the ones that they lead and participate in."
+            },
+            {
+              "id": "lead_water_rescue_drills_kayak",
+              "type": "verifiable_checkbox",
+              "label": "I have lead water rescue drills in an area in which the participants cannot stand",
+              "dialog_text": "The youth member will need to lead deep water rescue drills using kayaks (H,T or X rescues) ideally with Scouts working on Stage 5 or below. This activity should be a structured and planned activity, including risk minimisation. This activity should be logged, noting the type of rescues done and who the activity was for. They should also consider running a short search and rescue drill on the water - this should depend on conditions and participants skill."
+            },
+            {
+              "id": "practice_stage_5_rolls",
+              "type": "verifiable_checkbox",
+              "label": "I have practised kayak rolls in a flat-water environment.",
+              "dialog_text": "The youth member should practice two types of rolls they researched in Stage 5 in their kayak."
+            },
+            {
+              "id": "teach_stage_4_group_together",
+              "type": "verifiable_checkbox",
+              "label": "I can teach a Stage 4 Scout or below the importance of keeping a group together while on a Kayak trip.",
+              "dialog_text": "The youth member should be able to effectively pass this knowledge on to another Scout, working on a lower stage. They will know if they are successful in their teachings if that Scout is able to demonstrate keeping together on a kayak trip and they will be able to discuss some key reasons why it’s important to keep the group together after the activity occurs."
+            },
+            {
+              "id": "recognise_predict_bad_weather",
+              "type": "verifiable_checkbox",
+              "label": "I can recognize conditions that may precede bad weather while on a kayaking trip.",
+              "dialog_text": "The youth member should now be able to recognise and predict the conditions which come before bad weather; such as change in wind direction, dark clouds approaching, change in humidity, jet streams in the sky, different types of clouds and knowing what they mean."
+            },
+            {
+              "id": "taught_skill_safety_kayak_knowledge",
+              "type": "verifiable_checkbox",
+              "label": "I have taught at least one kayaking skill, one kayaking safety element and one kayaking knowledge item to paddlers working on Stages 1 - 4 at this stage.",
+              "dialog_text": "The youth member should be able to effectively pass this knowledge on to another Scout, working on a lower stage. They will know if they are successful in their teachings if that Scout is able to demonstrate that skill and understands the safety element and knowledge they have been taught."
+            },
+            {
+              "id": "10_days_kayaking_stage",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 10 days of kayaking by the end of Stage 6.",
+              "dialog_text": "The youth member is required to do ten (10) kayaking activity days and ensure they are in their logbook. In their log you should include when they did the activity, where they did the activities, who they did the activities with, what the weather was like and any other interesting information about the activity."
+            },
+            {
+              "id": "access_emergency_assistance",
+              "type": "verifiable_checkbox",
+              "label": "I can explain how I can access emergency assistance while in a remote location.",
+              "dialog_text": "The youth member is required to demonstrate an understanding of how and when to access emergency assistance while in remote location, based on their personal/group equipment and Branch/local guidelines."
+            },
+            {
+              "id": "2_nights_40_kilometers",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in at least one kayaking trip that goes for, at minimum, two nights and 40 kilometres.",
+              "dialog_text": "The youth member needs to participate in a kayak trip in which they camp out for two nights and travel roughly 40km in their kayak. The trip should bridge 3 days and paddling should occur on all 3 of the days. They should include when they did this activity, where they did the trip, who they did the trip with, what the weather was like and any other interesting information about the trip in their logbook. This journey should be in addition to any kayaking they did in earlier Stages."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "give_presentation_younger_scouts_kayak_72a61e",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of younger scouts on a kayak activity I have completed.",
+              "dialog_text": "The presentation should be around three to five minutes long and may be in person or as a pre-recorded video followed by questions. The content of the reflection is at the youth member’s discretion and the purpose of the presentation is to encourage younger Scouts to become excited about kayaking/paddling opportunities."
+            },
+            {
+              "id": "correct_maintenance_group_gear_kayak_72a61e",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the correct maintenance of group gear following the conclusion of a kayaking activity.",
+              "dialog_text": "The youth member is required to demonstrate correctly cleaning and packing away group gear after a kayaking activity. The gear will depend on their activity and could include kayaks, PFDs and overnight camping gear. If any equipment is damaged they should ensure it is reported to their trip or activity leader."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

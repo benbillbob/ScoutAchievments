@@ -1,0 +1,160 @@
+{
+  "template": "oas/vertical/canyoning/5",
+  "meta": {
+    "stage": 5,
+    "stream": "canyoning"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 5 - Canyoning",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "food_water_requirements_day_4ba3f8",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify food and water requirements for day trips.",
+              "dialog_text": "The youth member should be able to: \n * Specify how much water to carry, and how often they will need to re-fill - if they are using creek water ensure it is filtered and purified \n * Specify how many of each meal they will need (breakfast, lunch, dinner, snacks) and for how many people \n * Identify suitable foods for the activity with regard to energy content, durability, perishability, and deliciousness \n * Estimate overall energy requirements: How strenuous is the day?  Will it make the party eat more?"
+            },
+            {
+              "id": "select_routes_minimise_environment_damage_canyon_7f5c4c",
+              "type": "verifiable_checkbox",
+              "label": "I can select routes that minimise damage to the environment.",
+              "dialog_text": "The youth member should demonstrate an understanding in their plan that they are able to select appropriate walking routes to and within the canyoning location and select canyoning locations where they are able to undertake the activity with minimal damage to the environment."
+            },
+            {
+              "id": "hazards_associated_canyoning_minimise_risks_794aa5",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated with canyoning activities and procedures to minimise risks and I know how to take actions to minimise these risks.",
+              "dialog_text": "The youth member should identify the difference between a hazard and a risk. They should provide a hazard assessment and will need to account for: \n * Human hazards \n * Environmental hazards \n * Equipment hazards \n \nThe youth member should include in their plan what steps they will take to minimise these hazards during an activity. They should then consider the risks that may come from these hazards and how they will mitigate these on an activity. This step could be done as a Patrol or individual before a canyoning trip."
+            },
+            {
+              "id": "information_vertical_equipment_selection_canyon_3115f2",
+              "type": "verifiable_checkbox",
+              "label": "I know where to get information about canyoning equipment selection.",
+              "dialog_text": "The youth member should research and provide sources of information about selecting appropriate canyoning equipment."
+            },
+            {
+              "id": "assist_knotting_skills_learnt_two_canyon_3115f2",
+              "type": "verifiable_checkbox",
+              "label": "I can assist a Stage 3 or below Scout with their knotting skills and have learned two additional knots since Stage 4 that will assist me in canyoning activities",
+              "dialog_text": "The youth member should assist a Scout working on Stage 3 or below with knots suitable for canyoning. The youth member should already know how to tie an Alpine Butterfly, Figure of 8 re-threaded, Double Fisherman’s, Tape and a Prusik knot. They can choose an additional two knots to learn at this Stage. Options could be: \n * Munter hitch \n * French Prusik \n * Klemheist\n * Any other knot"
+            },
+            {
+              "id": "four_places_sources_information_canyon_c2591c",
+              "type": "verifiable_checkbox",
+              "label": "I can list four places to find information to assist with planning a canyon activity and what sort of information to look for.",
+              "dialog_text": "The youth member will need to research and list 4 sources of information and the information required for planning their canyoning activity."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "complete_Provide_First_Aid_60bd37",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "abseil_canyon_self_belay_353e4c",
+              "type": "verifiable_checkbox",
+              "label": "I can abseil using a self-belay in a canyon",
+              "dialog_text": "The youth member should demonstrate competency in safely self-belaying using a prusik hitch in a canyon. It is noted this should not be attempted for the first time in a high-water flow environment."
+            },
+            {
+              "id": "techniques_minimise_damage_canyon_environment_fceb94",
+              "type": "verifiable_checkbox",
+              "label": "I always demonstrate appropriate techniques to minimise damage to the environment while canyoning.",
+              "dialog_text": "The youth member should demonstrate minimising damage to the environment whilst canyoning. This includes using correct tree protection, being careful to prevent erosion and ensuring what is brought in to the canyon is taken out of the canyon."
+            },
+            {
+              "id": "demonstrate_correct_belay_canyon_fceb94",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated the correct method of a belay within a canyon.",
+              "dialog_text": "The youth member will need to demonstrate the correct method of belay based on their location and whether they can see the top of the drop or not, the difficulty of the start of the abseil and whether there is risk of getting stuck under a waterfall."
+            },
+            {
+              "id": "demonstrate_safe_deep_rock_pools_fceb94",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a safe way of doing the following skills in deep rock pools: swimming, wadding and liloing.",
+              "dialog_text": "The youth member will need to demonstrate swimming, wadding and liloing during a canyoning activity."
+            },
+            {
+              "id": "remain_safe_open_holes_water_canyon_fceb94",
+              "type": "verifiable_checkbox",
+              "label": "I know how to remain safe around open holes and water in a canyoning system.",
+              "dialog_text": "The youth member will need to demonstrate safety around holes and water in canyoning systems."
+            },
+            {
+              "id": "5_activity_days_canyon_7_canyon_cbfff9",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 5 days of canyoning by the end of Stage 5, with a minimum of 7 Canyons completed, across at least 4 different canyons/locations.",
+              "dialog_text": "The youth member needs to do five (5) or more canyoning activity days and log them in their logbook. The youth member should include where they did the activities, who they did them with, how high they were and if they were graded how difficult they were."
+            },
+            {
+              "id": "demonstrate_chimneying_73f406",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate basic chimneying.",
+              "dialog_text": "The youth member should be able to demonstrate chimneying as it is an important climbing technique to help them navigate up confined spaces which makes it very useful for canyoning. If the technique is not perfect in this Stage that's ok, it's about giving it a go."
+            },
+            {
+              "id": "assist_setup_single_pitch_canyon_abseil_73f406",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted in setting up canyon abseils at single pitch locations.",
+              "dialog_text": "The youth member will need to assist others to set up using the appropriate knots, and ensure that a skilled person has checked the set up before the youth member tests the line."
+            },
+            {
+              "id": "safely_escape_belay_abseiler_safe_73f406",
+              "type": "verifiable_checkbox",
+              "label": "I can safely escape a belay while keeping the abseiler safe.",
+              "dialog_text": "The youth member will need to demonstrate escaping a belay whilst maintaining the safety of the abseiler."
+            },
+            {
+              "id": "pack_canyon_rope_correctly_73f406",
+              "type": "verifiable_checkbox",
+              "label": "I know how to pack up a rope correctly in a canyon environment.",
+              "dialog_text": "The youth member should demonstrate coiling an abseil rope in a canyon. The youth member should also demonstrate packing it away dry at the end of the activity."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "presentation_canyoning_expedition_896ae2",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation on a canyoning expedition I have completed, to my Unit",
+              "dialog_text": "The presentation should be around five minutes long and may be in person or as a pre-recorded video followed by questions. \n \nThe content of the reflection is at the youth member's discretion but should generally cover topics such as: \n * What would they do again? \n * What did not work, and would they not do again? \n * What skills have they learnt? \n * What food or equipment worked well, or performed poorly? \n \nPhotographs are a great addition to a presentation."
+            },
+            {
+              "id": "evaluation_relevant_aspects_canyoning_896ae2",
+              "type": "verifiable_checkbox",
+              "label": "I have conducted an evaluation of relevant aspects of the canyoning activity.",
+              "dialog_text": "The youth member should conduct an evaluation on aspects they felt could have been improved on their canyoning activity."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

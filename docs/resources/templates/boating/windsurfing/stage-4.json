@@ -1,0 +1,142 @@
+{
+  "template": "oas/boating/windsurfing/4",
+  "meta": {
+    "stage": 4,
+    "stream": "windsurfing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Windsurfing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "signs_symptoms_exposure_b953e2",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of exposure.",
+              "dialog_text": "The youth member should be aware of the general and most common signs and symptoms of both hypothermia and hyperthermia. This could be through research and demonstrated through mock emergencies. The youth member should consider how they would avoid or prevent themselves and others getting hypothermia and hyperthermia during windsurfing activities."
+            },
+            {
+              "id": "ensure_sufficient_fluids_windsurfing_9f2bc7",
+              "type": "verifiable_checkbox",
+              "label": "I ensure sufficient fluids are available for the duration of the activity.",
+              "dialog_text": "The youth member should be aware of how much drinking water to bring for their windsurfing activity whilst out on the water. This could include other drinks such as electrolyte replacement drinks. They should also consider where they can top up their water at the end of, or during, the activity."
+            },
+            {
+              "id": "itinerary_proposed_windsurfing_11deac",
+              "type": "verifiable_checkbox",
+              "label": "I can read an itinerary for a proposed windsurfing activity and understand what I am required to do.",
+              "dialog_text": "The youth member will need to demonstrate an understanding of a windsurfing activity from the itinerary, by discussing the gear list, time of departure, expected arrival home / return time, menu and route with the trip leader, and by bringing what is required to the activity."
+            },
+            {
+              "id": "identify_equipment_required_law_windsurfing_827111",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the equipment I am required by law to have with me while windsurfing.",
+              "dialog_text": "The youth member should check with their local marine safety legislation as to what equipment they are required to have. They should also follow their Branch policies and best practice regarding required equipment. Items could include PFD, whistle, two-way radio, satellite phone or EPIRB, first aid kit, etc."
+            },
+            {
+              "id": "prepare_equipment_required_transportation_activity_cc52ee",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare equipment, where required, for safe transportation to an activity location.",
+              "dialog_text": "The youth member should be able to demonstrate organising safe transportation of windsurfing equipment gear to their activity location. They need to consider: \n * What gear they need \n * Who will transport gear \n * How it will be transported \n * Securing gear before transportation"
+            },
+            {
+              "id": "understand_maintenance_windsurfing_167ce7",
+              "type": "verifiable_checkbox",
+              "label": "I know how the maintenance of a windsurfer needs to be conducted.",
+              "dialog_text": "The youth member should be able to discuss how to maintain a windsurfer, to increase the life of their board and rig. They will need to consider the sail, board, boom and mast."
+            },
+            {
+              "id": "explain_damaged_centreboards_699aa9",
+              "type": "verifiable_checkbox",
+              "label": "I can explain how damaged centreboards can affect my boating performance.",
+              "dialog_text": "The youth member should be able to discuss and demonstrate understanding centreboards and the effect they have on the performance of their windsurfer should the board get damaged."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "successfully_uphaul_rig_maintain_v_position_d9bc23",
+              "type": "verifiable_checkbox",
+              "label": "I can successfully uphaul the rig and maintain the V Position for windsurfing.",
+              "dialog_text": "The youth member will need to demonstrate successfully uphauling the rig and maintaining the V Position whilst out on the water during an activity."
+            },
+            {
+              "id": "demonstrate_steer_windsurfer_4ac612",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to steer a windsurfer going upwind or downwind.",
+              "dialog_text": "The youth member should successfully steer their windsurfer either upwind or downwind."
+            },
+            {
+              "id": "involved_logged_two_windsurfing_activities_ad71a7",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in and logged at least two windsurfing activities at this stage.",
+              "dialog_text": "The youth member needs to do two (2) windsurfing activities and log them in their logbook. They should include where they did the activities, who they did them with, what the weather was like, and any other interesting information about their activity. These should be in addition to any windsurfing they did in earlier Stages."
+            },
+            {
+              "id": "adopt_appropriate_posture_f63c9f",
+              "type": "verifiable_checkbox",
+              "label": "I know how to adopt appropriate posture and balance when sailing a windsurfer.",
+              "dialog_text": "The youth member should demonstrate appropriate posture and balance when sailing their windsurfer."
+            },
+            {
+              "id": "demonstrate_communiation_methods_windsurf_be4a62",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated methods to communicate effectively with other windsurf sailors.",
+              "dialog_text": "The youth member should listen to the Activity Leader as they should establish a communication method with their Patrol. They should then demonstrate an understanding of these agreed communication methods, by using them during the activity."
+            },
+            {
+              "id": "navigation_warnings_ad71a7",
+              "type": "verifiable_checkbox",
+              "label": "I can interpret marine navigation warnings to avoid incidents.",
+              "dialog_text": "The youth member should be able to interpret navigation marks on nautical maps and on the water and know how to maintain a lookout for other vessels to avoid risk of collision, stranding and other hazards."
+            },
+            {
+              "id": "wind_tide_swell_f63c9f",
+              "type": "verifiable_checkbox",
+              "label": "I understand the effect of wind, tide, swell and ocean floors on windsurfing conditions and adapt my activities to suit.",
+              "dialog_text": "The youth member should be able to demonstrate an understanding by discussing the effect of wind, tide, swell and ocean floors on windsurfing conditions."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "improve_windsurfing_skills_b01841",
+              "type": "verifiable_checkbox",
+              "label": "I can identify where I have begun to improve my windsurfing skills, and where I would like to further improve.",
+              "dialog_text": "The youth member should discuss with their Patrol or Unit the windsurfing activities they have participated in at this Stage, and identify where they can improve their skills and the activities for next time."
+            },
+            {
+              "id": "checked_equipment_b01841",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should demonstrate a gear inspection after their activity. This might be a visual inspection of their windsurfer and PFD. They should be looking for cracks, holes or missing equipment. If there is anything that needs repairing or replacing, they should discuss it with the leader-in-charge of the equipment. They should also ensure that they pack away and store their equipment according to maintenance procedures to increase the life of the board and rig."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

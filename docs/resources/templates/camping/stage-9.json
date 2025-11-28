@@ -1,0 +1,118 @@
+{
+  "template": "oas/camping/9",
+  "meta": {
+    "stage": 9,
+    "stream": "camping"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 9 - Camping",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "kept_qualifications_date_aid_first_up_4d0634",
+              "type": "verifiable_checkbox",
+              "label": "I have kept my First Aid qualifications up to date.",
+              "dialog_text": "The youth member should have a first aid qualification through an accredited provider and be able to show the certificate's currency. \n \nThe main requirement is to have kept the wilderness first aid skill-set up to date and make sure the youth members CPR, First Aid and wilderness first aid is not out of date. \n \nIf any or all are then the youth member will need to meet currency and likely need to do the relevant training for these skills."
+            },
+            {
+              "id": "interest_local_camp_places_types_amenities_various_source_ff3777",
+              "type": "verifiable_checkbox",
+              "label": "I can source amenities and local places of interest for various camp types.",
+              "dialog_text": "The youth member should be very familiar with different methods of finding out information in regards to various amenities and local places of interest in the intended camping area. The youth member should also target activities to their participant's interests and amenities to the needs of the group."
+            },
+            {
+              "id": "run_others_skill_new_stage_9_7_will_0aaa63",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt a new skill during Stage 7 to 9 that I can facilitate others learning during a camp I will run in Stage 9.",
+              "dialog_text": "Some of the areas that the skill might relate to are: \n * leadership \n * wilderness first aid \n * remote guiding \n * extreme weather skills \n * event planning and event management skills \n * personal wellbeing skills."
+            },
+            {
+              "id": "budget_aspect_expedition_prepare_manage_every_camping_of_ea2ea3",
+              "type": "verifiable_checkbox",
+              "label": "I can budget, prepare and manage every aspect of a camping expedition.",
+              "dialog_text": "The youth member should create a final plan that includes all the required pre-information and logistical information about the activity. They should also provide this plan to the relevant people when informing them of this activity. This activity is the culmination of the youth member's learning through Stages 1-9 of Camping Outdoor Adventure Skills. Ideally the planning would be for a camp that will actually occur such as a Unit or Group camp or even a District or Branch camp."
+            },
+            {
+              "id": "locations_possible_regions_including_camping_expeditions_types_where_7a71bb",
+              "type": "verifiable_checkbox",
+              "label": "I can plan to execute camping expeditions in all types of locations and regions including where possible interstate and internationally.",
+              "dialog_text": "The camping expeditions should be able to be planned regardless of location, region or climate, by the youth member. \n \nIdeally, the Stage 9 Scout has planned multiple camping expeditions, in a variety of locations, regions, and climates. The planning should include as a minimum: \n * A transport plan \n * List of individual gear for participants \n * List of group gear \n * Menu \n * Food list (note that this is different to a menu) \n * Risk assessment \n * Campsite plan, including grid references and local nearby landmarks or land features \n * Emergency plan including contact details and contingency plans. \n \nThese should be customised for a specific camping expedition at a specific time of year, and not simply be generic. They may be consolidated into an overall activity plan. To challenge the youth member further it is encouraged that this plan is for an interstate or international trip."
+            },
+            {
+              "id": "made_specific_purchase_equipment_requirements_investigated_camping_recommendations_a8d2c6",
+              "type": "verifiable_checkbox",
+              "label": "I have investigated and made recommendations to purchase equipment for specific camping requirements.",
+              "dialog_text": "Specific camping expedition requirements could refer to expeditions and camps that are out of the norm, or require very specific equipment. Some examples of this sort of camping expedition are: \n * a remote camp \n * a camp in an extreme weather situation \n * a camp where members are only bringing ultra-light gear \n * a camp where members are relying on bushcraft skills to set up shelter and the campsite. \n \nIn these sorts of situations, new and specialised gear might need to be purchased if the Group does not already own it, such as: \n * 3-quarter hatchets \n * SPOT GPS systems (or other similar GPS systems such as InReach GPS) \n * an EPIRB system \n * folding camp saws \n * 4 season tents that can sleep a whole Patrol \n * specialised snowshoes \n * snow proof pack/gear covers. \n \nBefore any purchase goes ahead, the youth member should compare and contrast the leading product competitors, and make sure that the equipment that they are purchasing is the best fit for their Group out of all the options available within their budget and needs."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "specific_training_am_activity_able_camp_source_3a57b5",
+              "type": "verifiable_checkbox",
+              "label": "I am able to source the training required for a specific camp or activity.",
+              "dialog_text": "Earlier in Stage 9 Plan>, the youth member had to consider training needs and how to source them for an activity. This statement is about the youth member now taking the steps to secure appropriate training."
+            },
+            {
+              "id": "outing_least_acted_as_leader_camping_expeditions_five_096a89",
+              "type": "verifiable_checkbox",
+              "label": "I have acted as the outing leader on at least five camping expeditions.",
+              "dialog_text": "This will be shown through comprehensive log book and planning documentation."
+            },
+            {
+              "id": "nights_of_location_led_me_3_unfamiliar_planned_85b6ae",
+              "type": "verifiable_checkbox",
+              "label": "I have planned and led a camping trip interstate or internationally in an unfamiliar location to me for a minimum of 3 nights.",
+              "dialog_text": "The youth member must use the current ISO process or Australian Standard for risk management (currently AS/NZS ISO 31000:2009). \n \nThe youth member must show evidence that they have consulted with experts on risks specific to the area, such as local rangers. It is not acceptable for the youth member to simply use a template to generate the plan."
+            },
+            {
+              "id": "nights_spent_end_60_stage_9_camps_types_6affae",
+              "type": "verifiable_checkbox",
+              "label": "I have spent 60 nights on various types of camps by the end of Stage 9.",
+              "dialog_text": "This will be shown through comprehensive log book and planning documentation."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "reports_completed_mock_either_action_review_incidents_camping_191938",
+              "type": "verifiable_checkbox",
+              "label": "I have completed after-incident action review and incident reports for either real or mock incidents that have occurred while on camping trips.",
+              "dialog_text": "The youth member should have the experience of managing an incident whether it is a mock incident or a real incident. The youth member should consider their learning throughout the Camping Outdoor Adventure Skills and review how incidents where managed and how to improve similar practises moving forward."
+            },
+            {
+              "id": "skills_of_gained_outdoor_scouts_from_given_group_38728d",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts on the skills I have gained from completing the Camping Outdoor Adventure Skills Stages.",
+              "dialog_text": "Prompting words for the presentation could be: \n * Inspiration \n * Motivation \n * Blood, sweat and tears \n * Type 3 fun \n * Accomplishment \n * Adventure \n * Achievement \n * Team-work \n * Growth\n * Learning \n *Responsible risk taking. \n \nThe youth member should talk about the exciting camping expeditions that they have led, the great friends they have made, the amazing views they have woken up out of their tent to see, and the accomplishments they have reached through this Outdoor Adventure Skill. What are the youth member's future goals? This presentation could be given to the youth member's Group at an ARAP, as a key note speaker at a District, Region or Branch event or to Units around the local area."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

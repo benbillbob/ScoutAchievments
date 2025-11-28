@@ -1,0 +1,124 @@
+{
+  "template": "oas/cycling/3",
+  "meta": {
+    "stage": 3,
+    "stream": "cycling"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 3 - Cycling",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "explain_clothing_importance_gear_right_riding_while_of_e9cd4e",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the importance of having the right clothing and gear while riding.",
+              "dialog_text": "The youth member should be able to explain how the right clothing will help protect them from weather exposure, whilst not being too loose or snagging on moving bike parts such as gears. Moisture wicking fabrics, such as lycra, or sports mesh style clothing, will reduce chafing, sweating and sores in most weather conditions."
+            },
+            {
+              "id": "me_should_riding_carry_items_which_e1c885",
+              "type": "verifiable_checkbox",
+              "label": "I know which items I should carry with me when riding.",
+              "dialog_text": "The youth member should be able to discuss what items they will bring and why such as; \n * Helmet – mandatory equipment \n * Bike lights – red flashing light on back, white light on front if riding at dark \n * Water – an essential item. It is very dangerous to not bring water on hot days and/or long rides. \n * First aid kit – to use if someone injures themselves \n * Tyre repair kit, spare tube, & pump – To be able to ride home if the bike gets a flat tyre or other small mechanical issue. \n * Mobile phone – to call for help if needed \n * Snacks – Legs provide the riding motion, and snacks provide legs with energy. If the youth member does not have energy rich food (nuts, berries, chocolate, lollies, muesli, chips etc) then their legs will not be able to power through the journey. This is especially important if the youth member plans to ride for a longer distance."
+            },
+            {
+              "id": "forecast_will_latest_weather_riding_area_where_1cd888",
+              "type": "verifiable_checkbox",
+              "label": "I know how and where to get the latest weather forecast for the area I will be riding in.",
+              "dialog_text": "The youth member should demonstrate this by showing a copy of an up to date weather forecast for the area of their activity. They should be able to explain what the forecast which they have brought means. \n \nThis could be from Bureau of Meteorology or a local weather station: ( http://www.bom.gov.au/australia/radar/ ) \n \nThis website has many resources to support planning, such as a weather map where it's possible to zoom in on a desired location."
+            },
+            {
+              "id": "follow_should_group_person_instructions_of_charge_dbfe99",
+              "type": "verifiable_checkbox",
+              "label": "I know that I should follow the instructions of the person in charge of the group.",
+              "dialog_text": "The youth member should discuss the importance of following the instructions of the person in charge of the activity. The fact that following their instructions will lead to increased safety, and also an increased amount of efficiency at the activity. Working as a Patrol will allow the youth member to cover more ground and ride a further distance, in a safer way, than they would otherwise."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "situations_stands_use_aid_drsabcd_first_c6820b",
+              "type": "verifiable_checkbox",
+              "label": "I know what DRSABCD stands for and how to use it in first aid situations.",
+              "dialog_text": "The youth member needs to demonstrate their understanding of the steps of DRSABCD in a mock emergency situation: \n * Danger – Check for danger to yourself and others in the area.  Remove it if possible or don’t approach the patient if its not safe (i.e. fallen live power lines) \n * Response – Check to see if the patience is conscious and responding \n * Send for help – ask some to call an ambulance and/or emergency services (call 000) \n * Airways – Are the airways clear?  Recovery position might be needed if unconscious.  Ensure there are no obstructions such as vomit or food \n * Breathing – Is the patient breathing? \n * CPR – If not breathing, commence CPR at 120 beats per minute, a quarter of the depth of the chest.  Less for infants \n * Defibrillation – Public spaces have a defibrillation device which should be used if necessary.  It has clear instructions how to use and is not dangerous to operate (i.e. shopping centres, swimming pools, office buildings)"
+            },
+            {
+              "id": "abcdq_before_bike_riding_test_show_0d6525",
+              "type": "verifiable_checkbox",
+              "label": "I can show how to test a bike before riding (ABCDQ test).",
+              "dialog_text": "Following on from the ABC test, where A is for Air, B is for Brakes, and C is for cranks, chain and cogs: \n * D refers to a drop test: Pick the bike up about 1 – 2 inches off the ground and drop it. If things fall off (torches, lights, mounted items) or unusual sounds are made, then the youth member needs to locate and fix those issues. The drop test replicates the general wear and tear of a bike ride. \n * Q refers to the Quick Release:  Some bikes have quick releases on the wheels or the seat post. Check to make sure they are tight and closed properly. \n \nCheck: After making sure the seat and handlebars are tight and the proper height, have the youth member ride the bicycle around an open space and check that everything works well – gears are shifting, brakes are working etc"
+            },
+            {
+              "id": "ride_repair_kit_assembled_infield_taken_340b8c",
+              "type": "verifiable_checkbox",
+              "label": "I have assembled an in-field repair kit and have taken it on a ride.",
+              "dialog_text": "The youth member could include the following suggested items which should fit in a saddle bag under the seat: \n * Inner Tube – Ensure this is the correct size for the bike (if tubeless, spare tyre or foam filler) \n * Tyre Lever \n * Tube Patch kit \n * CO2 canister (handy but not necessary for quick inflation of tyre) \n * Small hand pump – hand pumps attach to side of bike, ensure it has the correct valve for the bike \n * Allen key set – to adjust seat post, handle bars etc. Make sure the youth member knows which allen keys can be used where, and leave behind the ones they don't need \n * Chain Breaker – to remove broken chain links \n * Spare Chain link – to replace broken chain links \n * Duct tape – can be used to fix many things \n * Small bottle of lubricant \n * Some zip ties – these can be used to fix so many bike related problems. Potentially stored in the seat post, or duct taped to a fork"
+            },
+            {
+              "id": "puncture_repairing_assisted_cac75c",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted in repairing a puncture.",
+              "dialog_text": "The youth member should demonstrate this, ask a more experienced youth member to teach them and allow them to assist in the process.  The youth member can walk through the procedure on a functional tyre, learning how remove, replace and pump up a tube."
+            },
+            {
+              "id": "ride_day_group_part_taken_of_as_63caae",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in a day ride as part of a group.",
+              "dialog_text": "The youth member should make sure that the length and terrain/elevation of the ride is appropriately challenging to all members attending. There should not be anyone that is unable to complete the ride, however also, it is important that all members that are attending are pushed and challenged to complete it. \n \nThe youth member should log the activity in their logbook, and should include where they did the activities, who they did it with, what the weather was like and any other interesting information about their activity."
+            },
+            {
+              "id": "maintain_group_riding_roads_while_trails_paths_safety_6cdf68",
+              "type": "verifiable_checkbox",
+              "label": "I can maintain safety while riding in a group on paths, trails or roads.",
+              "dialog_text": "The youth member should demonstrate the following while riding \n * Ride in a straight line \n * Be predictable \n * Indicate if turning \n * Follow the group \n * Understand how different road/trail surfaces may impact rideability and control"
+            },
+            {
+              "id": "requirements_legal_riding_area_are_a95845",
+              "type": "verifiable_checkbox",
+              "label": "I know what the legal requirements are for riding in my area.",
+              "dialog_text": "The youth member should know/include a range of locations to build a full picture. These could include: \n * Checking road rules for cycling (internet, RMS/ Vic Roads or your state equivalent could be helpful) \n * The local state or territories governing body for cycling such as bicycle network \n * SMEs, leaders or other adults could know"
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "ride_journey_discussed_ways_our_different_bike_patrol_db7c53",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed with my Patrol different ways to improve safety for our next bike ride journey.",
+              "dialog_text": "The youth member should discuss with their Patrol and review one of their bike journeys, and could include questions such as: \n * How long did it take you? \n * Do you feel you’ve had enough practise? \n * Did you have the equipment you needed? \n * Does anything need to be replaced?"
+            },
+            {
+              "id": "repair_our_included_kit_reviewed_patrol_infield_items_0f4ca8",
+              "type": "verifiable_checkbox",
+              "label": "I have reviewed with my Patrol the items included in our in-field repair kit.",
+              "dialog_text": "The youth member should discuss their items and whether they still feel everything is needed, was anything missing or have they used anything that needs to be replaced."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

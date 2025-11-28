@@ -1,0 +1,160 @@
+{
+  "template": "oas/paddling/2",
+  "meta": {
+    "stage": 2,
+    "stream": "paddling"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 2 - Paddling",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "adjust_pfd_put_38915f",
+              "type": "verifiable_checkbox",
+              "label": "I can put on and adjust my PFD.",
+              "dialog_text": "The youth member should be able to correctly put on and adjust their PFD. They should make sure that they do up all the clips, buckles and zips. They can demonstrate the correct fit by holding the shoulder straps and lifting – the PFD shouldn’t go above their ears."
+            },
+            {
+              "id": "where_environment_some_impact_ways_paddling_explained_could_59ecef",
+              "type": "verifiable_checkbox",
+              "label": "I have explained some of the ways that I could have an impact on the environment where I am paddling.",
+              "dialog_text": "The youth member should be able to discuss how their paddling adventures can impact on the environment. They could think about their effect on the plants, animals, the waterways and erosion. They may also consider impacts on the man-made/human environment."
+            },
+            {
+              "id": "if_appropriate_capsize_should_list_canoe_action_take_55ef09",
+              "type": "verifiable_checkbox",
+              "label": "I can list the appropriate action I should take if I capsize in a canoe or kayak.",
+              "dialog_text": "The youth member should list all the appropriate actions to make sure they stay safe when capsizing. They will need to consider their location, who they are with, and whether this changes their actions."
+            },
+            {
+              "id": "precautions_going_safety_should_water_take_before_out_add963",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss what safety precautions you should take before going out on the water.",
+              "dialog_text": "The youth member should be able to discuss how to stay safe when going out on the water. They should include things like weather and tides, and consider their location and who they are with. Scouts working on Stage 4 should help with this."
+            },
+            {
+              "id": "contact_emergency_services_dff734",
+              "type": "verifiable_checkbox",
+              "label": "I know how to contact the emergency services.",
+              "dialog_text": "The youth member should have a plan should something go wrong, and know how to contact emergency services based on their location. This might be with an EPIRB, mobile phone or radio. They should also consider who is the best person to be contacting emergency services. They should also be able to explain why everyone needs to know how to contact the emergency services."
+            },
+            {
+              "id": "draw_describing_all_essential_paddling_activities_label_diagram_f46304",
+              "type": "verifiable_checkbox",
+              "label": "I can draw and label a diagram describing all of the essential equipment required for paddling activities.",
+              "dialog_text": "The youth member’s diagram should include water, food, clothing, first aid kit, sun safe gear, PFD, any emergency gear you see important, watercraft and paddles."
+            },
+            {
+              "id": "knot_learnt_me_paddling_situation_will_help_dcdf80",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt one knot that will help me in a paddling situation.",
+              "dialog_text": "The youth member is required to learn a knot specific to paddling. Knots that are pertinent to paddling include: bowline, fisherman’s knot, trucker’s hitch, half hitch and prusik. They should be able to discuss the use of their chosen knot in relation to paddling."
+            },
+            {
+              "id": "learnt_strokes_1e7b59",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt about two other strokes .",
+              "dialog_text": "The youth member is required to learn about two other paddling strokes to build on the foundation skills they learned in Stage 1. These two strokes should be based on their choice of watercraft, and could be strokes such as a sweep stroke, J stroke, bow rudder, pry or draw."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "pfd_swim_wearing_25_metres_f50e27",
+              "type": "verifiable_checkbox",
+              "label": "I can swim 25 meters wearing my PFD.",
+              "dialog_text": "The youth member should be able to demonstrate swimming 25 meters in their PFD."
+            },
+            {
+              "id": "sun_exposed_outdoors_paddling_myself_trip_protect_while_373071",
+              "type": "verifiable_checkbox",
+              "label": "I can protect myself when  exposed to the sun while outdoors on a paddling trip.",
+              "dialog_text": "The youth member should wear suitable clothing for the activity and location, including long-sleeved tops suitable for water activities, the potential need for long legged pants, hat, sunscreen and sunglasses."
+            },
+            {
+              "id": "water_lost_do_30150a",
+              "type": "verifiable_checkbox",
+              "label": "I know what to do when lost on the water.",
+              "dialog_text": "The youth member should demonstrate an understanding of blowing a whistle in bursts of three (SOS) and paddling towards the bank or shore and reviewing their plan. They should also show an understanding of how they might work out with a map where they are on the waterway."
+            },
+            {
+              "id": "backward_demonstrate_line_stroke_forward_paddle_straight_dfd611",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a forward and backward stroke and paddle in a straight line.",
+              "dialog_text": "The youth member is required to demonstrate correctly holding their paddle. Proper technique for holding the paddle and paddling in a straight line should see the youth member with one hand on the t-handle, one on the shaft and using forward strokes on both sides ensuring that they work with their buddy and paddle in a straight line. If using a kayak, they will demonstrate this with their double blade paddle."
+            },
+            {
+              "id": "from_leader_canoe_paddling_duration_team_kayak_paddle_5538ae",
+              "type": "verifiable_checkbox",
+              "label": "With help from my team or Leader, I can paddle my canoe or kayak for the duration of a paddling trip.",
+              "dialog_text": "The youth member needs to demonstrate paddling a watercraft during a planned paddling trip. This includes staying with the other craft in the group and ensuring they travel at the speed of the slowest craft staying no more than 20 meters from each other. They should be able to still talk between boats and easily see all members of the group."
+            },
+            {
+              "id": "least_part_stage_paddling_activities_taken_this_a038d1",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in at least two paddling activities at this Stage.",
+              "dialog_text": "The youth member is required to take part and log two paddling activities of at least 1.5 hours each at this stage. These can be done on a Section night or on a special planned activity/camp."
+            },
+            {
+              "id": "canoe_important_parts_kayak_name_of_ce483e",
+              "type": "verifiable_checkbox",
+              "label": "I can name the important parts of a canoe or kayak.",
+              "dialog_text": "The youth member is required to demonstrate knowledge of the important parts of the canoe or kayak and be able to point them out while naming them. These are parts such as the deck, cockpit, rail, bow, stern, port and starboard."
+            },
+            {
+              "id": "where_launch_allowed_watercraft_go_paddling_before_am_67cfb5",
+              "type": "verifiable_checkbox",
+              "label": "Before I launch my watercraft, I can show where I am allowed to go paddling.",
+              "dialog_text": "The youth member must demonstrate an understanding of the activity leader's instructions. They should demonstrate staying close to the paddling group, keeping away from other craft and people in or by the water. They should look at the activity map and understand where the activity is occurring prior to launch."
+            },
+            {
+              "id": "demonstrate_watercraft_storing_before_clean_down_942718",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to clean down my watercraft before storing it.",
+              "dialog_text": "The youth member must demonstrate cleaning of their watercraft after a paddling activity. They should ensure that they rinse the craft with freshwater to remove any salt, mud, sand and weeds."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "from_things_least_favourite_trips_paddling_talked_47e521",
+              "type": "verifiable_checkbox",
+              "label": "I have talked about my favourite things from at least two paddling trips.",
+              "dialog_text": "The youth member should talk about their favourite things about their paddling trips in their log. They should also talk to their Patrol, Unit, leader about these, it could be at Unit Council or even around a campfire."
+            },
+            {
+              "id": "would_trips_paddling_future_differently_suggest_do_4b3f4b",
+              "type": "verifiable_checkbox",
+              "label": "I can suggest what I would do differently for future paddling trips.",
+              "dialog_text": "The youth member should review their paddling activities. Their discussion should include things they forgot, where they could go next time and how they could challenge themselves further."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

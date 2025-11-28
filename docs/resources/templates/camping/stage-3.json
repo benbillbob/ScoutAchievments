@@ -1,0 +1,172 @@
+{
+  "template": "oas/camping/3",
+  "meta": {
+    "stage": 3,
+    "stream": "camping"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 3 - Camping",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "pack_own_bag_camp_60a043",
+              "type": "verifiable_checkbox",
+              "label": "I can pack my own bag for camp.",
+              "dialog_text": "The youth member should be able to think about what they need for camp and pack all appropriate items. They should be able to create a list of things they need to take (the creation of this list can be supported by a peer or adult if needed). Their list might include: \n * clothing \n * toiletries \n * bedding \n * activity gear \n * swimmers \n * rain jacket \n * a light \n * first aid kit \n * mess kit. \n \nDoing this will help a youth member know what is in their bag and how it fits in the bag/bags. The youth member at this stage should also be considering what group gear/patrol gear may be needed, such as a tent."
+            },
+            {
+              "id": "weather_where_area_will_forecast_camping_latest_1a1a19",
+              "type": "verifiable_checkbox",
+              "label": "I know how and where to get the latest weather forecast for the area I will be camping in.",
+              "dialog_text": "The youth member needs to be able to source relevant/accurate information on predicted weather for a trip they will be taking. There are a number of different ways to get current weather predictions including: \n * apps \n * websites \n * newspaper \n * television \n \nThe youth member should be able to demonstrate at least two of these methods and make an accurate assessment based on the information they examine. There are some websites and methods that are more accurate and reliable than others, and this is also important learning for the youth member."
+            },
+            {
+              "id": "plan_balanced_help_meal_camp_15304b",
+              "type": "verifiable_checkbox",
+              "label": "I can help plan a balanced meal for camp.",
+              "dialog_text": "The youth member should consider healthy camp meals that will be cost effective and be able to be made while on camp using the cooking equipment available. The youth member should think about meals that have a balance of different food groups, and include a good mixture of greens/leafy vegetables, carbohydrates, proteins and fats. The youth member (with support from others) should consider the dietary requirements of themselves and the others they may be planning for."
+            },
+            {
+              "id": "using_out_regards_gas_cook_of_risks_talk_89b9c5",
+              "type": "verifiable_checkbox",
+              "label": "I know the benefits of using gas to cook and can talk about what risks to watch out for in regards to using gas.",
+              "dialog_text": "The youth member should be able to discuss benefits such as: \n * an easily moderated temperature, \n * easy to purchase fuel, \n * easy to refuel, \n * safe to carry, and \n * scalable to cook different meal sizes in both large and small meals."
+            },
+            {
+              "id": "group_list_equipment_camp_22ff83",
+              "type": "verifiable_checkbox",
+              "label": "I can list group equipment required for camp.",
+              "dialog_text": "The youth member should be able to list what group gear will be needed for a Unit camp, accounting for type and length of the camp. Items included on the list should be: \n * cooking equipment \n * first aid \n * tents \n * shelter \n * games and activities \n * spare personal equipment \n * wash equipment."
+            },
+            {
+              "id": "maintain_while_personal_camping_hygiene_563761",
+              "type": "verifiable_checkbox",
+              "label": "I know how to maintain personal hygiene while camping.",
+              "dialog_text": "The youth member should be able to discuss and list the different ways to maintain personal hygiene while camping. This includes \n * using hand sanitiser when necessary \n * showering when available (or using baby wipes/similar products) \n * ensuring hands are clean and sanitised when dealing with food preparation \n * using roll-on deodorant if appropriate (spray deodorant can effect people that have asthma and is a fire risk inside a tent) \n * changing into clean and dry socks and underwear each day \n * making sure that all dishes are cleaned and dried appropriately."
+            },
+            {
+              "id": "assemble_kit_personal_aid_first_camp_9b180b",
+              "type": "verifiable_checkbox",
+              "label": "I can assemble a personal first aid kit for a camp.",
+              "dialog_text": "The youth member should put together a personal first aid kit that contains the essential items that can be used to deal with simple injuries and first aid issues. The youth member should know why each item they choose to put into the kit is selected and have an idea of how they would use it in an emergency first aid situation. Knowing what type of camp/trip the kit is being used for is important as well. \nThings that the youth member may consider putting in their first aid kit are: \n * bandages (including compression/triangle bandage) \n * band aids \n * antiseptic cream and other creams \n * wound covers \n * tweezers \n \nThe kit only needs to service the youth member that it belongs to and should be simple in its contents, and also effective."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "stands_aid_first_situations_use_drsabcd_a6bd78",
+              "type": "verifiable_checkbox",
+              "label": "I know what DRSABCD stands for and how to use it in First Aid situations.",
+              "dialog_text": "The youth member needs to demonstrate their understanding of the steps of DRSABCD in a mock emergency situation: \n * D for Danger \n * R for Response \n * S for Send for Help \n * A for Airway \n * B for Breathing \n * C for CPR \n * D for Defibrillation."
+            },
+            {
+              "id": "safe_keeping_camp_demonstrate_manmade_myself_from_things_c6571b",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate keeping myself safe from natural and man-made things at camp.",
+              "dialog_text": "The youth member needs to demonstrate safe behaviours and being considerate of risks while on camp. Camp items, and hazards are quite common during a camp, and need to be accounted for. When known about, these hazards are incredibly minimal. These items could include: \n * specific constructions \n * camp axe \n * boiling water for cooking or purifying \n * gas burners \n * materials that could cause an allergic reaction \n * stinging or biting insects \n * splinters \n * ticks \n * snakes \n * pioneering constructions (if made improperly) \n * and also guy ropes for tents and other shelters."
+            },
+            {
+              "id": "build_materials_so_help_do_campfire_collect_8239a4",
+              "type": "verifiable_checkbox",
+              "label": "I can help build a campfire and collect materials to do so.",
+              "dialog_text": "The youth member's first thing to understand is there are many ways to build a campfire. If the purpose of the campfire is to cook with, then the structure of the fire should force heat into a specific direction (such as upwards, to a grill, if using a trench fire) rather than general radiating heat for a teepee/pyramid fire. \nThe correct kinds of kindling and wood materials must be bone dry (it is possible to snap or crack the wood and there is no softness or dampness in the sound or feel). \nWhen starting a fire it is important to get lots of different kinds of wood and kindling. Dead, dry bark can make a good kindling, especially when it is perforated and split up into a fibrous length. Sticks and long thin pieces of wood work especially well, as long as they are appropriately sized to the scale of the fire. Dead, dry leaves also work well (especially pine needles, and eucalyptus leaves) however it is important to not smother the fire with excess quantity."
+            },
+            {
+              "id": "meal_cook_assistance_campfire_e08879",
+              "type": "verifiable_checkbox",
+              "label": "I can cook a meal on a campfire with assistance.",
+              "dialog_text": "The youth member needs to cook a meal on a campfire. It should be big enough to feed a Unit or Patrol for a evening meal or similar portion size to this. It is suggested that either the fire is a trench/pit style fire that has a grill cast over the top, so the Scouts can roast their food on the grill, a cast iron pot for a slow cooked meal with sides or the fire is burnt down to coals and then food is cast into the coals while wrapped in foil. The latter of these two options generally provides more control over a slow cooking process, however it is easier to bake bread/damper wrapped around a stick if there are flames and a grill. The correct choice to the style of fire should be made by the Scout, depending on location, cooking experience of the Scouts, and the types of food needed to be cooked."
+            },
+            {
+              "id": "used_help_gas_cook_cooker_meal_camp_0b9810",
+              "type": "verifiable_checkbox",
+              "label": "I have used a gas cooker to help cook a camp meal.",
+              "dialog_text": "The youth member needs to consider/ take all of the things below into account when cooking a meal: \n * When using a gas cooker it is essential to make sure that there is a strong seal between the gas canister and the burning element, and if there is a pipe between to ensure that the pipe seals are also strong. \n * Make sure that the burner is on a flat, stable surface and will not be knocked over or impacted by movement nearby. \n * The pot should be resting on a stand above the burner at an appropriate height. \n * It is often challenging to simmer a boil when using a gas cooker, so practice is needed for that skill. \n * Remember to shut off the gas when the cooking has finished. \n * Make sure to also not have long hair, or flammable clothing/products nearby to the gas cooker."
+            },
+            {
+              "id": "help_run_activity_camp_f46373",
+              "type": "verifiable_checkbox",
+              "label": "I can help run an activity at a camp.",
+              "dialog_text": "The youth member needs to run an activity that could be a game, puzzle, adventure or other activity of any kind that challenges the youth member in the preparation. It should be fun, challenging and inclusive for the members involved."
+            },
+            {
+              "id": "adult_set_help_without_tent_from_up_5d86ea",
+              "type": "verifiable_checkbox",
+              "label": "I can set up a tent, without help from an adult.",
+              "dialog_text": "The youth member should set the tent up appropriately for its make and model. It is important for the youth member to know about the tent before they get to camp so as when they need to set the tent up in potentially challenging conditions e.g. wind, rain, the dark etc., they know how to do so. The base should be pegged down taut making sure it's not bunched up, otherwise the tent is less waterproof and has less floor space. Pegs need to be placed into the ground directed towards the base on a 45 degree angle, poles connected and placed properly, fly over the tent pegged and guy lines fastened. The tent should be placed in an appropriate spot away from being under trees or too close to other camp items such as the fireplace."
+            },
+            {
+              "id": "adult_set_help_without_tent_from_up_384326",
+              "type": "verifiable_checkbox",
+              "label": "I have spent 5 nights on camp in a tent by the end of this Stage.",
+              "dialog_text": "The youth member should have spent 5 nights on camp by the end of Stage 3. This could have been achieved through multiple 1 night trips or, 2 or 3 multi-night trips as long as the youth member has slept in a tent. Location of the tent and weather is irrespective. The tent could be in the backyard of the scout hall or 300km away on an extended journey."
+            },
+            {
+              "id": "cuts_bleeding_treat_minor_a5b417",
+              "type": "verifiable_checkbox",
+              "label": "I know how to treat cuts and minor bleeding.",
+              "dialog_text": "Through a mock situation, the youth member should demonstrate basic treatment of cuts and small bleeds. This should include what first aid gear such as bandages the member may use and demonstrating the correct treatment including cleaning and dressing of a wound and any further treatment that may need to occur after first aid has been delivered. Pressure, Elevation and Rest are the most important parts of treating minor cuts and bleeding."
+            },
+            {
+              "id": "teach_importance_buddy_stage_of_1_scout_system_d5d988",
+              "type": "verifiable_checkbox",
+              "label": "I can teach the importance of the buddy system to a Stage 1 Scout.",
+              "dialog_text": "The youth member should be able to describe what the Buddy System is to less experienced Scouts and explain why using the buddy system assists in safety of their friends. This should include: \n * Staying in pairs or threes \n * making sure we stay with Adult Leaders/supervisors \n * Understanding the boundaries at camp \n * That it is important for people to know where I am.  \n \nThe youth member should not only be able to list what the Buddy System is but why each point is important and also have an example of when they would have used the Buddy System on an activity."
+            },
+            {
+              "id": "store_food_camp_demonstrate_388618",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to store food at camp.",
+              "dialog_text": "The youth member should recognise there are different ways that food could be stored depending on the environment you are camping in. The youth member should consider location, weather, equipment, length of time, cross contamination, season, native and introduced fauna, allergies and space when planning and demonstrating the storing of food."
+            },
+            {
+              "id": "during_standing_learnt_help_me_3_camp_knots_f83c4d",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt 3 knots that can help me during a standing camp.",
+              "dialog_text": "The youth member could tie a lashing, some sort of hitch or other fastening, or a functional, technical knot that serves a purpose within the campsite. Examples include: \n * clove hitch \n * round turn and two half hitches \n * square or round lashing \n * truckies hitch \n \nIt's important for the knots to have a practical purpose at camp or to and from camp. The underlying goal of this is continuous improvement, which means the youth member does not need to tie this perfectly however should be demonstrating their improvement and commitment to improving their skills."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "assisted_activity_improve_discussed_camping_ways_1fc5d7",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed the ways I can improve the camping activity that I assisted in.",
+              "dialog_text": "The youth member should reflect on their activity and consider what went well, what didn’t go to plan, what changes they might make if running this activity again, and how could they make this a more fun, challenging, adventurous and inclusive activity."
+            },
+            {
+              "id": "improvements_camping_made_discussed_945a5d",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed my camping and how improvements can be made.",
+              "dialog_text": "The youth member should reflect on the camping trips they have been on and how their preparation has improved. Other aspects they could reflect on include - how they could better prepare for and pack down from camps and how they acted at camp."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

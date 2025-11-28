@@ -1,0 +1,172 @@
+{
+  "template": "oas/vertical/abseiling/4",
+  "meta": {
+    "stage": 4,
+    "stream": "abseiling"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Abseiling",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "safe_unsafe_vertical_site_94f0b9",
+              "type": "verifiable_checkbox",
+              "label": "I know what makes a safe and unsafe vertical activity site.",
+              "dialog_text": "The youth member should be able to point out hazards regarding the condition of the cliff, the conditions and size at the top and the base of the cliff and availability of suitable anchors."
+            },
+            {
+              "id": "prepare_equipment_transport_abseil_9e0c3a",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare required equipment for safe transportation to an abseiling activity location.",
+              "dialog_text": "The youth member should be able to demonstrate organising safe transportation of abseiling gear to an abseiling location. The youth member will need to consider things such as the impact of fuels or weather on equipment and ensure that ropes don't get tangled or damaged."
+            },
+            {
+              "id": "read_itinerary_proposed_abseil_0897a4",
+              "type": "verifiable_checkbox",
+              "label": "I can read an itinerary for a proposed abseiling trip and understand what I am required to do.",
+              "dialog_text": "The youth member will need to demonstrate an understanding of an abseiling activity from the itinerary, by discussing the gear list, menu and route with the trip leader and by bringing what is required to the activity."
+            },
+            {
+              "id": "why_wear_helmet_abseil_c10bb7",
+              "type": "verifiable_checkbox",
+              "label": "I know why and where I should wear a helmet for vertical activities.",
+              "dialog_text": "The youth member is required to explain the importance of wearing a helmet, including when and where they need to wear it whilst undertaking abseiling activities."
+            },
+            {
+              "id": "personal_equipment_safety_checks_abseil_afdf241b",
+              "type": "verifiable_checkbox",
+              "label": "I have completed all necessary personal and equipment safety checks, using the ABCDE check with a buddy, prior to commencing an abseiling activity.",
+              "dialog_text": "The youth member should be able to explain and demonstrate what the ABCDE check with their buddy, including why it is important to do these things before each abseil. \n * A - Anchor(s) \n * B - Buckles \n * C - Carabiner(s) \n * D - Descender \n * E - Everything else e.g. gloves, shoelaces, long hair tied back, prusiks on harness."
+            },
+            {
+              "id": "signs_symptoms_hypo_hyperthermia_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of hypothermia and hyperthermia.",
+              "dialog_text": "The youth member should be aware of the general and most common signs and symptoms. This could be learnt through research and demonstrated through mock emergencies."
+            },
+            {
+              "id": "care_handle_store_rope_harness_helmet_abseil_394038",
+              "type": "verifiable_checkbox",
+              "label": "I know how to care for, handle and store an abseiling rope, harness and helmet.",
+              "dialog_text": "The youth member will need to demonstrate the appropriate storage and care for these items while on an activity e.g. making sure excess rope is not sitting on dirt or sandy ground due to abrasion."
+            },
+            {
+              "id": "abseil_setup_techniques_different_07fd28",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed different setup techniques for abseils.",
+              "dialog_text": "The youth member needs to discuss three different set up techniques, including the benefits and disadvantages for each one."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "prepare_belay_abseil_52241b",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare a belay for a proposed abseiling activity.",
+              "dialog_text": "The youth member should be able to set up and prepare a safe belay system which is suitable for the proposed abseiling activity."
+            },
+            {
+              "id": "revisit_knotting_skills_abseil_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I have revisited my knotting skills and can tie an Alpine Butterfly, Figure of 8 re-threaded, Figure of 8 on the bite, Tape knot and a Prusik knot and I can apply them to abseiling activity situations.",
+              "dialog_text": "The youth member should demonstrate all of these knots in a practical way during the abseiling activity and ensure they are set and dressed correctly."
+            },
+            {
+              "id": "wet_conditions_safety_abseil_07fd28",
+              "type": "verifiable_checkbox",
+              "label": "I know how wet conditions can affect my safety when abseiling.",
+              "dialog_text": "The youth member should be able to explain what might change in the environment under wet conditions and how they can manage the situation to suit the new conditions."
+            },
+            {
+              "id": "communication_calls_abseiler_belayer_17165b",
+              "type": "verifiable_checkbox",
+              "label": "I know the communication calls and script to follow between an abseiler and belayer.",
+              "dialog_text": "The youth member should demonstrate the communication calls between an abseiler and belayer during an activity."
+            },
+            {
+              "id": "two_abseil_sessions_logged_stage_ce80cc",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in and logged a minimum of two abseiling sessions on different days on either artificial or natural surface at this Stage.",
+              "dialog_text": "The youth member needs to do two (2) abseiling sessions and log them in their logbook. They should include where they did the activities, who they did it with, how high they were and how many abseils they did. These should be in addition to the abseiling the youth member did in Stage 3."
+            },
+            {
+              "id": "thread_descending_device_abseil_line_8b43dd",
+              "type": "verifiable_checkbox",
+              "label": "I can thread a descending device to the abseil line and clip onto the line safely.",
+              "dialog_text": "The youth member should demonstrate, under supervision, that they can thread a descending device and they should be able to explain and demonstrate their knowledge of how to use the descending device."
+            },
+            {
+              "id": "demonstrate_correct_posture_technique_abseil_8b43dd",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the correct posture and technique while abseiling, using single and double rope.",
+              "dialog_text": "The youth member should be positioned with their feet flat on the wall and legs at right angles (90 degrees) and shoulder width apart."
+            },
+            {
+              "id": "top_belayed_abseil_8b43dd",
+              "type": "verifiable_checkbox",
+              "label": "I have been top belayed during an abseil.",
+              "dialog_text": "The youth member needs to include this in their logbook or they should have a photo or video taken, and indicate who can verify this activity."
+            },
+            {
+              "id": "ascend_abseil_rope_8b43dd",
+              "type": "verifiable_checkbox",
+              "label": "I can ascend an abseil rope including over an edge.",
+              "dialog_text": "The youth member needs to prusik up a rope using Prusik loops or a mechanical device. This should be included in their logbook or they should have a photo or video taken, and indicate who can verify this activity."
+            },
+            {
+              "id": "bottom_belay_other_abseil_8b43dd",
+              "type": "verifiable_checkbox",
+              "label": "I can bottom belay another person while they are abseiling.",
+              "dialog_text": "The youth member needs to demonstrate the correct and safe bottom belaying procedure during an activity. The youth member should stop and slow the abseiler and ensure they are using the correct communication during the process and log this in their logbook."
+            },
+            {
+              "id": "10_abseils_complete_4_8b43dd",
+              "type": "verifiable_checkbox",
+              "label": "I have done 10 or more abseils by the completion of Stage 4.",
+              "dialog_text": "The youth member needs to do ten or more abseils and log them in their logbook. The youth member should include where they did the activities, who they did it with and high they were."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "identify_improvements_future_abseiling_73f6f3",
+              "type": "verifiable_checkbox",
+              "label": "I can identify improvements for future abseiling activities.",
+              "dialog_text": "The youth member should discuss with their Patrol or Unit the abseiling activities they have participated in at this Stage and identify where they can improve their skills and the activities for next time."
+            },
+            {
+              "id": "check_equipment_damage_discuss_repair_73f6f3",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should demonstrate a gear inspection after their activity. This includes: \n * Visual inspection of their harness including rips, tears and fraying \n * Visual and physical checks of ropes by running the rope through their hands end to end looking/feeling for lumps, bumps, flattening, fraying."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

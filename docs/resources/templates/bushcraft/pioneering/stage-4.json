@@ -1,0 +1,118 @@
+{
+  "template": "oas/bushcraft/pioneering/4",
+  "meta": {
+    "stage": 4,
+    "stream": "pioneering"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Pioneering",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "environment_constructing_while_objects_protect_5a913e",
+              "type": "verifiable_checkbox",
+              "label": "I know how to protect the environment while constructing objects.",
+              "dialog_text": "The youth member should consider the importance of protecting live trees and other components of the environment.  In their planning do they have enough materials and are they sustainably sourced?"
+            },
+            {
+              "id": "where_location_equipment_transportation_activity_safe_prepare_654457",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare equipment, where required, for safe transportation to an activity location.",
+              "dialog_text": "The youth member can plan the safe removal of items from storage and safely load them onto vehicles or trailers. They can effectively tie the pioneering equipment onto vehicles and trailers with adult supervision."
+            },
+            {
+              "id": "draw_plan_constructing_object_up_before_43568f",
+              "type": "verifiable_checkbox",
+              "label": "I can draw up a plan before constructing an object.",
+              "dialog_text": "The youth member's plan should be clear to interpret by all members of their Patrol, so they are all working towards the same goal, and the adult Leaders or Unit Leaders are able to understand what is being constructed."
+            },
+            {
+              "id": "read_do_understand_pioneering_plan_am_activity_6bea9a",
+              "type": "verifiable_checkbox",
+              "label": "I can read the plan for a pioneering activity and understand what I am required to do.",
+              "dialog_text": "The youth member can clearly interpret a pioneering activity plan, to ensure the whole Patrol is working towards the same goal."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "ropes_appropriate_pioneering_poles_size_select_project_012505",
+              "type": "verifiable_checkbox",
+              "label": "I can select appropriate size poles and ropes for a pioneering project.",
+              "dialog_text": "The youth member understands which poles and ropes are required for different types of pioneering projects. Considerations are: \n * Large, round and long poles are excellent for bridge structures. \n * Medium thickness and length poles are ideal for chariots and movable components. \n * Thin and light poles are ideal for ballistas and other siege weaponry or structures such as camp accessories and flagpoles. \n \nThe rope that should be used will depend on the activity and should be in accordance with National and Branch Policies. Keep in mind the swelling of rope during water based activities."
+            },
+            {
+              "id": "group_5_of_flagpole_construct_camp_high_metre_326967",
+              "type": "verifiable_checkbox",
+              "label": "I can, with a group of Scouts, construct a 5 metre high flagpole on camp.",
+              "dialog_text": "The youth member should demonstrate the construction of a flag pole design of 5 metres. They need to consider the risk factors and ensure all safety requirements are met. Please be aware that a 5 metre flag pole is significantly tall and must include tethering/guy lines and supported design. \n \nThe majority of the weight of the tower, and the centre of gravity, must be as low to the ground as possible. The pulley and components that are hoisted to 5 metres must be as minimal as possible."
+            },
+            {
+              "id": "chariot_challenge_patrol_of_another_construct_scout_scouts_f4cc62",
+              "type": "verifiable_checkbox",
+              "label": "I can, with a Patrol of Scouts, construct a Scout chariot and challenge another Patrol.",
+              "dialog_text": "The youth member is encouraged to be creative and adaptive in their chariot design. A drawn up plan would ideally be undertaken prior to the construction. The classical A-Frame shape is one of the styles they could construct."
+            },
+            {
+              "id": "fun_researched_together_something_patrol_construct_we_agreed_3397ab",
+              "type": "verifiable_checkbox",
+              "label": "I can construct something fun with my Patrol that we have researched and agreed to construct together.",
+              "dialog_text": "The youth member should be constructing a pioneering project based on a draw up plan. The youth member and their Patrol will need to consider and mitigate the risks surrounding their chosen design. Examples include: \n * Camp chair \n * Table \n * Patrol box \n * Monkey bridge \n * Suspension bridge \n * Observation tower \n * Ballista or other siege weaponry, such as a trebuchet"
+            },
+            {
+              "id": "safety_explain_undertaking_pioneering_precaution_take_projects_630391",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the safety precautions to take when undertaking pioneering projects.",
+              "dialog_text": "The youth member has researched best practise safety precautions and should be aware that strong caution needs to be taken regarding structures that have materials up high, or involve large poles etc. \n \nAny structure that is designed to be climbed must be completely finished and anchored before any person climbs it. \n \nSafe lifting techniques, hand protection with gloves and potentially head protection should be used if risk of falling objects. \n \nThe National and Branch Policies on Pioneering should be referred to when constructing large scale pioneering projects."
+            },
+            {
+              "id": "are_pioneering_of_used_new_different_lashings_me_24f977",
+              "type": "verifiable_checkbox",
+              "label": "I have used two different types of lashings, which are new to me, in a pioneering project at this stage.",
+              "dialog_text": "The lashings chosen should be relevant to the pioneering project the youth member is working on. Some advanced pioneering related lashings include: \n * Diamond Lashing \n * Modified Square Lashing \n * West Country Round Lashing \n * Two Spar Shear Lashing"
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "techniques_identify_safety_outcomes_pioneering_including_way_we_102164",
+              "type": "verifiable_checkbox",
+              "label": "I can identify improvements in the way we go about future pioneering activities including techniques, safety, teamwork, and outcomes.",
+              "dialog_text": "The youth member should discuss with their Patrol or Unit the pioneering activities they have completed at this Stage and identify where they can improve their skills and practices for next time."
+            },
+            {
+              "id": "checked_replaced_needs_repaired_if_equipment_discussed_damage_1f5bbc",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should also be keeping a log of what equipment was used during their activities. Ensure that it is packed away and stored correctly. If anything is damaged or needs replacing, note it in a log and discuss with Unit Council."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "template": "oas/aquatics/snorkelling/4",
+  "meta": {
+    "stage": 4,
+    "stream": "snorkelling"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Snorkelling",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "signs_symptoms_hypo_hyperthermia_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of hypothermia and hyperthermia.",
+              "dialog_text": "The youth member should be aware of the general and most common signs and symptoms of both hypothermia and hyperthermia. This could be through research and demonstrated through mock emergencies. They should consider how they would avoid or prevent themselves and others getting hypothermia and hyperthermia during aquatic activities."
+            },
+            {
+              "id": "necessary_gear_snorkelling_adventure_0d0a79",
+              "type": "verifiable_checkbox",
+              "label": "I know what gear is necessary for a snorkelling adventure, including protective clothing, masks and sunscreen.",
+              "dialog_text": "The youth member should consider the following when planning what gear they need: \n * Location \n * Weather \n * Water temperature \n * The type of snorkelling \n * The skills and experience of their Patrol. \n \nThey will definitely need a mask and snorkel, and more than likely fins. They will also probably need sun safe clothing and potentially stinger suit, depending on the location of the snorkelling activity. Boots and wetsuits may be needed in colder water or for sun protection. They should also be mindful of the type of sunscreen they are using as it can affect the reefs and microorganisms in the ocean and rivers."
+            },
+            {
+              "id": "ear_equalisation_necessary_snorkelling_diving_504041",
+              "type": "verifiable_checkbox",
+              "label": "I know why ear equalization is necessary when snorkelling and diving at depth.",
+              "dialog_text": "The youth member should be able to explain the necessity to equalise the air spaces between the ears, nose and mouth when diving below the surface, as the change in pressure can cause pain, discomfort or injury."
+            },
+            {
+              "id": "improtance_notifying_others_plans_snorkelling_teams_653dd9",
+              "type": "verifiable_checkbox",
+              "label": "I know the importance of not going snorkelling alone, and of notifying others of my plans before leaving.",
+              "dialog_text": "The youth member should always snorkel with a buddy to ensure if they have a problem out on the water, someone is always nearby to help. It is also important to ensure they give someone their activity plan, so others know where they are going and when they plan to come back. This means that if they don’t come back according to their plan, someone will know to send for help."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "swim_surface_pool_snorkelling_gear_891e5f",
+              "type": "verifiable_checkbox",
+              "label": "I can swim on the surface of a pool or open water (such as a bay or cove) for 50m using a mask, fins and snorkel.",
+              "dialog_text": "The youth member should be able to keep their face in the water for the 50 metres, whilst breathing via the snorkel."
+            },
+            {
+              "id": "breathe_adjust_snorkel_mask_ad1d38",
+              "type": "verifiable_checkbox",
+              "label": "I can breathe through a snorkel and adjust my mask to fit comfortably.",
+              "dialog_text": "The youth member should breathe through the snorkel using their tongue to protect their airway, in case water gets into the snorkel. They should demonstrate fitting and adjusting their mask and snorkel. The mask should fit comfortably and not be too tight, but not too loose so that it leaks."
+            },
+            {
+              "id": "snorkelled_open_water_observed_creature_3db3f0",
+              "type": "verifiable_checkbox",
+              "label": "I have snorkelled in open water and observed at least one marine or aquatic creature.",
+              "dialog_text": "The youth member should plan a trip to an open water location, which could be the sea or an inland dam or river, and look for marine or aquatic creatures whilst snorkelling. They should be aware that they should not disturb underwater creatures. They should also be able to point to something of interest that they have seen whilst snorkelling. If they live inland, they might need to arrange a Unit trip to a suitable open water venue."
+            },
+            {
+              "id": "recognise_panic_help_snorkeler_1b15b8",
+              "type": "verifiable_checkbox",
+              "label": "I can recognize the signs of a panicked snorkeler or diver and know how to call for help.",
+              "dialog_text": "The youth member should be able to recognise signs of a panicked snorkeler and should be aware of how to call for help. They should remember the 4 A's from the previous stages. Often a panicked person is not rational and can drag others trying to help them down too. This statement may be best completed in a mock emergency and should focus on identifying panicked snorkelers first and foremost."
+            },
+            {
+              "id": "swim_100_meters_without_stopping_c7721a",
+              "type": "verifiable_checkbox",
+              "label": "I can swim for 100 metres without stopping (any stroke).",
+              "dialog_text": "The youth member should be able to swim 100 metres using any known swimming stroke without any form of assistance. This means they should maintain their chosen stroke, and should not use any floatation devices including fins or wetsuit."
+            },
+            {
+              "id": "completed_three_snorkelling_activities_stage_four_25d675",
+              "type": "verifiable_checkbox",
+              "label": "I have completed 3 Snorkelling activities by the completion of Stage 4, spending at least 3 hours in the water across these activities.",
+              "dialog_text": "The youth member needs to participate in at least three snorkelling activities and log them in their logbook. Their snorkelling activities should include the preparation, briefing and clean up with a minimum of one (1) hour in the water, per activity. Their logbook should include where they did the activities, who they did it with, what the weather was like and any other interesting information about their activity/activities."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "identify_improvements_future_snorkelling_activities_7376ee",
+              "type": "verifiable_checkbox",
+              "label": "I can identify improvements that could be made for future snorkelling activities I participate in or lead.",
+              "dialog_text": "The youth member should discuss with their Patrol or Unit the snorkelling activities they have participated in at this stage, and identify where they can improve their skills and activities for next time. They could discuss snorkelling technique, such as kicking style and snorkel clearance, and the impact of weather, tide and any site specific issues they've come across."
+            },
+            {
+              "id": "checked_equipment_damage_26725f",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should demonstrate a gear inspection after their activity; visual inspection of their mask, snorkel and fins and any wetsuit/stinger suit they used. They should be looking for rips, tears, cracks or holes. They should also ensure all the equipment is rinsed in fresh water after the activity. If there is anything that needs repairing or replacing, they should discuss it with the leader in charge of the equipment."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "template": "oas/cycling/mountain-biking/9",
+  "meta": {
+    "stage": 9,
+    "stream": "mountain-biking"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 9 - Mountain biking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "first_aid_qualification_current_794a67",
+              "type": "verifiable_checkbox",
+              "label": "I have kept my First Aid qualifications up to date.",
+              "dialog_text": "The youth member should keep their CPR and first aid course current, by updating CPR annually and redoing their first aid course every three years."
+            },
+            {
+              "id": "researched_trails_five_mountain_bike_routes_ef2073",
+              "type": "verifiable_checkbox",
+              "label": "I have researched and determined trails for five mountain bike routes.",
+              "dialog_text": "The youth member should plan these mountain bike rides using websites such as Google Earth, ridewithGPS.com, OpenStreetMap, or other trails/cycling websites. At this Stage, the youth member should be able to easily undertake difficult (black diamond) routes, but they need to take into consideration the skills of the members of their Patrol."
+            },
+            {
+              "id": "planned_led_three_mountain_bike_activities_d23094",
+              "type": "verifiable_checkbox",
+              "label": "I have planned and led at least three mountain bike activities.",
+              "dialog_text": "The youth member should use the research in the above statement to plan and lead these activities whilst working on Stage 9. They should log these in their logbook and note their involvement, who was in the group, the terrain, weather conditions and a review of the activities."
+            },
+            {
+              "id": "extensive_risk_management_long_distance_mountain_bike_ride_628580",
+              "type": "verifiable_checkbox",
+              "label": "I have developed an extensive risk management plan for a long-distance mountain bike ride.",
+              "dialog_text": "The youth member should develop their plan taking into consideration that a long-distance mountain bike ride is probably best with minimal and lightweight gear, reducing aerodynamic drag and stress on the bike components. \n \nMountain bikes are not dedicated touring bikes and are meant to be ridden by an averagely weighted human not a human and heavy touring gear, so adjustments and careful planning will be required. \n \nOver long distance many external factors are important to consider such as weather averages, re-supply points, how remote the trail is and how help can be summoned, and also what gear needs to be brought along to adequately repair bike components that may break."
+            },
+            {
+              "id": "taught_mechanical_skills_stage_seven_80e69",
+              "type": "verifiable_checkbox",
+              "label": "I have taught mechanical skills to other Scouts up to Stage 7.",
+              "dialog_text": "The youth member should be able to teach other Scouts important skills such as: \n * chain breaking and repair \n * disassembling and tweaking different gear cassettes \n * rewiring the brakes and gears \n * lubricating different parts of the bike \n * proper judgement of when parts need to be repaired/replaced"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "participated_multiple_mountain_biking_disciplines_740093",
+              "type": "verifiable_checkbox",
+              "label": "I have participated extensively in cross country, downhill and enduro mountain biking activities, accumulating to at least 10 days of mountain biking at this Stage.",
+              "dialog_text": "The youth member should determine which of these disciplines they are most suited and comfortable with, and should accumulate at least 10 days across these disciplines at this Stage and log them in their logbook. \n \nThe youth member is encouraged to branch out and develop skills and interests in multiple mountain biking disciplines. \n * Cross Country (XC) mountain biking is the most popular kind of mountain biking and involves primarily testing the rider’s endurance and technical handling. Normally, an XC rider will ride a hardtail mountain bike with front suspension forks. \n * Enduro mountain biking is more adventurous than XC riding, and involves larger drops and jumps, and lots of fast steep climbs and descents. Normally, an Enduro rider will ride a dual suspension bike or a hardtail, with larger width tyres and front suspension forks that have more travel than standard mountain bikes, and will likely be wearing a full-face helmet, knee/arm pads, and a chest protector. \n * Downhill mountain biking is the most extreme of these three disciplines, and involves high speeds, extremely rough single track, large drops and jumps, and lots of trail obstacles. Normally, a Downhill rider will ride a dual suspension mountain bike with very large amounts of travel in the front and rear shocks, minimal gears, and a quite heavy frame. The rider will wear lots of protective gear due to the nature of the activity."
+            },
+            {
+              "id": "taught_mountain_biking_skills_other_scouts_21abd8",
+              "type": "verifiable_checkbox",
+              "label": "I have taught mountain biking skills to a Scout who is working on Stages 5, 6 and 7.",
+              "dialog_text": "The youth member should be able to teach other Scouts mountain biking skills. Make sure the youth member finds out what the Stage 5, 6 & 7 Scout's current level of skills and knowledge are, and build on that skill. The youth member should ask for feedback from the Scouts on the sessions which will help the youth member improve their teaching skills."
+            },
+            {
+              "id": "led_construction_maintenance_mountain_bike_trail_3c7439",
+              "type": "verifiable_checkbox",
+              "label": "I have led the construction, maintenance or revamping of a mountain biking trail.",
+              "dialog_text": "This is about building on the skills developed in construction, maintenance and revamping of mountain bike trails discussed in a previous Stage. This requirement involves the youth member taking a very active, leading role in the development/maintenance or repair of the trail, rather than working as a team member."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "evaluated_personal_leadership_development_mountain_biking_d540c2",
+              "type": "verifiable_checkbox",
+              "label": "I have evaluated my personal leadership development on two mountain biking activities.",
+              "dialog_text": "The youth member should evaluate these items as two different kinds of activities, such as the leadership role played in the creation/maintenance of a mountain bike trail, as well as the leadership of the Group on a long-distance mountain bike ride."
+            },
+            {
+              "id": "given_presentation_completion_cycling_mountain_biking_d540c2",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts on the skills I have gained from completing the Cycling Outdoor Adventure Skills",
+              "dialog_text": "The presentation should inspire and motivate, with the youth member talking about their accomplishment, their adventures, and their achievements. They could talk about the many kilometres that they have covered in the saddle, the perfect cadence which they can now keep, the amazing personal fitness that they have built, and the accomplishments they have reached through this Outdoor Adventure Skill. \n \nWhat are the youth member's next goals?"
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

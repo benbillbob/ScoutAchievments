@@ -1,0 +1,130 @@
+{
+  "template": "oas/cycling/2",
+  "meta": {
+    "stage": 2,
+    "stream": "cycling"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 2 - Cycling",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "should_clothing_explain_wear_riding_whilst_9af617",
+              "type": "verifiable_checkbox",
+              "label": "I can explain what clothing I should wear whilst riding.",
+              "dialog_text": "The youth member should explain that the clothing that should be worn on a ride depends heavily on the expected weather conditions, the kind of ride that they will be doing, and the expected terrain and environment they may be riding through. Some of the clothing mentioned should include: \n * Enclosed shoes (shoe laces tied and tucked in if long). \n * Shorts or pants with a tapered or rolled ankle (so pant legs don't get caught in gears or chain). \n * T-shirt or long sleeve t shirt (there is a balance here between protection from falls, grazes, sticks and branches, sun/weather protection, and overheating). \n \nIt is important that bright colours are worn, and at night bright, reflective colours should be worn to reduce collision and crash chance."
+            },
+            {
+              "id": "properly_helmet_own_put_d26f80",
+              "type": "verifiable_checkbox",
+              "label": "I can put on my own helmet properly.",
+              "dialog_text": "The youth member should loosen or tighten straps if necessary and ensure the helmet is on the correct way around and protecting the forehead. Once all straps have been adjusted the helmet should still fit next time."
+            },
+            {
+              "id": "before_start_am_go_riding_allowed_show_where_6a44a9",
+              "type": "verifiable_checkbox",
+              "label": "Before I start riding, I can show where and when I am allowed to go.",
+              "dialog_text": "The youth member should be able to describe/point/show to adult leaders or Patrol Leaders what their route and destination is, and if required draw it/mark it on a map/mapping tool."
+            },
+            {
+              "id": "vegetation_local_explained_riding_impact_194d02",
+              "type": "verifiable_checkbox",
+              "label": "I have explained what impact I can have on local vegetation when riding.",
+              "dialog_text": "The youth member should be able to explain why it is important to stick to paths while riding so that the local vegetation, flora and fauna is not damaged or worn out. \n \nIf the youth member is riding on a dedicated cycle trail, they should stick within the marked trail. These precautions are taken both to preserve the vegetation, flora and fauna that is outside the path but also to increase the clarity and quality of the riding path/trail."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "up_tyres_pump_f529ac",
+              "type": "verifiable_checkbox",
+              "label": "I can pump up my tyres.",
+              "dialog_text": "The youth member should be able to, with the help of an adult, Patrol Leader or more experienced youth member, connect the bike pump to the tyre valve and inflate to the correct pressure. \n \nThe pressure will be outlined on the rim as a guideline. Tyre pressure may need to be adjusted depending on the terrain and other factors in the cycling environment. It is important to never ride the bike, or put weight on the bike, if it has flat tyres (damage will happen to the rim, tube, and tyre itself)."
+            },
+            {
+              "id": "weather_outdoors_while_protect_myself_exposed_b30172",
+              "type": "verifiable_checkbox",
+              "label": "I can protect myself when exposed to the weather while outdoors.",
+              "dialog_text": "The youth member should ensure to pack and use: \n * Hat \n * Sun cream \n * Water bottle \n * Rain coat \n \nIt may be advisable to not ride in conditions that present excess danger. Some examples are below, and it is best to discuss the riding conditions with your Patrol, Patrol Leader or adult leader before starting the ride: \n * Extreme heat \n * Heavy thunderstorms \n * Bushfire \n * Hail \n * Snow \n * Sleet \n * High-grade wind warning \n * Severe weather warnings of any kind"
+            },
+            {
+              "id": "made_safety_demonstrating_rules_riding_poster_9a956e",
+              "type": "verifiable_checkbox",
+              "label": "I have made a poster demonstrating the safety rules for riding.",
+              "dialog_text": "The youth member should include the following key points: \n * Wear a helmet \n * Go with the traffic flow \n * Obey all traffic laws \n * Yield to traffic when appropriate \n * Be predictable \n * Stay alert at all times \n * Look before turning \n * Watch for parked cars (doors might open)"
+            },
+            {
+              "id": "taken_part_involving_control_enclosed_etc_safe_stops_a85192",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in a skills activity on safe enclosed area involving cones, stops, balance, control etc.",
+              "dialog_text": "The youth member should participate in a skills activity which could involve: \n * Weaving in-between cones \n * Stopping at a line after travelling at speed \n * Riding slowly along a path \n * Riding around obstacles \n * Practised leaning as they ride around corners \n * Riding up short, steep embankments \n * Riding on a path that has leaf litter/small obstructions such as sticks and rocks \n * Participating in skill building games such as ‘Bicycle Sumo’ or ‘Bicycle Polo’ \n* Riding along thin ‘balance’ beams \n * Riding in different body positions such as standing"
+            },
+            {
+              "id": "bike_ride_line_straight_0c9727",
+              "type": "verifiable_checkbox",
+              "label": "I can ride my bike in a straight line.",
+              "dialog_text": "The youth member should demonstrate this with their Patrol, Patrol Leader, or adult. Some good practice areas are: \n * Empty car park \n * Oval \n * Wide dedicated riding path \n * Firebreak \n * Empty (non-busy) road \n \nThe purpose of this skill is to be able to ride in a very straight line, and also to be able to ‘pick out’ potential riding lines as the youth member negotiates obstacles and changing trail/road terrain."
+            },
+            {
+              "id": "taken_part_rides_bike_least_095998",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in an at least two bike rides.",
+              "dialog_text": "Guidance under development."
+            },
+            {
+              "id": "should_case_action_appropriate_of_discussed_take_accident_d97e30",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed the appropriate action I should take in the case of an accident.",
+              "dialog_text": "The youth member needs to demonstrate where to go, who to call and how they can help in a event of an accident."
+            },
+            {
+              "id": "emergency_services_contact_612208",
+              "type": "verifiable_checkbox",
+              "label": "I know how to contact the emergency services.",
+              "dialog_text": "The youth member should have a plan should something go wrong, and know how to contact emergency services based on their location. This might be with an EPIRB, Mobile phone or Radio. \n \nThe youth member should also consider who is the best person to be contacting the emergency services. It might be the Guide or leader of the activity."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "improved_learnt_enjoyed_bike_journeys_from_riding_least_ac4a14",
+              "type": "verifiable_checkbox",
+              "label": "I have talked about what I enjoyed, learnt, or improved upon from at least two bike riding journeys.",
+              "dialog_text": "Guidance under development."
+            },
+            {
+              "id": "could_journey_learn_more_safer_new_bike_enjoy_cd73b0",
+              "type": "verifiable_checkbox",
+              "label": "I can suggest what could be done differently on a future bike riding journey, to enjoy it more, to be safer, or to learn new things.",
+              "dialog_text": "The youth member should review their activity and think about: \n * Was the terrain, trails, paths or roads taken appropriate for all members of the Patrol? \n * What did the Patrol bring along on the ride that they did not need? \n * Can any of these items be left at home next time?"
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

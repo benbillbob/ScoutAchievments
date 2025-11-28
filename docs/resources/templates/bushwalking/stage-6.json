@@ -1,0 +1,178 @@
+{
+  "template": "oas/bushwalking/6",
+  "meta": {
+    "stage": 6,
+    "stream": "bushwalking"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 6 - Bushwalking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "weekend_scout_lower_bushwalk_teach_pack_stage_300c0c",
+              "type": "verifiable_checkbox",
+              "label": "I can teach a Scout in a lower Stage what to pack for a weekend bushwalk.",
+              "dialog_text": "The youth member could facilitate an activity or session on bushwalking gear, including weight and size of gear and how to pack. The youth member could also facilitate a discussion with a Patrol and get them to bring what they would pack along, going through each item with them. \n \nSupporting material may be provide them with a list from your previous bushwalks, and give them examples and situations where you have used specific items, for example: \n * First aid kit \n * Compass \n * Thermal layers."
+            },
+            {
+              "id": "threenight_all_small_bushwalk_patrol_plan_of_aspects_7f6de8",
+              "type": "verifiable_checkbox",
+              "label": "I can plan all aspects of a three-night bushwalk with a small Patrol.",
+              "dialog_text": "The walk planned must consist of three nights out, ie: any night spent camped at the start of the track is not counted. \n \nIt should be more challenging than the bushwalk planned in Stage 5. \n \nThe youth member should ensure that all of the following considerations are met: \n * Selection of the party \n * Transport and logistics \n * Organisational policy, for example: party size; leadership qualifications and requirements; your Branch’s activity approval process \n * Risk management (see also Stage 5 Plan>) \n * Safety and emergency planning \n * Route planning and navigation, including the use of Naismith’s rule to estimate likely distance travelled \n * Environmental and minimal impact \n * Equipment selection and acquisition \n * Food and water (see also Stage 5 Plan>), and \n *that the proposed walk is within the capability of the proposed party."
+            },
+            {
+              "id": "negatives_global_positives_understanding_positioning_gps_using_systems_93c4a1",
+              "type": "verifiable_checkbox",
+              "label": "I have an understanding of the positives and negatives of using global positioning systems (GPS).",
+              "dialog_text": "The youth member should contact a Subject Matter Expert and conduct their own research via websites, books and articles to become familiar with the positives and negatives of using GPS."
+            },
+            {
+              "id": "equipment_sources_information_gained_where_of_selection_bushwalking_3fbe7d",
+              "type": "verifiable_checkbox",
+              "label": "I know where sources of information about bushwalking equipment selection can be gained.",
+              "dialog_text": "The youth member should be able to list where they can find information and where the best place to find information about good quality gear is. The youth member should also be able to explain about a time in which they have used these methods to find a piece of gear that they now own or are looking to purchase in the future. Some places where a youth member may be able to find this information includes: \n * Leaders \n * Adventurous Activities teams \n * Product reviews on outdoor websites \n * Posting questions on online discussion forums \n * Using the ‘Compare products’ function on web sites \n * Peak bushwalking bodies \n * Safety bodies eg: Bush Search & Rescue \n * Asking other people you see using similar gear out on the track."
+            },
+            {
+              "id": "activity_am_organize_transportation_leading_d48fc8",
+              "type": "verifiable_checkbox",
+              "label": "I can organize the transportation required for an activity I am leading.",
+              "dialog_text": "The youth member should consider: \n * vehicle availability  \n * licencing requirements \n * size of the group relative to available spaces \n * possibilities for car shuffles \n * most efficient access route \n * vehicle capabilities (2WD, AWD, and 4WD) \n * how to attract drivers \n * how to occupy drivers if they’re not walking, and \n * Public transport alternatives."
+            },
+            {
+              "id": "different_types_sketch_topographical_charts_use_including_of_0d370c",
+              "type": "verifiable_checkbox",
+              "label": "I know why and how to use different types of maps including topographical, charts, sketch maps or other.",
+              "dialog_text": "Ideally the youth member would research 5 types of maps (at minimum) and use 3 different types of maps in an activity/activities. Knowing what maps are available in a range of different applications and how to read them is the main aim of the 'I' statement."
+            },
+            {
+              "id": "people_all_our_party_journey_bushwalking_support_members_c6f6ca",
+              "type": "verifiable_checkbox",
+              "label": "I have appropriately briefed all members of a bushwalking party and support people about our journey.",
+              "dialog_text": "The youth member should be able to initiate, plan and conduct a weekend activity for a small group of peers with the objective of improving the environment of a wilderness area. This can be achieved in one of two ways: \n * Directly. Some examples include; conducting track maintenance work, pulling out weeds, erecting barriers to prevent access to revegetation areas, planting trees or spreading seeds in inaccessible areas \n * Indirectly. Some examples include; field-mapping the location and extent of weeds for later extermination, collecting plant samples to assess the health of threatened species, collecting water samples from inaccessible areas to assess stream health, recording and field-mapping frog calls. \n \nAnother objective of this project is to provide a specialist skillset to park authorities, environmental organisations, and researchers. The area must be a wilderness area on public land, for example State Forest, State Park, or National Park. It cannot be undertaken on Scout property or a Scout camp. \n \nThere is a secondary community service aspect to this statement, but providing specialist skills to the defence and improvement of the environment is the main objective."
+            },
+            {
+              "id": "activity_improvement_wilderness_lead_contributes_environmental_area_plan_3f54aa",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and lead an activity in a wilderness area which contributes to environmental improvement.",
+              "dialog_text": "The youth member should be able to initiate, plan, and conduct a weekend activity for a small group of peers to help improve the environment in a wilderness area (There is no true definition of a wilderness area in Australia however generally relates to the accessibility of outside help for the group if something doesn’t go to plan). The activity must have a primary objective of improving the environment; this may be achieved: \n * directly, for example by: \n conducting track maintenance work \n pulling out weeds \n erecting barriers to prevent access to revegetation areas, or \n planting trees or spreading seeds in inaccessible areas \n * indirectly, for example by: \n field-mapping the location and extent of weeds for later extermination \n collecting plant samples to assess the health of threatened species \n collecting water samples from inaccessible areas to assess stream health, or \n Recording and field-mapping frog calls. \n \nThe key objective is to provide a specialist skillset to park authorities, environmental organisations, and researchers. The area must be a wilderness area on public land, for example State Forest, State Park, or National Park. It cannot be undertaken on Scout property or a Scout camp. \n \nThere is a secondary community service aspect to this statement, but providing specialist skills to the defence and improvement of the environment is the main objective."
+            },
+            {
+              "id": "people_hours_these_travel_plan_2448_lodged_commencement_45fb4e",
+              "type": "verifiable_checkbox",
+              "label": "I have lodged a travel plan with the appropriate people and confirmed these in the 24-48 hours prior to commencement.",
+              "dialog_text": "The appropriate people could include- Groups, District, Region or Branch Scouting members (depending on state) and external bodies such as National Parks, State Forest, Police, emergency contact."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "equipment_taken_personal_weekend_usually_emergency_each_bushwalk_3e90dd",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the use of each item of group and personal emergency equipment usually taken on a weekend bushwalk.",
+              "dialog_text": "The youth member should organise and obtain examples of group and personal emergency equipment usually taken on a weekend bushwalk as undertake by the youth member’s Unit/Group. They should run a demonstration for peers showing the correct use of this equipment. Equipment may include: \n * Whistle \n * Repair kit \n * Personal Locator Beacon (PLB) \n * Spare thermal underwear \n * Space blanket \n * glowstick \n * dehydrated or self-heating meal \n * satellite telephone \n * satellite tracking beacon (SPOT trackers) \n \nThe demonstration does not need to include medication or first aid items such as Epipens."
+            },
+            {
+              "id": "features_incorporate_natural_while_into_navigational_bushwalk_aids_1d8f02",
+              "type": "verifiable_checkbox",
+              "label": "I can incorporate the use of handrails, catching features and other natural navigational aids into a bushwalking plan while on a bushwalk.",
+              "dialog_text": "The youth member in Stage 4 learnt about natural navigational aids and needed to identify them on a walk. \n \nThe youth member should now be able to use natural aids such as attack points, handrails, catching features, spurs, gullies, ridges, knolls and saddles along with compass bearings to make their navigation more precise. \n \nThe youth member can articulate why incorporating the natural navigational aids is important and how their use can complement a bearing. \n \nThe youth member should be able to demonstrate through practice application which aids are appropriate to use in different situation such as walking up spurs and down gullies and inform other party members of the advantages and disadvantages of these navigational aids."
+            },
+            {
+              "id": "store_equipment_scout_lower_maintain_group_teach_care_ff7d86",
+              "type": "verifiable_checkbox",
+              "label": "I can teach a Scout in a lower stage how to care for, store and maintain the group equipment.",
+              "dialog_text": "The youth member should teach the lower-staged Scout how to perform a selection of equipment maintenance and storage tasks. This can be to the youth members discretion based on the local Group’s equipment and type of walks undertaken. Some examples include: \n * Ensuring pots are clean \n * Checking gas levels in disposable cylinders \n * Drying tents \n * Ensuring gas jets are clear \n * Emptying unburnt methylated spirits from Trangia burners \n * Checking and replacing Trangia O-ring seals \n * Removing batteries from UHF radios \n \nAlternatively, the youth member may conduct a walk-through of the gear store identifying why certain items are stored certain ways."
+            },
+            {
+              "id": "various_maintain_pack_adventures_bushwalking_24f4f1",
+              "type": "verifiable_checkbox",
+              "label": "I can maintain my pack for various bushwalking adventures.",
+              "dialog_text": "The youth member should be able to check: \n * That there are no tears in the fabric of the pack \n * Damage to structural parts of the pack such as the internal frame \n * Buckles, triglides, and side-release clips \n * Straps \n * Zippers and other fastenings"
+            },
+            {
+              "id": "map_obtain_from_into_point_unit_interest_topographical_1fbfb3",
+              "type": "verifiable_checkbox",
+              "label": "I can obtain coordinates from a point of interest on a topographical map for input into a GPS unit.",
+              "dialog_text": "The youth member must be able to: \n 1. Ensure that the datum of the GPS matches that of the map, and change it if necessary \n 2. obtain a 14-figure grid reference plus the Zone in UTM format (eastings and northings) from a detailed topographic map \n 3. Enter the coordinate from scratch into a dedicated bushwalking GPS unit \n \nThe GPS must be a dedicated bushwalking GPS rather than a smartphone app. It is acceptable for the youth member to round off the coordinate to the nearest hundred metres. Examiners should verify that the coordinate has been entered correctly by setting the GPS to navigate to the point entered and checking that the distance and bearing are consistent with the expected location."
+            },
+            {
+              "id": "navigation_tools_compass_of_limitations_demonstrate_039643",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the limitations of the compass and other navigation tools.",
+              "dialog_text": "The purpose of this I statement is for the youth member to identify that by using a range of methods at the same time you will get much more accurate data then by using one method of navigational aid \n \n Baseplate compass \n * Baseplate can break \n * Can be difficult to take back-bearings on distant features at night, or in thick bush \n * At high altitude/low pressure bubbles can interfere with the free rotation of the needle \n * Good-quality compasses with a precision bearing can be expensive\n * Easy to misalign bezel and get incorrect bearing \n * Easy to forget to correct for declination \n * Requires training to use effectively \n \nOld-school prismatic compass plus protractor \n * Constant fawning admiration from other bushwalkers can become tiresome after a while\n \nGPS \n * Batteries can run out \n * Easy to mismatch map datum and GPS datum \n * Easy to misinterpret 14-figure grid references \n * The situations where a GPS is most useful (in a valley with no visible landmarks for a back bearing, under wet vegetation) is where it is least likely to have signal \n * Availability/accuracy depends on satellite orbits \n * Each model operates differently \n * Requires training to use effectively \n \nUsing Natural features \n * What are some of the disadvantages of using natural features alone (such as spurs, knolls, gully’s, and ridges)? \n * What are some disadvantages of navigating solely by the sun, moon and stars? \n \nSmartphone map app \n * Phone battery can run out \n * Areas requiring navigation assistance probably don’t have great data coverage \n * Smartphone screens are generally too small to effectively display a map for navigation purposes \n \nSmartphone compass app \n * Phone battery can run out\n * Not all apps can take a back bearing \n * Navigation apps with user-selectable datums are uncommon \n * Easy to misinterpret 14-figure grid references."
+            },
+            {
+              "id": "patterns_weather_while_respond_appropriately_recognize_changing_bushwalking_d7ad0a",
+              "type": "verifiable_checkbox",
+              "label": "I can recognize changing weather patterns while bushwalking and respond appropriately.",
+              "dialog_text": "The youth member should be able to display a knowledge of and understanding of reading clouds and interpreting pressure systems and weather systems. \n \nThe youth member should be able to know what weather is coming while on a bushwalk through the weather and cloud systems present. They should also be able to name the weather systems and clouds and what they mean."
+            },
+            {
+              "id": "myself_while_responsible_team_bushwalking_234fb2",
+              "type": "verifiable_checkbox",
+              "label": "I can be responsible for myself and my team while bushwalking.",
+              "dialog_text": "In discussion the youth member should be able to nominate things like: \n * ensuring prior to departure that everyone in the party has the correct equipment,  \n * ensuring that your own gear is all in order, \n * appointing appropriate people with the correct skills to positions of responsibility, such as tail-ender/whip \n * sourcing and administering group safety gear, such as PLB and navigational equipment. \n \nThe youth member should know how to deal with personal issues and have the ability to demonstrate problem solving skills whilst being the Patrol Leader."
+            },
+            {
+              "id": "fourday_this_threenight_taken_part_bushwalk_stage_1fdeb3",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in a three-night, four-day bushwalk and one other bushwalk at this stage.",
+              "dialog_text": "The youth member inputs these details in their log book and keeps all planning documents for future reference."
+            },
+            {
+              "id": "100km_6_least_end_overnight_bushwalks_4_bushwalked_4b3dd4",
+              "type": "verifiable_checkbox",
+              "label": "I have bushwalked at least 100km by the end of Stage 6, including 4 overnight bushwalks.",
+              "dialog_text": "This must be recorded in the youth member’s log book and inspected/confirmed by a youth member two Stages above and the Unit Council."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "equipment_store_manner_appropriate_bushwalking_c6c72c",
+              "type": "verifiable_checkbox",
+              "label": "I can store bushwalking equipment in an appropriate manner.",
+              "dialog_text": "The youth member should be able to demonstrate that gear comes out of storage in a suitable and useable manner. The youth member should also be able to demonstrate how to care for and appropriately store gear to ensure it doesn't become mouldy or damaged after a bushwalking activity."
+            },
+            {
+              "id": "equipment_challenge_relevant_safety_management_opportunities_degree_provisions_b4ee4c",
+              "type": "verifiable_checkbox",
+              "label": "I have evaluated relevant aspects of the bushwalk – route, safety, risk management, equipment, provisions, the challenge, learning opportunities, degree of difficulty, etc.",
+              "dialog_text": "The youth member should be able to reflect on their development throughout the walks completed in this Stage. They should use the Scout Method and SPICES to assist with this."
+            },
+            {
+              "id": "improvements_future_bushwalks_identify_planning_leading_12e23a",
+              "type": "verifiable_checkbox",
+              "label": "I can identify improvements in my planning and leading future bushwalks",
+              "dialog_text": "The youth member should think of how the bushwalking expedition went and how the expedition could have been improved. They should also consider if these improvements occurred during the Plan> or Do> stages and if they were equipment, environment, person based or something else. The youth member needs to consider how they would action these improvements for the next time."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

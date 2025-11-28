@@ -1,0 +1,190 @@
+{
+  "template": "oas/vertical/caving/7",
+  "meta": {
+    "stage": 7,
+    "stream": "caving"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 7 - Caving",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "pack_personal_equipment_caving_2_nights",
+              "type": "verifiable_checkbox",
+              "label": "I can pack personal equipment for a caving expedition of more than two nights.",
+              "dialog_text": "The youth member should know what is required to be packed for a caving activity, taking into consideration the location and itinerary for the activity. The youth member will also need to take into consideration items which will be needed for the party such as additional water, first aid items and specialised equipment for the activity."
+            },
+            {
+              "id": "stage_5_three_core_021421",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 and below of the 3 Core Outdoor Adventure Skills.",
+              "dialog_text": "The youth member will need to have completed Stage 5 and below of Bushcraft (survival skills), Camping and Bushwalking."
+            },
+            {
+              "id": "2_knots_rescue_application",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt two more knots that have application in a rescue situation, since Stage 5.",
+              "dialog_text": "The youth member should already know how to tie an Alpine Butterfly, Figure of 8 re-threaded, Double Fisherman’s, Tape and a Prusik knot as well as the two additional knots they learned in Stage 5. The youth member needs to ensure they still can tie these knots and choose an additional two knots to learn at this Stage. Options could be Munter hitch, French Prusik, Klemheist, or any other knots applicable to rescue situations in a cave."
+            },
+            {
+              "id": "plan_lead_2_day_caving_trip",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and lead a two-day caving trip, including site selection, camp selection and group requirements, taking into consideration organisational policies and rules, with mentoring by a qualified person.",
+              "dialog_text": "The youth member should plan and take primary leadership, which includes responsibility and risk management for the caving trip.  The youth member will need to take into consideration their state and local government regulations and the Australian Adventurous Activity Standards. The youth member will need to have their plan reviewed and supervised by a highly skilled caver."
+            },
+            {
+              "id": "assisted_requirements_needs_stage_5_caving_8ce130",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a Stage 5 Scout with their requirements and needs for completion.",
+              "dialog_text": "The youth member will need to assist a Stage 5 Scout in caving. The youth member will need to discuss with them where they are with their competencies for Stage 5 and assist them where they need help. This may see the youth member acting as a Mentor for the Stage 5 Scout."
+            },
+            {
+              "id": "setup_multiple_abseils_variety_caves_47f35b",
+              "type": "verifiable_checkbox",
+              "label": "I have set up multiple abseils in a variety of caving environments.",
+              "dialog_text": "The youth member will need to demonstrate at least five full abseiling set-ups in caves by the end of this Stage, using safe anchors, appropriate belay system and correct knots, and ensure that a skilled caver has checked their set up before the youth member tests the lines. The youth member should note it in their log and ensure the skilled caver is detailed as the verifier."
+            },
+            {
+              "id": "engage_authorities_commence_caving_8ce130",
+              "type": "verifiable_checkbox",
+              "label": "I know if I need to engage with authorities before commencing a caving activity.",
+              "dialog_text": "The youth member should demonstrate awareness and understanding when they would need to engage with authorities before caving, such as landowners, national parks, and based on Scouting policies notification of parents and group leaders."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "taught_lost_scout",
+              "type": "verifiable_checkbox",
+              "label": "I have taught another Scout what to do if they become lost inside a cave.",
+              "dialog_text": "The youth member should have a conversation and guide youth members at Stage 4 & 5 to know what to do if they get lost in a cave. The youth member then might run a mock emergency or drill to see their newly developed skills."
+            },
+            {
+              "id": "climbing_techniques_aids_cave",
+              "type": "verifiable_checkbox",
+              "label": "I have applied climbing techniques in a cave including the use of climbing aids.",
+              "dialog_text": "The youth member will need to demonstrate suitable and safe climbing techniques within a cave including demonstrating the use of climbing aids. The youth member should note it in their log and ensure a skilled caver is detailed as the verifier."
+            },
+            {
+              "id": "multiple_chamber_cave",
+              "type": "verifiable_checkbox",
+              "label": "I have explored the entirety of a cave that has multiple chambers.",
+              "dialog_text": "The youth member should note this in their log and ensure a skilled caver is detailed as the verifier."
+            },
+            {
+              "id": "undertaken_12_days_caving_1f09e9",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 12 days of caving by the end of Stage 7.",
+              "dialog_text": "The youth member needs to complete and log at least 12 days of caving by the end of this Stage. The youth member should include in their log when they did the activities, where they did the activities, who they did them with, the height/depth of the cave, and if they were graded how difficult they are."
+            },
+            {
+              "id": "2_types_abseil_set_up_in_cave",
+              "type": "verifiable_checkbox",
+              "label": "I have set up a minimum of two different types of abseils from start to finish, including locating appropriate anchors, setting hardware and rope, setting up a top belay if appropriate and doing final safety checks, before going over for the first descent in a cave environment, under the supervision of a qualified person.",
+              "dialog_text": "The youth member will need to demonstrate two full abseiling set-ups in a cave using the appropriate anchor selection, knots, degree of rope, carabiner placement and direction of pull and ensure that a skilled abseiler/caver has checked the set up before the youth member tests the lines. This should be indicated in their log and ensure the skilled abseiler/caver has been noted as the verifier."
+            },
+            {
+              "id": "establish_escape_belay_safely",
+              "type": "verifiable_checkbox",
+              "label": "I have established a belay from which the belayer is able to escape and maintain the safety of the participant.",
+              "dialog_text": "The youth member will need to demonstrate the set up and escaping the belay whilst minimising any movement of the abseiler/climber. The youth member should oversee a Stage 4 or 5 Scout escaping from belay while they keep the abseiler/climber safe."
+            },
+            {
+              "id": "escape_multiple_belays_safely",
+              "type": "verifiable_checkbox",
+              "label": "I have escaped from multiple belays while making sure the abseiler is still safe.",
+              "dialog_text": "The youth member will need to demonstrate at least 3 times escaping the belay whilst minimising any movement of the abseiler. The youth member should indicate these skills in their log."
+            },
+            {
+              "id": "equipment_safety_checks",
+              "type": "verifiable_checkbox",
+              "label": "I can complete all necessary equipment safety checks, and action unsafe equipment according to organisational policies and procedures.",
+              "dialog_text": "The youth member should demonstrate necessary equipment checks prior, during and following the activity. The youth member should log the activity and usage in an equipment log and ensure they are following their Branch or State policies as well as the adventurous activity standards."
+            },
+            {
+              "id": "assisted_stage_4_scout_safety_abcde",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a Stage 4 Scout in knowing the importance of safety checks (including ABCDE).",
+              "dialog_text": "The youth member should discuss with a Scout working on Stage 4 Caving on the importance of the ABCDE checks. The youth member will need to provide assistance in ensuring they are following the safety checks. The youth member will know if they are successful if that Scout follows those safety checks correctly during the activity. \n * A - Anchor(s) \n * B - Buckles \n * C - Carabiner(s) \n * D - Devices \n * E - Ends/Equipment/Edge/Everything else"
+            },
+            {
+              "id": "personal_buddy_check_assist_stage_5",
+              "type": "verifiable_checkbox",
+              "label": "I always complete all necessary personal checks using the buddy system, prior to commencing abseiling and/or belaying and can assist a Stage 5 Scout or below in what these are.",
+              "dialog_text": "The youth member should always complete all the necessary personal checks before abseiling or belaying. \n \nABCDE: \n * A - Anchor(s) \n * B - Buckles \n * C - Carabiner(s) \n * D - Descender \n * E - Everything else e.g. gloves. \n \nThe youth member should also assist a Scout working on Stage 4 or below in understanding what these are."
+            },
+            {
+              "id": "organisation_caving_skills_rescue_techniques",
+              "type": "verifiable_checkbox",
+              "label": "I can assist in the organisation of a caving skills day which includes rescue techniques practice.",
+              "dialog_text": "The youth member should assist a skilled caver in organising a caving skills day including rescue practice in a cave. The youth member should note it in their log and ensure the skilled caver is detailed as the verifier."
+            },
+            {
+              "id": "establish_communication_participants_caving_0cb6f3",
+              "type": "verifiable_checkbox",
+              "label": "I have established a suitable communication system for participants to use while abseiling, belaying and laddering within a cave environment.",
+              "dialog_text": "The youth member should establish and demonstrate the communication calls between the abseiler and the belayer during the caving activity. The youth member will need to consider the type of drop, whether the participant is climbing, ladder or abseiling and what equipment they have access to."
+            },
+            {
+              "id": "appropriate_supervisor_caving_cfc76d",
+              "type": "verifiable_checkbox",
+              "label": "I can act as an appropriate supervisor of a caving activity.",
+              "dialog_text": "The youth member should demonstrate their ability to act as a supervisor during a caving activity, ensuring that participants are following safety protocols and assisting and advising where necessary. The youth member will still need a highly skilled caver overseeing the activity."
+            },
+            {
+              "id": "involved_vertical_rescue_drills_caving_d580c1",
+              "type": "verifiable_checkbox",
+              "label": "I have been involved in vertical rescue drills that include self-rescue and two rescues of others including raising, lowering and a mechanical advantage system.",
+              "dialog_text": "The youth member needs to complete and log their caving rescue drills indicating that they have undertaken these skills. The youth member should also include in their log where they did the activities, who they did them with and what skills they learnt."
+            },
+            {
+              "id": "attach_to_ropes_descend_ascend",
+              "type": "verifiable_checkbox",
+              "label": "I can attach myself to the abseil rope using different types of descending/ascending devices (minimum of four).",
+              "dialog_text": "The youth member should demonstrate safely abseiling four descents within a cave, using four different devices and log them in their logbook. If the youth member has already done this by Stage 7 then it would be good to extend their learning and try a new device."
+            },
+            {
+              "id": "safely_climb_ladder_demonstration",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated how to climb up and down a ladder in a safe/controlled manner to other participants.",
+              "dialog_text": "The youth member needs to demonstrate to less experienced cavers how to climb up and down a rigged caving ladder safely. This can be done in a cave or outside of a cave in a training exercise."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "provide_feedback_improve_caving_expeditions_ef262",
+              "type": "verifiable_checkbox",
+              "label": "I can provide feedback to my patrol of Scouts on how we could improve our caving expeditions in the future, considering risk management, safety, equipment management, location selection, level of difficulty, training, etc.",
+              "dialog_text": "The youth member will need to provide feedback to their Patrol that is suggested in the 'I' statement."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

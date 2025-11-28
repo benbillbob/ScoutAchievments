@@ -1,0 +1,184 @@
+{
+  "template": "oas/bushwalking/5",
+  "meta": {
+    "stage": 5,
+    "stream": "bushwalking"
+  },
+  "version": 3,
+  "document": [
+    {
+      "title": "Stage 5 - Bushwalking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "multiday_water_bushwalks_identify_food_requirements_05bb5b",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify food and water requirements for multi-day bushwalks.",
+              "dialog_text": "The youth member should be able to: \n * Specify how much water to carry, and how often they will need to re-fill, \n * Specify how many of each meal they will need (breakfast, lunch, dinner, snacks) and for how many people,  \n * Identify suitable foods for bushwalking with regard to energy content, durability, perishability, and deliciousness, and \n * Estimate overall energy requirements: how strenuous is the day?  Will it make you eat more?"
+            },
+            {
+              "id": "purify_drinking_water_e0ebdf",
+              "type": "verifiable_checkbox",
+              "label": "I know how to purify water for drinking.",
+              "dialog_text": "The youth member should be able to: \n * Understand the need to purify all naturally-collected water sources, \n * Know the main methods of water purification (filtration, chemical treatment, and boiling), and the advantages and disadvantages of each method,  \n * Recognise that no single method removes all impurities from water. The youth member should also ideally practise some methods of purifying water."
+            },
+            {
+              "id": "footwear_appropriate_bushwalks_select_3_stage_scouts_assist_f2d35a",
+              "type": "verifiable_checkbox",
+              "label": "I can assist Stage 3 Scouts to select appropriate footwear for various bushwalks.",
+              "dialog_text": "The youth member should discuss with the less experienced Scouts about picking appropriate footwear, features which make a boot good for bushwalking and footwear that is not appropriate. They may opt to run a game or activity with shoes involved."
+            },
+            {
+              "id": "damage_minimise_while_bushwalking_environment_8b6fa6",
+              "type": "verifiable_checkbox",
+              "label": "I can minimise damage to the environment while bushwalking.",
+              "dialog_text": "The youth member should mention and demonstrate: \n * When travelling cross-country, the party should spread out so they do not create a trail \n * Try to minimise the size of the group; if a group is excessively large, they should split into smaller parties. \n * Taking everything you bring in with you out (leave no trace) \n * The use of existing fire circles or cooking stoves for warmth and why \n \nThe youth member should be able to articulate a hierarchy or order of preference for walking surfaces, which goes something along the lines of (descending order of preference): \n * Existing trails \n * Rock \n * Sand \n * Snow \n * Woodland ground covered in fallen leaf litter \n * Hard bare earth \n * Forest ground covered in moss \n * Soft bare earth \n * Mud  \n * scree slopes \n * Alpine vegetation \n * Peat \n * Alpine button grass."
+            },
+            {
+              "id": "support_risk_twonight_patrol_leaders_develop_management_from_b57130",
+              "type": "verifiable_checkbox",
+              "label": "I can with the support from my Patrol and Leaders develop a risk management plan for a two-night bushwalk.",
+              "dialog_text": "The youth member should provide a risk assessment using the standard Scout safe process and ensure that all identified risks are addressed. Risks noted should include risks to human life, equipment and environment (this is in relation to a specific walk)."
+            },
+            {
+              "id": "these_actions_hazards_associated_take_minimise_risks_possible_23b267",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated with bushwalking and procedures to minimise risks and I know how to take actions to minimise these risks.",
+              "dialog_text": "The youth member needs to complete a risk assessment \n \nThe youth member should account for  \n * Human risk \n * Environmental risk \n * Equipment risk (this is in relation to general bushwalking hazards) \n \nBest practise would be to list all of these in a document and then tailor them when having to provide a specific risk assessment for an activity."
+            },
+            {
+              "id": "using_selecting_appropriate_including_map_naismiths_location_overnight_b7249d",
+              "type": "verifiable_checkbox",
+              "label": "I can plan a overnight or weekend bushwalk including selecting an appropriate location using a topographical map and understand  Naismith’s rule.",
+              "dialog_text": "The youth member should ensure that all of the following considerations are met: \n * Selection of the party, \n * Transport and logistics,  \n * Organisational policy, for example: party size; leadership qualifications and requirements; your Branch’s activity approval process,  \n * Risk management \n * Safety and emergency planning, \n * Route planning and navigation, including the use of Naismith’s rule to estimate likely distance travelled, \n * Environmental and minimal impact,  \n * Equipment selection and acquisition,  \n * Food and water, and  \n * That the proposed walk is within the capability of the proposed party."
+            },
+            {
+              "id": "of_properly_based_seasonal_as_protective_bushwalking_such_a071f2",
+              "type": "verifiable_checkbox",
+              "label": "I can properly select the clothing required for bushwalking based on the seasonal requirements, such as layering of clothing and protective clothing.",
+              "dialog_text": "The youth member’s response to this Statement should display some development from earlier Stages, and should be relevant to the types of trips the youth member’s Section undertakes. \n \nIn warm conditions the youth member should include lightweight sun-safe clothing:  \n * Broad-brimmed hat \n * Long-sleeved shirt with a high collar,  \n * Long pants.\n \nIn cold conditions this would include layering:\n * Thermal base layers (polypropylene, merino wool) \n * Mid-layer of fleece or wool (softshell and down jackets are appropriate for camp but less suitable for walking in cold weather, as they are often not very breathable; outer shell layer of a waterproof material, ideally breathable) \n \nDepending on the type of trips the youth member’s Section does, there may also be addition items, such as: \n * Quick-dry clothing compatible with rain wear for wet conditions,  \n * Gaiters for muddy, sandy, or alpine trips, or \n * Camp shoes for longer trips. \n \nThe supporting people will need to use discretion in assessing this Statement. In particular, supporting people should remember that developing an effective layering system for cold weather is very complicated and the youth member’s selection will be driven by what clothing and equipment they have access to."
+            },
+            {
+              "id": "support_people_of_our_appropriately_journey_briefed_all_540ba4",
+              "type": "verifiable_checkbox",
+              "label": "I have, with assistance, appropriately briefed all members of a bushwalking party, and support people, about our journey.",
+              "dialog_text": "The youth member should present their activity plan at a briefing held at least a fortnight prior to departure. The briefing should ideally be a face-to-face meeting, but it could also be a conference call, videoconference, or online meeting."
+            },
+            {
+              "id": "planning_environmental_significance_of_which_activities_areas_am_e9e59e",
+              "type": "verifiable_checkbox",
+              "label": "I have investigated the cultural, environmental and historical significance of the areas in which I am planning activities.",
+              "dialog_text": "The youth member should be encourage to conduct their own research into the area they plan to camp in. Multiple, varied and reputable sources should be used (for example; National Parks and Wildlife). \nThe youth member should be able to explain the cultural significance of the area they intend to camp in. They should also be able to explain if there are any significant environmental or heritage aspects to the area."
+            },
+            {
+              "id": "forecasts_information_conditions_fire_environmental_before_journey_access_60962c",
+              "type": "verifiable_checkbox",
+              "label": "I know how to access information on local weather forecasts, fire and environmental conditions before setting out on a journey.",
+              "dialog_text": "The youth member should utilise multiple, reputable sources to build a full picture of anticipated weather conditions and risks such as potential for bushfire. This may include investigating sources such as the Bureau of Meteorology website or contacting Parks and Wildlife."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "cpr_provide_completed_including_course_from_first_provider_4c0eb1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed* a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "directions_without_find_compass_62ff50",
+              "type": "verifiable_checkbox",
+              "label": "I can find directions without a compass.",
+              "dialog_text": "The youth member should be able to determine direction (north, south, east, west) accurately to within 15 degrees using one of the following techniques: \n * Using a watch \n * Orienting a map to the ground \n * Using the sun or other natural aids."
+            },
+            {
+              "id": "find_map_use_compass_position_ground_0a47f9",
+              "type": "verifiable_checkbox",
+              "label": "I can use a map and compass to find my position on the ground.",
+              "dialog_text": "The youth member should be able to: \n * orient the map to the surrounding terrain,  \n * Identify nearby landmarks and find their location on a map, \n * Take a back-bearing from two identifiable landmarks to triangulate their own position. \n \nThe youth member must apply the correct magnetic declination to successfully complete this statement."
+            },
+            {
+              "id": "using_our_navigate_map_route_intended_compass_variation_dde194",
+              "type": "verifiable_checkbox",
+              "label": "I can navigate a variation to our intended route using a map and compass.",
+              "dialog_text": "During a bushwalk the youth member will need to navigate a variation in their intended route by changing the bearing and aiming for a new way point. This could be in simulation or through actual need."
+            },
+            {
+              "id": "member_of_team_while_bushwalking_active_d92758",
+              "type": "verifiable_checkbox",
+              "label": "I can be an active member of my team while bushwalking.",
+              "dialog_text": "The youth member should participate as a member of the team and: \n * Assist with navigation  \n * Cook their own meal or assist with the cooking of group meals, \n * Help with setting up and striking camp, \n * Help ensure all team members are comfortable and happy  \n * Promote teamwork \n * Follow the direction and leadership of the party leader  \n * Take part in group decision-making."
+            },
+            {
+              "id": "safely_using_appropriate_rough_gear_as_bushwalk_terrain_c82a06",
+              "type": "verifiable_checkbox",
+              "label": "I can bushwalk rough terrain safely, using appropriate gear as required.",
+              "dialog_text": "Techniques can include: \n * Leaning backwards on steep terrain \n * Zig zagging across a steep slope \n * Ascending diagonally across a large slope \n * Mutual support with a buddy \n * Making sensible choices about going over or under fallen trees \n * Climbing carefully over thick scrub \n * Using rocks and stones as chocks to secure your descent\n \nAids can include: \n * Trekking poles \n * Hand lines."
+            },
+            {
+              "id": "group_after_look_morale_bushwalk_safety_1ade11",
+              "type": "verifiable_checkbox",
+              "label": "I can look after group safety and morale on a bushwalk.",
+              "dialog_text": "The youth member should consider is everyone happy and enjoying themselves?  If not, why?  \n * Are they scared (safety)? \n * Is there a first aid issue (blisters, strains)? \n * Do they feel lost (demonstrate navigation skills)? \n * Do they need a break? \n * Have they eaten enough?  \n \nThe youth member should demonstrate skills that shows they are actively caring for the rest of the groups wellbeing and can show some general morale boosting techniques if need be."
+            },
+            {
+              "id": "devices_communication_of_send_use_minimum_3_message_bb4d78",
+              "type": "verifiable_checkbox",
+              "label": "I can use a minimum of three communication devices to send a message.",
+              "dialog_text": "Acceptable devices include: \n * Whistles: must agree on a consistent scheme of what each number of long/short whistle blasts means \n * Mobile phones/smartphones: must be able to pass a message clearly and accurately  \n * Radio: must know and use correct radio procedure. Refer to e-learning module for more information. Note that radios other than UHF CB radios have specific licencing requirements. \n * Satellite phone: the youth member must switch the phone on and make a call \n * Satellite trackers (eg: SPOT): the youth member must set the optional message themselves. \n * Legacy techniques such as signalling mirrors, Morse code, and semaphore are not generally relevant communication methods for bushwalking. However, if a youth member has taken the trouble to learn one of these methods, and you are able to find an appropriately-qualified examiner, they are acceptable for this statement \n \nThe following devices are not appropriate or relevant:  \n * Social media platforms  \n * Radio scanners (don’t send messages)."
+            },
+            {
+              "id": "twonight_without_of_which_least_bushwalk_leaders_taken_22e46d",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in and logged two bushwalking activities at this stage, at least one of which is a two-night bushwalk that I have led with indirect supervision by adults, subject to event-specific risk analysis.",
+              "dialog_text": "The youth member must have these activities logged in their log book and documentation uploaded and kept for future reference"
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "unit_presentation_learnings_our_council_journey_given_successes_e1b4d4",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to our Sectional Council or Unit on the journey that I have led, highlighting the successes, the learnings, and the areas for improvement.",
+              "dialog_text": "The presentation should be around five minutes long and may be in person or as a pre-recorded video, followed by questions. Where appropriate, the examiner may permit alternative presentation methods. For example: \n * A youth member living in a remote area may make an online presentation; \n * A youth member with diagnosed communication difficulties may make a written presentation. \n \nThe presentation should include: \n * Photos, \n * Stories about the bushwalk, \n * Highlights, and \n * Challenges and lessons learned \n \nIt is important to note this is about seeing what the youth member learned through their experience and what they have retained. It should not be able an examination, and if the youth member is uncomfortable giving a presentation to a large group, maybe their Patrol or the Unit Council is appropriate. The requirement is flexible to meet the Review> needs of the youth member. \n \nThis discussion can be: \n * Part of the presentation to the Unit council or Group, in which case the presentation will be longer, \n * Part of a smaller presentation to a group of the youth member’s friends, which the examiner witnessed, or \n * Part of a discussion with the supporting youth or adult \n \nThe content of the reflection should be at the youth member’s discretion, but should generally cover topics such as: \n * What would you do again?  \n * What did not work, and you would not do again? \n * What skills have you learned? \n * What food or equipment worked well, or performed poorly?"
+            },
+            {
+              "id": "learnt_journey_myself_reflect_experience_led_b15287",
+              "type": "verifiable_checkbox",
+              "label": "I can reflect on the journey that I led and what I learnt about myself in the experience.",
+              "dialog_text": "This reflection can be: \n * Part of the presentation to the Unit Council or Group, in which case the presentation will be longer, \n * Part of a smaller presentation to a group of the youth member’s friends, which the examiner witnessed, or \n * Part of a discussion with the examiner. \n \nThe content of the reflection should be at the youth member’s discretion, but should generally cover topics such as: \n * Are you more confident? \n * What did you learn about leading a group of other people? \n * What new skills did you gain? What did you learn about yourself? \n \nThis content must be substantially different to the ‘lessons learned’ discussion, although they may be part of the same discussion."
+            },
+            {
+              "id": "these_part_environmental_of_impacts_ways_lessen_been_e1a347",
+              "type": "verifiable_checkbox",
+              "label": "I have identified cultural, historical or environmental impacts in the activities I have been a part of, and have identified ways to lessen these impacts.",
+              "dialog_text": "Through the identification of impacts, youth members need to consider their impact and note and/or communicate how they will Plan> and work towards minimising these impacts through future trips."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

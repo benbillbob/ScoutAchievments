@@ -1,0 +1,136 @@
+{
+  "template": "oas/bushwalking/8",
+  "meta": {
+    "stage": 8,
+    "stream": "bushwalking"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Bushwalking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "bushwalking_stage_lower_pack_assist_expedition_scout_c31564",
+              "type": "verifiable_checkbox",
+              "label": "I can assist a Scout in a lower Stage how to pack for a bushwalking expedition.",
+              "dialog_text": "The youth member should be able to assist/support facilitation for a Stage 6 Scout or below. This may be them acting in a mentor capacity to that Stage 6 Scout helping younger Scouts again. The Scout should be supported to select equipment and pack for an overnight or extended bushwalking expedition (packing for a day walk is not sufficient). Considerations that should be taken into account include, but are not limited to: length of expeditions, remote locations"
+            },
+            {
+              "id": "tools_stage_lower_assist_appropriate_using_scout_plan_7a86d3",
+              "type": "verifiable_checkbox",
+              "label": "I can assist a Scout in a lower stage how to plan a bushwalk in unfamiliar territory using the appropriate tools.",
+              "dialog_text": "The Scout must be at Stage 5 or above and the plan must be for an overnight or weekend bushwalk ie: the walk must be similar to the one planned under 5.plan.x. The youth member must provide advice, assistance, and guidance to the Scout in aspects of walk planning and act as a sounding board for ideas and issues. The youth member may act as examiner for the Scout."
+            },
+            {
+              "id": "route_documents_produce_equipment_food_requirements_covers_all_4e7429",
+              "type": "verifiable_checkbox",
+              "label": "I can produce planning documents for a long bushwalk that covers all the requirements including, logistics, equipment, food, route, safety etc.",
+              "dialog_text": "This should include as a minimum: \n * a transport plan \n * list of individual gear for participants \n * list of group gear \n * menu \n * food list (note that this is different to a menu) \n * risk assessment \n * route plan, including grid references for checkpoints, and distance and magnetic bearings between them \n * emergency plan including contact details and contingency plans\n \nThese should be customised for a specific walk at a specific time of year, and not simply be generic. They may be consolidated into an overall activity plan."
+            },
+            {
+              "id": "improve_equipment_group_make_recommendations_f7247a",
+              "type": "verifiable_checkbox",
+              "label": "I can make recommendations to improve group equipment.",
+              "dialog_text": "The youth member can review group bushwalking equipment and make recommendations for improvements, in terms of repairs/upgrades, replacements, and new purchases."
+            },
+            {
+              "id": "regulations_complying_during_practices_bushwalks_low_impact_environmental_8194f0",
+              "type": "verifiable_checkbox",
+              "label": "I can implement low impact environmental practices during bushwalks, including complying with regulations and standards.",
+              "dialog_text": "The youth member should be able to explain how they implement these practices. This may take the form of a question-and-answer session. The youth member should go beyond the expectations of lower stages (eg: “remember to pick up rubbish”) and be able to nominate more advanced considerations, such as: \n * minimising the spread of soil pathogens such as phytophthora \n * minimising the spread of weed and pest species \n * not supporting contrived or artificial walking routes  \n * minimising soil disturbance when camping in sensitive areas."
+            },
+            {
+              "id": "extended_arise_manage_while_conflict_trips_understand_may_82129c",
+              "type": "verifiable_checkbox",
+              "label": "I understand how to manage conflict that may arise while on extended trips.",
+              "dialog_text": "The youth member should consider and discuss the strategies that can support them. The youth member should also be able to identify how these strategies can help them and potential other strategies."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "of_accident_emergency_response_follow_correct_event_procedures_7e29c5",
+              "type": "verifiable_checkbox",
+              "label": "I can follow correct emergency response procedures in the event of an accident.",
+              "dialog_text": "This may be demonstrated in one of several ways: \n * a question-and-answer session with an appropriately-qualified examiner  \n * a field exercise organised for the purpose \n * provision of an incident report form from a real-world incident the youth member was involved with. \n \nThe accident must be reasonably serious in nature but does not need to have caused injury.  \n \nThis could also be undertaken during the Wilderness first aid course during scenarios."
+            },
+            {
+              "id": "between_5_should_plan_project_of_per_different_4adca8",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and carry out an expedition with my Project Patrol of at least 5 days, 6-8 hours of activity per day, and a minimum of 3 different campsites. As a guide the distance should meet between 60km to 100km depending on location and session.",
+              "dialog_text": "The expedition must be challenging and consist of five full days of bushwalking, with some flexibility on the last day to allow travel home. A night spent at a road-accessible campsite prior to the start of the walk does not count towards the requirement to camp at three different campsites. \n \nFrom the guidance of the party, unit and a mentor the distance can be modified  \n * in a recognised desert environment with limited water availability \n * on snowshoes in a winter alpine environment \n * in an area recognised by authorities or bushwalking organisations as being particularly rugged, remote, or dangerous. \n \nThe total distance may not be reduced below 60km and should require eight hours/day of travel to complete the expedition. This reduction is to encourage youth members to attempt more difficult walks which may not meet the 100km criterion; it is not there to help youth members to make the requirement easier. At this stage the youth member should be pushing themselves to challenge themselves and constantly develop their skills."
+            },
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the OAS, the Wilderness First Aid skillset (SISSS00126) includes: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses \n(or their replacement)."
+            },
+            {
+              "id": "forecasts_teach_outdoors_read_weather_patterns_use_without_a1fcc8",
+              "type": "verifiable_checkbox",
+              "label": "I can teach how to read weather patterns outdoors without the use of weather forecasts.",
+              "dialog_text": "This must be taught to other Scouts at stages below. The facilitation must include components on: \n * reading a weather map \n * local prevailing weather \n * understanding wind speed and direction \n * interpreting cloud. \n \nThis is best done during a hike where youth members can test skills learnt."
+            },
+            {
+              "id": "bushwalking_take_our_group_adventure_responsibility_639662",
+              "type": "verifiable_checkbox",
+              "label": "I can take responsibility for our group on a bushwalking adventure.",
+              "dialog_text": "At this stage the youth member should be able to take much younger members for example members of a Cub Scout Unit on a bushwalk, or be the responsible party leader for a walk involving novices while helping them learn and having the duty of care over the group."
+            },
+            {
+              "id": "over_circumstances_different_safely_types_difficult_night_weather_e293bf",
+              "type": "verifiable_checkbox",
+              "label": "I can navigate accurately and safely over rough terrain and in difficult circumstances including different types of weather and at night.",
+              "dialog_text": "The youth member will have acted as leader or navigator of a party walking off-track, as shown in their logbook: \n \na. on at least one occasion at night, and \n \nb. in at least two of the following circumstances: \n * hot weather (>30°C) \n * heavy rain, sleet, or snow \n * where progress is impeded by rocky outcrops; thickets of spiky, stinging, or impenetrable vegetation; or hostile insects or animals, or \n * Featureless terrain. \n \nSupport personnel should use their discretion with reference to the meaning of ‘safe’ and ‘accurate’."
+            },
+            {
+              "id": "stage_search_active_this_participant_drills_rescue_least_a86854",
+              "type": "verifiable_checkbox",
+              "label": "I have been an active participant in at least three search and rescue and evacuation drills at this stage.",
+              "dialog_text": "The youth member should have participated in at least three emergency exercises of at least half a day each, including:  \n * at least one search and rescue exercise \n * At least one evacuation of an injured person. \n \nOn at least one occasion the youth member must lead the team and direct the search or evacuation."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "me_development_reflection_8_recording_4_suits_best_ef7292",
+              "type": "verifiable_checkbox",
+              "label": "I have taken time to reflect on my development through Stages 4 through 8, recording my reflection in a way that suits me best.",
+              "dialog_text": "Youth member should be able to nominate:  \n * a few things they have learnt  \n * a few things they do differently now, relative to Stage 4."
+            },
+            {
+              "id": "successes_presentation_unit_our_day_journey_five_put_a52c64",
+              "type": "verifiable_checkbox",
+              "label": "I have put together a presentation for my Unit on our five day journey, highlighting the successes, the learnings, and the areas for improvement.",
+              "dialog_text": "The youth member should provide a written report, digital video or blog or well-prepared oral report on the expedition. This can be: \n * part of a presentation to a group which the examiner witnessed, or \n * part of a discussion with the examiner. \n \nThe content of the reflection should be at the youth member’s discretion, but should generally cover topics such as: \n * Are you more confident?  \n * What did you learn about leading a group of other people? \n * What did you learn about yourself?"
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "template": "oas/vertical/abseiling/7",
+  "meta": {
+    "stage": 7,
+    "stream": "abseiling"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 7 - Abseiling",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "stage_5_three_core_021421",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 and below of the 3 core Outdoor Adventure Skills.",
+              "dialog_text": "The youth member will need to have completed Stage 5 and below of Bushcraft (survival skills), Camping and Bushwalking."
+            },
+            {
+              "id": "pack_day_abseiling_trip_29ebe1",
+              "type": "verifiable_checkbox",
+              "label": "I can pack for a day abseiling trip which I would be the party leader for.",
+              "dialog_text": "The youth member should know what is required to be packed for an abseiling activity, taking into consideration the location and itinerary for the activity. They will also need to take into consideration items which will be needed for their party such as additional water, first aid items, specialised equipment for the activity etc."
+            },
+            {
+              "id": "learnt_two_knots_application_rescue_situation_50b814",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt two more knots that have application in a rescue situation, since Stage 5.",
+              "dialog_text": "The youth member should already know how to tie an Alpine Butterfly, Figure of 8 re-threaded, Double Fisherman’s, Tape and a Prusik knot as well as the two additional knots they learned in Stage 5. The youth member needs to ensure they still can tie these knots and choose an additional two knots to learn at this Stage. Options could be Munter hitch, French Prusik, Klemheist, or any other knots applicable to rescue situations whilst abseiling."
+            },
+            {
+              "id": "plan_lead_two_day_abseiling_trip_c4c0da",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and lead a two day abseiling trip, including site selection, camp selection and group requirements, taking into consideration organisational policies and rules.",
+              "dialog_text": "The youth member should plan and take primary leadership, which includes responsibility and risk management for the abseiling trip. The youth member will need to take into consideration their state and local government regulations and the Australian Adventurous Activity Standards. They will need to have their plan reviewed and supervised by a highly skilled abseiler."
+            },
+            {
+              "id": "assisted_requirements_needs_stage_5_abseil_8ce130",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a Stage 5 Scout with their requirements and needs for completion of Stage 5 Abseiling.",
+              "dialog_text": "The youth member will need to assist a Stage 5 Scout in abseiling, including discussing with them where they are with their competencies for Stage 5 and assist them where they need help. This may see them acting as a Mentor for the youth member working towards Stage 5."
+            },
+            {
+              "id": "engage_authorities_commence_abseil_8ce130",
+              "type": "verifiable_checkbox",
+              "label": "I know if I need to engage with authorities before commencing an abseiling activity.",
+              "dialog_text": "The youth member should demonstrate awareness and understanding when they would need to engage with authorities before abseiling, such as landowners, national parks, and based on Scouting policies notification of parents and Group Leaders. "
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "appropriate_belay_abilities_site_0aede4",
+              "type": "verifiable_checkbox",
+              "label": "I can determine the most appropriate belay systems according to participant's abilities and site conditions.",
+              "dialog_text": "The youth member will need to demonstrate appropriate selection of which type of belay needs to be used and setting up that belay in accordance with the best set up for the site selection and participants skills. This may be done in a set of scenarios or through natural learning during activities."
+            },
+            {
+              "id": "assist_organisation_abseil_skills_day_81c1bd",
+              "type": "verifiable_checkbox",
+              "label": "I can assist in the organisation of an abseil skills day which includes single rope systems, releasable abseil line and systems suitable for single rope techniques.",
+              "dialog_text": "The youth member should assist a highly skilled abseiler in organising an abseiling skills day including rescue practice. The youth member should note it in their log and ensure the skilled abseiler is detailed as the verifier. The youth member will need to cover off a variety of single rope techniques with the participants."
+            },
+            {
+              "id": "setup_multiple_abseils_variety_47f35b",
+              "type": "verifiable_checkbox",
+              "label": "I have set up multiple abseils using a variety of anchors and on a variety of cliff faces varying in height and difficulties.",
+              "dialog_text": "The youth member will need to demonstrate at least five full abseiling set-ups, using safe anchors, appropriate belay system and correct knots, and ensure that a skilled abseiler has checked their set up before they test the lines. The youth member should note it in their log and ensure the skilled abseiler is detailed as the verifier."
+            },
+            {
+              "id": "establish_communication_participants_abseil_belay_0cb6f3",
+              "type": "verifiable_checkbox",
+              "label": "I have established a suitable communication system for participants to use while abseiling and belaying.",
+              "dialog_text": "The youth member should establish and demonstrate the communication calls between the abseiling and the belayer during their abseiling activity. The youth member will need to consider the type of cliff, drop and what equipment they have access to."
+            },
+            {
+              "id": "undertaken_12_days_50_abseils_1f09e9",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 12 days of abseiling by the end of Stage 7 with a minimum of 50 abseils.",
+              "dialog_text": "The youth member needs to complete and log at least 12 days of abseiling, with a minimum of 50 abseils by the end of this Stage. The youth member should include in their log when they did the activities, where they did the activities, who they did them with, the abseil height, and grade of abseil if applicable."
+            },
+            {
+              "id": "appropriate_supervisor_abseil_cfc76d",
+              "type": "verifiable_checkbox",
+              "label": "I can act as an appropriate supervisor of an abseiling activity.",
+              "dialog_text": "The youth member should demonstrate their ability to act as a supervisor during an abseiling activity, ensuring that participants are following safety protocols and assisting and advising where necessary. The youth member will still need a highly skilled abseiler overseeing the activity."
+            },
+            {
+              "id": "involved_vertical_rescue_drills_d580c1",
+              "type": "verifiable_checkbox",
+              "label": "I have been involved in vertical rescue drills that include self-rescue and two rescues of others including raising, lowering and a mechanical advantage system.",
+              "dialog_text": "The youth member needs to complete and log their abseiling rescue drills indicating that they have undertaken these skills. The youth member should also include in their log where they did the activities, who they did them with and what skills they learnt."
+            },
+            {
+              "id": "attach_abseil_rope_different_descend_devices_d580c1",
+              "type": "verifiable_checkbox",
+              "label": "I can attach myself to the abseil rope using different types of descending devices (minimum of three).",
+              "dialog_text": "The youth member should demonstrate safely abseiling three descents using three different devices and log them in their logbook. If they have already used 3 different types of descender before, then they should aim to extend their knowledge with using another 1 or 2 descenders."
+            },
+            {
+              "id": "demonstrated_abseiling_variety_weather_conditions_ad580c1",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated abseiling in a variety of weather conditions.",
+              "dialog_text": "The youth member should demonstrate safely abseiling in a variety of weather conditions and log them in their logbook. This could be rain, high temperatures, wind etc. The youth member shouldn’t put themselves or others in high levels of risk to meet this statement and it is more about demonstrating skills in a variety of conditions."
+            },
+            {
+              "id": "demonstrate_correct_pack_up_store_rope_d580c1",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated to a Stage 5 Scout or below how to correctly pack up a rope and how to store this rope appropriately.",
+              "dialog_text": "The youth member should demonstrate, to a Scout doing Stage 5, correct pack up and cleaning of any gear following the activity. The youth member will most likely need to teach the Stage 5 Scout how to appropriately coil the rope for carrying and storing."
+            },
+            {
+              "id": "demonstrate_belay_systems_work_dsa0c1",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how belay systems work, including a self-belay, top rope belay and a bottom belay to a Stage 5 Scout.",
+              "dialog_text": "The youth member can do this 'I' statement in conjunction with the other belay related statements in Stage 7 abseiling or as a standalone item. These belays need to be explained and walked through with Stage 5 Scouts to increase their learning. "
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "provide_feedback_improve_abseil_expeditions_ef2627",
+              "type": "verifiable_checkbox",
+              "label": "I can provide feedback to my patrol of Scouts on how we could improve our abseiling expeditions in the future, considering risk management, safety, equipment management, location selection, level of difficulty, training, etc.",
+              "dialog_text": "The youth member needs to facilitate a debrief session with their Project Patrol after an abseiling journey. They should include positive and constructive feedback to members of the Patrol as well as gaining feedback from those who joined them on the journey so that they can identify areas to improve on in the future. Feedback should be used to inform future activity plans."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

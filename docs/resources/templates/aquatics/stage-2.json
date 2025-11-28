@@ -1,0 +1,124 @@
+{
+  "template": "oas/aquatics/2",
+  "meta": {
+    "stage": 2,
+    "stream": "aquatics"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 2 - Aquatics",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "swimming_boundaries_e53f78",
+              "type": "verifiable_checkbox",
+              "label": "Before I go swimming I can point out where I'm allowed to go.",
+              "dialog_text": "The youth member should be able to point out the boundaries and no-go areas to their leader before going swimming. The boundaries will vary depending on where they are swimming and who they are with."
+            },
+            {
+              "id": "explain_contact_emergency_services_5baf2f",
+              "type": "verifiable_checkbox",
+              "label": "I can explain how to contact the emergency service, in the event of an emergency.",
+              "dialog_text": "The youth member should have a plan should something go wrong, and know how to contact emergency services based on their location. It might be with an EPIRB, mobile phone or radio. They should also consider who is the best person to be contacting emergency services. It might be the activity lead or adult leader. They should be able to explain why everyone needs to know how to contact the emergency services as well."
+            },
+            {
+              "id": "discuss_safety_precautions_e83da1",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss what safety precautions you should take before going swimming.",
+              "dialog_text": "The youth member should discuss the safety rules based on the area they are planning to swim in and who is in the Patrol. They should always swim with a buddy and consider not swimming if they are tired or cold. They should be: \n * following swimming rules displayed at the swimming area, \n * listening to lifeguard instructions, \n * don't dive or jump in areas where they can't see the bottom, \n * avoid swimming where there are strong currents or rips, \n * don't chew gum or eat while swimming, \n * don't push or shove in or near the water, \n * get out if there is a storm, and \n * don't go closer than 200m from a dam wall or weir."
+            },
+            {
+              "id": "pack_bag_clothes_equipment_swimming_trip_0098c2",
+              "type": "verifiable_checkbox",
+              "label": "I can pack a bag with all of the clothes and equipment I will need for a swimming trip.",
+              "dialog_text": "The youth member should be able to pack a bag for swimming including items such as swimmers, towel, water bottle, sunscreen, and a hat. They should pack clothes for after the swimming activity and any special equipment they need such as goggles, snorkel etc. depending on the activities they are doing."
+            },
+            {
+              "id": "different_rescue_techniques_e545da",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss different rescue techniques for someone that has fallen in water and cannot swim.",
+              "dialog_text": "The youth member should discuss the following with other Scouts and their adult leaders. They should think about the 4 A's before starting to rescue anyone. \n * Awareness - recognising the emergency and accepting responsibility if they are able to help \n * Assessment - decide what the best rescue technique is in the situation which depending on the situation might be getting someone else to help \n * Action - think of a plan and do, but make sure they consider their personal safety \n * Aftercare - help the person until medical help arrives \n \nThe best ways to rescue someone are by passing them something to hold on to so you pull them to safety, or throw something to them so they can hold onto it and help them float. Every situation is different and they need to make sure they don't land up needing rescuing too, considering a panicked person is not rational, which is why the 4A's is a very important process to think about before starting a rescue."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "put_on_personal_floatation_device_myself_88fb43",
+              "type": "verifiable_checkbox",
+              "label": "I can put on a PFD by myself.",
+              "dialog_text": "The youth member should be able to correctly put on and adjust their PFD. They should make sure that they do up all the clips, buckles and zips on their PFD. They can demonstrate the correct fit by holding the shoulder straps and lifting. The PFD shouldn't go above their ears."
+            },
+            {
+              "id": "swim_head_in_water_69cdbf",
+              "type": "verifiable_checkbox",
+              "label": "I can swim with my head in the water.",
+              "dialog_text": "The youth member should demonstrate swimming with their head in the water. This should be done in conjunction with their 25 metre swim."
+            },
+            {
+              "id": "protect_sun_exposure_211629",
+              "type": "verifiable_checkbox",
+              "label": "I can protect myself when exposed to the sun and other elements while outdoors.",
+              "dialog_text": "The youth member should demonstrate suitable clothing for the activity and location, including long-sleeved tops suitable for water activities, hat and sunscreen. They should also demonstrate awareness of staying in the shade and out of the sun in the hottest part of the day."
+            },
+            {
+              "id": "swim_twenty_five_metres_2f1c0a",
+              "type": "verifiable_checkbox",
+              "label": "I can swim 25 metres (any stroke) without assistance.",
+              "dialog_text": "The youth member should be able to swim 25 metres using any known swimming stroke without assistance. This means they should maintain their chosen stroke and shouldn't touch the bottom of the pool either."
+            },
+            {
+              "id": "tread_water_thirty_seconds_935a90",
+              "type": "verifiable_checkbox",
+              "label": "I can tread water for 30 seconds.",
+              "dialog_text": "The youth member should be able to tread water for 30 seconds without using any aids or touching the bottom of the pool or body of water in which they are swimming."
+            },
+            {
+              "id": "participate_short_snorkelling_activity_ec6cfc",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in a short snorkelling activity at this stage.",
+              "dialog_text": "The youth member should take part in a short snorkelling activity. This could be playing with a mask and snorkel in the pool, practicing using this type of gear properly."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "talk_enjoyed_learnt_improved_502eec",
+              "type": "verifiable_checkbox",
+              "label": "I have talked about what I enjoyed, learnt, or improved upon from at least two swimming trips.",
+              "dialog_text": "The youth member should talk about their favourite things about the swimming trips. They could talk to their Patrol, Unit, leaders - it could be at a Unit Council or around a campfire. They should also include their swimming trips in their logbook."
+            },
+            {
+              "id": "suggest_change_future_swimming_activity_495150",
+              "type": "verifiable_checkbox",
+              "label": "I can suggest what could be done differently on a future swimming activity, to enjoy it more, to be safer, or to learn new things.",
+              "dialog_text": "The youth member should review their swimming and snorkelling activities. Their discussion could include things they forgot, where they could go next time and how they challenge themselves further."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

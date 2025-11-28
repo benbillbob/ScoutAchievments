@@ -1,0 +1,130 @@
+{
+  "template": "oas/camping/6",
+  "meta": {
+    "stage": 6,
+    "stream": "camping"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 6 - Camping",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "lead_plan_weekend_camp_bd3cdd",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and lead a weekend camp.",
+              "dialog_text": "The youth member should be able to plan, organise, and lead a camp over a weekend. The youth member needs to account for: \n * site selection \n * group gear \n * informing participants of personal gear requirements \n * risk assessment and mitigation \n * making sure activities are planned for the weekend camp including if there is a theme that needs to be set or if there is a particular purpose to the camp other then meeting this requirement in Outdoor Adventure Skills."
+            },
+            {
+              "id": "of_camp_activities_plan_program_85e08d",
+              "type": "verifiable_checkbox",
+              "label": "I can plan a program of activities for a camp.",
+              "dialog_text": "This could be an outdoor activities camp where many of the activities are related to hiking, bike riding, kayaking, rock climbing etc, or it could be a standing camp that involves team building activities and campcraft skills. \n \nRegardless of the style of camp, the youth member should ensure that the program of activities is fun, challenging, adventurous and inclusive for all, and that multiple members take turns leading or assisting in different activities."
+            },
+            {
+              "id": "matrix_camp_complete_management_risk_8acef7",
+              "type": "verifiable_checkbox",
+              "label": "I can complete a risk management matrix for a camp.",
+              "dialog_text": "The risk management matrix should cover all of the foreseeable risks that will be encountered due to the activities that will be undertaken at the camp. These include risks to Person, Equipment and Environment. The youth member could account for risks posed to the organisation as a result of the activities being undertaken. This could include consulting with Subject Matter Experts and rating and mitigating risks so they have a lower or non-existent risk factor remaining."
+            },
+            {
+              "id": "weather_conditions_camp_plan_equipment_extreme_organise_menu_afb6fd",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and organise the equipment and menu for a camp in extreme weather conditions.",
+              "dialog_text": "The youth member should consider what extreme weather could be likely on a camp such as; high winds, extreme heat, storms, snow etc. The youth member should consider what equipment and food would be needed in each of these situations and how they will ensure that these things are accounted for in planning for any camp."
+            },
+            {
+              "id": "organise_help_camp_transportation_d8bf6b",
+              "type": "verifiable_checkbox",
+              "label": "I can help organise transportation to camp.",
+              "dialog_text": "Methods of transport may include: \n * car pooling, \n * public transport, \n * shared bus, train or flight transports. \nThe youth member should organise all aspects of transport, including but not limited to, \n * providing information in a timely manner to all participants, \n * booking tickets, \n * ensuring everyone is included"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "tent_camp_specific_choose_best_dfcc86",
+              "type": "verifiable_checkbox",
+              "label": "I can  choose the best tent for a specific camp.",
+              "dialog_text": "Different camping situations will require different tents. The youth member should think about the activities they intend to undertake. \n \nIf they will be hiking and camping, the tent will need to either be light enough for one Scout to carry, or able to be split into components for ease of carry amongst a Patrol of Scouts. \n \nIf it is a large District camp, or a Jamboree, then a large 8 man tent is probably going to be required. \n \nIf the camp's location is in a snow area, then a 4 season tent is required. \n \nFor any other situation and campsite not mentioned above, the youth member must skill themselves in the knowledge of different tent characteristics so that they can best choose a tent. \n \nFurthermore, equipment checks and in-field repairs of equipment will need to be pristine, as no mistakes can be afforded during extreme weather."
+            },
+            {
+              "id": "maintain_others_camp_demonstrate_group_care_gear_store_055682",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate to others how to care for, store and maintain group gear for camp.",
+              "dialog_text": "It is important that the youth member is able to communicate with others the best ways to look after group gear, including items like; \n * tents \n * cooking equipment \n * shelters \n * recreational gear \n * activity specific gear etc."
+            },
+            {
+              "id": "pitch_tent_troop_similar_group_bell_canvas_led_3856e8",
+              "type": "verifiable_checkbox",
+              "label": "I have led a group to pitch a bell tent, canvas troop tent or similar.",
+              "dialog_text": "The youth member should support youth at a lower Stage to pitch this style of tent. This could be youth members in the same Section 2 Stages below or youth members from other Sections that need support and guidance through this task."
+            },
+            {
+              "id": "stages_cooked_scout_another_4_prepare_3_teach_f8f533",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another Scout in Stages 3 or 4 to prepare a meal to be cooked on a fire.",
+              "dialog_text": "The youth member should use one of the many methods of campfire construction that they have previously learned or been exposed to for cooking. These might include: \n * trench fire \n * pit fire \n * bed of coals \n * buried camp oven and coals. \n \nThe youth member should support the other youth member(s) in preparing & cooking a meal."
+            },
+            {
+              "id": "weather_conditions_camp_extreme_participated_9e91a1",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a camp in extreme weather conditions.",
+              "dialog_text": "A camp in extreme weather conditions includes: \n * snow \n * sleet \n * high wind \n * high rain \n * high heat \n * hail \n * storm activity \n * high dust levels \n * any other extreme weather condition that makes it much more challenging to go camping. \n \nAt this Stage, it is important that the youth member is able to thrive and enjoy the camp, not purely being confined to a tent for the duration of the camp. \n \nThe completion of this I-statement does not need to be at this Stage however the youth member needs to be able to recount the event and the learnings from it. \n \nConsider how would they better prepare for this in the future?"
+            },
+            {
+              "id": "set_assist_tent_scout_4_stage_up_6610d0",
+              "type": "verifiable_checkbox",
+              "label": "I can assist a Stage 4 Scout how to set up a tent.",
+              "dialog_text": "The youth member needs to support a Scout or Patrol of Scouts setting up their tents. The youth member needs to account for all critical steps so the tent is set up properly."
+            },
+            {
+              "id": "end_of_6_camp_which_spent_nights_least_cebdb4",
+              "type": "verifiable_checkbox",
+              "label": "I have spent 22 nights at camp in  different seasons, one of which is at least 3 consecutive nights by the end of Stage 6.",
+              "dialog_text": "Through Stage 1 to the completion of Stage 6, the youth member will have spent a minimum of 22 nights camping in a tent in many different sessions. At least 3 of these nights should be consecutive (in the one trip)."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "weather_useful_next_others_which_camp_time_practical_36ebc1",
+              "type": "verifiable_checkbox",
+              "label": "I have identified which equipment was useful and practical in an extreme weather camp, and I can recommend what to take next time to others.",
+              "dialog_text": ""
+            },
+            {
+              "id": "plans_camp_reviewed_after_updated_management_risk_afa2d3",
+              "type": "verifiable_checkbox",
+              "label": "I have reviewed and updated my risk management plans after a camp.",
+              "dialog_text": ""
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

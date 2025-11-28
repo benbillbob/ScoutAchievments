@@ -1,91 +1,63 @@
-// Client-side filter + hero/highlight behavior for the discovery homepage.
-// Progressive enhancement only: page must be fully usable without JS.
+// Client-side filtering for the discovery homepage.
+// Progressive enhancement only: the page must remain usable without JavaScript.
 
 (() => {
   const catalogEl = document.getElementById('homepage-catalog');
-  const heroEl = document.getElementById('hero-section');
-  if (!catalogEl || !heroEl) return;
+  if (!catalogEl) return;
 
-  /** @typedef {{ slug:string,title:string,summary:string,stream:string,stage:number,tags:string[],isStaffPick?:boolean,isTrending?:boolean,score?:number,ctaLabel?:string }} HighlightCard */
+  /**
+   * @typedef {{
+   *   slug: string,
+   *   title: string,
+   *   summary: string,
+   *   stream: string,
+   *   stage: number | null,
+   *   tags: string[]
+   * }} ActivityCard
+   */
 
-  /** @type {HighlightCard[]} */
+  /** @type {ActivityCard[]} */
   let cards = [];
   const raw = catalogEl.getAttribute('data-cards');
   if (raw) {
     try {
       const parsed = JSON.parse(raw);
-      if (Array.isArray(parsed)) cards = parsed;
-    } catch (_err) {
-      // Ignore; page will keep server-rendered content.
+      if (Array.isArray(parsed)) {
+        cards = parsed;
+      }
+    } catch (_error) {
+      // Ignore parsing issues – the server-rendered HTML will remain visible.
     }
   }
 
   if (!cards.length) return;
 
-  const searchInput = document.getElementById('homepage-search');
+  cards.sort((a, b) => a.title.localeCompare(b.title));
+
+  const searchInput = /** @type {HTMLInputElement | null} */ (document.getElementById('homepage-search'));
   const streamButtons = Array.from(document.querySelectorAll('[data-stream-filter]'));
   const resultsContainer = document.getElementById('homepage-results');
   const emptyState = document.getElementById('homepage-empty');
-  const homepageRoot = document.getElementById('homepage-root');
 
-  /** @type {string|null} */
+  /** @type {string | null} */
   let activeStream = null;
   let currentQuery = '';
 
-  function normalise(str) {
-    return (str || '').toLowerCase();
-  }
+  const normalise = (str) => (str || '').toLowerCase();
 
-  function score(card) {
-    let base = typeof card.score === 'number' ? card.score : 0;
-    if (card.isStaffPick) base += 10;
-    if (card.isTrending) base += 5;
-    return base;
-  }
+  const formatStreamLabel = (stream) =>
+    stream
+      .split('/')
+      .map((segment) => segment.replace(/[-_]/g, ' ').replace(/\b\w/g, (char) => char.toUpperCase()))
+      .join(' / ');
 
-  /**
-   * Compute filtered + sorted view of cards.
-   * Staff picks always come first, then by score desc, then title.
-   */
-  function getVisibleCards() {
-    const q = normalise(currentQuery);
-    return cards
-      .filter((card) => {
-        if (activeStream && card.stream !== activeStream) return false;
-        if (!q) return true;
-        const haystack = `${card.title} ${card.summary} ${card.stream} ${card.tags.join(' ')}`;
-        return normalise(haystack).includes(q);
-      })
-      .sort((a, b) => {
-        // Staff picks first
-        if (a.isStaffPick && !b.isStaffPick) return -1;
-        if (!a.isStaffPick && b.isStaffPick) return 1;
-        // Higher score first
-        const diff = score(b) - score(a);
-        if (diff !== 0) return diff;
-        return a.title.localeCompare(b.title);
-      });
-  }
-
-  function renderHero(cardsForView) {
-    if (!cardsForView.length) return;
-    const primary = cardsForView[0];
-    const heroTitle = heroEl.querySelector('[data-hero-title]') || heroEl.querySelector('.homepage-hero-main-title');
-    const heroSummary = heroEl.querySelector('[data-hero-summary]');
-    const heroCta = heroEl.querySelector('[data-hero-cta]');
-
-    if (heroTitle) heroTitle.textContent = primary.title;
-    if (heroSummary) heroSummary.textContent = primary.summary;
-    if (heroCta instanceof HTMLAnchorElement) {
-      heroCta.href = `/content/${primary.slug}`;
-      heroCta.setAttribute('data-hero-slug', primary.slug);
-      heroCta.textContent = primary.ctaLabel || 'View template';
-    }
-  }
-
-  function createCardElement(card) {
+  const createCardElement = (card) => {
     const article = document.createElement('article');
     article.className = 'template-card';
+    article.setAttribute('data-stream', card.stream);
+    if (typeof card.stage === 'number') {
+      article.setAttribute('data-stage', String(card.stage));
+    }
 
     const header = document.createElement('header');
     header.className = 'card-header';
@@ -94,20 +66,29 @@
     titleEl.className = 'card-title';
     const link = document.createElement('a');
     link.href = `/content/${card.slug}`;
-    link.textContent = card.title;
     link.className = 'card-link';
+    link.textContent = card.title;
     titleEl.appendChild(link);
 
-    const stageBadge = document.createElement('span');
-    stageBadge.className = 'card-stage';
-    stageBadge.textContent = `Stage ${card.stage}`;
-
     header.appendChild(titleEl);
-    header.appendChild(stageBadge);
+
+    if (typeof card.stage === 'number' && Number.isFinite(card.stage)) {
+      const stageBadge = document.createElement('span');
+      stageBadge.className = 'card-stage';
+      stageBadge.textContent = `Stage ${card.stage}`;
+      header.appendChild(stageBadge);
+    }
 
     const summaryEl = document.createElement('p');
     summaryEl.className = 'card-summary';
     summaryEl.textContent = card.summary;
+
+    const metaEl = document.createElement('div');
+    metaEl.className = 'card-meta';
+    const streamLabel = document.createElement('span');
+    streamLabel.className = 'card-stream';
+    streamLabel.textContent = formatStreamLabel(card.stream);
+    metaEl.appendChild(streamLabel);
 
     const tagsEl = document.createElement('div');
     tagsEl.className = 'card-tags';
@@ -120,14 +101,28 @@
 
     article.appendChild(header);
     article.appendChild(summaryEl);
-    article.appendChild(tagsEl);
+    article.appendChild(metaEl);
+    if (tagsEl.childNodes.length) {
+      article.appendChild(tagsEl);
+    }
+
     return article;
-  }
+  };
 
-  function renderResults() {
+  const getVisibleCards = () => {
+    const query = normalise(currentQuery);
+    return cards.filter((card) => {
+      if (activeStream && card.stream !== activeStream) return false;
+      if (!query) return true;
+      const haystack = `${card.title} ${card.summary} ${card.stream} ${(card.tags || []).join(' ')}`;
+      return normalise(haystack).includes(query);
+    });
+  };
+
+  const renderResults = () => {
     if (!resultsContainer) return;
-    const visible = getVisibleCards();
 
+    const visible = getVisibleCards();
     resultsContainer.innerHTML = '';
 
     if (!visible.length) {
@@ -143,16 +138,9 @@
     }
     resultsContainer.appendChild(fragment);
     resultsContainer.setAttribute('aria-busy', 'false');
+  };
 
-    renderHero(visible);
-  }
-
-  function postEngagement(_eventType, _targetSlug, _metadata) {
-    // Static deployments have no POST endpoint; disable telemetry.
-    return;
-  }
-
-  function handleStreamClick(button) {
+  const handleStreamClick = (button) => {
     const value = button.getAttribute('data-stream-filter');
     activeStream = value || null;
     for (const btn of streamButtons) {
@@ -161,17 +149,8 @@
       btn.setAttribute('aria-pressed', String(isActive));
     }
     resultsContainer?.setAttribute('aria-busy', 'true');
-    window.requestAnimationFrame(() => {
-      const before = getVisibleCards();
-      renderResults();
-      if (before.length) {
-        const primary = before[0];
-        postEngagement('filter_apply', primary.slug, {
-          filter: button.getAttribute('data-stream-filter') || 'all',
-        });
-      }
-    });
-  }
+    window.requestAnimationFrame(renderResults);
+  };
 
   if (streamButtons.length) {
     streamButtons.forEach((btn) => {
@@ -179,29 +158,15 @@
     });
   }
 
-  if (searchInput instanceof HTMLInputElement) {
+  if (searchInput) {
     let debounceId = 0;
     searchInput.addEventListener('input', () => {
       currentQuery = searchInput.value || '';
       resultsContainer?.setAttribute('aria-busy', 'true');
       window.clearTimeout(debounceId);
-      debounceId = window.setTimeout(() => {
-        renderResults();
-      }, 200);
+      debounceId = window.setTimeout(renderResults, 160);
     });
   }
 
-  // Initial render based on preloaded data
   renderResults();
-
-  // Hero CTA telemetry
-  const heroCta = document.querySelector('[data-hero-cta]');
-  if (heroCta instanceof HTMLAnchorElement) {
-    heroCta.addEventListener('click', () => {
-      const slug = heroCta.getAttribute('data-hero-slug');
-      if (slug) {
-        postEngagement('hero_click', slug, { location: 'hero', source: 'homepage' });
-      }
-    });
-  }
 })();

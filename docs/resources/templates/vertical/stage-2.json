@@ -1,0 +1,130 @@
+{
+  "template": "oas/vertical/2",
+  "meta": {
+    "stage": 2,
+    "stream": "vertical"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 2 - Vertical",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "safety_precautions_before_rock_d51d87",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss what safety precautions you should take before going on a rock activity.",
+              "dialog_text": "The youth member should be able to know where to check for local conditions before going on a rock activity. The youth member should be able to discuss what things could make the activity unsafe."
+            },
+            {
+              "id": "own_helmet_harness_35c69d",
+              "type": "verifiable_checkbox",
+              "label": "I can put on my own helmet and harness properly.",
+              "dialog_text": "The youth member should know how to and demonstrate putting on and adjusting the harness and helmet, ensuring that both are tight and adjusted to fit them."
+            },
+            {
+              "id": "impact_local_vegetation_rock_27e7cb",
+              "type": "verifiable_checkbox",
+              "label": "I have explained what impact I can have on local vegetation when participating in rock sports.",
+              "dialog_text": "The youth member should discuss and show an understanding about crushing, breaking and removing vegetation and how that will affect the area of the rock activity. They should think about erosion and the effect on wildlife as part of the impact that vertical activities may have."
+            },
+            {
+              "id": "explain_harness_carabiner_checks_e4d259",
+              "type": "verifiable_checkbox",
+              "label": "I can explain why we do harness and carabiner checks before we begin our rock activity.",
+              "dialog_text": "The youth member should be able to explain and show an understanding of the importance of checking their equipment, and others equipment, to ensure that everyone is safe to start the activity."
+            },
+            {
+              "id": "diagram_essential_equipment_rock_f094a7",
+              "type": "verifiable_checkbox",
+              "label": "I can draw a diagram labelling all of the essential equipment required for rock activities.",
+              "dialog_text": "The youth member should draw and correctly label their diagram/ picture with essential equipment, such as helmet, harness, carabiners, ropes etc. The youth member's drawings don’t need to be perfect, as long as they do their best  and the sketch is clear what each item is and they have labelled it correctly."
+            },
+            {
+              "id": "knotting_skills_vertical_f094a7",
+              "type": "verifiable_checkbox",
+              "label": "I know why knotting skills are important for vertical activities.",
+              "dialog_text": "The youth member should explain why and where knots are used in rock related activities."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "climbing_twice_artifical_natural_6723c7",
+              "type": "verifiable_checkbox",
+              "label": "I have been climbing twice on an artificial wall or natural rock formation.",
+              "dialog_text": "The youth member needs to have climbed on 2 separate occasions and log them both in their logbook. The youth member should record: \n * Where they did the climbs \n * Who they did the climbs with \n * How high the climbs were \n * If the routes were graded, the difficulty grade"
+            },
+            {
+              "id": "abseiled_once_stage_470383",
+              "type": "verifiable_checkbox",
+              "label": "I have abseiled once at this Stage.",
+              "dialog_text": "The youth member should have this abseil included in their log. The abseil can be on a natural or artificial surface - a small abseil wall/ large round bolder can be used for this, it does not need to be a big steep wall."
+            },
+            {
+              "id": "protect_self_sun_4dfc1e",
+              "type": "verifiable_checkbox",
+              "label": "I can protect myself from sun exposure.",
+              "dialog_text": "The youth member needs to demonstrate Slip, slop, slap, slide and seeks as per the Australian Cancer Council's recommendations. \n \nThe youth member needs to ensure they have sunscreen applied regularly, keep their hat on or get a visor for their helmet, sunglasses and making sure they are drinking water and staying in the shade where possible. The youth member should demonstrate this skill during a climbing/abseiling activity."
+            },
+            {
+              "id": "appropriate_action_accident_56aced",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed the appropriate action I should take in the case of an accident.",
+              "dialog_text": "The youth member needs to demonstrate where to go, who to call and how they can help in a event of an accident, this should be done prior to the activity starting."
+            },
+            {
+              "id": "allowed_climb_before_climb_25bcf4",
+              "type": "verifiable_checkbox",
+              "label": "I can show where I am allowed to climb, before I start climbing.",
+              "dialog_text": "The youth member will need to clearly indicate the boundaries during their activity prior to starting the activity."
+            },
+            {
+              "id": "two_knots_vertical_434967",
+              "type": "verifiable_checkbox",
+              "label": "I can tie two knots that will help me in vertical activities.",
+              "dialog_text": "The youth member needs to demonstrate any knots which are used in vertical activities. These could be: \n * Figure of 8 \n * Tape knot \n * Alpine butterfly \n * Rethreaded figure of 8 \n * Any other knot used for vertical activities."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "enjoyed_learnt_improved_two_rock_e02e09",
+              "type": "verifiable_checkbox",
+              "label": "I have talked about what I enjoyed, learnt, or improved upon from at least two rock-based activities.",
+              "dialog_text": "The youth member should talk about what they enjoyed, learned and improved upon whilst undertaking their rock-based activities with their Patrol, Unit or adult Leaders."
+            },
+            {
+              "id": "suggest_different_future_rock_e02e09",
+              "type": "verifiable_checkbox",
+              "label": "I can suggest what I would do differently on a future rock-based activity to enjoy it more, to be safer, or to learn new things.",
+              "dialog_text": "The youth member should talk about what they could do different on future rock-based activities with their Patrol, Unit or adult Leaders."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

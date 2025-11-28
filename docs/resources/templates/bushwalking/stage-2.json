@@ -1,0 +1,130 @@
+{
+  "template": "oas/bushwalking/2",
+  "meta": {
+    "stage": 2,
+    "stream": "bushwalking"
+  },
+  "version": 3,
+  "document": [
+    {
+      "title": "Stage 2 - Bushwalking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "whilst_clothing_should_explain_wear_bushwalking_491664",
+              "type": "verifiable_checkbox",
+              "label": "I can explain what clothing I should wear whilst bushwalking.",
+              "dialog_text": "Youth member's answer should reflect the local environment and season: The important thing is to make sure you take the time to discuss with the youth member and gain an understanding as to why they think particular fabrics and environments are appropriate: \n \nNylon: dries quickly, but not very breathable and can be hot \n \nPolyester: dries quickly, can be hot \n \nCotton: suitable for summer but becomes very cold when wet.\n \nDenim: heavy, cold when wet. Not a suitable outdoor fabric. \n \nWool: retains warmth when wet, but base layer can be expensive \n \nSoftshell: resists light rain \n \nFleece: warm but can be bulky. Durable."
+            },
+            {
+              "id": "explained_local_vegetation_bushwalking_impact_628c2c",
+              "type": "verifiable_checkbox",
+              "label": "I have explained what impact I can have on local vegetation when bushwalking.",
+              "dialog_text": "The youth member should consider their negative impacts on the bush when walking and ways in which they can reduce though risks. these risks could include: \n * Spreading plant diseases such as phytophthora (cinnamon fungus) \n * Spreading weed species such as dandelions \n * Physical destruction \n * Erosion \n * Litter"
+            },
+            {
+              "id": "discussed_action_take_should_appropriate_accident_of_emergency_49b348",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed the appropriate action I should take in the case of an accident or emergency.",
+              "dialog_text": "Situation-specific, but the youth member should mention: \n * Stopping the party \n * Ensuring that nobody else is injured or lost \n * Ensuring that nobody wanders off from the group \n * Administering first aid where necessary \n * Calling emergency services \n \nThink situations where there could be risk to equipment, person or environment. The youth member may also mention: \n * DRSABCD Treatment options if a member is injured."
+            },
+            {
+              "id": "precautions_safety_bushwalk_take_should_out_discuss_before_59c0ea",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss what safety precautions I should take before going out for a bushwalk.",
+              "dialog_text": "Youth member should mention: \n * being properly equipped for the planned activity \n * planning a walk that is within their skill and fitness levels, ie: not selecting a bushwalk which is too difficult for the group  \n * leaving trip intentions (“letting someone know before you go”) \n * carrying a smartphone (bonus points for fully charged and in a protective container) \n * carrying a first aid kit."
+            },
+            {
+              "id": "services_emergency_contact_e9197e",
+              "type": "verifiable_checkbox",
+              "label": "I know when and how to contact the emergency services in an emergency.",
+              "dialog_text": "Acceptable responses include: \n * 000: Standard emergency number \n * 112: global emergency number from mobiles \n * 106: national text emergency relay service (for hearing-impaired Scouts) \n * Telephone \n * Personal Locator Beacon (PLB) \n \nUnacceptable responses include: \n * Social media platform \n * Text message/SMS (not a recognised method) \n * Email \n * Smartphone app (unless the youth member can demonstrate an official app sponsored by an emergency service in their State or Territory) \n * 911 (US number) \n * 11444 (Police-specific) \n * EPIRB (not current technology) \n \nThe youth member should be prepared to provide some information: \n * Whether they are requesting police, fire brigade, or ambulance \n * Their name \n * Their location \n * The nature of the emergency \n * How many people are injured \n * Access to their location."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "list_draw_bushwalk_all_equipment_of_bring_essential_bb6a67",
+              "type": "verifiable_checkbox",
+              "label": "I can draw or list all of the essential equipment to bring on a bushwalk.",
+              "dialog_text": "The youth member should be able to list or draw most of the following items: \n * Map & compass \n * Sun protection \n * Food \n * Water \n * Appropriate clothing \n * Head torch & batteries\n * First aid kit \n * Whistle \n \nVenturers or Rovers may also include: \n * Fire-starting tool (matches, lighter, flint) \n * Knife or multi-tool \n * Communications device \n \nThis statement examines the youth member’s knowledge of bushwalking and not their artistic ability, so an item does not need to be drawn perfectly as long as it is vaguely recognisable."
+            },
+            {
+              "id": "use_compass_find_basic_directions_7255d3",
+              "type": "verifiable_checkbox",
+              "label": "I can use a compass to find basic directions.",
+              "dialog_text": "Youth member should complete a simple navigation task on a walk, at the hall or at a different activity or camp. the activity leader can use their discretion, but the main objective is to be practising skills outdoors."
+            },
+            {
+              "id": "while_myself_outdoors_exposed_sun_protect_d8fdcf",
+              "type": "verifiable_checkbox",
+              "label": "I can protect myself when exposed to the sun while outdoors.",
+              "dialog_text": "The youth member should demonstrate the correct wearing of, and have appropriate: \n * Hat preferably brimmed) \n * Sunscreen (preferably 50+ with water resistance depending on time of year) \n * Long sleeves shirt with collar and trousers (light and breathable) \n * Sunglasses \n * Planning the walk to stay in shade during the middle of the day"
+            },
+            {
+              "id": "this_stage_short_bushwalks_least_attended_bb6551",
+              "type": "verifiable_checkbox",
+              "label": "I have attended at least two short bushwalks at this stage.",
+              "dialog_text": "These may be urban bushwalks through parkland, but not solely through suburban streets or along rural roads."
+            },
+            {
+              "id": "go_show_allowed_start_am_before_bushwalking_where_3863c4",
+              "type": "verifiable_checkbox",
+              "label": "I can show where and when I am allowed to go, before I start bushwalking.",
+              "dialog_text": "Youth members should have conversations in their Patrol and with the activity leader, will need to point out both where on the map the group is about to walk/ where they should not walk and when on the walk should know how to protect the local habitat such as walking on the path, not standing on flowers/ natural habitat etc \n \nThe Patrol members abilities and needs should also be taken into consideration"
+            },
+            {
+              "id": "10km_of_total_bushwalked_distance_least_f62488",
+              "type": "verifiable_checkbox",
+              "label": "I have bushwalked a total distance of at least 10km.",
+              "dialog_text": "Youth members should keep a logbook of all adventures which includes distance."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "learnt_talked_improved_from_bushwalks_least_enjoyed_4241cb",
+              "type": "verifiable_checkbox",
+              "label": "I have talked about what I enjoyed, learnt, or improved upon from at least two bushwalks.",
+              "dialog_text": "Youth member’s answers must be relevant to bushwalking."
+            },
+            {
+              "id": "learnt_playing_improved_talk_navigational_enjoyed_game_b64c8b",
+              "type": "verifiable_checkbox",
+              "label": "I can suggest what I would do differently on a future bushwalk to enjoy it more, to be safer, to learn new things, or to be more challenging.",
+              "dialog_text": "Youth member’s answers must be relevant to bushwalking and could include how they can apply what they have learnt (consider using aids for this such as Review> ball, SPICES cards, Method question flash cards etc)."
+            },
+            {
+              "id": "picture_list_leaders_equipment_of_reviewed_essential_patrol_f0e7d6",
+              "type": "verifiable_checkbox",
+              "label": "I have reviewed my list or picture of essential equipment with my Patrol and Leaders.",
+              "dialog_text": "The youth member should take part in a discussion with their team about their essential items, and consider: \n * what was useful? \n * what was not useful? \n * what was not useful enough to take next time, given its weight/size? \n * what did you need but did not have with you?."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

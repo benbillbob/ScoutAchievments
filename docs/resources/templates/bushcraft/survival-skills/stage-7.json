@@ -1,0 +1,142 @@
+{
+  "template": "oas/bushcraft/survival-skills/7",
+  "meta": {
+    "stage": 7,
+    "stream": "survival-skills"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 7 - Survival skills",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "lead_bush_more_survival_camp_consecutive_of_nights_10d226",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and lead a bush survival camp of two consecutive nights or more.",
+              "dialog_text": "The youth member should be able to plan, organise, and lead a bush survival camp over a weekend or similar period, this includes risk mitigation. \n \nThe youth member must actively participate in the activity and not simply run it for other Scouts and camp nearby. \n \nThe activity should include a variety of activities such as: \n * Constructing and sleeping in an overnight shelter \n * Lighting a fire \n * Foraging for food \n * Cooking a meal \n * Constructing camp furniture \n * Search and rescue"
+            },
+            {
+              "id": "risks_during_hazards_survival_camps_describe_prepare_plan_3cc5da",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare and describe an emergency plan for expected risks and hazards during survival camps, accounting for natural weather events and fire hazards.",
+              "dialog_text": "The youth member should be able to prepare: \n * an emergency management plan based on risks identified when planning a survival camp \n * a risk assessment for the activity, including identifying and mitigating basic risks associated with the activity \n * a demonstrated understanding on how to check and monitor extreme natural weather events and bushfires before and during an activity."
+            },
+            {
+              "id": "packing_organise_transportation_survival_camp_of_group_activity_105670",
+              "type": "verifiable_checkbox",
+              "label": "I can organise the packing and transportation of group activity for a survival camp.",
+              "dialog_text": "The youth member should include transportation arrangements in their project plan for a survival camp."
+            },
+            {
+              "id": "across_preparation_transportation_survival_camp_manage_of_fatigue_be9350",
+              "type": "verifiable_checkbox",
+              "label": "I can identify how to manage fatigue across the preparation, transportation, activities and review of a survival camp.",
+              "dialog_text": "The youth member should include fatigue management in their risk assessment for a survival camp, including signs of fatigue and how to mitigate incidents and injury due to fatigue."
+            },
+            {
+              "id": "animals_are_need_if_plants_so_do_researched_5b2d8e",
+              "type": "verifiable_checkbox",
+              "label": "I have researched plants and animals that are safe for me to eat if I need to do so.",
+              "dialog_text": "The youth member should be able to identify a number of plants and animals from the area their Unit usually conducts activities in which can be safely eaten. \n \nThe plants/animals nominated must be realistic to find, catch, and prepare. Please be aware of the inherent risks of bush tucker and include these risks in any of the Survival Camp planning."
+            },
+            {
+              "id": "gain_extend_action_parks_permissions_special_beyond_land_60a06f",
+              "type": "verifiable_checkbox",
+              "label": "I know how to gain special permissions from parks and land management to extend action or activities beyond standard procedures.",
+              "dialog_text": "The youth member should be able to explain what they would do if they were wanting to complete activities outside of the standard permissions available from parks and land management. For example, seeking permission to \n * cross private property where a bushwalking trail crosses private property as part of its natural course \n * enter or use a specific area within national/state/territory parks that may have heritage or cultural significance (e.g. a sacred site) \n * enable property management to trace what aspects of their property are in use at an specific time (e.g. logging in and out of caves as you enter and exit within a national park)"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "risks_explain_gastroenteritis_survival_hyperthermia_of_setting_dehydration_b2e244",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the treatment of hyperthermia, hypothermia, dehydration and gastroenteritis and explain the risks of delayed treatment of these conditions in a survival setting.",
+              "dialog_text": "Guidance under development."
+            },
+            {
+              "id": "during_trap_survival_built_small_snare_activity_ae39ed",
+              "type": "verifiable_checkbox",
+              "label": "I have built a snare or small trap during a survival activity.",
+              "dialog_text": "The youth member should construct a snare or trap suitable for capturing an animal up to 5kg. This may work on the principles of: \n * Smashing \n * Trapping \n * Falling \n \nThe trap should be tested for effectiveness using a stick or a soft toy on a cord, and not with a hand, foot. \n \nNote: the trap or snare must be disassembled at the conclusion of testing and must not be left in place. Leaving an unsupervised trap or snare can result in civil or criminal penalties."
+            },
+            {
+              "id": "drill_search_rescue_assisted_30e911",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted in a search and rescue drill.",
+              "dialog_text": "The youth member should use the research and knowledge gained in Stage 6 and choose one of those rescue techniques (Grid Search, Choke Point Search, Containment Search, etc). \n \nThe youth member needs to assist in the rescue drill which should be a structured and planned activity."
+            },
+            {
+              "id": "ways_observed_apply_different_not_local_fauna_3bc2a5",
+              "type": "verifiable_checkbox",
+              "label": "I can apply different ways to not be observed by local fauna.",
+              "dialog_text": "The youth member should refer to their planning in Stage 5 where they identified ways to prevent themselves from being seen. \n \nThe youth member should plan a mock survival activity to try and prevent themselves from being seen, heard or smelt by their Patrol or other Patrols. \n \nIt is essential to ensure in their planning that the youth member has considered the safety risks and environmental impact. The plan should include what to do if the youth member gets lost considering the fact they might be camouflaged. \n * How can the youth member make themselves visible to a search party if necessary?"
+            },
+            {
+              "id": "make_location_magnetic_compass_another_scouts_using_stages_9fee57",
+              "type": "verifiable_checkbox",
+              "label": "I have taught Scouts in lower stages to determine their location on a map using a topographic map and magnetic compass and to make their way to another location on the map.",
+              "dialog_text": "The youth member should be able to instruct another Scout in navigational techniques using mechanical means such as a compass and local landmarks or significant outcrops/points of interest in natural features. They could also consider instructing a how to fix or cross-section using back bearings."
+            },
+            {
+              "id": "another_message_party_help_mayday_receive_send_person_97d211",
+              "type": "verifiable_checkbox",
+              "label": "I can send and receive a HELP or mayday message from another person or party.",
+              "dialog_text": "The youth member should be involved in a mock emergency activity where they practice sending and receiving mayday messages using the non-electronic methods researched in Stage 6. The youth member should also be able to demonstrate using the equipment they have available in the area and Unit.  The youth member should demonstrate awareness of and an understanding the repercussions of sending off HELP signals when not in an emergency situation."
+            },
+            {
+              "id": "solid_liquid_fuels_f06159",
+              "type": "verifiable_checkbox",
+              "label": "I can describe the differences between solid and liquid fuels, can explain the risks and benefits of each, and how to safely use and store these fuels.",
+              "dialog_text": "The youth member should be able to demonstrate the difference between solid (e.g. wood) and liquid (e.g. methylated spirits) fuels, how these can be used in a camping and survival context, and how to safely store them following government regulations."
+            },
+            {
+              "id": "incorporated_edible_camp_fish_of_meal_plants_insects_11b138",
+              "type": "verifiable_checkbox",
+              "label": "I have incorporated edible plants, insects or fish as part of a camp meal.",
+              "dialog_text": "The youth member should be able to include some plants and insects or fish, which they have found in the wild, into a camp meal. It is acceptable to include found items as part of a meal which includes farmed components from home; examples include: \n * Boiled sword grass bases with vacuum-sealed kangaroo fillets from home \n * Pigface fruits with roasted crickets \n * Witchety grubs with wattle salad \n \nThe youth member should take special care to ensure that they only consume species which are safe to eat, and that insects, arachnids, and worms are properly cooked. \n \nNote: native animals are protected in many States/Territories and must not be taken from the wild."
+            },
+            {
+              "id": "core_skill_skills_survival_adventure_stream_completed_areas_60d0c7",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 in the three core Outdoor Adventure Skill areas, including the Bushcraft – Survival Skills stream.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "development_we_skill_our_feedback_survival_patrol_improve_9ed4d8",
+              "type": "verifiable_checkbox",
+              "label": "I give feedback to my project patrol on how we could improve our survival challenge skill development in the future.",
+              "dialog_text": "The youth member should review their survival activities during this stage and provide constructive feedback to their Project Patrol as to how to improve."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

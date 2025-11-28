@@ -1,0 +1,124 @@
+{
+  "template": "oas/boating/windsurfing/8",
+  "meta": {
+    "stage": 8,
+    "stream": "windsurfing"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Windsurfing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "knowledge_collision_regulations_water_33d1ed",
+              "type": "verifiable_checkbox",
+              "label": "I know the collision regulations on the water.",
+              "dialog_text": "The youth member should be aware of and understand the International Regulations for Preventing Collisions at Sea."
+            },
+            {
+              "id": "understand_properly_prepare_windsurfer_travel_2542f0",
+              "type": "verifiable_checkbox",
+              "label": "I know how to properly prepare my windsurfer for safe travel to and from an activity.",
+              "dialog_text": "The youth member should be able to discuss how to properly prepare their windsurfer in order to transport it to and from activities."
+            },
+            {
+              "id": "evaluate_meteorological_tidal_effects_27ed75",
+              "type": "verifiable_checkbox",
+              "label": "I can evaluate meteorological and tidal effects of a new sailing venue.",
+              "dialog_text": "The youth member should be able to evaluate meteorological and tidal effects when planning a windsurfing activity or trip in an unfamiliar area."
+            },
+            {
+              "id": "know_describe_current_racing_rules_f32ec0",
+              "type": "verifiable_checkbox",
+              "label": "I know and can describe the current racing rules.",
+              "dialog_text": "The youth member should understand and describe the intent of the current International Sailing Federation racing rules and any further rules for State or Branch. \n * Part 1: The fundamental rules \n * Part 2: When boats meet \n * Part 3: Conduct of a Race \n * Part 4: Other requirements when racing \n * Part 5: Protests, redress, hearings, misconduct and appeals \n * Part 6: Entry and Qualification \n * Part 7: Race Organisation"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "demonstrated_tune_windsurfer_af1bae",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated how to tune a windsurfer.",
+              "dialog_text": "The youth member should be able to demonstrate how to correctly tune a windsurfer."
+            },
+            {
+              "id": "optimal_body_position_73e6ee",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated optimal body position at all times when sailing a sailboard successfully in moderate to stronger winds.",
+              "dialog_text": "The youth member should demonstrate consistency when it comes to optimal body position with windsurfing in moderate (11-16 knots) to stronger winds (17-26 knots). They should almost be doing this subconsciously by the end of Stage 8 after their minimum of 22 windsurfing activities. Photos and videos are great for evidence of their skill and competence."
+            },
+            {
+              "id": "tacking_gybe_73e6ee",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated tacking and gybe manoeuvres.",
+              "dialog_text": "The youth member should be able to demonstrate tacking and gybe manoeuvres."
+            },
+            {
+              "id": "demonstrate_tactics_racing_slalom_wave_sailing_ada1a5",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate tactics while racing a windsurfer for slalom and wave sailing contests.",
+              "dialog_text": "The youth member needs to participate in a windsurfer slalom and wave sailing contests and demonstrate the correct tactics whilst racing. They will need to include the detail in their logbook. Photographs and video are great for evidence of their skill and competency in these areas."
+            },
+            {
+              "id": "demonstrated_racing_strategies_windsurfing_fceb1a",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated the racing strategies for windsurfing.",
+              "dialog_text": "The youth member needs to participate in a windsurfer racing contest and demonstrate the correct strategies whilst racing. They will need to include the detail in their logbook. Photographs and video are great for evidence of their skill and competency in these areas."
+            },
+            {
+              "id": "undertaken_22_days_sailing_b61d24",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 22 days of sailing by the end of Stage 8.",
+              "dialog_text": "The youth member needs to do twenty-two (22) windsurfing activity days and ensure they are in their logbook. A day is counted as roughly 3-6 hours of activity time depending on conditions and skill of their Patrol. In their log they should include when they did the activity, where they did the activities, who they did it with, what the weather was like and any other interesting information about the activities."
+            },
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the Outdoor Adventure Skills, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses."
+            },
+            {
+              "id": "led_windsurfing_skills_development_session_097e91",
+              "type": "verifiable_checkbox",
+              "label": "I have led a windsurfing skills development session for less experienced Scouts at Stage 8.",
+              "dialog_text": "The youth member should plan a windsurfing skills development session for less experienced Scouts. They should use their plan from the Skill Session they led in Stage 7, but update it based on their review and to ensure it covers the skills that the participants require."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "provide_basic_instruction_feedback_patrol_windsurfing_activity_2bed3f",
+              "type": "verifiable_checkbox",
+              "label": "I can provide basic instruction and feedback to a Patrol of Scouts that I have led on a windsurfing activity, helping participants to improve their windsurfing technique.",
+              "dialog_text": "The youth member needs to provide feedback on the skill development session that they ran during this Stage for less experienced Scouts working on their windsurfing skills. Feedback could be about equipment selection, posture, manoeuvres, racing tactics and strategies."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

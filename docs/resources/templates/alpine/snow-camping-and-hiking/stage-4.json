@@ -1,0 +1,136 @@
+{
+  "template": "oas/alpine/snow-camping-and-hiking/4",
+  "meta": {
+    "stage": 4,
+    "stream": "snow-camping-and-hiking"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Snow camping and hiking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "list_make_conditions_may_more_camping_difficult_hazardous_a95ba8",
+              "type": "verifiable_checkbox",
+              "label": "I can list conditions that may make snow camping & snowshoeing more hazardous or difficult.",
+              "dialog_text": "They youth member should discuss the hazards that they may come across that may make snow camping and snowshoeing more hazardous or difficult. The youth member will need to consider aspects such as the environment, the equipment and the people who them are with and who are around them."
+            },
+            {
+              "id": "alpine_drinking_environment_obtain_supply_safe_water_of_fe9d76",
+              "type": "verifiable_checkbox",
+              "label": "I know how to obtain and keep a supply of safe drinking water in the alpine environment.",
+              "dialog_text": "The youth member should be planning their water prior to going on an activity, how much water they will need and where the local sources are. If the youth member chooses to melt snow, they need to make sure they have a billy and stove to ensure it gets to a rolling boil before drinking it."
+            },
+            {
+              "id": "impact_minimal_camping_points_of_main_snow_a6ed09",
+              "type": "verifiable_checkbox",
+              "label": "I know the main points of minimal impact for snow camping.",
+              "dialog_text": "The youth member is required to demonstrate that they understand what minimal impact means for any camping or outdoor activities. The youth member should be able to discuss the Leave No Trace principles and be able to incorporate them into the plan for their next snow trip."
+            },
+            {
+              "id": "food_day_requirements_identify_snow_trips_water_13286b",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify food and water requirements for day trips to the snow.",
+              "dialog_text": "The youth member needs to be able to: \n * Specify how much water to carry, and how often they will need to refill \n * Specify how many of each meal they will need (breakfast, lunch, dinner, snacks) and for how many people \n * Identify suitable foods for their snow camping or snowshoeing trip with regard to energy content, durability, perishability and deliciousness \n * Estimate overall energy requirements: How strenuous is the day? Will it make you eat more?"
+            },
+            {
+              "id": "itinerary_organising_bringing_proposed_some_take_read_group_c07d32",
+              "type": "verifiable_checkbox",
+              "label": "I can read a planned group itinerary for a proposed snow trip and take responsibility for bringing or organising some of the equipment.",
+              "dialog_text": "The youth member will need to demonstrate an understanding of a snow trip from the itinerary. They will need to discuss the gear list, menu and route with the trip leader and bring what is required of them to the activity."
+            },
+            {
+              "id": "alpine_meaning_snowshoers_signs_various_campers_identify_their_81198b",
+              "type": "verifiable_checkbox",
+              "label": "I can identify various alpine signs and their meaning for snow campers and snowshoers.",
+              "dialog_text": "The youth member should be able to identify and discuss the different warning and information signs in the area they will be doing their activities, and what those mean for snow camping and snowshoeing."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "alpine_stage_taught_2_scout_below_dress_environment_f66570",
+              "type": "verifiable_checkbox",
+              "label": "I have taught a Stage 2 Scout or below how to dress for the alpine environment.",
+              "dialog_text": "The youth member should be assisting a Stage 1 or 2 Scout to understand the layering principle when it comes to activities in the snow. They should assist them to understand what clothing may be appropriate for their alpine activities they are about to do."
+            },
+            {
+              "id": "own_fit_snowshoes_adjust_8815fc",
+              "type": "verifiable_checkbox",
+              "label": "I can fit and adjust my own snowshoes.",
+              "dialog_text": "The youth member should be able to adjust their snowshoeing equipment to ensure it is correctly fitted and comfortable. They could speak to a Stage 6 Scout to assist them with how to adjust their equipment, or get an adult to help. This may be in conjunction with the hirer, unless the Scout owns their equipment."
+            },
+            {
+              "id": "slopes_techniques_apply_ascending_walk_descending_snowcovered_906c6d",
+              "type": "verifiable_checkbox",
+              "label": "I can apply ascending and descending techniques to walk on snow-covered slopes.",
+              "dialog_text": "The youth member is required to demonstrate multiple techniques that help them safely ascend and descend slopes whilst also protecting the environment. Techniques can include: \n * Zig zagging across steep terrain \n * Ascending diagonally across a large slope \n * Mutual support with a buddy \n \nAids can include: \n * Trekking poles \n * Hand lines"
+            },
+            {
+              "id": "backpack_appropriate_packed_carrying_myself_full_lifting_posture_633b5e",
+              "type": "verifiable_checkbox",
+              "label": "I can adopt an appropriate posture when lifting and carrying a full backpack that I have packed myself.",
+              "dialog_text": "The youth member should demonstrate one of the following techniques when lifting their pack: \n * Lift the pack onto their knee, and then swing it around onto your back \n * Lift the pack onto a raised surface (lifting using their leg muscles), then place the straps on their shoulders and stand up \n * Get a friend to help lift the pack and slip into the shoulder straps \n \n Once the backpack is on, it is important the pack straps are correctly fastened and fitted appropriately, with the weight sitting mostly on the hips (80%), with a maximum of 20% on the shoulders."
+            },
+            {
+              "id": "up_scouts_tent_set_team_of_snow_ec8d35",
+              "type": "verifiable_checkbox",
+              "label": "I have set up a tent in the snow with a team of other Scouts.",
+              "dialog_text": "The youth member should demonstrate setting up a tent in the snow, taking into consideration the fauna below the snow and the location of their campsite. They will also need to consider aspects such as floor space and dug outs during the set-up of the tent."
+            },
+            {
+              "id": "approach_risks_demonstrate_myself_where_possible_group_safe_29ca41",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a safe approach to hazards and minimise risks to myself and the group, where possible.",
+              "dialog_text": "The youth member should be able to demonstrate understanding of hazards and what to do to minimise the risk of them and how to safely approach them to avoid injury. Examples of some hazards include; snow drifts, ice and rock shelves. The youth member may, with their trip leader and Project Patrol, discuss risk assessment and mitigation for their snow camping trip."
+            },
+            {
+              "id": "stage_taken_part_camp_this_snow_3f01de",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in a snow camp at this stage.",
+              "dialog_text": "The youth member should take part in a snow camp and log this in their logbook. They should include details about when they did the activity, where they did the activity, who they did it with and what they learned during the trip."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "skills_would_further_begun_improve_where_camping_identify_58d622",
+              "type": "verifiable_checkbox",
+              "label": "I can identify where I have begun to improve my snow camping and snowshoeing skills, and where I would like to further improve.",
+              "dialog_text": "The youth member should reflect on their activities undertaken in this stage. They should be able to identify where they feel they have improved in their snow camping and snow shoeing skills and what they still need to work on. They should be encouraged to discuss this with their Patrol or Unit who can help them with the review."
+            },
+            {
+              "id": "discussed_if_checked_needs_replaced_equipment_repaired_damage_fd4a23",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should demonstrate a gear inspection after their activity. This can be a visual inspection. The youth member should be able to identify if there are rips, holes or cracks in equipment or gear and if anything needs replacing. This should be discussed with the leader or youth member in charge of equipment."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

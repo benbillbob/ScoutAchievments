@@ -1,0 +1,178 @@
+{
+  "template": "oas/vertical/caving/5",
+  "meta": {
+    "stage": 5,
+    "stream": "caving"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 5 - Caving",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "food_water_requirements_day_4ba3f8",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify food and water requirements for day trips.",
+              "dialog_text": "The youth member should be able to: \n * Specify how much water to carry, and how often they will need to re-fill - if they are using creek water ensure it is filtered and purified \n * Specify how many of each meal they will need (breakfast, lunch, dinner, snacks) and for how many people \n * Identify suitable foods for the activity with regard to energy content, durability, perishability, and deliciousness \n * Estimate overall energy requirements: How strenuous is the day?  Will it make the party eat more?"
+            },
+            {
+              "id": "select_routes_minimise_environment_damage_cave_7f5c4c",
+              "type": "verifiable_checkbox",
+              "label": "I can select routes that minimise damage to the environment.",
+              "dialog_text": "The youth member should demonstrate an understanding in their plan that they are able to select appropriate walking routes to the caving location and select caving locations where they are able to undertake the activity with minimal damage to the environment. The youth member should know to be particularly careful in live caves."
+            },
+            {
+              "id": "hazards_associated_caving_minimise_risks_794aa5",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated with caving activities and procedures to minimise risks and I know how to take actions to minimise these risks.",
+              "dialog_text": "The youth member should identify the difference between a hazard and a risk. They should provide a hazard assessment and will need to account for: \n * Human hazards \n * Environmental hazards \n * Equipment hazards \n \nThe youth member should include in their plan what steps they will take to minimise these hazards during an activity. They should then consider the risks that may come from these hazards and how they will mitigate these on an activity. This step could be done as a Patrol or individual before a caving trip."
+            },
+            {
+              "id": "information_caving_equipment_selection_3115f2",
+              "type": "verifiable_checkbox",
+              "label": "I know where to get information about caving equipment selection.",
+              "dialog_text": "The youth member should research and provide sources of information about selecting appropriate caving equipment."
+            },
+            {
+              "id": "dangers_foul_air_3115f2",
+              "type": "verifiable_checkbox",
+              "label": "I know the dangers associated with foul air in caves (carbon dioxide & methane).",
+              "dialog_text": "The youth member should demonstrate an understanding of the dangers associated with foul air and how to plan for it and avoid areas of foul air."
+            },
+            {
+              "id": "six_places_sources_information_cave_c2591c",
+              "type": "verifiable_checkbox",
+              "label": "I can list six places to find information to assist with planning a caving activity and what sort of information to look for.",
+              "dialog_text": "The youth member will need to research and list 6 sources of information and the information required for planning their caving activity."
+            },
+            {
+              "id": "assist_knotting_skills_learnt_two_cave_3115f2",
+              "type": "verifiable_checkbox",
+              "label": "I can assist a Stage 3 or below Scout with their knotting skills and have learned two additional knots since Stage 4 that will assist me in caving activities",
+              "dialog_text": "The youth member should assist a Scout working on Stage 3 or below with knots suitable for caving. The youth member should already know how to tie an Alpine Butterfly, Figure of 8 re-threaded, Double Fisherman’s, Tape and a Prusik knot. They can choose an additional two knots to learn at this Stage. Options could be: \n * Munter hitch \n * French Prusik \n * Klemheist\n * Any other knot"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "complete_Provide_First_Aid_60bd37",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "precautions_wet_respond_flood_353e4c",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the precautions to take in a wet cave and how to respond to flooding.",
+              "dialog_text": "The youth member should explain prior to the activity the precautions and demonstrate safely navigating wet caves and what to do in case of flooding as well as how to reduce the risk of flooding."
+            },
+            {
+              "id": "identify_foul_air_53e4c",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify foul air in a cave.",
+              "dialog_text": "The youth member should demonstrate their knowledge on how to identify foul air. If the cave system they are navigating does not have foul air they should still demonstrate how to identify it."
+            },
+            {
+              "id": "demonstrate_communication_caving_353e4c",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the standard communication conventions used in caving.",
+              "dialog_text": "The youth member should demonstrate suitable caving communication in the cave system they are navigating."
+            },
+            {
+              "id": "5_activity_days_cave_cbfff9",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 5 days of caving by the end of Stage 5.",
+              "dialog_text": "The youth member needs to do five (5) or more caving activity days and log them in their logbook. They should include where they did the activities, who they did them with, how high the routes were and if they were graded how difficult they were."
+            },
+            {
+              "id": "demonstrate_chimneying_73f406",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate basic chimneying.",
+              "dialog_text": "The youth member should be able to demonstrate chimneying as it is an important climbing technique to help them navigate up confined spaces which makes it very useful for caving. If the technique is not perfect in this Stage that's ok it is about giving it a go."
+            },
+            {
+              "id": "adjust_fit_equipment_comfort_cave_a24730",
+              "type": "verifiable_checkbox",
+              "label": "I can adjust and fit equipment to ensure personal comfort and safety.",
+              "dialog_text": "The youth member should demonstrate competency in fitting and adjusting their own caving equipment."
+            },
+            {
+              "id": "techniques_minimise_damage_cave_environment_fceb94",
+              "type": "verifiable_checkbox",
+              "label": "I always demonstrate appropriate techniques to minimise damage to the environment while caving.",
+              "dialog_text": "The youth member should demonstrate minimising damage to the caving system while caving. This includes walking to and access to the caves."
+            },
+            {
+              "id": "abseil_low_light_cave_fceb94",
+              "type": "verifiable_checkbox",
+              "label": "I have abseiled in a low light environment in a cave.",
+              "dialog_text": "The youth member should include this in the activity notes in their logbook entry for this activity."
+            },
+            {
+              "id": "pack_cave_rope_correctly_73f406",
+              "type": "verifiable_checkbox",
+              "label": "I know how to pack up a rope correctly.",
+              "dialog_text": "The youth member should demonstrate coiling a caving rope in a cave, ensuring that it is clean and dry before packing away."
+            },
+            {
+              "id": "climb_cave_ladder_fceb94",
+              "type": "verifiable_checkbox",
+              "label": "I can climb a caving ladder.",
+              "dialog_text": "The youth member should demonstrate safety climbing a caving ladder using the appropriate ascending safety lines. It doesn't need to be a long distance and could be in a mock situation at this Stage (ideally still in a cave)."
+            },
+            {
+              "id": "confined_space_cave_73f406",
+              "type": "verifiable_checkbox",
+              "label": "I have been through a confined space in a cave.",
+              "dialog_text": "The youth member should include this in the activity notes in their logbook entry for this activity."
+            },
+            {
+              "id": "plan_navigate_3_cave_routes_73f406",
+              "type": "verifiable_checkbox",
+              "label": "I have planned and navigated 3 routes in caves by the end of Stage 5.",
+              "dialog_text": "This should be completed with the support of a skilled person. The youth member's planning should include considering groups ability, route options, risk mitigation and equipment needs."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "presentation_caving_expedition_896ae2",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation on a caving expedition I have completed, to my Unit",
+              "dialog_text": "The presentation should be around five minutes long and may be in person or as a pre-recorded video followed by questions. \n \nThe content of the reflection is at the youth member's discretion but should generally cover topics such as: \n * What would they do again? \n * What did not work, and would they not do again? \n * What skills have they learnt? \n * What food or equipment worked well, or performed poorly? \n \nPhotographs are a great addition to a presentation."
+            },
+            {
+              "id": "evaluation_relevant_aspects_caving_896ae2",
+              "type": "verifiable_checkbox",
+              "label": "I have conducted an evaluation of relevant aspects of the caving activity.",
+              "dialog_text": "The youth member should conduct an evaluation on aspects they felt could have been improved on their caving activity."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

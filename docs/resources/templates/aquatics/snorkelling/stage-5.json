@@ -1,0 +1,142 @@
+{
+  "template": "oas/aquatics/snorkelling/5",
+  "meta": {
+    "stage": 5,
+    "stream": "snorkelling"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 5 - Snorkelling",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "identify_food_water_snorkelling_day_trips_25d8e5",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify food and water requirements for day trips.",
+              "dialog_text": "The youth member should consider how you might identify the needs of particular trips given people, location, weather and season. They should be able to: \n * Specify how much water to carry \n * Specify how many of each meal you will need (breakfast, lunch, dinner, snacks) and for how many people (this will be dependent on how long your day activity goes for) \n * Identify suitable foods for snorkelling with regard to energy content, durability, perishability, and deliciousness. Is warm food required depending on the people and temperature of the water? \n * Estimate overall energy requirements: How strenuous is the day?  Will it make you eat more?"
+            },
+            {
+              "id": "system_buddy_8a364b",
+              "type": "verifiable_checkbox",
+              "label": "I can select snorkelling routes that minimise damage to the environment.",
+              "dialog_text": "The youth member should demonstrate understanding in their plan that they are able to select appropriate snorkelling entry and exit points. \n \nThey should take into consideration their route, tide times and depth of the reefs to ensure there is enough water not to touch the reef or bottom to ensure minimal impact to the environment."
+            },
+            {
+              "id": "activities_lost_stop_92487c",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated with snorkelling and procedures to minimise risks.",
+              "dialog_text": "The youth member should identify the difference between a hazard and a risk. They should provide a hazard assessment and will need to account for: \n * Human hazards \n * Environmental hazards \n * Equipment hazards \n \nThey should include in their plan what steps they will take to minimise these hazards during an activity. They should then consider the risks that may come from these hazards and how they will mitigate these on an activity. This step could be done as a Patrol or individual before a snorkelling trip."
+            },
+            {
+              "id": "address_location_emergency_b7359f",
+              "type": "verifiable_checkbox",
+              "label": "I know where sources of information about snorkelling equipment selection can be gained.",
+              "dialog_text": "The youth member should research and provide sources of information about selecting appropriate snorkelling equipment for their planned activity, in order to demonstrate their ability to source this information."
+            },
+            {
+              "id": "outdoors_sleeping_shelter_reasons_752b83",
+              "type": "verifiable_checkbox",
+              "label": "I can help choose a suitable snorkelling destination.",
+              "dialog_text": "The youth member should help research and decide on a suitable location for snorkelling, taking into consideration tide times, swell, visibility, points of interest and their Patrol. \n \nTheir snorkelling activity needs to be a fun and engaging experience, and if the visibility isn't great and there isn't much to see then it won't meet the requirements. \n \nThey also need to consider entry and exit points: \n * Do they have to swim back to the entry point or are they going to exit at a different location? \n \nTheir decision should also take into consideration their Patrol and their fitness and experience levels. They may also take into consideration travel times."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "complete_Provide_First_Aid_60bd37",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed* a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "active_team_member_1822a5",
+              "type": "verifiable_checkbox",
+              "label": "I can be an active member of my team while snorkelling.",
+              "dialog_text": "The youth member should demonstrate being an active member by communicating with their Patrol, staying with the group and within the predefined boundaries of the activity. They should be assisting less experienced participants, actively seeing to explore the site and highlighting interesting discoveries. They should log this activity in their logbook, with details of the snorkelling activity, who was in their patrol and what they did."
+            },
+            {
+              "id": "swim_200_meters_snorkelling_equipment_5d45e9",
+              "type": "verifiable_checkbox",
+              "label": "I can swim 200 meters on the surface wearing snorkelling equipment.",
+              "dialog_text": "The youth member should demonstrate swimming whilst correctly wearing snorkelling gear and log this activity in their logbook. This does not need to be completed in one straight line and can be judged by the individual on completion on a snorkelling activity if they have completed this statement."
+            },
+            {
+              "id": "snorkel_safely_group_gear_4303ec",
+              "type": "verifiable_checkbox",
+              "label": "I can snorkel safely within a group using appropriate gear as required.",
+              "dialog_text": "The youth member should demonstrate safe snorkelling practices, communicating with their Patrol, using snorkelling gear correctly and being aware of the safety management plan."
+            },
+            {
+              "id": "inform_appropriate_authorities_e430fa",
+              "type": "verifiable_checkbox",
+              "label": "I can inform appropriate authorities before the snorkelling trip.",
+              "dialog_text": "The youth member should have provided their emergency plan and activity plan to a responsible person (adult) prior to the snorkelling activity, and advised them when they start their activity. This could be (as examples) their Scout Leader, Group Leader or nominated home base person."
+            },
+            {
+              "id": "duck_dive_snorkel_555e89",
+              "type": "verifiable_checkbox",
+              "label": "I can duck dive with snorkel and mask to 1.5 metres and fetch an item from the bottom.",
+              "dialog_text": "The youth member should be able to demonstrate diving down and fetching an item from the bottom of the body of water they are demonstrating this skill in. It could be a pool or the ocean. If in a natural environment, make sure they are not disturbing marine life when collecting things from the bottom."
+            },
+            {
+              "id": "completed_seven_activities_d6dcf2",
+              "type": "verifiable_checkbox",
+              "label": "I have completed 7 Snorkelling activities by the completion of Stage 5, spending at least 7 hours in the water across these activities.",
+              "dialog_text": "The youth member needs to participate in at least seven (7) snorkelling activities. These can be Unit or Patrol activities, or even private activities (as long as the overall requirements are met) and log them in their logbook. \n \nTheir snorkelling activities should include the preparation, briefing and clean up with a minimum of 1 hour in the water per activity. If they spend less time in the water (i.e. 30 minutes), it is classed towards half of an activity. \n \nTheir logbook should include where they did the activities, who they did it with, what the weather was like and any other interesting information about their activity."
+            },
+            {
+              "id": "snorkel_clear_duck_dive_e430fa",
+              "type": "verifiable_checkbox",
+              "label": "Upon surfacing from a duck dive, I can clear my snorkel without lifting my head out of the water.",
+              "dialog_text": "The youth member should demonstrate the blast method to clear the water from their snorkel without lifting their head. This involves forcibly blowing into the mouthpiece to force the trapped water out of the top of their snorkel."
+            },
+            {
+              "id": "photos_marine_life_555e89",
+              "type": "verifiable_checkbox",
+              "label": "I have taken photos of some marine life that I have seen while snorkelling.",
+              "dialog_text": "The youth member should plan ahead and bring an underwater camera and take photos of marine life whilst snorkelling. Their photos would be an excellent addition to their review of the activity."
+            },
+            {
+              "id": "trip_completion_d6dcf2",
+              "type": "verifiable_checkbox",
+              "label": "I have notified the relevant authorities of trip completion.",
+              "dialog_text": "The youth member should have provided their emergency plan and activity plan to a responsible person prior to the snorkelling activity. This could be their Scout Leader, Group Leader or nominated responsible adult. Once they have finished their activity, they should notify the responsible person, as per the agreed plan, to ensure that they are aware they are safe."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "review_own_snorkelling_ability_improvements_1bfc5f",
+              "type": "verifiable_checkbox",
+              "label": "I can review my own snorkelling ability and identify potential improvements.",
+              "dialog_text": "The youth member should think about their activities and what they are able to achieve so that they can work out what they could improve upon for future snorkelling activities."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

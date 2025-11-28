@@ -1,0 +1,177 @@
+{
+  "template": "oas/bushwalking/7",
+  "meta": {
+    "stage": 7,
+    "stream": "bushwalking"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 7 - Bushwalking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "nights_show_pack_of_scout_more_bushwalking_stage_5901f6",
+              "type": "verifiable_checkbox",
+              "label": "I can show how to pack a bushwalking pack for a bushwalking expedition of more than two nights to a Stage 5 Scout or below.",
+              "dialog_text": "The youth member should be able to bring a fully-packed backpack to demonstrate with, and explain why each item has been packed and where. \n \nThe youth member should talk about weight of equipment as well as placement in pack of gear."
+            },
+            {
+              "id": "nights_4_plan_been_before_more_bushwalking_location_47daf7",
+              "type": "verifiable_checkbox",
+              "label": "I can plan a bushwalking expedition for four nights or more in a location that I have not been before.",
+              "dialog_text": "The walk planned must consist of four nights out, ie: any night spent camped at the start of the track is not counted. It should be more challenging than the bushwalk planned in Stage 6. \n \nThe youth member should ensure that all of the following considerations are met: \n * Collection of information about the planned location, for example:\n Track conditions\n Local seasonal weather\n  Access issues\n Local knowledge \n * Selection of the party \n * Transport and logistics \n * Organisational policy, for example: \n Party size \n Leadership qualifications and requirements \n Your Branch’s activity approval process,  \n * Risk management (see other risk statements in Stage 5 and Stage 6) \n * Safety and emergency planning, \n * Route planning and navigation,  \n * Environmental and minimal impact,  \n * Equipment selection and acquisition,  \n * food and water (see also Stage 5 Plan statements), and  \n * That the proposed walk is within the capability of the proposed party."
+            },
+            {
+              "id": "aware_of_assess_risk_safety_group_7f2b98",
+              "type": "verifiable_checkbox",
+              "label": "I can assess risk and be aware of group safety.",
+              "dialog_text": "Youth member must use the current ISO process or Australian Standard for risk management (currently AS/NZS ISO 31000: 2009). The youth member must discuss and identify risks with the party as a collective effort led by the youth member. It is not acceptable for the youth member to simply use a template to generate the plan."
+            },
+            {
+              "id": "ensuring_environment_plan_party_safely_comply_legislation_protecting_65739b",
+              "type": "verifiable_checkbox",
+              "label": "I can safely plan a river crossing for my party, ensuring I can comply with relevant legislation and policies, as well as protecting the environment.",
+              "dialog_text": "The youth member needs to be able to explain how to do this and demonstrate four different techniques. In drier areas such as South Australia it is permissible to demonstrate these in a simulated environment."
+            },
+            {
+              "id": "lightweight_equipment_bushwalking_choose_appropriate_6429c4",
+              "type": "verifiable_checkbox",
+              "label": "I can choose appropriate lightweight bushwalking equipment.",
+              "dialog_text": "The youth member should be able to consider the benefits and/or functional trade-offs of lighter or heavier gear and take part in a discussion. The youth member should recognise that equipment can be any two of strong, light, and cheap, but never all three. This may take the form of a debate between two sides. The youth member should be aware that not all types of weight are equal: \n * Purchasing a lighter pack and other essential items such as sleeping bag is a permanent decrease (which may have other trade-offs such as durability), additionally new items could be considered for safety and versatility such as hiking poles  \n * The youth member decide whether or not to take particular discretionary items on each walk, and  \n * Items such as food can be dehydrated, water could be reduced, or packaged consumables repacked into smaller portions."
+            },
+            {
+              "id": "dynamics_of_different_understand_group_tuckmans_development_looked_9ba278",
+              "type": "verifiable_checkbox",
+              "label": "I understand Tuckman’s stages of group development and have looked into different group dynamics.",
+              "dialog_text": "The youth member should understand Tuckman's stages of group development, and consider when they have had similar situations occur through Scouting trips or activities, and how this knowledge can help support positive group development in the future. \n \nAlso, the youth member should have investigated different types of group development theories/models and have knowledge of what these are and how they compare and contrast with Tuckman's."
+            },
+            {
+              "id": "members_people_appropriately_our_journey_of_party_bushwalking_5c2f47",
+              "type": "verifiable_checkbox",
+              "label": "I have appropriately briefed all members of a bushwalking party and support people about our journey.",
+              "dialog_text": "The youth member should present their activity plan (refer to statements above) at a briefing. The activity plan should be distributed several weeks prior to the meeting so participants have an opportunity to read and understand it. The briefing should ideally be a face-to-face meeting, but it could also be a conference call, videoconference, or online meeting. The meeting should include any support party members."
+            },
+            {
+              "id": "core_oas_stage_3_5_completed_73f357",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 in the three Core Outdoor Adventure Skills.",
+              "dialog_text": "This includes completion of Stages 4 and 5 of Survival Skills in the Bushcraft stream."
+            },
+            {
+              "id": "taken_specific_measures_of_local_general_upcoming_impact_f34f12",
+              "type": "verifiable_checkbox",
+              "label": "I have taken measures to understand the specific local impact of general weather forecast on an upcoming activity.",
+              "dialog_text": "The youth member should consider location of activity, activities to be done, group size and risks that could be associated with the weather forecast of the activity area."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "nights_inspect_of_equipment_more_bushwalking_emergency_group_9ea4eb",
+              "type": "verifiable_checkbox",
+              "label": "I can inspect group emergency equipment for a bushwalking expedition of more than two nights.",
+              "dialog_text": "The youth member should ensure that: \n * GPS has spare batteries,  \n * First aid kit is stocked and contents are in date,  \n * PLB is in-date,  \n * PLB contact details and route plan are updated with the Australian Maritime Safety Authority."
+            },
+            {
+              "id": "nights_show_bring_4_explain_item_needed_equipment_944942",
+              "type": "verifiable_checkbox",
+              "label": "I can show what group equipment to bring on a bushwalking expedition for four nights and explain why each item is needed.",
+              "dialog_text": "The youth member should be able to specify what group equipment the party requires for an extended walk. This will usually include things like: \n * repair kit including items such as duct tape, cable ties etc, in case of gear failure \n * A group first aid kit containing more specific equipment than is usually found in personal kits \n * A trowel \n * Walk-specific items such as rope, if required \n * Relevant safety equipment such as a throw-line \n \nThe youth member should be able to guide group decisions about party organisation (sleeping and cooking groups) where that drives equipment requirements (tents and stoves)."
+            },
+            {
+              "id": "night_navigate_d7cbee",
+              "type": "verifiable_checkbox",
+              "label": "I can navigate at night.",
+              "dialog_text": "The youth member must take part in a night navigation exercise or activity for at least two hours after civil twilight. They do not need to be the sole navigator but they must contribute substantially. This may take place on: \n * a fixed bush orienteering course, verified by collecting checkpoints, \n * a temporary rogain course; it is acceptable for the youth member to take part in an organised rogain run by a recognised rogaining or orienteering club or State/Territory or national organisation, or \n * a set of landmarks or arbitrary points in the bush which are verified by GPS. \n \nThe youth member should demonstrate they can take and follow a bearing at night and be successful in travelling between two designated points  \n \n For the purposes of this statement, thick vegetation does not contribute to poor visibility. Urban orienteering courses within the bounds of a city or town are not acceptable."
+            },
+            {
+              "id": "expeditions_explain_needed_of_lengths_bushwalking_various_much_09ecf4",
+              "type": "verifiable_checkbox",
+              "label": "I can explain how much food is needed on bushwalking expeditions of various lengths.",
+              "dialog_text": "The youth member needs to consider: \n * what they have used on previous walks, \n * whether there is a difference in needs for cold and hot climates, \n * what the individuals energy requirements are, and \n * how to have a balanced diet on long bushwalks. \n \nThey can then write down recommendations and help Stage 5 and below Scouts understand food requirements for multi day walks."
+            },
+            {
+              "id": "manual_using_techniques_obstacle_bearing_maintain_around_significant_0afa53",
+              "type": "verifiable_checkbox",
+              "label": "I can maintain a bearing around a significant obstacle using manual techniques.",
+              "dialog_text": "The youth member should be able to maintain a bearing around an obstacle at least 100 metres wide: Youth members should consider how attack points and catching features can help them in this process and should demonstrate maintaining a bearing with the use of natural aids supported by a compass \n * aiming off to the right (or left) by 90° \n * pacing on the new bearing for at least 100m, or sufficient distance to get around the obstacle \n * continuing on their original bearing for sufficient distance to bypass the obstacle. At this point the youth member should be on their original bearing but offset from the original course by whatever distance they paced in the previous step of the exercise \n * aiming off to the left (or right) by 90° \n * pacing on the new bearing for a distance equal to the offset. This should intercept their original course on the far side of the obstacle at the point they would have been if the obstacle didn’t exist, and \n * aiming off to the right (or left) to resume the original heading and proceed. \n \nIt is preferable if a real obstacle such as a knoll, gully or rocky outcrop is used, but in the absence of a suitable feature the support person may specify a hypothetical obstacle in any location they see fit."
+            },
+            {
+              "id": "determine_taking_compass_map_3_landmarks_location_used_c0551f",
+              "type": "verifiable_checkbox",
+              "label": "I have used a map and compass to determine my location by taking bearings off 3 visible landmarks.",
+              "dialog_text": "A fix relies on taking a back bearing to 3 different visible points to work out your exact location on a topographic map. This should be practised on more then one trip, in more then one location."
+            },
+            {
+              "id": "obstacle_bearing_maintained_using_around_gps_significant_d5cccb",
+              "type": "verifiable_checkbox",
+              "label": "I have maintained a bearing around a significant obstacle using a GPS.",
+              "dialog_text": "The youth member should be able to demonstrate their use of a GPS to maintain a bearing around a significant obstacle."
+            },
+            {
+              "id": "fournight_taken_unaccompanied_bushwalk_part_stage_leaders_adult_770c47",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in a four-night five-day bushwalk that is indirectly supervised by adults, subject to event-specific risk analysis, at this stage."
+            },
+            {
+              "id": "scouts_teach_bushwalking_etiquette_appropriate_f04cce",
+              "type": "verifiable_checkbox",
+              "label": "I can teach appropriate bushwalking etiquette to other Scouts.",
+              "dialog_text": "The youth member should be able to demonstrate positive behaviours in the field such as: \n * Noise levels and music \n * Maintaining a tidy and hygienic campsite \n * Leaving space for other campers  \n * Walking in single file, allowing others room to overtake \n * Giving way to people travelling uphill when travelling downhill \n * Correct disposal of human waste \n * Treating people with respect and care over the duration of a hike."
+            },
+            {
+              "id": "without_bushwalks_since_4_leader_of_lengths_environments_669987",
+              "type": "verifiable_checkbox",
+              "label": "I have planned and led 5 bushwalks of various lengths and in various environments without direct supervision by adult Leaders since Stage 4.",
+              "dialog_text": "This will be recorded in the log book and through planning documentation. Various lengths can include: \n * Skills-development activities while bushwalking \n * Kilometres walked \n * Days walked \n * Overnight walks (one or two nights out), or  \n * Extended walks (three or more nights out). \n \nDifferent environments can include: \n * desert \n * scrub or coastal heath \n * woodland or forest \n * rainforest  \n * ridgelines \n * mountain or alpine, or \n * snow \n \nIt is not necessary to have walked in every environment, but the youth member must show experience in more than one environment."
+            },
+            {
+              "id": "groups_changes_reasons_outing_safety_make_6a1f0a",
+              "type": "verifiable_checkbox",
+              "label": "I can make changes to my group’s outing for safety reasons.",
+              "dialog_text": "The youth member should show evidence of at least one bushwalk where:  \n * the youth member was the party leader, and  \n * The planned activity was altered for specific safety reasons. \n \n Assessing this statement may be difficult and the support people will need to make a subjective judgement on whether the statement is satisfactorily met. This will depend on a variety of factors, including: \n * the difficulty of the planned walk \n * the season and specific weather \n * the terrain and environment \n * the ability of the youth member to provide documentation of an actual planned walk that would otherwise have taken place. \n \nIt is acceptable for the youth member to cancel a walk prior to departure, provided that there was a genuinely planned walk and that there are legitimate safety concerns. An example of a legitimate safety concern would be a severe weather warning, or a warning from a peak bushwalking body about water availability at a particular location. More weight should be given to cancelling an overnight walk due to the greater preparation and investment required, and because a day walk in unpleasant weather is more ‘survivable’ than an overnight walk. \n \nWalks outside Scouting (for example, with family and friends) may be included provided that it is clear that the youth member was the party leader and made the call to alter the plan. \n \nIt should be remembered that a youth member who does not cancel or amend an activity from time to time is not exercising sufficient judgement in knowing when to amend or cancel a walk."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "this_areas_affirmations_offering_feedback_contributions_debrief_member_a08dd1",
+              "type": "verifiable_checkbox",
+              "label": "I have facilitated a debrief session for a bushwalk I have led at this stage, including positive affirmations of member contributions, and offering feedback on areas for improvement.",
+              "dialog_text": "The debrief/review should include all members of the walking party. It should take place in a timely fashion after the end of the walk. It could occur while still on the walk and doesn’t need to be super formal as long as it meets the needs of the party and shows learning and growth. It is up to the Party Leader to then document the debrief/end of trip report which can be in a written or using other mediums. \n \nThe youth member should be able to specify improvements and communicate these to the other party members. This may be face-to-face or via email. Improvements should be considered for person, equipment and location. The Youth member should also be able to reflect on their own learning and identify self-improvements."
+            },
+            {
+              "id": "still_item_of_equipment_assess_reviewed_whether_bushwalking_111a8f",
+              "type": "verifiable_checkbox",
+              "label": "I have reviewed my bushwalking equipment for its weight, need of item, and durability; and can assess whether it is still fit for purpose.",
+              "dialog_text": "The youth member should be able to demonstrate that they have reviewed their equipment, and determined which items are or are not fit for purpose. \n \nThe Youth member by this stage should be able to recognise different quality in gear, fabrics, weight and have a list of gear that they would like to replace current gear with."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

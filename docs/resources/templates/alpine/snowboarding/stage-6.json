@@ -1,0 +1,136 @@
+{
+  "template": "oas/alpine/snowboarding/6",
+  "meta": {
+    "stage": 6,
+    "stream": "snowboarding"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 6 - Snowboarding",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "navigation_transportation_food_want_cover_we_equipment_plan_a86e06",
+              "type": "verifiable_checkbox",
+              "label": "I can plan a snowboarding trip, including equipment, food, transportation, emergency risk matrix and action plan, slopes we want to cover and navigation.",
+              "dialog_text": "The youth member should plan a snowboarding trip, including routes, transport and risk management for the trip. Their trip should be at least two days and one night, taking into consideration their Patrols experience and skill levels. \n \nRemember that one element of the Scout Method is Patrol system, so they don't need to do everything themself. Working in a small team will help them enjoy their planning and with the Patrol's input into the plan, it will be a fantastic trip. \n \nThe youth member will need to have their plan reviewed and approved by a skilled snowboarder. This may be a youth member who has completed Stage 8 or an adult with suitable skills. Their snowboard trip may include overnight camping, or may be 'resort-based' and equate to a weekend away at the snow in 'chalet' accommodation, snowboarding each day."
+            },
+            {
+              "id": "plan_am_detailed_planning_trip_risk_management_developed_d9d173",
+              "type": "verifiable_checkbox",
+              "label": "I have developed a detailed risk management plan for a trip that I am planning.",
+              "dialog_text": "The youth member should include a detailed risk management plan for the trip they are planning. They are already able to identify possible hazards and how to minimise these risks based on their skills in Stage 5. \n \nBased on their further experience and knowledge in snowboarding, they should enhance their risk management plan. The youth member should also ensure that emergency evacuation routes are present in their plan."
+            },
+            {
+              "id": "scout_care_maintain_teach_below_4_stage_store_94e9d9",
+              "type": "verifiable_checkbox",
+              "label": "I can teach a Stage 4 or below Scout how to care for, store and maintain snowboarding equipment.",
+              "dialog_text": "At this stage the youth member should know how to care for, store and maintain their snowboarding group equipment and they should be able to pass that knowledge on to others. They should know they are successful in their teaching when the Stage 4 Scout is able to demonstrate this knowledge."
+            },
+            {
+              "id": "weekend_tour_downhill_etc_legislation_conduct_standards_safe_0140ee",
+              "type": "verifiable_checkbox",
+              "label": "I know the legislation and policies for safe conduct of a weekend downhill ski tour (e.g. AA standards, legal requirements, etc.).",
+              "dialog_text": "The youth member should review and be able to discuss legislation and policies around safe conduct of an all-day snowboard tour, including the Alpine Code, and environmental considerations. They will need to consider their location and local policies and procedures, as well as the Australian Adventurous Activities Standards."
+            },
+            {
+              "id": "ice_understand_dangers_associated_snowboarding_during_39ab78",
+              "type": "verifiable_checkbox",
+              "label": "I understand the dangers associated with ice during snowboarding.",
+              "dialog_text": "The youth member should demonstrate their knowledge by discussing the dangers around ice during snowboarding to their two-up peer, or to the activity leader if there is no Stage 8 or higher peer."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "alpine_casuality_response_emergency_participated_simulated_916448",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in an alpine emergency response for a simulated casualty.",
+              "dialog_text": "The youth member should participate in a mock emergency, relating to snowboarding, in alpine conditions. This mock emergency should be run and managed by a Stage 8 peer, another suitably skilled snowboarder or alpine emergency expert."
+            },
+            {
+              "id": "riding_intermediate_types_efficient_demonstrate_maintaining_different_combine_7d6941",
+              "type": "verifiable_checkbox",
+              "label": "I can combine snowboarding movements on intermediate terrain (blue runs) to demonstrate efficient riding and different turn types, while maintaining a relaxed, upright stance.",
+              "dialog_text": "The youth member should demonstrate their improved skills to their two-up peer or other skilled snowboarder. This could be done in person or a video could be captured to review their snowboarding later. \n \nThey should log their activities and the runs they navigated as well as noting the skills they are practicing and techniques they are able to consistently execute."
+            },
+            {
+              "id": "movement_efficient_demonstrate_whilst_bumps_coordinated_speed_maintaining_7df6dc",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate efficient and coordinated movement on small bumps whilst maintaining speed.",
+              "dialog_text": "The youth member should demonstrate their improved skills to their two-up peer or other skilled snowboarder. \n \nThey should log their activities, noting the skills they are practicing and techniques they are able to consistently execute."
+            },
+            {
+              "id": "park_trick_jump_this_stage_terrain_attempted_84badb",
+              "type": "verifiable_checkbox",
+              "label": "I have attempted a trick or jump in the terrain park at this stage.",
+              "dialog_text": "The youth member should demonstrate their improved skills to their two-up peer or other skilled snowboarder. \n \nThey should log their activities, noting the skills they are practicing and the location of the terrain park. They should also make a note of other interesting details about their tricks. \n \nThe youth member may also choose to work with a Patrol of friends to build a small jump or trick and then practice their jump or tick to support achievement of this statement."
+            },
+            {
+              "id": "air_throughout_takeoff_extension_stability_flexion_airs_show_9c600d",
+              "type": "verifiable_checkbox",
+              "label": "I can perform airs to show extension on take-off, stability in air and flexion on landing, with balance throughout.",
+              "dialog_text": "The youth member should demonstrate their improved skills to their two-up peer or other skilled snowboarder. \n \nThey should log their activities, noting the skills they are practicing and techniques they are able to consistently execute."
+            },
+            {
+              "id": "groomed_intermediate_demonstrate_fakie_runs_turns_75cebe",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate fakie turns on intermediate groomed runs.",
+              "dialog_text": "The youth member should demonstrate their improved skills to their two-up peer or other skilled snowboarder. \n \nThey should log their activities, noting the skills they are practicing and the location and grades of the runs, as well as any other interesting details."
+            },
+            {
+              "id": "further_end_10_skills_days_continued_develop_this_f6fa11",
+              "type": "verifiable_checkbox",
+              "label": "I have continued to further develop my snowboarding skills through a minimum of 10 days snowboarding by the end of this stage.",
+              "dialog_text": "The youth member should take part in at least ten (10) days of snowboarding by the end of this stage. \n \nThey should log their activities and include the skills demonstrated, when they did the activities, where they did their snowboarding, who they were with and what they learned during the trips. If their two-up peer mentor is not with them, they may choose to take photos and videos to support their log book entries."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "all_activities_logbook_completed_written_this_of_stage_6da2db",
+              "type": "verifiable_checkbox",
+              "label": "I have written logbook entries for all of the snowboarding activities I have completed at this stage.",
+              "dialog_text": "The youth member should log their activities and include: \n * The skills demonstrated \n * Location of the activities \n * Who they were with \n * What the weather was like and \n * Anything else that stands out for that activity. \n \nThey may also choose to include photographs in their log."
+            },
+            {
+              "id": "group_scouts_tour_snowboard_ive_completed_below_4_5ac911",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts at Stage 4 or below on a snowboard tour I've completed.",
+              "dialog_text": "The youth member's presentation should be approximately three (3) minutes long, and may be in person or as a pre-recorded video followed by questions. \n \nThe content of the reflection is at their discretion, with the purpose of the presentation being to encourage other Scouts to be excited by, or try, snowboarding."
+            },
+            {
+              "id": "them_identified_will_do_areas_skills_planned_improve_74699d",
+              "type": "verifiable_checkbox",
+              "label": "I have identified areas for improvement in my snowboarding skills and planned what I will do to improve them.",
+              "dialog_text": "The youth member should reflect on their experiences and skills gained working through Stage 6, trying to identify where they feel they have improved their snowboarding skills and what skills they need to keep working on. They should determine what their next steps are and set some goals to improve in areas they feel they need to improve."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

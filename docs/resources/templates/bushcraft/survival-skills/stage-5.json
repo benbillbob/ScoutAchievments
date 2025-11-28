@@ -1,0 +1,166 @@
+{
+  "template": "oas/bushcraft/survival-skills/5",
+  "meta": {
+    "stage": 5,
+    "stream": "survival-skills"
+  },
+  "version": 4,
+  "document": [
+    {
+      "title": "Stage 5 - Survival skills",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "into_survival_limited_resources_camp_cooking_meal_consideration_bce12f",
+              "type": "verifiable_checkbox",
+              "label": "I have planned a meal for a survival camp taking into consideration limited access to cooking resources.",
+              "dialog_text": "The menu should only include very basic ingredients that focus on nutritional value and will not need a lot of preparation or cooking."
+            },
+            {
+              "id": "identify_of_types_those_patterns_mean_weather_cloud_d7ca4e",
+              "type": "verifiable_checkbox",
+              "label": "I can identify five types of cloud, what those cloud types mean and weather patterns.",
+              "dialog_text": "The youth member should be able to identify five different types of clouds ideally from a chart and point them out in the sky. They should speak about the likely weather conditions following the clouds observed, and in what timeframe these weather conditions will occur."
+            },
+            {
+              "id": "fauna_identify_smelt_being_seen_from_myself_heard_a7121f",
+              "type": "verifiable_checkbox",
+              "label": "I can identify ways to prevent myself from being seen, heard, or smelt by fauna.",
+              "dialog_text": "The youth member should research how to prevent themselves from being seen, heard or smelt when tracking or hiding from animals. It is essential to ensure while planning that they have considered the safety risks and environmental impact from any kind of animal tracking or trapping. The youth member's plan should include what to do if they get lost considering the fact they might be camouflaged and how can they make themselves visible to a search party if necessary."
+            },
+            {
+              "id": "survival_kit_them_use_of_each_lower_helped_d77c54",
+              "type": "verifiable_checkbox",
+              "label": "I have helped a Scout in a lower Stage put together a survival kit and explained to them the use of each item.",
+              "dialog_text": "The youth member should ensure that the kit they are recommending is appropriate to the other Scout’s age, skills, experience, and Stage. It should contain at least five items."
+            },
+            {
+              "id": "policy_fire_ban_f50b19",
+              "type": "verifiable_checkbox",
+              "label": "I know the policies surrounding total fire bans in my local area.",
+              "dialog_text": "The youth member should be able to demonstrate how to check their local state or territory's government fire and emergency services website to view the total fire bans in their local area."
+            },
+            {
+              "id": "gain_locations_permission_permits_access_c50b19",
+              "type": "verifiable_checkbox",
+              "label": "I know how to gain permits or permission to gain access to locations when required.",
+              "dialog_text": "The youth member needs to ensure that they have permission and have purchased the necessary permits when arranging activities in the outdoors. Depending on the location, they might need to contact National Parks or Landowners."
+            },
+            {
+              "id": "bushfire_plan_p50b19",
+              "type": "verifiable_checkbox",
+              "label": "I have developed a bushfire ready plan for at home or in a camp environment.",
+              "dialog_text": "The youth member should be able to create a bushfire ready plan for use at home or in a camp environment. It should include emergency contact details and other safety information."
+            },
+            {
+              "id": "investigated_planning_historical_of_areas_activities_am_environmental_7170c1",
+              "type": "verifiable_checkbox",
+              "label": "I have investigated the cultural, environmental and historical significance of the areas in which I am planning activities.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "provide_successfully_from_course_first_completed_recognised_cpr_c43b0b",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "survival_area_learn_developed_skill_this_picked_would_4fd08a",
+              "type": "verifiable_checkbox",
+              "label": "I have picked a survival based skill that I would like to learn and have developed skills in this area.",
+              "dialog_text": "The youth member should consider something which they haven’t learnt yet, related to: \n * Fire \n * Water \n * Shelter \n * Food \n * Camouflage \n \nSkills might include (but are not limited to): \n * Lighting fires \n * Constructing better shelters \n * Finding and purifying water \n * Identifying and obtaining wild vegetables and berries \n * Catching fish \n * Constructing traps and snares, \n * Camouflaging themselves \n * Learning the bird, animal and insect signs that point towards resources"
+            },
+            {
+              "id": "limitations_method_disadvantages_different_of_used_drinking_each_86e408",
+              "type": "verifiable_checkbox",
+              "label": "I have used three different ways to purify water for drinking, and I know the limitations, advantages and disadvantages of each method.",
+              "dialog_text": "The youth member could: \n * Create a filter \n * Use a LifeStraw or similar man-made filtration system \n * Use charcoal or other chemical filtration methods \n * Use boiling water \n * Distillation of salt water \n * Collecting water using plastic sheets or plastic bags \n \nThe youth member will need to discuss the advantages and disadvantages for each of the three methods they choose."
+            },
+            {
+              "id": "local_signs_weather_prediction_through_make_natural_75f114",
+              "type": "verifiable_checkbox",
+              "label": "I can make a prediction about the local weather through natural signs.",
+              "dialog_text": "The youth member could use the following natural signs to make a predication about the weather: \n * Wind \n * The taste/smell to the air \n * Observable cloud coverage \n * Local wildlife reaction (such as Black Cockatoos flying away in flocks just before rain) \n * The behaviour of flora (such as how seaweed shrivels when it is not likely to rain)."
+            },
+            {
+              "id": "our_route_intended_map_variation_compass_using_navigate_df112e",
+              "type": "verifiable_checkbox",
+              "label": "I can navigate a variation to our intended route using a map and compass.",
+              "dialog_text": "The youth member will need to navigate a variation in their intended route by changing the bearing and aiming for a new way-point. This could be in simulation or through actual need."
+            },
+            {
+              "id": "me_plants_identify_native_either_medically_nutritionally_support_5adf43",
+              "type": "verifiable_checkbox",
+              "label": "I can identify three native plants that can support me either medically or nutritionally.",
+              "dialog_text": "The youth member should be able to ideally identify three native plants in nature. They should also be able to describe how these plants can support a human in a survival situation, this includes preparation of the plant in order to use it safely. It is essential that the youth member identifies with complete certainty any wild foods, and that the foods are completely safe to eat, before eating or applying as ointment."
+            },
+            {
+              "id": "location_determine_navigational_means_from_without_stages_skills_b26f15",
+              "type": "verifiable_checkbox",
+              "label": "I can determine my location without electronic means by refreshing my navigational skills from Stages 1-4.",
+              "dialog_text": "The youth member could use mechanical means such as a compass and local landmarks or significant outcrops/points of interest in natural features. They could also consider using a fix or cross-section using back-bearings. There are further examples and instructions listed in the previous Stages."
+            },
+            {
+              "id": "survival_planning_basic_focusing_of_minimum_camp_assisted_f95bff",
+              "type": "verifiable_checkbox",
+              "label": "I have refreshed my survival shelter skills and assisted in the planning of a survival style camp for a minimum of one night focusing on the basic survival skills.",
+              "dialog_text": "The youth member could be organising or assisting to organise and run a survival camp for Scouts who are working on Stages 1-4."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "short_survival_presentation_developed_section_participated_challenges_council_f3c00b",
+              "type": "verifiable_checkbox",
+              "label": "I have prepared a short presentation for my Unit Council on the survival challenges I have participated in, and the skills I have developed.",
+              "dialog_text": "The presentation is to encourage those that watch it to be inspired to create some unique and exciting survival camps and activities. The youth member should also point out their learnings so that those in attendance can be aware of some classic pitfalls when in survival situations."
+            },
+            {
+              "id": "survival_learn_thought_would_skills_like_e1629e",
+              "type": "verifiable_checkbox",
+              "label": "I have thought about other survival skills I would like to learn.",
+              "dialog_text": "The youth member could have a look at later Stages to get ideas on other survival skills."
+            },
+            {
+              "id": "well_survival_has_talk_done_challenges_better_future_e4860b",
+              "type": "verifiable_checkbox",
+              "label": "I can talk to others about what has gone well and what could be done better on future survival challenges.",
+              "dialog_text": "The youth member should talk with their Patrol about their experience, and try to identify where they feel they could improve for future projects. This might be communication, skills, or techniques (as examples)."
+            },
+            {
+              "id": "these_part_environmental_of_impacts_ways_lessen_been_e1a347",
+              "type": "verifiable_checkbox",
+              "label": "I have identified cultural, historical or environmental impacts in the activities I have been a part of, and have identified ways to lessen these impacts.",
+              "dialog_text": "Through the identification of impacts, youth members need to consider their impact and note and/or communicate how they will Plan> and work towards minimising these impacts through future trips."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

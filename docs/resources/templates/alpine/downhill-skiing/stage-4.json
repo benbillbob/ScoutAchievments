@@ -1,0 +1,142 @@
+{
+  "template": "oas/alpine/downhill-skiing/4",
+  "meta": {
+    "stage": 4,
+    "stream": "downhill-skiing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Downhill skiing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "more_may_conditions_hazardous_difficult_skiing_make_list_0d5ce8",
+              "type": "verifiable_checkbox",
+              "label": "I can list conditions that may make skiing more hazardous or difficult.",
+              "dialog_text": "The youth member should be considering the hazards that they could come across which might make skiing more difficult. They need to think about the environment, the equipment and the people with and around them."
+            },
+            {
+              "id": "understand_planned_am_proposed_do_skiing_trip_read_d3b210",
+              "type": "verifiable_checkbox",
+              "label": "I can read a planned group itinerary for a proposed skiing trip and understand what I am required to do.",
+              "dialog_text": "The youth member will need to demonstrate an understanding of a skiing trip from the itinerary. They will need to discuss the gear list, men and route with the trip leader and bring what is required of them to the activity."
+            },
+            {
+              "id": "their_meaning_various_alpine_signs_identify_5634de",
+              "type": "verifiable_checkbox",
+              "label": "I can identify various alpine signs and their meaning.",
+              "dialog_text": "The youth member should be able to identify and discuss the different warning and information signs in the area they will be doing their activities, and what those mean for downhill skiers. A good place to start is the resort maps and information for where they are going, and the alpine code of conduct."
+            },
+            {
+              "id": "clothing_suitable_select_check_good_equipment_order_working_00b43f",
+              "type": "verifiable_checkbox",
+              "label": "I can select suitable clothing and equipment, and check that it is in good working order.",
+              "dialog_text": "The youth member should be able to demonstrate selecting suitable clothing and equipment, and know what to look for to ensure it is in good working order."
+            },
+            {
+              "id": "nutrition_conditions_requirements_food_according_principles_activity_identify_cefbde",
+              "type": "verifiable_checkbox",
+              "label": "I can identify and plan food and water requirements according to principles of nutrition and the conditions of the activity.",
+              "dialog_text": "The youth member should be able to: \n * Specify how much water to carry, how often they will need to refill and where the refilling stations are, if there are any \n * Specify how many of each meal they will need (breakfast, lunch, dinner, snacks) and for how many people \n * Identify suitable foods for their ski activity, with regard to energy content, durability, perishability and deliciousness \n * Estimate overall energy requirements: How strenuous is the day? Will it make you eat more?"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "scout_dress_environment_2_taught_alpine_stage_below_bb4985",
+              "type": "verifiable_checkbox",
+              "label": "I have taught a Stage 2 Scout or below how to dress for the alpine environment.",
+              "dialog_text": "The youth member should be assisting a Stage 1 or 2 Scout to understand the layering principle when it comes to activities in the snow. They should assist them to understand what clothing may be appropriate for their alpine activities they are about to do."
+            },
+            {
+              "id": "manufacturers_safety_ensure_fit_according_comfort_equipment_specification_ebea2f",
+              "type": "verifiable_checkbox",
+              "label": "I can fit equipment, according to manufacturer's specification, to ensure comfort and safety.",
+              "dialog_text": "The youth member should demonstrate that they are able to adjust their skiing equipment so it is correctly fitted and comfortable. A Scout who is at Stage 6 in this area should assist them if possible, otherwise an adult/activity leader or other adult could also assist."
+            },
+            {
+              "id": "unable_stop_fall_safely_over_bba17c",
+              "type": "verifiable_checkbox",
+              "label": "I can safely fall over when unable to stop.",
+              "dialog_text": "The youth member must demonstrate being able to safely fall over so that they minimise the risk of injury to themself. This could be demonstrated through drills and mock situations if required."
+            },
+            {
+              "id": "beginner_balance_runs_confidence_degree_demonstrate_terrain_of_2ef72e",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a degree of balance, movement and confidence on beginner terrain (green runs).",
+              "dialog_text": "The youth member must demonstrate these skills on designated green runs. If the two-up peer is not with them, then they could provide video evidence to show their balance and degree of confidence on beginner terrain. This will include a basic snowplough and basic ability to turn so they can get on and off a lift."
+            },
+            {
+              "id": "using_control_snowplough_speed_c71205",
+              "type": "verifiable_checkbox",
+              "label": "I can control my speed using a snowplough.",
+              "dialog_text": "The youth member is required to demonstrate slowing down and speeding up using the snowplough technique."
+            },
+            {
+              "id": "transportation_methods_snow_ride_safely_of_chairlift_eb7d69",
+              "type": "verifiable_checkbox",
+              "label": "I can safely ride a chairlift and other methods of snow transportation.",
+              "dialog_text": "The youth member needs to be able to demonstrate safe and efficient use of the provided snow transportation to get to the top of a run. They do not have to be able to use all methods at this stage, rather they should be able to use more than a chairlift (e.g. t-bar, poma, etc.)."
+            },
+            {
+              "id": "turns_using_snowplough_link_6f6014",
+              "type": "verifiable_checkbox",
+              "label": "I can link turns using a snowplough.",
+              "dialog_text": "The youth member is required to demonstrate the linking of turns using a snowplough or wedge turn technique, keeping their posture and balance as best they can for a beginner."
+            },
+            {
+              "id": "possible_myself_approach_safe_demonstrate_minimise_risks_where_3f0a04",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a safe approach to hazards and minimise risks to myself and the group, where possible.",
+              "dialog_text": "The youth member should be able to demonstrate understanding of hazards and what to do to minimise the risk of them and how to safely approach them to avoid injury. Hazards could be other people, man made obstacles or natural features, such as snow drifts, trees, etc."
+            },
+            {
+              "id": "days_this_part_downhill_skiing_taken_least_of_dc356c",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in at least two days of downhill skiing at this Stage.",
+              "dialog_text": "The youth member should take part in two days of downhill skiing and log these in their logbook. They should include details about when they did the activity, where they did the activities, who they did them with and what they learned during the trips."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "downhill_improve_skiing_would_like_identify_where_begun_7aedc3",
+              "type": "verifiable_checkbox",
+              "label": "I can identify where I have begun to improve my downhill skiing skills, and where I would like to further improve.",
+              "dialog_text": "The youth member should reflect on their activities undertaken in this stage. They should be able to identify where they feel they have improved in their downhill skiing skills and what they still need to work on. They should be encouraged to discuss this with their Patrol or Unit who can help them with the review."
+            },
+            {
+              "id": "needs_damage_checked_repaired_discussed_replaced_equipment_if_33e8e7",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replaced.",
+              "dialog_text": "The youth member should demonstrate a gear inspection after their activity. This can be a visual inspection. The youth member should be able to identify if there are rips, holes or cracks in equipment or gear and if anything needs replacing. This should be discussed with the leader or youth member in charge of equipment."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

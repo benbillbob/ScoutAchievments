@@ -1,0 +1,172 @@
+{
+  "template": "oas/paddling/canoeing/canoeing/7",
+  "meta": {
+    "stage": 7,
+    "stream": "canoeing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 7 - Canoeing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "flatwater_packing_vs_whitewater",
+              "type": "verifiable_checkbox",
+              "label": "I have investigated the difference between packing for a flatwater journey canoe trip & a whitewater canoe trip.",
+              "dialog_text": "The youth member should research the different equipment needed for flatwater canoeing versus whitewater canoeing. They should consider how the needs for a whitewater trip differ to their current packing list for canoeing trips."
+            },
+            {
+              "id": "assess_risk_group_safety",
+              "type": "verifiable_checkbox",
+              "label": "I can assess risk and be aware of group safety.",
+              "dialog_text": "The youth member is required to include a risk assessment and management plan in the planning of their activity. They should take into consideration their own safety as well as that of their Project Patrol."
+            },
+            {
+              "id": "canoeing_hazard_assessment",
+              "type": "verifiable_checkbox",
+              "label": "I have been part of a team to develop a hazard assessment and risk control plan detailing how we will deal with injuries, illness, loss of equipment and other potential emergencies on our trip.",
+              "dialog_text": "The youth member is required to develop a hazard assessment and risk control plan based on the increased risk of whitewater canoeing. Their plan should include what they should do to mitigate the risk of the hazards and if things don't go according to plan, how they will deal with injuries, loss of equipment and any other emergencies."
+            },
+            {
+              "id": "benefits_canoeing_materials_designs",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the relative benefits of various types of canoe materials and designs.",
+              "dialog_text": "The youth member should research the benefits of different types of canoe materials and designs and then explain the relative benefits to their Unit, Patrol or a Scout doing an earlier Stage of paddling."
+            },
+            {
+              "id": "application_throw_bag_whitewater",
+              "type": "verifiable_checkbox",
+              "label": "I know the application of a throw bag in whitewater situations.",
+              "dialog_text": "The youth member should know when and how to throw as well as how to restuff a throw bag in a whitewater situation. The youth member should practice throwing the bag on land so that when they need to use it, they are confident."
+            },
+            {
+              "id": "safety_rescue_items_needed_whitewater_canoeing",
+              "type": "verifiable_checkbox",
+              "label": "I know what items of safety and rescue equipment I need for a whitewater paddling trip.",
+              "dialog_text": "The youth member should refer to the Australian Adventurous Activity standards which outline what equipment should be considered for white water sports. They should include these items in the gear list they do for their whitewater canoeing trip. They should also ensure that they know how to use the equipment they carry."
+            },
+            {
+              "id": "remote_firstaid_equipment",
+              "type": "verifiable_checkbox",
+              "label": "I know what items should be in a first aid kit for remote location while paddling.",
+              "dialog_text": "The youth member is required to discuss what items they would put into a remote first aid kit taking into consideration the level of first aid training, size of the group, age of the participants and pre-existing medical conditions and how long it could be before they can get medical help."
+            },
+            {
+              "id": "principle_whitewater_rescue",
+              "type": "verifiable_checkbox",
+              "label": "I understand the basic principles of a white water rescue (reach, throw, row, tow, go).",
+              "dialog_text": "The youth member is required to display an understanding of the priorities of rescue. They should research white water rescue techniques and watch videos to get a sense of how to use proper technique in these situations."
+            },
+            {
+              "id": "plan_lead_2_night_canoe",
+              "type": "verifiable_checkbox",
+              "label": "I can plan to Lead a Canoe journey in unfamiliar waterways of 2 nights 3 days duration.",
+              "dialog_text": "The youth member needs to plan and lead this journey with having remote supervision. All equipment, risk assessments, emergency action plans, route plan, menus etc should be planned and carried with the group during the journey."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "launch_canoe_moving_water",
+              "type": "verifiable_checkbox",
+              "label": "I can launch my canoe in a safe manner in moving water.",
+              "dialog_text": "The youth member is required to demonstrate safely launching their canoe, choosing the best location, in moving (flowing) water on a whitewater paddling day or trip."
+            },
+            {
+              "id": "prepare_canoe_safety_comfort",
+              "type": "verifiable_checkbox",
+              "label": "I know how to prepare a canoe for safety and comfort.",
+              "dialog_text": "The youth member is required to demonstrate setting up their whitewater canoeing for comfort and use before getting on the water. This could include back/seat placement, padding and equipment placement."
+            },
+            {
+              "id": "load_canoe_different_condition",
+              "type": "verifiable_checkbox",
+              "label": "I can show how and why the way I load my canoe will be different for different water conditions.",
+              "dialog_text": "The youth member is required to demonstrate and discuss how and why they load their canoe the way they do. They should take into consideration the water conditions, the manufacturers recommendation regarding weight capacity and storing of gear. They should consider if this loading will change in a whitewater canoe compared to their flatwater canoe."
+            },
+            {
+              "id": "canoe_grade_1_grade_2_rapid",
+              "type": "verifiable_checkbox",
+              "label": "I have attempted to paddle my canoe in a controlled, safe manner through a Grade 1 or 2 rapid.",
+              "dialog_text": "The youth member is required to attempt with their canoe partner to paddle through a Grade 1 or 2 rapid with spotters/support from the bank or in the water. The youth member should be wearing appropriate whitewater paddling gear (such as a helmet) and demonstrate best possible paddle strokes depending on rapid and skill level."
+            },
+            {
+              "id": "scout_rapid_safe_line",
+              "type": "verifiable_checkbox",
+              "label": "I can scout a rapid ahead and determine safe and unsafe paddle lines.",
+              "dialog_text": "The youth member is required to demonstrate the ability to read the rapids ahead, practising picking out features such as eddies, strainers, holes and tounges and assist a more experienced paddler to give guidance to a paddle craft that is about to paddle a rapid."
+            },
+            {
+              "id": "demonstrate_swimming_self-rescue_canoe",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a swimming self-rescue with my canoe to less experienced Scouts.",
+              "dialog_text": "The youth member is required to demonstrate to less experienced Scouts how to perform a self-rescue with their canoe swamped, rescuing themselves, their partner and all gear."
+            },
+            {
+              "id": "grade_2_rapid_swimming",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate rapid swimming techniques in Grade 2 water.",
+              "dialog_text": "The youth member is required to demonstrate a swimming self-rescue either defensively or offensively in their Grade 2 whitewater paddling activity. The youth member is likely to be learning this skill with peers so as long as they show their peers and discuss when the two types of self rescue swimming would be used then this statement is achieved."
+            },
+            {
+              "id": "demonstrate_throw_bag",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the use of a throw bag in flatwater & whitewater environments.",
+              "dialog_text": "The youth member is required to demonstrate the skill multiple times over both environments. The youth member should practise speed of action and accuracy of throw."
+            },
+            {
+              "id": "participate_1_day_paddle_rapid",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in one day of whitewater paddling during which at one point I have paddled down a rapid in my canoe.",
+              "dialog_text": "The youth member is required to participate in a day of whitewater paddling and skill development in their canoe. Many of the statements in this stage can be marked off through the engagement in the day of whitewater paddling if planned and delivered correctly."
+            },
+            {
+              "id": "solo_canoe_paddle",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated my ability to paddle a canoe solo (by myself) during a paddling activity - (guidance 30 minutes).",
+              "dialog_text": "The youth member is required to demonstrate sound canoeing skills by paddling their canoe by themselves, while keeping the canoe straight and traveling along with other boats by using the canoe strokes they have learnt in early Stages of Paddling."
+            },
+            {
+              "id": "lead_2_night_canoe_journey",
+              "type": "verifiable_checkbox",
+              "label": "I have led my planned 2 night 3 day canoe journey with a Patrol of Scouts.",
+              "dialog_text": "The youth member is required to lead this journey while having remote supervision. All equipment, risk assessments, emergency action plans, route plan etc should be carried with the activity Patrol during the journey."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "provide_feedback_led_canoe_trip",
+              "type": "verifiable_checkbox",
+              "label": "I can provide feedback to a Patrol of Scouts that I have led on a canoe trip, on what we can improve on for the future, considering risk management, safety, location selection, level of difficulty, equipment management, etc.",
+              "dialog_text": "The youth member should provide feedback to their Patrol on how the Patrol could improve whitewater canoeing expeditions in the future, considering risk management, safety, equipment management, location selection, level of difficulty and training."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

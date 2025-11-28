@@ -1,0 +1,130 @@
+{
+  "template": "oas/boating/windsurfing/7",
+  "meta": {
+    "stage": 7,
+    "stream": "windsurfing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 7 - Windsurfing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "developed_hazard_assessment_risk_control_skills_plan_28a477",
+              "type": "verifiable_checkbox",
+              "label": "With my team, I have developed a hazard assessment and risk control plan detailing how we will deal with injuries, illness, loss of equipment and other potential emergencies on our trip.",
+              "dialog_text": "The youth member will have done some risk minimisation for windsurfing in Stages 5 and 6. They should now develop a hazard assessment and risk control plan based on the risks they may encounter whilst windsurfing. Their plan should include what they should do to mitigate the risk of the hazards and if things don't go according to plan, how will they deal with injuries, loss of equipment and other emergencies they have thought of."
+            },
+            {
+              "id": "describe_difference_windsurfing_board_types_bfcc8e",
+              "type": "verifiable_checkbox",
+              "label": "I can describe the difference between different types of windsurfing boards, their uses and limitations.",
+              "dialog_text": "The youth member should be able to participate in a discussion on different types of boards, their limitations and uses."
+            },
+            {
+              "id": "plan_leading_windsurfing_skills_session_4fb728",
+              "type": "verifiable_checkbox",
+              "label": "I can plan for leading a Windsurfing skills session.",
+              "dialog_text": "The youth member should plan a windsurfing skills session for Scouts who are working on Stage 5 or below. As part of their planning, they should ensure that the plan will meet the requirements for the Stage 5 Scouts"
+            },
+            {
+              "id": "describe_tune_fully_battened_sail_windsurfer_cc57c0",
+              "type": "verifiable_checkbox",
+              "label": "I can describe how to tune a fully battened sail windsurfer.",
+              "dialog_text": "The youth member should be able to discuss how to tune a fully battened sail windsurfer. It is essential to have a properly tuned rig in order to control the masts behaviour over a range of conditions."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "evaluate_geographical_tidal_effects_sailing_venue_df5f54",
+              "type": "verifiable_checkbox",
+              "label": "I can evaluate geographical and tidal effects of a sailing venue.",
+              "dialog_text": "The youth member should be able to evaluate geographical and tidal effects of windsurfing locations where they are planning to windsurf. This should be evident in the execution of their float plan."
+            },
+            {
+              "id": "describe_intent_ISAF_rules_fa86d5",
+              "type": "verifiable_checkbox",
+              "label": "I know and can describe the intent of the current ISAF racing rules 1–7.",
+              "dialog_text": "The youth member should understand and describe the intent of the current International Sailing Federation racing rules. \n * Part 1: The fundamental rules \n * Part 2: When boats meet \n * Part 3: Conduct of a Race \n * Part 4: Other requirements when racing \n * Part 5: Protests, redress, hearings, misconduct and appeals \n * Part 6: Entry and Qualification \n * Part 7: Race Organisation."
+            },
+            {
+              "id": "demonstrate_understanding_windsurfer_rigging_various_sails_b867b9",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated an understanding of windsurfer rigging, including the advantages and disadvantages of the various types of sails.",
+              "dialog_text": "The youth member should be able to discuss the advantages and disadvantages of various types of windsurfer sails."
+            },
+            {
+              "id": "demonstrated_skills_balance_windsurfer_54870e",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated the skills to balance the windsurfer while underway on the water.",
+              "dialog_text": "The youth member should be able to demonstrate balancing skills whilst on their board. Balancing and stamina are two of the key elements to windsurfing."
+            },
+            {
+              "id": "successfully_manoeuvre_windsurfer_strong_winds_6fdfa6",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully shown how to manoeuvre while sailing a windsurfer in stronger winds.",
+              "dialog_text": "The youth member should demonstrate successful manoeuvring in fresh wind conditions 17 to 26 knots (Beaufort Scale)."
+            },
+            {
+              "id": "demonstrated_ability_tack_strong_winds_maintain_speed_control_ef3a0a",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated an ability to tack in stronger winds whilst maintaining speed, gybe with both the centreboard down and up and maintain a stationary position near a marker in moderate winds.",
+              "dialog_text": "The youth member should be able to demonstrate maintaining speed in fresh wind conditions (17 to 26 knots) through the use of tacking, using a gybe with both the centreboard down and up and maintain a stationary position near a marker in moderate winds (11 to 16 knots). They should write in their logbook when they have performed these skills and who was there to verify their skill. Photographs and video would be beneficial too as they can review the video and work out where they need to improve."
+            },
+            {
+              "id": "demonstrated_tactical_manoeuvres_racing_78b3a5",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated tactical manoeuvres while racing a windsurfer including tacking on shifts and looking for gusts.",
+              "dialog_text": "The youth member should demonstrate tactical manoeuvers whilst racing and include the detail in their logbook."
+            },
+            {
+              "id": "taught_less_experienced_windsurfers_skills_139d23",
+              "type": "verifiable_checkbox",
+              "label": "I have taught other less experienced windsurfers a skill to support them in windsurfing.",
+              "dialog_text": "The youth member should deliver the skills session that they planned during the planning element of this stage."
+            },
+            {
+              "id": "15_days_sailing_139d23",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 15 days of sailing by the end of Stage 7.",
+              "dialog_text": "The youth member needs to do fifteen (15) windsurfing activity days and ensure they are in their logbook. A day is counted as roughly 3-6 hours of activity time depending on conditions and skill of their Patrol. In their log they should include when they did the activity, where they did the activities, who they did it with, what the weather was like and any other interesting information about the activities."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "provided_feedback_patrol_scouts_windsurfing_f12d71",
+              "type": "verifiable_checkbox",
+              "label": "I can provide feedback to a Patrol of Scouts that I have led on a windsurfing activity on what we can improve on for the future, considering risk management, safety, location selection, level of difficulty, and so on.",
+              "dialog_text": "The youth member should run the debrief session following their skills session or one of their windsurfing activities and include feedback to their Patrol on how the patrol could improve windsurfing skills in the future, considering risk management, safety, equipment management, location selection, level of difficulty, and training."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

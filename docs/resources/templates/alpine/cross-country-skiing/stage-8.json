@@ -1,0 +1,136 @@
+{
+  "template": "oas/alpine/cross-country-skiing/8",
+  "meta": {
+    "stage": 8,
+    "stream": "cross-country-skiing"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Cross country skiing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "ski_tour_unfamiliar_territory_a5d0c3",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another Scout how to plan an overnight ski tour in unfamiliar territory, using the appropriate tools.",
+              "dialog_text": "The youth member needs to demonstrate that they know what is required to plan for an overnight ski tour based on their 'I' statements from Stages 1-7. They should be able to effectively pass this knowledge on to another Scout, working on a lower stage. \n \nThe youth member will know if they are successful in their teachings when that Scout is able to demonstrate successfully planning an overnight ski tour."
+            },
+            {
+              "id": "improve_equipment_b087ba",
+              "type": "verifiable_checkbox",
+              "label": "I can make recommendations to improve group equipment.",
+              "dialog_text": "The youth member is required to use their experience and knowledge gained over the last seven (7) stages to recommend improvements to the groups cross country skiing expedition equipment based on their needs and the objectives of the activities planned."
+            },
+            {
+              "id": "ski_tour_skills_communication_f21265",
+              "type": "verifiable_checkbox",
+              "label": "I know ski touring skills and common communication methods used between skiers.",
+              "dialog_text": "The youth member is required to discuss and use suitable communication methods based on their location. They should discuss a communication strategy in their plan which enables them to receive weather forecasts and warnings, communicate with their home base support and engage support in case of an incident or emergency."
+            },
+            {
+              "id": "weather_snow_conditions_additional_217612",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt additional information on how weather and snow conditions will affect my trip and have shared this with my activity patrol.",
+              "dialog_text": "The youth member is required to research to extend their current knowledge on weather and snow conditions and share their learnings with their patrol. They should always be checking the likely weather conditions when initially drafting their plan, two weeks out, one week out and just before their activity. They also need to demonstrate reading changes in weather while on any cross country ski trips at this stage."
+            },
+            {
+              "id": "food_drink_energy_10d1e6",
+              "type": "verifiable_checkbox",
+              "label": "I can plan appropriate food & drinks to meet the energy requirements of snow based activities.",
+              "dialog_text": "The youth member needs to plan, for a project patrol, food and drink requirements for an upcoming cross country skiing journey taking into consideration proposed weather, terrain, group experience and their normal food and drink requirements and apply these needs to an alpine activity."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "field_repairs_cross_country_abff0a",
+              "type": "verifiable_checkbox",
+              "label": "I can carry out field repairs on cross-country skis and boots in snow conditions.",
+              "dialog_text": "The youth member should have a small repair kit in their pack to carry out emergency field repairs in case things get broken. They should design their kit, taking into consideration their personal gear and resources and carry what they need to do the repairs."
+            },
+            {
+              "id": "multi_night_cross_country_83c3b6",
+              "type": "verifiable_checkbox",
+              "label": "I have led a multi-night cross-country skiing activity.",
+              "dialog_text": "The youth member needs to have led multi-night cross-country ski tours at this stage. They should be entering this in their log, detailing their location, environmental conditions and who they were with."
+            },
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the Outdoor Adventure Skills, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses."
+            },
+            {
+              "id": "additional_cross_country_touring_af759b",
+              "type": "verifiable_checkbox",
+              "label": "I have developed additional cross-country skiing skills that will assist me in my touring across a variety of terrains.",
+              "dialog_text": "The youth member is required to reflect on their current skills and determine where they can improve either through learning a new move or enhancing a current skill. They should demonstrate their new skills to a more experienced cross country skier than themselves. They need to log their activities, noting the skills they are practicing, the location, weather conditions and any other interesting details about their new skills."
+            },
+            {
+              "id": "less_experienced_skill_advancement_e102e2",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a less experienced Scout in advancing their skills on three of the requirements from Stage 6 or below.",
+              "dialog_text": "The youth member is required to mentor Stage 6 or below Scouts by sharing knowledge and demonstrating how to perform certain skills that they need development in."
+            },
+            {
+              "id": "igloo_snow_cave_56b690",
+              "type": "verifiable_checkbox",
+              "label": "I have tried to construct an igloo or snow cave with my activity Patrol to fit the Patrol.",
+              "dialog_text": "The youth member needs to demonstrate the construction of an igloo or snow cave, taking into consideration the risks associated with this activity, especially if they are planning to stay and cook in their igloo or cave."
+            },
+            {
+              "id": "ski_touring_days_b387dd",
+              "type": "verifiable_checkbox",
+              "label": "I have completed 15 days of ski touring by the completion of Stage 8.",
+              "dialog_text": "The youth member is required to have participated in at least 15 days of ski touring by the end of this stage. They need to log their activities and include their role in the activity (did they participate, assist or lead), the skills demonstrated, where they did their skiing, who they were with and what they learned during the trips. They could also include photographs of their trips."
+            },
+            {
+              "id": "low_visibility_activities_qe46tu",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a low visibility ski activity, such as at night time or in a snow storm, demonstrating appropriate techniques including leapfrogging.",
+              "dialog_text": "The youth member should have participated in an activity in low visibility, where they would need to use appropriate navigational techniques. They should log this activity and indicate what they did, what conditions were and who they were with. They should practice the appropriate skills before doing this activity."
+            },
+            {
+              "id": "incident_response_a2s45g",
+              "type": "verifiable_checkbox",
+              "label": "I have appropriately led a response to a real or mock incident and completed a post-incident report.",
+              "dialog_text": "The youth member should plan and lead a response to a mock emergency or incident. Scouts working on Stage 7 need to participate in a rescue skills development day so they should involve them in their scenario, if possible. They should complete their post-incident report and provide it to their mentor for review."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "support_experience_alpine_66ceea",
+              "type": "verifiable_checkbox",
+              "label": "I have mentored other Scouts by supporting them to experience alpine adventures and understand the benefits of completing a logbook entry for their alpine adventures.",
+              "dialog_text": "The youth member should determine who is interested in alpine adventures and involve them in activities they plan. They should also show them their logbook, talk about the adventures and explain the importance of keeping a log, which is not only as evidence of their skills and experiences but also a reminder of the amazing adventures they have been on."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

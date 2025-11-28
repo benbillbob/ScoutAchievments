@@ -1,0 +1,88 @@
+{
+  "template": "oas/aquatics/surfing/8",
+  "meta": {
+    "stage": 8,
+    "stream": "surfing"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Surfing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "created_trip_plan_risk_management_d84440",
+              "type": "verifiable_checkbox",
+              "label": "I can create a trip plan with detailed risk management strategies for an activity with my group.",
+              "dialog_text": "The youth member should decide on a surfing trip and create a plan, covering all the elements of planning which they have been doing since Stage 6. They should be improving their plans after reviewing each activity and include detailed risk management strategies."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid Skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the Outdoor Adventure Skills, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses."
+            },
+            {
+              "id": "demonstrated_control_surfboard_riding_two_meter_wave_b7a85b",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated staying in control of my surfboard while riding a wave of between 1-2 metres in height.",
+              "dialog_text": "The youth member should be able to demonstrate this skill to a suitably skilled mentor. This can be in person or using video evidence."
+            },
+            {
+              "id": "undertaken_22_surfing_activities_bdcbb5",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 22 activities by the completion of Stage 8, three of which I have planned & led.",
+              "dialog_text": "The youth member needs to participate in at least 22 surfing activities and log them in their logbook. At least three of their surfing activities should include the preparation, briefing and clean up with a minimum of 1 hour in the water per activity. On each subsequent activity since Stage 7, they should be practicing their skills, linking moves and improving. Their logbook should include where they did the activities, who they did it with, what the weather was like and any other interesting information about their activities."
+            },
+            {
+              "id": "participated_surf_rescue_drills_08f2ce",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a surf rescue skills drill session where we practice self rescue & seeking assistance when self rescue can not be used.",
+              "dialog_text": "The youth member should participate in a surf rescue drill session, practicing their self rescues and seeking assistance. They should write the details of the scenario and drill session in their logbook and indicate who was present for the session. Ideally this would be facilitated by a local surf club or other organisation, with skills for members working on Stages 7-9 Surfing."
+            },
+            {
+              "id": "participated_marine_environmental_service_project_75a56c",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a marine environmental service project, cleaning up a body of water.",
+              "dialog_text": "The youth member should participate in a marine environmental service project during a Sustainable Development Goal (SDG) project, Milestone Lead or other promoted government or organisational day to clean up local waterways."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "reviewed_marine_environmental_project_create_similar_event_eadf92",
+              "type": "verifiable_checkbox",
+              "label": "I have reviewed the marine environmental service project that I participated in and have documented key points to be able to plan my own similar event.",
+              "dialog_text": "The youth member should review the marine environmental service they participated in and start thinking about how they could plan their own similar event."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "template": "oas/alpine/snow-camping-and-hiking/6",
+  "meta": {
+    "stage": 6,
+    "stream": "snow-camping-and-hiking"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 6 - Snow camping and hiking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "teach_4_pack_snow_hike_activity_stage_camp_5d40c4",
+              "type": "verifiable_checkbox",
+              "label": "I can teach a Stage 4 Scout or below what to pack for an overnight snow camp or hike activity.",
+              "dialog_text": "The youth member should know what is required to be packed for an overnight snowshoe tour, taking into consideration the location and itinerary for the activity. \n \nThe youth member should be able to effectively pass this knowledge on to another Scout, working on a lower stage. They will know if they are successful in their teachings when that Scout brings the correct items for the activity, demonstrating understanding of the instructions and guidance before the activity."
+            },
+            {
+              "id": "plan_emergency_food_navigation_transportation_snow_hike_including_53f729",
+              "type": "verifiable_checkbox",
+              "label": "I can plan an overnight snow camp or hike, including equipment, food, transportation, emergency evacuation possibilities, route and navigation.",
+              "dialog_text": "The youth member should plan an overnight snow camp and/or snowshoe tour, including routes, transport and risk management for the tour. \n \nRemember that one element of the Scout Method is Patrol system, so they don't need to do everything themself. Working in a small team will help them enjoy their planning and with the Patrol's input into the plan, it will be a fantastic tour. \n \nThe youth member will need to have their plan reviewed and approved by a skilled snowshoer and/or snow camper. This may be a youth member who has completed Stage 8 or an adult."
+            },
+            {
+              "id": "developed_plan_planning_detailed_trip_management_am_risk_0e2add",
+              "type": "verifiable_checkbox",
+              "label": "I have developed a detailed risk management plan for a trip that I am planning.",
+              "dialog_text": "The youth member should include a detailed risk management plan for the overnight snow camp and/or snowshoe tour they are planning. They are already able to identify possible hazards and how to minimise these risks based on their skills in Stage 5. \n \nBased on their further experience and knowledge in snow camping and snow shoeing, they should enhance their risk management plan. The youth member should also ensure that emergency evacuation routes are present in their plan."
+            },
+            {
+              "id": "teach_store_4_care_below_stage_group_scout_e884d1",
+              "type": "verifiable_checkbox",
+              "label": "I can teach a Stage 4 or below Scout how to care for, store and maintain group equipment.",
+              "dialog_text": "At this stage the youth member should know how to care for, store and maintain their snow camping and hiking group and personal equipment and they should be able to pass that knowledge on to others. They should know they are successful in their teaching when the Stage 4 Scout is able to demonstrate this knowledge."
+            },
+            {
+              "id": "conduct_allday_hiking_etc_legal_snow_activity_standards_6eae38",
+              "type": "verifiable_checkbox",
+              "label": "I know the legislation and policies for safe conduct of an all-day snow hiking activity (e.g. AA standards, legal requirements, etc.).",
+              "dialog_text": "The youth member should review and be able to discuss legislation and policies around safe conduct of an all-day snow hiking activity, including the Alpine Code, and environmental considerations. They will need to consider their location and local policies and procedures, as well as the Australian Adventurous Activities Standards."
+            },
+            {
+              "id": "dangers_snowshoeing_camping_understand_during_ice_associated_f275a4",
+              "type": "verifiable_checkbox",
+              "label": "I understand the dangers associated with ice during camping and snowshoeing.",
+              "dialog_text": "The youth member should demonstrate their knowledge by discussing the dangers around ice during snow camping to their two-up peer, or to the activity leader if there is no Stage 8 or higher peer."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "this_supervision_above_led_snow_hike_8_stage_1ec7b6",
+              "type": "verifiable_checkbox",
+              "label": "I have led an overnight snow hike under the supervision of a Stage 8 Scout or above at this stage.",
+              "dialog_text": "The youth member should lead the overnight ski tour they have been planning throughout Stage 6. They should ask a Stage 8 Scout (their two-up peer mentor) to review their planning, including risk assessment. It is also a good idea to get an adult to look over the risk assessment as well. \n \nDepending on their plan and circumstances, supervision by the Stage 8 Scout could be direct or indirect. Definitions of supervision can be found in the Australian Adventurous Activities Standards. \n \nAdditionally, there should be a skilled and informed home base contact."
+            },
+            {
+              "id": "locate_emergency_construction_build_techniques_shelter_snow_circumstances_719314",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated snow shelter construction techniques to locate and build a snow shelter in emergency circumstances.",
+              "dialog_text": "The youth member should research different options for snow shelters, considering location, available resources, and determining what skills they will need to build these shelters. They will need to work on those skills so that they can build a shelter in an emergency scenario. They need to demonstrate building at least one of their researched shelters with a Patrol."
+            },
+            {
+              "id": "keep_drinking_obtain_demonstrate_of_safe_environment_water_f1a12f",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to obtain and keep a supply of safe drinking water in the alpine environment.",
+              "dialog_text": "The youth member should have gained the knowledge on how to obtain and keep a supply of safe drinking water in Stage 4. The youth member must demonstrate their knowledge gained in previous Stages on their planned snow camp activity."
+            },
+            {
+              "id": "4_build_shelter_assisted_snow_below_stage_scout_e81862",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a Stage 4 Scout or below to build a snow shelter.",
+              "dialog_text": "The youth member should assist a Stage 4 Scout in building a snow shelter, based on their research and experience."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "4_completed_given_scouts_snow_hike_below_stage_7ed6de",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts at Stage 4 or below on a snow hike I completed.",
+              "dialog_text": "The youth member's presentation should be approximately three (3) minutes long, and may be in person or as a pre-recorded video followed by questions. The content of the reflection is at their discretion, with the purpose of the presentation being to encourage other Scouts to be excited about snow camping and snowshoeing."
+            },
+            {
+              "id": "identified_planned_areas_improvement_snow_camping_improve_do_0094c4",
+              "type": "verifiable_checkbox",
+              "label": "I have identified areas for improvement in my snow camping and hiking skills and planned what I will do to improve them.",
+              "dialog_text": "The youth member should reflect on their experiences and skills gained working through Stage 6, trying to identify where they feel they have improved their snow camping and snowshoeing skills and what skills they need to keep working on. They should determine what their next steps are and set some goals to improve in areas they feel they need to improve."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

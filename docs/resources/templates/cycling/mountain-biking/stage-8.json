@@ -1,0 +1,154 @@
+{
+  "template": "oas/cycling/mountain-biking/8",
+  "meta": {
+    "stage": 8,
+    "stream": "mountain-biking"
+  },
+  "version": 3,
+  "document": [
+    {
+      "title": "Stage 8 - Mountain biking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "established_suitable_communication_system_3641ad",
+              "type": "verifiable_checkbox",
+              "label": "I have established a suitable communication system to use when riding in a group.",
+              "dialog_text": "The youth member should plan to have a suitable communication method for their activity. They may need to consider methods that are non-verbal, such as hand signals."
+            },
+            {
+              "id": "developed_plan_mountain_bike_trail_creation_maintenance_bb0874",
+              "type": "verifiable_checkbox",
+              "label": "I have developed a plan for a mountain bike trail to be built or a current one to be revamped or maintained.",
+              "dialog_text": "The youth member should develop a plan taking into consideration that there are many ways that trail maintenance can actually be damaging to the trail experience, and to the flora and fauna that may surround the trail. They will therefore need to consider legislation and organisational policies such as occupational health and safety, permits or permissions for access and environmental regulations. \n \nIt is incredibly important to discuss with local bike shops, and/or local shires, and other appropriate subject matter experts, so that the plan that is created by the youth member for trail creation or trail maintenance is a good, realistic, and positive one. A good place to start is to create a list of what trail features the youth member wants the trail to have, or what features they need to repair in a local mountain bike trail. These might be items such as: \n * the shape of the trail \n * what sort of elevation changes are expected \n * the purpose for the trail (enduro, XC, downhill, general touring, family friendly etc) \n * how accessible it will be \n * how the environment, flora and fauna surrounding the trail will be protected \n * local features/large rocks that need to be included \n \nTake this list to some local Subject Matter Experts, or some other mountain bike community members that can be reasonably expected to share the use of the trail. Discuss the merits of the plan with them. Lots of local bike shops or mountain biking clubs run ‘build a trail’ community events. \n \nIt is essential that the trail does not go on private property (unless permission is granted) or any National Park/ property. A good suggestion of places to build mountain bike trails is in ‘Crown land’ (public land owned by the Government that is not in use), or in other areas of land where the youth member has the landowners/local Government’s permission."
+            },
+            {
+              "id": "developed_complex_logistics_mountain_bike_activity_d573aa",
+              "type": "verifiable_checkbox",
+              "label": "I have developed the complex logistics of at least one mountain biking activity.",
+              "dialog_text": "The youth member should consider: \n * Monthly weather averages for the area that the activity will occur in \n * Detailed information and notes on the different re-supply facilities that are on the proposed route \n * Alternate routes in case of bushfire \n * Road closure or other similar diversion creating event \n * Ensuring that the expedition members all have appropriate first aid training."
+            },
+            {
+              "id": "assisted_stage_six_correct_deficiencies_mountain_bike_09f2da",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a Scout at Stage 6 or below to correct any deficiencies in their mountain bike and helped them to adjust their mountain bike so that it is correctly proportioned and safe for use.",
+              "dialog_text": "It is important to be able to perfect the posture, brake and gear shifter positions on the handlebar, understand the benefits and challenges that different seat positions and angles can have, whether or not the Scout should be using a ‘dropper post’, the differences between different kinds of frame, handlebar, fork and wheelset materials, and also how to change different bike deficiencies based on potential hot spots or soreness from the Stage 6 youth member."
+            },
+            {
+              "id": "assisted_stage_six_non_routine_problems_repairs_fd6d90",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a Scout at Stage 6 or below to determine measures to deal with non-routine problems and or repairs.",
+              "dialog_text": "Non-routine problems and/or repairs include: \n * needing to break the chain \n * where unique and specialist equipment can be stored on the bike in places that minimize interference (such as storing spare spokes inside the seat post) \n * adjusting wheel wobble \n * adjusting gear/cog shifting tension \n *  working with hydraulic brakes"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the OAS, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses."
+            },
+            {
+              "id": "communicate_mountain_bikers_motorists_others_trail_etiquette_8b7e54",
+              "type": "verifiable_checkbox",
+              "label": "I can communicate with mountain bikers, motorists and other users, and apply trail etiquette.",
+              "dialog_text": "The youth member should be demonstrating the use of hand signals, bright and reflective colours and clothes, trail markers and warning signs, whistles, knowing local trail rules and also how to express body language while riding."
+            },
+            {
+              "id": "assisted_stage_six_appropriate_tyre_choice_pressure_62fe79",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a Stage 6 or below Scout with selecting appropriate tyre choice and pressure depending on expected terrain and hazards.",
+              "dialog_text": "The youth member should be a good mentor for a Stage 6 or below Scout, and assist them in understanding information about specialty tyre choice such as ‘standard’ mountain bike tyres (1.95 – 2.5 inches), ‘plus’ tyres (2.8 – 3.25 inches), or ‘fat tyres’ (3.5 – 5 inches), combined with a wheelset rim size. \n \nWheelsets come in 3 different sizes, in general. These are: \n * 26inch \n * 27.5inch/650b \n * 29inch/700c \n \nStandard tyres have the positives of having shorter sidewalls, that are less likely to flex and cause ‘pinch-flats’ under hard cornering, are lightweight, and have much lower rolling resistance than other sizes. \n \nPlus tyres are not too much heavier than standard tyres, are able to handle more squirrely and unpredictable terrain with greater ease, and have a medium level of bounce. \n \nFat tyres are massive and are able to be ridden comfortably through sandy conditions and desert terrain, are best to be used in water and mud heavy terrain and are incredibly stable. \n \nClearly, the wider the tyre is, the heftier and less responsive it is to sudden direction changes, but the greater number of terrain types it can handle."
+            },
+            {
+              "id": "negotiate_hazards_obstacles_safely_personal_group_a4d918",
+              "type": "verifiable_checkbox",
+              "label": "I can negotiate hazards and obstacles safely and take measures to guard personal and group safety in all situations and on all rides.",
+              "dialog_text": "The youth member should be competent in risk mitigation in all situations, for all patrol members, on all rides. At Stage 8, the rides will be covering a greater distance than before and more difficult terrain, and so it is important that the youth member considers opening and closing times for shops and petrol stations that might be used for resupply etc."
+            },
+            {
+              "id": "ride_difficult_mountain_bike_trails_5e3f34",
+              "type": "verifiable_checkbox",
+              "label": "I can ride at a difficult level mountain bike trail.",
+              "dialog_text": "The youth member should be able to effectively manage a difficult trail (Black Diamond Level). \n \nThis is likely to be a challenging single trail with steep gradients, variable surfaces and lots of leaf litter and trail obstacles, and the width of the trail at times may be narrower than the handlebars. There will be steep ascents and descents, with unavoidable obstacles that require commitment such as logs, roots, rocks and drop offs."
+            },
+            {
+              "id": "pace_cycling_safe_group_techniques_dbe9f5",
+              "type": "verifiable_checkbox",
+              "label": "I know how to pace cycling and adopt safe group or bunch riding techniques to maintain group cohesion.",
+              "dialog_text": "The youth member should demonstrate smooth pedalling to ensure that the bike and rider are not ‘surging’ or changing pace within the group. Having a high cadence (when appropriate) allows the rider to adjust their speed slowly and smoothly. Keep alert at all times and wear bright clothing. \n \nPractice, practice, practice! There is no better way to understand how to ride in a Group, and how to have appropriate cadence than to be out there riding."
+            },
+            {
+              "id": "helped_construction_maintenance_mountain_bike_trail_08f8f3",
+              "type": "verifiable_checkbox",
+              "label": "I have helped in the construction or maintenance of a mountain bike trail.",
+              "dialog_text": "The youth member should work from the plan they developed above. Once all the preparations and permission requirements are in place, then it is time to build. Assemble a Project Patrol. Make sure that the materials that the team have are as sustainably & locally sourced and as natural as possible, to reduce impact on the local flora and fauna surrounding the trail. \n \nMake sure that the trail is smooth and ‘flowing’ in its layout, so that it feels natural to ride on without any sudden jerky movements. Ensure that any large obstacles are firmly in place, so that if a rider tries to ride over a boulder or log it will not roll away, shift, wobble or break and injure them. It is also important that there are trail markers placed throughout the trail, indicating the difficulty of the trail and which direction to follow. \n \nFinally, there needs to be weather proofing/continued riding proofing done to the trail, to make sure that it will last a long time. The first step in doing this is to compact all the ground on the trail, and any side walls, as best as possible. Make sure that when rain, wind, storm and hail come, it will not destroy the trail but flow over it in appropriate points without damaging the trail surface much. This can be achieved primarily through the way that the trial is laid out through the area, especially regarding the trails placement on hills or gullies. \n \nThe most important and essential stage in ensuring that the trail built will last, and is quality, is to ride it, and ride it over and over. Get everyone in the building team to ride over all parts of the trail as soon as possible, to compact the ground further, build up positive riding lines and approaches, and also to test which parts of the trail do not work."
+            },
+            {
+              "id": "mountain_bike_skills_session_stage_six_08f8f3",
+              "type": "verifiable_checkbox",
+              "label": "I have led a mountain bike skills session for Stage 6 Scouts.",
+              "dialog_text": "The youth member should discuss with the Stage 6 Scouts what skills they need assistance with and then determine an activity plan accordingly. The youth member should log these activities in their logbook indicating which skills were included in the sessions."
+            },
+            {
+              "id": "high_skill_level_body_weight_shifting_difficult_trail_08f8f3",
+              "type": "verifiable_checkbox",
+              "label": "I have shown a high skill level in relation to shifting my body weight across the bike depending on the terrain and/or hazards on a difficult trail.",
+              "dialog_text": "The youth member should be able to demonstrate cornering at high speeds using body weight manoeuvres, climbing steep ascents in an energy efficient manner, changing line using bunny hop and other advanced methods."
+            },
+            {
+              "id": "appropriately_led_response_incident_08f8f3",
+              "type": "verifiable_checkbox",
+              "label": "I have appropriately led response to a real or mock incident and completed a post-incident report.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "learnt_improved_enjoyed_game_navigational_playing_talk_4dfe24",
+              "type": "verifiable_checkbox",
+              "label": "I know how to examine an off-road bicycle for any defects and repair or arrange for repair in a timely manner.",
+              "dialog_text": "The youth member should be able to examine a mountain bike for defects, noting that mountain bikes have different common stress points when compared to a road bike or a hybrid bike. \n \nPrimarily, this is due to the increased weight of a mountain bike, and how this weight is spread over a very different frame geometry to road bikes. Furthermore, mountain bikes are ridden in a much more ‘stop-and-start’ motion compared to other bikes and are also ridden through much rougher and damaging terrain. \n \nThe most important areas for defects and failures to not occur in are the points from which the rider controls the speed and direction of the bike. These include the handlebars, the brakes, the seat and the pedals. These components can be damaged in an incident, and the rider may be aware of failure, or they can slowly degrade over time, in which case the rider will need to examine these components prior to riding. \n \nCommon critical failure points include: \n * the seat/seatpost connection \n * the bottom bracket \n * the pedal/crank arm \n * the head tube (top of the forks) \n * the fork legs \n * the handlebar/stem connection \n * the brake levers"
+            },
+            {
+              "id": "learnt_improvedgfshsghplaying_talk_4dfe24",
+              "type": "verifiable_checkbox",
+              "label": "I have evaluated relevant aspects of the mountain biking activity – route, safety, risk management, equipment, provisions, the challenge, learning opportunities, degree of difficulty, etc.",
+              "dialog_text": "Guidance under development."
+            },
+            {
+              "id": "learnt_impsdfsdf_enjoyed_game_navigdfgdfggslk_4dfe24",
+              "type": "verifiable_checkbox",
+              "label": "I can identify improvements in my planning and doing, for future rides.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

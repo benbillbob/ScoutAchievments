@@ -1,0 +1,148 @@
+{
+  "template": "oas/paddling/canoeing/4",
+  "meta": {
+    "stage": 4,
+    "stream": "canoeing"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Canoeing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "explain_stage_2_basic_rules_b947c3",
+              "type": "verifiable_checkbox",
+              "label": "I have helped a Stage 2 paddler to explain the basic safety rules for being near water.",
+              "dialog_text": "The youth member needs to help a Scout working on Stage 2 enabling them to understand how to stay safe when around and going on the water. They should include things like: \n * Weather \n * Their ability \n * Their Patrol member's abilities \n * Whether there is a skilled swimmer or adult around who can help if needed \n * Tides  \n * Location \n *Wearing a PFD \n * Swimming and wearing enclosed shoes."
+            },
+            {
+              "id": "read_understand_proposed_canoe_itinerary_5ac59e",
+              "type": "verifiable_checkbox",
+              "label": "I can read an itinerary for a proposed canoe trip and understand what I am required to do.",
+              "dialog_text": "The youth member will need to demonstrate understanding of a canoe trip from the itinerary, by discussing the gear list, time of departure and arrival home, menu, and route with the trip leader, and by bringing what is required to the activity."
+            },
+            {
+              "id": "canoes_paddles_explain_damaged_d95d9d",
+              "type": "verifiable_checkbox",
+              "label": "I can explain how canoes and paddles can be damaged.",
+              "dialog_text": "The youth member should be able to clearly explain why you shouldn’t stand in canoes when on land and what dragging them over rough surfaces will do them. They should also discuss why they shouldn’t use paddles to push off when launching their canoe, and how to carry their paddles correctly so they don't hurt others or damage the paddles."
+            },
+            {
+              "id": "equipment_required_law_canoeing_8cfd44",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the equipment I am required by law to have with me while canoeing.",
+              "dialog_text": "The youth member should check their local marine safety legislation as to what equipment they are required to have. They should also follow their Branch policies and best practice regarding required equipment. Required equipment could include: \n * PFD \n * Whistle \n * Two way radio \n * Satellite phone or EPIRB \n * First aid kit"
+            },
+            {
+              "id": "prepare_equipment_safe_transport_canoeing_location_f70039",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare required equipment for safe transportation to a canoeing activity location.",
+              "dialog_text": "The youth member should be able to demonstrate organising safe transportation of canoeing equipment gear to the canoe activity location. They will need to consider what gear they need, who will transport gear, how it will be transported, and securing gear before transportation."
+            },
+            {
+              "id": "paddling_knot_rescue_situation_9d05e5",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt a knot that will help me in a paddling rescue situation.",
+              "dialog_text": "The youth member will need to correctly demonstrate a suitable knot without guidance during a mock drill or real activity. They could choose knots such as a clove hitch, round turn and two half hitches, highwayman's hitch, bowline, or fisherman's knot. They should be able to discuss the use of their chosen knot in relation to a rescue situation and it should be a different one to the knot example they used in Stage 2."
+            },
+            {
+              "id": "keep_group_together_canoeing_b40953",
+              "type": "verifiable_checkbox",
+              "label": "I understand how to keep a group together while canoeing.",
+              "dialog_text": "The youth member should demonstrate understanding in ensuring good communication between the group, taking regular rest breaks, and the need to paddle at the speed of the slowest person."
+            },
+            {
+              "id": "point_out_weather_system_paddling_024788",
+              "type": "verifiable_checkbox",
+              "label": "I can point out weather systems and dangerous weather when paddling.",
+              "dialog_text": "The youth member should demonstrate an awareness of seeing the changes in weather systems whilst on their activity and what danger signs they need to be looking out for. This could include a change in wind direction, dark clouds approaching and/or a change in humidity. They should be able to determine 3 different types of clouds and what type of weather they generally bring."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "pfd_swim_help_huddle_1fb9fb",
+              "type": "verifiable_checkbox",
+              "label": "I can swim and demonstrate the HELP and huddle positions while in the water wearing a PFD.",
+              "dialog_text": "The youth member should be able to demonstrate the Heat Escape Lessening Positioning and huddle position. The youth member should pull their knees together and hug them close to their chest using their arms to help prevent heat loss and reduce the risk of hypothermia. They could do this with their Patrol and huddle together in this position to conserve body heat, increase morale and help rescuers find them more easily."
+            },
+            {
+              "id": "symptoms_hypothermia_hyperthermia_8c0e07",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of hypothermia and hyperthermia.",
+              "dialog_text": "The youth member should be aware of the general and most common signs and symptoms of both hypothermia and hyperthermia. This could be learnt through research and demonstrated through mock emergencies. They should consider how they would avoid themselves and others getting hypothermia and hyperthermia during paddling activities."
+            },
+            {
+              "id": "our_while_water_staying_watercraft_canoeing_places_trade_e93919",
+              "type": "verifiable_checkbox",
+              "label": "I can trade places with my canoeing partner while on the water staying in our watercraft.",
+              "dialog_text": "The youth member should demonstrate rafting up with the rest of their party and correctly moving in the canoe to change positions with their canoe buddy."
+            },
+            {
+              "id": "least_part_activities_canoeing_stage_this_taken_logged_572974",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in and logged at least two canoeing activities at this Stage.",
+              "dialog_text": "The youth member is required to take part in two canoeing activities and log them in their logbook. They should include where they did the activities, who they did them with, what the weather was like and any other interesting information about the activity. These should be in addition to any canoeing they did in earlier Stages."
+            },
+            {
+              "id": "map_of_using_plan_trip_chart_area_73aa25",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to plan a day trip using a map or chart of the area.",
+              "dialog_text": "The youth member needs to demonstrate being able to use a map or chart to plan a day trip. They should consider the speed they can travel and identify the rest areas, points of interest, safe exits and emergency exits."
+            },
+            {
+              "id": "draw_forward_eg_canoe_demonstrate_basic_strokes_sweep_2a0ebd",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate basic canoe strokes (e.g. forward, reverse, draw, stop, and sweep).",
+              "dialog_text": "The youth member should have learned at least 5 strokes through Stage 1 to Stage 4. They should effectively demonstrate these strokes during a canoe activity, taking into consideration the conditions of the waterway and any hazards they encounter on the activity."
+            },
+            {
+              "id": "maintain_balance_manner_controlled_canoe_launch_e0f374",
+              "type": "verifiable_checkbox",
+              "label": "I can launch my canoe in a controlled manner and maintain balance.",
+              "dialog_text": "The youth member needs to demonstrate getting into their canoe in a safe controlled manner. Once in, they should demonstrate moving off from the bank or ramp by using strokes to manoeuvre the canoe from the side."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "activities_improvements_canoeing_identify_future_659227",
+              "type": "verifiable_checkbox",
+              "label": "I can identify improvements for future canoeing activities.",
+              "dialog_text": "The youth member should discuss with their Patrol or Unit the canoeing activities they have participated in at this stage and identify where they can improve their skills and the activities for next time."
+            },
+            {
+              "id": "equipment_discussed_checked_damage_replace_if_repaired_needs_ba822f",
+              "type": "verifiable_checkbox",
+              "label": "I have checked equipment for damage and discussed if it needs to be repaired or replace.",
+              "dialog_text": "The youth member is required to demonstrate a gear inspection after their activity including a visual inspection of their canoe, paddle, and PFD. They should be looking for rips, tears, cracks or holes. If there is anything that needs repairing or replacing they should discuss it with the leader in charge of the equipment."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "template": "oas/vertical/3",
+  "meta": {
+    "stage": 3,
+    "stream": "vertical"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 3 - Vertical",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "risks_participating_vertical_weather_3950de",
+              "type": "verifiable_checkbox",
+              "label": "I know what the risks are for participating in a vertical activity in different weather conditions.",
+              "dialog_text": "The youth member should be able to explain risks associated with rain, electrical storms, high winds, and hot days. These risks should cover people, equipment and environment."
+            },
+            {
+              "id": "importance_right_clothing_gear_dacbd7",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the importance of wearing the right clothing and gear while participating in a vertical activity.",
+              "dialog_text": "The youth member should be able to explain why its important to wear the correct clothing and gear for vertical activities and what that clothing is. The youth member will also need to consider dressing for the weather, and any safety gear required. They should be able to support some Stage 1 Scouts with this as well."
+            },
+            {
+              "id": "items_carry_vertical_f12912",
+              "type": "verifiable_checkbox",
+              "label": "I know which items I should carry with me when participating in a vertical activity.",
+              "dialog_text": "The youth member should be able to explain which items they would take with them based on the vertical activity they will be attending. They will need to consider the location, duration, season and weather conditions, who is going and the availability of water, when deciding on what to bring."
+            },
+            {
+              "id": "latest_weather_forecast_climbing_226b4b",
+              "type": "verifiable_checkbox",
+              "label": "I know how and where to get the latest weather forecast for the area I will be climbing in.",
+              "dialog_text": "The youth member should demonstrate this by showing a copy of an up to date weather forecast for the area of their activity. The youth member should be able to explain what the forecast they have brought means. This could be from Bureau of Meteorology or a local weather station."
+            },
+            {
+              "id": "safety_rules_climbing_wall_challenge_course_3af05c",
+              "type": "verifiable_checkbox",
+              "label": "I know the safety rules for participating on climbing wall or ropes challenge course.",
+              "dialog_text": "The youth member should be able to advise what the safety rules are for the activity they are undertaking and explain why these rules are important. Safety rules can vary depending on location and activity."
+            },
+            {
+              "id": "understand_good_anchor_rock_3af05c",
+              "type": "verifiable_checkbox",
+              "label": "I can point out a good anchor for a rock activity.",
+              "dialog_text": "The youth member will need to demonstrate understanding of anchors and what would be a high quality anchor and/or a poor quality anchor for vertical activities. Some things for the youth member to consider when identifying potential anchor sites include the size, shape, condition and the angle from the cliff."
+            },
+            {
+              "id": "need_belays_vertical_activities_3af05c",
+              "type": "verifiable_checkbox",
+              "label": "I understand the need for belays in relation to vertical activities.",
+              "dialog_text": "The youth member should be able to demonstrate an understanding of what belaying is and how it ensures the safety of the climber/ abseiler. The youth member could discuss different types of belays and the relevance of them for their activity - belays such as static, dynamic, top and bottom."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "DRSABCD_first_aid_situations_5596ed",
+              "type": "verifiable_checkbox",
+              "label": "I know what DRSABCD stands for and how to use it in first aid situations.",
+              "dialog_text": "The youth member needs to demonstrate their understanding of the steps of DRSABCD in a mock emergency situation. \n * D - Danger \n * R - Response \n * S - Send for help \n * A - Airway \n * B - Breathing \n * C - CPR \n * D - Defibrillation"
+            },
+            {
+              "id": "Stage_1_adjust_helmet_b75cee",
+              "type": "verifiable_checkbox",
+              "label": "I have helped a Stage 1 Scout learn to adjust their helmet.",
+              "dialog_text": "The youth member should demonstrate assisting a Scout who is working on Stage 1 correctly fit a helmet, specifically designed for rock related activities. Ensure that the helmet is the correct size, that it is adjusted at the back so that it doesn't fall off when they shake their head prior to doing up the chin strap. Their helmet should cover their forehead and sit two (2) finger width above their eyebrows. Ensure that strap is adjusted to fit two (2) fingers between chin and strap, and can not come over their chin."
+            },
+            {
+              "id": "two_vertical_activities_8cee4a",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in at least two vertical activities at this Stage.",
+              "dialog_text": "The youth member needs to do two vertical activities, Abseiling, climbing, canyoning or caving and log them in their logbook. The youth member should record: \n * Where they did the climbs \n * Who they did the climbs with \n * How high the climbs were \n * If the routes were graded, the difficulty grade"
+            },
+            {
+              "id": "climbed_abseiled_10m_wall_9ffc44",
+              "type": "verifiable_checkbox",
+              "label": "I have climbed or abseiled a 10m wall at this Stage.",
+              "dialog_text": "The youth member should have this climb or abseil included in their log. The activity can be on a natural or artificial surface. It can be included in the 2 vertical activities above as long as the height is 10m+."
+            },
+            {
+              "id": "treat_cuts_minor_bleeding_74d451",
+              "type": "verifiable_checkbox",
+              "label": "I know how to treat cuts and minor bleeding.",
+              "dialog_text": "The youth member should be able to demonstrate effective treatment of cuts and minor bleeding as per first aid guidelines. Mock emergencies during a vertical activity could be a place to learn and demonstrate skills."
+            },
+            {
+              "id": "importance_buddy_system_younger_Scout_663a55",
+              "type": "verifiable_checkbox",
+              "label": "I can teach the importance of the buddy system to a younger Scout.",
+              "dialog_text": "The youth member should be able to teach a younger Scout who is working on State 1 Vertical, the importance of the buddy system and how it is there to keep them safe."
+            },
+            {
+              "id": "correct_care_carabiner_explain_663a55",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to correctly care for carabiners and explain why it is important.",
+              "dialog_text": "The youth member will need to demonstrate this throughout an activity to ensure they fully understand the importance of correctly caring for vertical gear. The youth member should be able to explain and demonstrate how they should be stored, how they should be used, how they should be cared for while in use, and the dos and don'ts of carabiners."
+            },
+            {
+              "id": "rethreaded_figure_8_alpine_butterfly_tape_knot_663a55",
+              "type": "verifiable_checkbox",
+              "label": "I have correctly tied a re-threaded Figure-of-8 knot, Alpine Butterfly and a Tape knot and can apply them to a vertical activity.",
+              "dialog_text": "The youth member will need to correctly demonstrate these knots without guidance during one of their activities. Animatedknots.com is a good place to start or similar sites."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "improve_safety_rock_activities_discuss_44da79",
+              "type": "verifiable_checkbox",
+              "label": "I have discussed with my Patrol ways that we can improve the safety of our rock-based activities.",
+              "dialog_text": "Thinking about the rock-based activities completed during this stage, what safety improvements could the youth member make? What will the youth member do differently next time to challenge themselves further?"
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

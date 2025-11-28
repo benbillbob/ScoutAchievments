@@ -1,0 +1,112 @@
+{
+  "template": "oas/bushcraft/pioneering/7",
+  "meta": {
+    "stage": 7,
+    "stream": "pioneering"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 7 - Pioneering",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "project_lead_major_camp_plan_pioneering_2b52a3",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and lead a major pioneering project on a camp.",
+              "dialog_text": "The youth member should take primary leadership, including responsibility and risk management for a major project. A major project is primarily defined by size of structure (5 metres by 10 metres) and also the length of time that is required for its construction. The project should take approximately 6 hours, including planning.  This project should be different to the one undertaken in Stage 6."
+            },
+            {
+              "id": "lead_projects_of_activities_utilise_plan_pioneering_design_b16512",
+              "type": "verifiable_checkbox",
+              "label": "I can plan activities that utilise pioneering projects that I have lead the design of.",
+              "dialog_text": "The youth member must ensure that the design is clear and understandable for all members of the Patrol. They should give clear direction as to what parts of the construction are being completed by which members of the Patrol."
+            },
+            {
+              "id": "packing_organise_transportation_survival_camp_of_group_activity_105670",
+              "type": "verifiable_checkbox",
+              "label": "I can organise required transportation for pioneering materials.",
+              "dialog_text": "The youth member should include transportation arrangements in their plan for the pioneering project on a camp."
+            },
+            {
+              "id": "transportation_preparation_review_project_fatigue_manage_of_activities_ec5e4f",
+              "type": "verifiable_checkbox",
+              "label": "I can identify how to manage fatigue across the preparation, transportation, activities and review of a pioneering project or camp.",
+              "dialog_text": "The youth member should include fatigue management in their risk assessment for a pioneering project, including signs of fatigue and how to mitigate incidents and injury due to fatigue."
+            },
+            {
+              "id": "risks_construction_prepare_during_projects_expected_hazards_emergency_b7721c",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare and describe an emergency plan for expected risks and hazards during construction projects.",
+              "dialog_text": "The youth member should create and follow a risk management plan for one of their pioneering projects."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "41_lines_21_tension_rope_31_construct_move_147769",
+              "type": "verifiable_checkbox",
+              "label": "I can construct a 2:1, 3:1 and 4:1 rope pulley system to raise or move loads or tension lines.",
+              "dialog_text": "The youth member should consider that different pulley systems will needed to be used for different load sizes or purposes. They should therefore show correct practical application for the required pulley systems. For example, raising a flag will require a vastly different load bearing system or tension compared to a system used for shifting heavy or awkwardly shaped items such as a car engine, water filled barrel or couch."
+            },
+            {
+              "id": "campsite_major_assisted_building_entryway_c9e065",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted in building an entryway for a major campsite.",
+              "dialog_text": "The youth member needs to ensure that the design and construction of this entryway challenges them. It should include the correct use of pulley systems, and some technical knots and lashings. Usually an arch shape, that allows for the free flow of traffic through the gateway. \n \nIt is great if the Unit/Group banner or flag can be flown somewhere on the structure. \n \nTechnical features are suggested to be added such as a raising/lowering gate or bridge, a hanging door, or a letter box. \n \nThe more personal flair and unique design elements the gateway possesses the more likely it is to work as an attraction to the campsite from other Units and Groups."
+            },
+            {
+              "id": "construction_campsite_participated_maintenance_of_cleanup_local_led_a30c30",
+              "type": "verifiable_checkbox",
+              "label": "I have led a Scout group and participated in five days of campsite construction, maintenance or clean-up work at a local campsite.",
+              "dialog_text": "Ideas could be at a Group, District, Region Branch or National Scouting or Guiding run campsite or local community site to lead in a regeneration project. \n \nThis could include infrastructure work, such as building new camp furniture, etc. \n \nWhilst this is a long time this includes arriving, setting up, doing work and packing down. If required, this duration could be split over two full weekends of work (arrive Friday afternoon depart Sunday late afternoon)."
+            },
+            {
+              "id": "least_ropes_polypropylene_group_nylon_demonstrating_disadvantages_types_9b5644",
+              "type": "verifiable_checkbox",
+              "label": "I can explain to a group of Scouts the advantages and disadvantages of at least four different types of ropes e.g. manila, sisal, nylon and polypropylene, including demonstrating the best method of knotting/securing the ends of these ropes.",
+              "dialog_text": "Guidance under development."
+            },
+            {
+              "id": "adventure_including_skill_5_bushcraft_skills_stream_stage_e56f49",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 in the three core Outdoor Adventure Skill areas, including the Bushcraft - Survival Skills stream.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "could_feedback_project_give_patrol_improve_our_we_e2207a",
+              "type": "verifiable_checkbox",
+              "label": "I give feedback to my Project Patrol on how we could improve our pioneering project in the future.",
+              "dialog_text": "The youth member should review their major project and provide constructive feedback to their Project Patrol as to how to improve."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

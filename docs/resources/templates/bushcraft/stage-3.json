@@ -1,0 +1,160 @@
+{
+  "template": "oas/bushcraft/3",
+  "meta": {
+    "stage": 3,
+    "stream": "bushcraft"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 3 - Bushcraft",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "wearing_of_while_explain_outdoors_clothing_right_importance_18e5d1",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the importance of wearing the right clothing while outdoors.",
+              "dialog_text": "The 'right' clothing will depend entirely on the activity and the season that the youth member is doing the activity in. Consider the needs of the activity and time of year. It is helpful to know how appropriate clothing will help. Knowing this will mean the youth member will have a better time."
+            },
+            {
+              "id": "fauna_risks_they_pose_benefits_native_flora_f14c01",
+              "type": "verifiable_checkbox",
+              "label": "I know about native flora and fauna and the risks or benefits they pose.",
+              "dialog_text": "The youth member should be aware of native flora and fauna found in the areas they usually conduct activities in. They should know which native and introduced creatures are dangerous. They need to understand that there are very few common characteristics of colouring, taste, odour or shape that can be used to distinguish between a poisonous and a non-poisonous plant in Australia. \n \nIt is important to consult a handbook, guide, online resource and/or expert in Australian plants before eating, touching or cultivating any unidentified plants from the bush."
+            },
+            {
+              "id": "areas_activities_doing_forecast_weather_where_will_latest_25547c",
+              "type": "verifiable_checkbox",
+              "label": "I know how and where to get the latest weather forecast for the areas I will be doing activities in.",
+              "dialog_text": "The youth member should include getting the latest weather forecast as part of their planning for bushcraft activities. The most reliable online weather predictions come from the Bureau of Meteorology website. It is important to show the ability to navigate to credible sources of weather information. Do not forget to check individual state or territories' Department of Parks and Wildlife (or equivalent) for the most up to date information regarding bushfires or other extreme weather events that will be effecting local areas."
+            },
+            {
+              "id": "food_first_hot_from_aid_treatment_burns_water_a0a7b2",
+              "type": "verifiable_checkbox",
+              "label": "I know the first aid treatment for burns from hot water, grease and food.",
+              "dialog_text": "This and other first aid requirements can be done in a mock emergencies night or activity on camp to demonstrate skills. The youth member should know that they need to cool the burned skin under cool running water for 20 minutes. Then protect the burn by covering with a sterile non-adhesive bandage or clean cloth. The youth member should also understand the importance of not putting ice on a burn as it will further damage the burned skin."
+            },
+            {
+              "id": "bleeding_minor_treat_cuts_970a4c",
+              "type": "verifiable_checkbox",
+              "label": "I know how to treat cuts and minor bleeding.",
+              "dialog_text": "This and other first aid requirements can be done in a mock emergencies night or activity on camp to demonstrate skills. The youth member should understand the need to apply pressure to stop the bleeding, clean the wound to prevent infection and dress the wound.  When planning their activity, they need to ensure they have the first aid materials required to treat cuts and minor bleeding."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "situations_first_drsabcd_aid_stands_apply_c08afd",
+              "type": "verifiable_checkbox",
+              "label": "I know what DRSABCD stands for and how to apply it in First Aid situations.",
+              "dialog_text": "The youth member needs to demonstrate their understanding of the steps of DRSABCD in a mock emergency situation: \n * D for Danger \n * R for Response \n * S for Send for Help \n * A for Airway \n * B for Breathing \n * C for CPR \n * D for Defibrillation."
+            },
+            {
+              "id": "fire_equipment_hall_b2c8ba",
+              "type": "verifiable_checkbox",
+              "label": "I can identify fire safety equipment in my hall.",
+              "dialog_text": "The youth member should be able to identify and point out the following items in their hall: \n * Fire Extinguisher \n * Fire Blanket (if equipped) \n * Fire Hose (if equipped) \n * First Aid kit."
+            },
+            {
+              "id": "camp_using_cook_stove_meal_a2c8ba",
+              "type": "verifiable_checkbox",
+              "label": "I can cook a meal using a camp stove.",
+              "dialog_text": "The meal should be cooked using a camp stove, or in a camp oven (cast iron style pot) over a fire. Modifications to the method of cooking can occur to suit climate-based limitations. \n \nThe youth member will need to demonstrate cooking a meal which should be at least two courses (an entrée and main or a main and dessert) and the main course should have at least two components."
+            },
+            {
+              "id": "cause_bushfire_cb2c8a",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the causes of a major bushfire.",
+              "dialog_text": "The youth member should be able to discuss and understand the two main ways that large bushfires start: \n * natural causes - e.g. lightning strikes \n * irresponsible human behaviour - e.g. unattended campfires, spreading of bonfires, etc"
+            },
+            {
+              "id": "situations_classified_name_five_of_these_outdoors_mock_aef86c",
+              "type": "verifiable_checkbox",
+              "label": "I can name five different situations that could be classified as an emergency in the outdoors and can respond to a mock emergency for one of these situations.",
+              "dialog_text": "The youth member needs to be able to name five different situations, as well as both the prevention of and way to deal with them. These situations must be based on outdoor examples, in the field. The best way to demonstrate these situations is by running a mock emergency activity. \n \nFor example one of their Patrol members spraining their ankle on a bushwalk. \n \nTo prevent this, the youth member could have ensured everyone was wearing appropriate footwear with ankle protection, staying to the tracks and walking at an appropriate speed. \n \nTo deal with the situation, apply the First Aid principle RICER: \n * Rest \n * Ice \n * Compress \n * Elevation \n * Referral \n \nWhat situations can you think of?"
+            },
+            {
+              "id": "nights_then_identify_sky_south_southern_find_cross_564a17",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the Southern Cross in the night's sky and then find South.",
+              "dialog_text": "The youth member should be able to: \n * Identify the Pointers, two bright stars in the southern sky. They point to the ‘top’ of the Southern Cross (which is inverted) \n * Identify the Southern Cross. Be careful not to be confused by the False Cross, which looks similar but lacks Epsilon (the fifth, smaller, star) \n * Draw an imaginary line through the long axis of the Southern Cross \n * Draw an imaginary line at 90° to the two Pointers \n * The point where these two imaginary lines intersect is directly above celestial south. Drop a line from this point to the horizon, and that is South."
+            },
+            {
+              "id": "identify_night_sky_constellations_86b1c4",
+              "type": "verifiable_checkbox",
+              "label": "I can identify three other Constellations in the night sky.",
+              "dialog_text": "The youth member should be able to point out three Constellations excluding the Southern Cross. Such as: \n * Orion \n * The Two Pointers \n * The Big Dipper (also known as the shopping trolley, the spoon etc) \n * The Seven Sisters. \n \nExplaining how the youth member knows these constellations and what they represent is desirable."
+            },
+            {
+              "id": "up_support_group_compass_trail_simple_map_of_813441",
+              "type": "verifiable_checkbox",
+              "label": "I have set up and followed a simple compass trail with the support of a local map with a group of Scouts.",
+              "dialog_text": "The youth member should plan and set up a compass trail, including cardinal and inter-cardinal points to follow. The compass trail should be set so a trail can be followed. It does not need to be out in the bush; it can be in a park or oval near the Scout hall."
+            },
+            {
+              "id": "buddy_1_importance_of_system_working_teach_scout_58b387",
+              "type": "verifiable_checkbox",
+              "label": "I can teach the importance of the buddy system to a Scout working on Stage 1.",
+              "dialog_text": "The youth member should be able to teach a younger Scout who is currently working on Stage 1 Bushcraft the importance of the buddy system and how it is there to keep them safe."
+            },
+            {
+              "id": "included_survival_items_put_these_explain_outdoor_kit_cf7a3d",
+              "type": "verifiable_checkbox",
+              "label": "I have put together a personal outdoor survival kit and can explain why I have included these items.",
+              "dialog_text": "The youth member may include any items they like, as long as they are sensible, appropriate to the activities undertaken by the Group, and the youth member can articulate a reason for inclusion. \n \nFor example, a hatchet would not usually be appropriate, but if your Group undertakes a lot of 4WD activities then the youth member may be able to justify it; whereas in a sailing or bushwalking-oriented Group they would not. \n \nThere may be some overlap with a first aid kit, but the purpose of survival and first aid kits are different, and they should not be all first aid items. \n \nCommon items suitable for everyone include: \n * Cord \n * Whistle \n * Tiny LED torch \n * Cable ties \n * Space blanket/bag \n * Gaffer, duct, or electrical tape \n * Button compass \n * Glowstick \n * Safety pins \n \nOther items which might be appropriate for older members include: \n * Matches, lighter, or flint \n * Pocket knife \n * Firelighters \n * Wire saw \n Fishing line, hooks, and sinkers"
+            },
+            {
+              "id": "out_make_of_plastic_rope_things_shelter_found_98986b",
+              "type": "verifiable_checkbox",
+              "label": "I can make a personal shelter out of plastic sheeting, rope and other things I have found.",
+              "dialog_text": "The youth member can use plastic sheeting and rope to build a shelter, depending on the location and available trees. Some ideas include: \n * Tying the sheeting between four trees to form a canopy. \n * Using the rope as a ridge line between two trees and using sharp sticks, stake the sides to the ground to create an A-frame shelter \n * Tying two opposite corners of the sheet to two trees and secure the other ends to the ground with stick stakes or heavy rocks to create a lean-to tent \n * If there are no trees but the youth member brought walking poles or long sticks, they can use them as uprights for the shelter"
+            },
+            {
+              "id": "camp_setting_2_five_of_activity_demonstrate_which_871979",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate five knots in an activity or camp setting, three of which can be my Stage 2 knots.",
+              "dialog_text": "The youth member can choose five different knots (three of which could be the ones they learned and demonstrated in Stage 2) and be able to apply the knots in an effective manner in different activities and situations. Some ideas are: \n * Square lashing \n * Clove hitch \n * Reef knot \n * Sheet-bend \n * Sheepshank \n * Other hitch variations"
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "talk_worked_ways_compass_trail_while_patrol_which_6ad8cb",
+              "type": "verifiable_checkbox",
+              "label": "I can talk about the ways in which my Patrol worked together while following a compass trail.",
+              "dialog_text": "After the youth member's compass trail, they should be able to discuss things such as:\n * How the Patrol worked as a team \n * How individuals followed instructions \n * Was it adventurous, fun, challenging and inclusive and if not how can you make it so next time?"
+            },
+            {
+              "id": "identified_make_try_next_time_building_shelter_improvements_ea71f4",
+              "type": "verifiable_checkbox",
+              "label": "I have identified improvements I can make to my shelter next time I try building one.",
+              "dialog_text": "Thinking about their shelter, if the weather was different would they need to make improvements and what improvements would they have made? What will they do differently next time to challenge themselves further?"
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

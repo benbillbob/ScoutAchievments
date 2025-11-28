@@ -1,0 +1,148 @@
+{
+  "template": "oas/cycling/mountain-biking/7",
+  "meta": {
+    "stage": 7,
+    "stream": "mountain-biking"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 7 - Mountain biking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "stage_5_three_core_021421",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 of the three core Outdoor Adventure Skills.",
+              "dialog_text": "The youth member is required to have completed Stage 5 in Bushwalking, Bushcraft (Survival Skills Stream) and Camping."
+            },
+            {
+              "id": "research_mountain_bike_trails_ad3e4e",
+              "type": "verifiable_checkbox",
+              "label": "I can research mountain bike trails and routes applicable to my ability level.",
+              "dialog_text": "The youth member should be familiar with some of the many tools that are available to research, plan and creating a route plan for a specific Group skill level, whatever that level may be. Some examples include: \n * Google Earth \n * Strava \n * Open Street Maps \n * Bikepacking.com \n * State Government Trails Website \n * Firebreak/forest logging road databases \n \nNever forget to consult with physical maps of the riding area. Topographical lines and elevation change profiles are very important when considering the Group, Unit or Patrols ability to complete a ride."
+            },
+            {
+              "id": "plan_weekend_mountain_biking_e71145",
+              "type": "verifiable_checkbox",
+              "label": "I can plan a full weekend of mountain biking activities.",
+              "dialog_text": "The youth member should be competent in planning a mountain biking weekend, using all the knowledge, skills, and abilities that they have developed over their time in completing the Outdoor Adventure Skills up to Stage 6 Mountain Biking. \n \nThe weekend should cover a range of terrain and/or topography, and a varied range of trail grades and difficulties. The youth member should discuss and examine all aspects of risk management, with Scouts at Stage 9 Mountain Biking,  Subject Matter Experts or adult leaders providing support if necessary."
+            },
+            {
+              "id": "determine_personal_protective_equipment_ba500e",
+              "type": "verifiable_checkbox",
+              "label": "I can determine what personal protective equipment my mountain biking activity might require.",
+              "dialog_text": "The youth member should determine suitable personal protective equipment based on the activity location, and duration. This could include: \n * Helmet (potentially full face) \n * Shin pads \n * Knee pads \n * Arm pads \n * Enclosed shoes \n * Gloves \n * Long sleeves \n * Either clip-in or platform pedals \n * Lightweight weather protection \n \nDifferent levels of padding and protection is required depending on the style of mountain biking undertaken over the weekend. More advanced downhill/enduro trails will require more padding than some entry level or cross-country trails. \n \nWeather protection clothing may need to be worn during a ride, or it may be more comfortable and practical to have the weather protection clothing at a base point of activity and return there to be protected from the weather after the activities from the day have happened."
+            },
+            {
+              "id": "adjust_mountain_bike_for_activity_671eab",
+              "type": "verifiable_checkbox",
+              "label": "I know how to adjust mountain bike components such as front forks to suit my activity.",
+              "dialog_text": "The youth member should research and determine how to adjust a bike to suit their planned mountain bike activity. \n \nFront forks and other suspension components are normally either designed around a spring or compressed air. A metal spring can be tensioned, using a screw/bolt/nut within the suspension component. Compressed air-based suspension components can be decreased in pressure through a valve easily on the fly and need to have more air pumped into them to increase the pressure. \n \nIn some cases, a bike pump can do this, while in others a mechanical air compressor might be needed to generate enough pressure."
+            },
+            {
+              "id": "assisted_stage_five_mountain_bike_techniques_edde14",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted a Stage 5 or below Scout with learning some mountain biking handling techniques.",
+              "dialog_text": "The youth member should mentor Scouts in Stage 5 or below, and the skills that should be taught will depend on what sort of mountain biking that the Stage 5 youth members are interested in doing. In general, the skills to be developed should be around advanced braking and downhill skills, line negotiation at speed, and how to recover from crashes or lines that are leading to a potential crash."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "demonstrate_posture_control_balance_off_road_intermediate_difficult_terrain_25ff3e",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate appropriate posture and maintain control and balance at all times when riding off-road on intermediate to difficult terrain while conserving energy and momentum.",
+              "dialog_text": "The youth member should have experience in demonstrating posture in previous Outdoor Adventure Skill Stages. On a bike setup for advanced mountain biking, the bike will have a natural ability to roll seamlessly over most small obstacles. Remember that conserving momentum, knowing when to pedal and how to lean are essential skills if doing a whole day (or more) mountain biking. \n \nIt is important to keep alert at all times and ensure that the youth member can see what is surrounding them and also what is on the ground. Gravel, sticks, roots, gum nuts and other small items can cause the rider to lose control if they are not careful. Maintaining posture control and manoeuvring body weight and centre of gravity are key to riding over intermediate mixed surfaces."
+            },
+            {
+              "id": "maintain_repair_mountain_biking_equipment_in_field_9992ef",
+              "type": "verifiable_checkbox",
+              "label": "I can maintain and repair mountain biking equipment in the field using an in-field repair kit.",
+              "dialog_text": "The youth member should be able to deal with repairs when out riding. Some problems that are quite common in relation to mountain biking that will need to be addressed in field are: \n * locked up rear cog \n * broken cleat or platform pedal \n * detached rear derailleur \n * broken brakes \n * pinch flats and other flats \n * tubeless tyre issues \n \nAn in-field repair kit, which the youth member would have initially assembled in Stage 3, should be customised to the specific bike being ridden, and the youth member should know exactly how to use each component of the multi tool and repair kit."
+            },
+            {
+              "id": "navigate_routes_difficult_situations_162580",
+              "type": "verifiable_checkbox",
+              "label": "I can navigate routes and negotiate difficult situations according to relevant legislation and organisational policies and procedures.",
+              "dialog_text": "The youth member should demonstrate trail etiquette and navigating their planned route in an off-road intermediate environment.  In the planning of the activity, the youth member needs to consider occupational health and safety, permits or permissions for access and environmental regulations. \n \nThe youth member should be able to overcome difficult situations which may include encountering traffic, fording rivers, headwinds, negotiating bumps and potholes and hazardous trail conditions and any emergency situations the activity might encounter."
+            },
+            {
+              "id": "undertaken_fifteen_mountain_biking_activities_9032af",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 15 mountain biking activities by the completion of Stage 7.",
+              "dialog_text": "The youth member should have a detailed log and lots of photos. Photos/video are a great way of capturing the memories that are grown on Cycling activities/tours. The log should contain all essential information as well as some reflective comments."
+            },
+            {
+              "id": "ride_intermediate_trails_1c20f1",
+              "type": "verifiable_checkbox",
+              "label": "I can ride at intermediate level on a mountain bike trail.",
+              "dialog_text": "The youth member should be able to effectively manage an intermediate trail which is likely to be a single trail with moderate gradients, with variable surface and obstacles. \n \nMountain Bike trails have grades, ranging from: \n * White (very easy) \n * Green (easy) \n * Blue (intermediate) \n * Black (Difficult) \n * Double Black (Extreme)"
+            },
+            {
+              "id": "led_mountain_biking_activities_8dc828",
+              "type": "verifiable_checkbox",
+              "label": "I have led a mountain biking activity at this Stage.",
+              "dialog_text": "The youth member should have led a mountain biking activity at up to an Intermediate Level. This will require ensuring that the group understands the requirements of what an Intermediate Level means. \n \nThe youth member should lead the Patrol to negotiate rocky and loose tread trails, obstacles, and moderate gradients and steep trails."
+            },
+            {
+              "id": "assist_stage_five_scout_fit_adjust_equipment_c839c3",
+              "type": "verifiable_checkbox",
+              "label": "I can assist a Stage 5 Scout or below to fit and adjust their bike and equipment.",
+              "dialog_text": "The youth member should mentor Scouts Stage 5 or below in adjusting their bikes and equipment. \n \nAreas of fit include (but not limited to): \n * The top tube height \n * The seatpost height \n * Distance from seat to handlebars \n * Distance from seat to pedals \n * Width of handlebars \n * Overall geometry of frame"
+            },
+            {
+              "id": "assist_group_members_in_field_repairs_fc018f",
+              "type": "verifiable_checkbox",
+              "label": "I can assist the other members of my group to conduct repairs in the field using an in-field repair kit.",
+              "dialog_text": "The youth member should be able to support other less experienced Scouts with completing: \n * tyre tube replacement \n * tubeless fluid replacement \n * tightening the chain \n * resetting cable based brake pads \n * short term hydraulic brake fixes \n * repairing a torn sidewall \n * clearing/cleaning and then regreasing the front/rear cogs."
+            },
+            {
+              "id": "facilitate_skills_development_course_stage_five_07849e",
+              "type": "verifiable_checkbox",
+              "label": "I can facilitate a skills development session for Stage 5 Scouts and below.",
+              "dialog_text": "The youth member could include technical skills such as cornering, weight distribution and some bike repair and maintenance skills, or they could include general cycle touring skills, such as group riding, lightweight pack list creation, and mapping."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "demonstrated_removing_mud_dirt_bicycle_lubricant_b0f883",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated removing mud and dirt from a bicycle and spraying all moving parts with an appropriate lubricant.",
+              "dialog_text": "The youth member should demonstrate cleaning a mountain bike. Mud and dirt will likely accumulate in the front and back gearsets, under the down tube, on the forks, in the chain, under the seat post, and under the bottom bracket. \n \nWhen using water at high pressure, it is important to not let the water get inside the bottom bracket or other sealed areas such as forks, or suspension-based components. \n \nThe kind of lubricant to be used depends heavily on the environment that the youth member expects to be riding in. There are three key types: wet lubricant, dry lubricant and mixed lubricant. \n * Wet lubricant is designed to be used in situations where there is lots of mud, rain, and dampness. \n * Dry lubricant is designed for gravel riding, dry environments, or riding in areas where there is lots of sand and dust. \n * Mixed lubricant is designed for use where the riding environment is not entirely known, or where there may be a change in environments halfway through the ride. \n \nIt is important to match the right lubricant to the right riding environment."
+            },
+            {
+              "id": "facilitated_debrief_session_mountain_biking_journey_lead_b0f883",
+              "type": "verifiable_checkbox",
+              "label": "I have facilitated a debrief session for a mountain-biking journey I have led at this Stage, including positive affirmations of member contributions, and offering feedback on areas for improvement.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

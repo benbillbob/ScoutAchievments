@@ -1,0 +1,130 @@
+{
+  "template": "oas/cycling/cycle-touring/7",
+  "meta": {
+    "stage": 7,
+    "stream": "cycle-touring"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 7 - Cycle touring",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "stage_5_three_core_021421",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 of the three core Outdoor Adventure Skills.",
+              "dialog_text": "The youth member is required to have completed Stage 5 in Bushwalking, Bushcraft (Survival Skills Stream) and Camping."
+            },
+            {
+              "id": "research_determine_route_group_ad3e4e",
+              "type": "verifiable_checkbox",
+              "label": "I know how to research and determine a route that is appropriate for the group across a range of surfaces.",
+              "dialog_text": "The youth member should be familiar with some of the many tools that are available to research, plan and creating a route plan for a specific Group skill level, whatever that level may be. Some examples include: \n * Google Earth \n * Strava \n * Open Street Maps \n * Bikepacking.com \n * State Government Trails Website \n * Firebreak/forest logging road databases \n \nNever forget to consult with physical maps of the riding area. Topographical lines and elevation change profiles are very important when considering the Group, Unit or Patrols ability to complete a ride."
+            },
+            {
+              "id": "planned_aspects_journey_lead_e71145",
+              "type": "verifiable_checkbox",
+              "label": "I have planned all aspects of a cycle journey that I will then lead.",
+              "dialog_text": "The youth member should use all the knowledge, skills, and abilities that they have developed over their time in completing the Outdoor Adventure Skills up to Stage 6 Cycling. They should be competent in planning a Cycling Journey. This Journey should be multiple days and cover a range of terrain and/or topography. The youth member should discuss and examine all aspects of risk management, with subject matter experts or adult leaders providing support if necessary."
+            },
+            {
+              "id": "help_stage_five_scouts_personal_protective_clothing_997691",
+              "type": "verifiable_checkbox",
+              "label": "I can help Stage 5 and below Scouts to select personal and protective clothing and identify design and/or construction features that make it appropriate.",
+              "dialog_text": "The youth member should be a good mentor to Scouts working on Stage 5 or below. They can discuss and assist the Stage 5 Scout with understanding the benefits for most common kinds of personal and protective clothing in Cycle Touring in order to select the appropriate items for their cycle journeys. \n \nThe most common kinds of personal and protective clothing are helmets, clip-in shoes, gloves, jersey and bibs (shorts), as well as lightweight weather protection."
+            },
+            {
+              "id": "plan_front_tail_vehicle_journey_9eb6c1",
+              "type": "verifiable_checkbox",
+              "label": "I can plan for the use of front and tail vehicles on a bicycle journey.",
+              "dialog_text": "The youth member should be able to determine whether their risk management plan requires a support vehicle(s), and what the role of the support vehicle(s) should be. In some situations, such as a cycle touring activity in a rural or backcountry area, a support vehicle(s) may be required.  In some cases, the vehicle(s) might have a role of dropping food, supplies or equipment at an end camping location each day. In some other cases, the vehicle(s) may have to be a tail/front guidance vehicle to reduce the risk of crashing or collision with other vehicles."
+            },
+            {
+              "id": "assist_stage_five_fit_adjust_bike_equipment_9eb6c1",
+              "type": "verifiable_checkbox",
+              "label": "I can assist a Stage 5 Scout or below to fit and adjust their bike and equipment.",
+              "dialog_text": "The youth member should mentor Scouts Stage 5 or below in adjusting their bikes and equipment. \n \nAreas of fit include (but not limited to): \n * The top tube height \n * The seatpost height \n * Distance from seat to handlebars \n * Distance from seat to pedals \n * Width of handlebars \n * Overall geometry of frame"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "demonstrate_posture_maintain_safety_65537e",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate appropriate posture and maintain safety, control and balance at all times when riding including monitoring my position on the road.",
+              "dialog_text": "The youth member should have experience in demonstrating posture in previous Stages. \n \nOn a bike set up for Cycle Touring (such as having thinner tyres, drop bars, and bags/panniers/trailer) remaining stable and in control can be a challenge at times. \n \nIt is important to keep alert at all times and ensure that the youth member can see on what is surrounding them and also what is on the ground. Gravel, sticks, gum nuts and other small items can cause a loss of control if the Scout is not careful. Maintaining posture control and manoeuvring body weight and centre of gravity are all important."
+            },
+            {
+              "id": "assist_group_repairs_fc018f",
+              "type": "verifiable_checkbox",
+              "label": "I can assist the other members of my group to conduct repairs in the field using an in-field repair kit.",
+              "dialog_text": "The youth member should be able to support other less experienced Scouts with completing: \n * tyre tube replacement \n * tubeless fluid replacement \n * tightening the chain \n * resetting cable based brake pads \n * short term hydraulic brake fixes \n * repairing a torn sidewall \n * clearing/cleaning and then regreasing the front/rear cogs."
+            },
+            {
+              "id": "completed_fifteen_days_cycling_0c5a8d",
+              "type": "verifiable_checkbox",
+              "label": "I have completed 15 days of cycling by the completion of Stage 7.",
+              "dialog_text": "The youth member should have a detailed log and lots of photos. Photos/video are a great way of capturing the memories that are grown on Cycling activities/tours. The log should contain all essential information as well as some reflective comments."
+            },
+            {
+              "id": "facilitate_skills_development_stage_five_07849e",
+              "type": "verifiable_checkbox",
+              "label": "I can facilitate a skills development session for Stage 5 Scouts and below.",
+              "dialog_text": "The youth member could include technical skills such as cornering, weight distribution and some bike repair and maintenance skills, or they could include general cycle touring skills, such as group riding, lightweight pack list creation, and mapping."
+            },
+            {
+              "id": "lead_multiday_cycling_expedition_e29bce",
+              "type": "verifiable_checkbox",
+              "label": "I have led a multi-day cycling expedition at this Stage.",
+              "dialog_text": "The youth member should lead a multi-day cycling expedition which is a challenge to all members in the Patrol. The expedition may be supported by a vehicle, depending on the risk management plan and the purpose of the cycling expedition. It is suggested by Subject Matter Experts that at this Stage, a multi-day expedition should cover at least 50km per day, with 500m of elevation change, however, the distance to be covered should be scaled depending on the weight being carried & the ability of the expedition members. If the expedition members are carrying only the essential day items, then they should be covering a much greater distance than if they were carrying all their equipment such as shelter and sleeping gear."
+            },
+            {
+              "id": "ridden_intermediate_mixed_surfaces_ascents_descents_8c77be",
+              "type": "verifiable_checkbox",
+              "label": "I have ridden on intermediate mixed surface for ascents and descents.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "demonstrated_removing_mud_dirt_bicycle_lubricant_b0f883",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated removing mud and dirt from a bicycle and spraying all moving parts with an appropriate lubricant.",
+              "dialog_text": "The youth member should demonstrate cleaning their bicycle. Mud and dirt will likely accumulate in the front and back gearsets, under the down tube, on the forks, in the chain, under the seat post, and under the bottom bracket. When using water at high pressure, it is important to not let the water get inside the bottom bracket or other sealed areas such as forks, or suspension-based components."
+            },
+            {
+              "id": "facilitated_debrief_session_journey_lead_b0f883",
+              "type": "verifiable_checkbox",
+              "label": "I have facilitated a debrief session for a cycling journey I have led at this Stage, including positive affirmations of member contributions, and offering feedback on areas for improvement.",
+              "dialog_text": "Guidance under development."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

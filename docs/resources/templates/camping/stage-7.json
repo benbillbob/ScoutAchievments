@@ -1,0 +1,124 @@
+{
+  "template": "oas/camping/7",
+  "meta": {
+    "stage": 7,
+    "stream": "camping"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 7 - Camping",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "different_plan_camps_activities_of_least_types_1b470e",
+              "type": "verifiable_checkbox",
+              "label": "I can plan activities for at least two different types of camps.",
+              "dialog_text": "The youth member should be able to plan for activities, such as: \n * break off activities \n * reflective activities \n * games \n * team building exercises \n * adventurous activities sharing of knowledge \n * any other type of activity during different camp scenarios. \n \nThese different types of camps may include: \n * standing camps \n * expeditions \n * patrol activity camps \n * group camps \n * travel etc. \n \nThe activities planned should encourage a range of people at different skill and development levels being involved in the activity."
+            },
+            {
+              "id": "fatigue_identify_manage_02f007",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify and manage fatigue.",
+              "dialog_text": "The youth member needs to consider the signs and symptoms that may appear in different ways with different people and how to manage the issues when they occur. \n \nFatigue is a feeling of weariness and tiredness, often stemming from having a lack of energy from nutrition or lack of rest and sleep, It can be hard to dispel even after sleep and attempting to recover. Managing fatigue can include the following: \n * drinking water over a long period of time \n * proper nutrition \n * rest \n * sleep"
+            },
+            {
+              "id": "risks_prepare_expected_emergency_camp_plan_describe_hazards_bfe3b8",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare and describe an emergency plan for expected risks and hazards at camp.",
+              "dialog_text": "The emergency plan should be developed from your risk management and mitigation template of expected risks and challenges over a camp. The emergency plan should detail what all of the major risks are, and what the solutions to these risks if they occur. The risk analysis and management template is available from the Scouts Australia website (also available from your local Branch website), and this template provides a flexible resource for your risk mitigation. It is your role to describe potential risks and how to manage these risks with the Patrol or Unit/Group you will be responsible for at camp."
+            },
+            {
+              "id": "facilitate_development_through_setting_camp_plan_planning_stage_b52be9",
+              "type": "verifiable_checkbox",
+              "label": "I can plan for a camp to have outcomes during the planning stage and can facilitate development of participants through a camp setting.",
+              "dialog_text": "At this Stage, the youth member should be able to plan a camp around particular outcomes for the group and individuals. The outcomes could be related to: \n * team building \n * a particular activity or skill \n * building new friendships \n * learning about others. \n \nThe youth member should be able to plan for outcomes of Participating in Milestones to be achieved and should target particular Challenge Areas and requirements of the Unit throughout the camping trip. The youth member should also consider areas of the Scout Method and SPICES through their Plan> and Review> of the camp."
+            },
+            {
+              "id": "use_their_effective_teach_camp_stoves_another_of_f83367",
+              "type": "verifiable_checkbox",
+              "label": "I can teach the use of various stoves and their effective use to another Scout.",
+              "dialog_text": "The youth member should teach another Scout about a combination of: \n * Liquid (multi-fuel) stoves \n * Liquid-gas cylinder stoves \n * Alcohol stoves \n * Chemical solid fuel stoves. \n \nFor further clarification or information about stoves and their uses we encourage using multiple information sources."
+            },
+            {
+              "id": "development_stages_understand_tuckmans_of_group_b9d0aa",
+              "type": "verifiable_checkbox",
+              "label": "I understand Tuckman’s stages of group development.",
+              "dialog_text": "The youth member should understand Tuckman's stages of group development, and consider when they have had similar situations occur through Scouting trips or activities, and how this knowledge can help support positive group development in the future. \n \nAlso, the youth member should have investigated different types of group development theories/models and have knowledge of what these are and how they compare and contrast with Tuckman's."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "changing_patterns_adapt_camp_plan_demonstrate_weather_1b53c6",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to plan for and adapt to changing weather patterns at a camp.",
+              "dialog_text": "Weather patterns will change, as weather is a very volatile and hard to predict phenomenon. This means that it is essential to include the fact that the weather might be very different to what it is predicted to be on the activity and camp. The youth member needs to show how they would plan for changing weather and what risk mitigation strategies can be put in place to support the plan."
+            },
+            {
+              "id": "activity_organise_camping_scout_assist_stage_5_481089",
+              "type": "verifiable_checkbox",
+              "label": "I can assist a Stage 5 Scout to organise a Stage 5 camping activity.",
+              "dialog_text": "The youth member should support the Stage 5 youth member to plan an activity to run at an upcoming camp including: \n * Defining the activity \n * Defining the purpose of the activity \n * Working out the length of activity \n * Doing a risk assessment for the activity \n * Supporting the youth member with anything else that needs to be planned for the activity. \n \nThis is a supporting and mentoring role, the youth member should not be organising the components of the activity."
+            },
+            {
+              "id": "brief_behaviours_team_locational_conjunction_camp_requirements_appropriate_7ffe0e",
+              "type": "verifiable_checkbox",
+              "label": "I can brief my team on appropriate behaviours at camp in conjunction with locational requirements.",
+              "dialog_text": "The Stage 7 Scout should fully understand what sorts of behaviours are required from youth members to maintain efficiency and good morale in a camping environment. The youth member should brief members on an agreed Unit code and things such as: \n * teamwork \n * positivity \n * friendliness \n * communication \n * leadership \n * attitude \n * listening skills \n * keenness for adventure. \n \nBehaviours that do not flow on from those listed above, or other similar behaviours in general, are not appropriate for a camping environment. \n \nThe Stage 7 Scout should be able to brief their team on what sort of behaviours are applicable to this camp."
+            },
+            {
+              "id": "myself_team_camp_responsibility_take_whilst_4d6667",
+              "type": "verifiable_checkbox",
+              "label": "I can take responsibility for myself and my team whilst on camp.",
+              "dialog_text": "The youth member is responsible for the safety and overall well-being of youth members attending a camp. The youth member should lead the participants and their overall actions needs to be responsible and in-line with the agreed Unit Code and behavioural expectations. The youth member needs to take into account people's needs on camp. An over-seeing adult Leader is likely to be the accountable person for peoples well being at this Stage."
+            },
+            {
+              "id": "been_leader_completion_camp_stage_7_camps_2_d7dfb6",
+              "type": "verifiable_checkbox",
+              "label": "I have been a camp leader for a minimum of 2 camps by the completion of Stage 7.",
+              "dialog_text": "A camp leader is the overall responsible person for the planning and operations of a camp. All planning and logistical information needs to be accounted for and the youth member can guide other team members through the completion of these tasks."
+            },
+            {
+              "id": "32_range_while_without_3_end_camp_7_d39913",
+              "type": "verifiable_checkbox",
+              "label": "I have spent 32 nights at camp in a range of seasons by the end of Stage 7, including 3 nights without direct supervision by an adult while completing Stage 7.",
+              "dialog_text": "A range of seasons includes summer and winter camping, so that the youth member has experience in camping in various conditions, with different weather patterns, likely doing different activities."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "level_could_feedback_activities_patrol_camping_selection_considering_63d2c9",
+              "type": "verifiable_checkbox",
+              "label": "I can provide feedback to my patrol on how we could improve our camping in the future, considering risk management, safety, activities, equipment management, location selection, level of difficulty, etc.",
+              "dialog_text": "The youth member at this higher Stage now needs to start providing valuable positive and constructive feedback to other members of the team in relation to camping trips and the Plan> and Do> aspects of these."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "template": "oas/alpine/1",
+  "meta": {
+    "stage": 1,
+    "stream": "alpine"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 1 - Alpine",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "trip_pack_help_backpack_snow_439b95",
+              "type": "verifiable_checkbox",
+              "label": "I can help pack a backpack for a snow trip.",
+              "dialog_text": "The youth member should be able to describe what they might put in their pack for spending a day/morning/afternoon at the snow."
+            },
+            {
+              "id": "go_trip_dress_snow_7d2873",
+              "type": "verifiable_checkbox",
+              "label": "I know how to dress when I go on a snow trip.",
+              "dialog_text": "The youth member should be able to select appropriate clothing for the snow activity and the expected weather conditions. \n \nThe youth member should wear clothing that is fast drying (not cotton) and be able to keep the youth member warm when wet. Layers of clothing are usually best and closed-toe shoes are always appropriate when on snow and doing alpine activities."
+            },
+            {
+              "id": "system_buddy_explain_7b52be",
+              "type": "verifiable_checkbox",
+              "label": "I can explain the buddy system.",
+              "dialog_text": "The youth member should be able to describe what the buddy system is and how it works when on alpine activities."
+            },
+            {
+              "id": "importance_snow_trail_of_whilst_staying_821e53",
+              "type": "verifiable_checkbox",
+              "label": "I know the importance of staying on the trail whilst at the snow.",
+              "dialog_text": "The youth member should be able to talk about the importance of trails, as by staying on them we minimise the environmental impact and reduce the likelihood of getting lost. \n \nThe youth member should know that the phrase 'staying on the trail' may include within defined areas at the snow, such as snow play, marked trails and ski/board runs."
+            },
+            {
+              "id": "snow_stop_lost_baaebd",
+              "type": "verifiable_checkbox",
+              "label": "I know why to stop when I get lost in the snow.",
+              "dialog_text": "The youth member should be able to talk about why we would stop when we get lost. This is mainly so that we don't get lost any further and gives others a better chance of finding us."
+            },
+            {
+              "id": "contact_emergency_services_cee25b",
+              "type": "verifiable_checkbox",
+              "label": "I know how to contact the emergency services.",
+              "dialog_text": "The youth member should have a plan should something go wrong, including knowing how to contact emergency services based on their location. They should be able to state the correct phone numbers or radio channels and mention an EPIRB. \nThe youth member should also be able to state who the best person to contact in an emergency is (e.g. activity leader, ski patrol/emergency services, ski resort staff)"
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "something_out_snow_of_built_8310e1",
+              "type": "verifiable_checkbox",
+              "label": "I have built something out of snow.",
+              "dialog_text": "The youth member should build something out of snow and ideally take a photograph so their can put it in their logbook. This could be a snowman, small snow shelter, or something else they have built from snow. This could be done individually, as a Patrol or as a whole Unit."
+            },
+            {
+              "id": "change_trip_stay_am_dry_snow_clothes_258412",
+              "type": "verifiable_checkbox",
+              "label": "I know how to stay dry or change to dry clothes when I am on a snow trip.",
+              "dialog_text": "The youth member should have packed dry clothes their trip to the snow. \nThey should be wearing the correct clothing, including layers with a water-resistant outer layer."
+            },
+            {
+              "id": "trip_activity_instructions_leader_snow_follow_of_2c3052",
+              "type": "verifiable_checkbox",
+              "label": "I follow the instructions of the activity leader when at a snow trip.",
+              "dialog_text": "The youth member should demonstrate this by listening and following instructions given by the activity leader."
+            },
+            {
+              "id": "tobogganing_been_8bb504",
+              "type": "verifiable_checkbox",
+              "label": "I have been tobogganing.",
+              "dialog_text": "The youth member should use a toboggan or similar object which allows you to sit on and slide over snow and ice. They should write about their experience in their logbook and include a list of who was with them. This does not need to occur within resort boundaries, as long as the activity is occuring in a safe place for this type of activity."
+            },
+            {
+              "id": "trip_duration_care_snow_day_take_of_equipment_e14ff2",
+              "type": "verifiable_checkbox",
+              "label": "I can take care of my equipment for the duration of a day trip to the snow.",
+              "dialog_text": "The youth member will need to demonstrate looking after their equipment, which includes keeping their food and warm clothing dry. Depending on the activity, whether it is skiing, snowboarding, tobogganing or snow play, they should ensure they look after thier gear appropriately and do not lose or misplace it."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "talk_trip_participating_enjoyed_snow_6acce1",
+              "type": "verifiable_checkbox",
+              "label": "I can talk about what I enjoyed by participating in a snow trip.",
+              "dialog_text": "The youth member should review their adventures and talk with other Scouts and leaders about their favourite thing from their snow trip. They should record the details in their logbook, and could include photographs, drawings or videos too."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

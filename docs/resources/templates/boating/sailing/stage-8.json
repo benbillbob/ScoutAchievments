@@ -1,0 +1,136 @@
+{
+  "template": "oas/boating/sailing/8",
+  "meta": {
+    "stage": 8,
+    "stream": "sailing"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Sailing",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "teach_proper_etiquette_marine_radio_d7ef83",
+              "type": "verifiable_checkbox",
+              "label": "I can teach proper etiquette for using a marine radio on the water.",
+              "dialog_text": "The youth member should ensure they are aware of the correct etiquette when using a marine radio on the water, which should include key radio call procedures for routine calls, distress calls, urgency calls and safety calls."
+            },
+            {
+              "id": "obtained_correct_license_marine_radio_26f316",
+              "type": "verifiable_checkbox",
+              "label": "I have obtained the correct licence for a marine radio if required.",
+              "dialog_text": "The youth member will need a Marine Radio Licence if they are operating a Marine VHF Radio (short range) and/or MF/HF Radio (long range)."
+            },
+            {
+              "id": "evaluate_meteorological_tidal_effects_new_location_5515c9",
+              "type": "verifiable_checkbox",
+              "label": "I can evaluate meteorological and tidal effects of a new sailing location.",
+              "dialog_text": "The youth member should be able to evaluate meteorological and tidal effects when planning a sailing trip in an unfamiliar area."
+            },
+            {
+              "id": "anticipate_variable_winds_229793",
+              "type": "verifiable_checkbox",
+              "label": "I can anticipate variable winds in a marine environment.",
+              "dialog_text": "The youth member should be able to anticipate variable winds in the marine environment and this should be evident in their planning and contingency plan."
+            },
+            {
+              "id": "plan_minimum_two_night_sailing_journey_patrol_378478",
+              "type": "verifiable_checkbox",
+              "label": "I can plan for a minimum of a 2 night, 3 day sailing journey for a Patrol of 4 or more, looking after all pre-requirements.",
+              "dialog_text": "The youth member should take primary leadership, including responsibility and risk management for a 2 night, 3 day sailing journey.  They will need to have their plan reviewed and supervised by a qualified sailor. Their plan needs to include route, navigation, equipment needs, food needs, emergency plan, weather and tide conditions. The trip should consist of roughly 4-6 hours of activity each day and could be a point to point sailing trip or a return trip to start location."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "organise_regatta",
+              "type": "verifiable_checkbox",
+              "label": "I have organised and run a one to two-day sailing regatta.",
+              "dialog_text": "The youth member should take primary leadership, including responsibility and risk management for a one-to two day sailing regatta.  The youth member will need to have their regatta plan reviewed and supervised by a qualified sailor. They will also need to ensure that they adhere to the current International Sailing Federation racing rules."
+            },
+            {
+              "id": "roll_tacking_and_gybe",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated roll tacking and gybe manoeuvres in changing conditions.",
+              "dialog_text": "The youth member should demonstrate and log roll tacking and gybe manoeuvrers in changing conditions."
+            },
+            {
+              "id": "use_drogues",
+              "type": "verifiable_checkbox",
+              "label": "I understand the use of drogues and have practiced this use at least once.",
+              "dialog_text": "The youth member should be able to describe what a drogue is and when it is used as well as practicing using in at least once. They should include this experience in their logbook."
+            },
+            {
+              "id": "taught_MOB_recovery",
+              "type": "verifiable_checkbox",
+              "label": "I have taught 3 different MOB recovery methods to a Stage 7 Scout or lower.",
+              "dialog_text": "The youth member should have already had some practice in Stage 5 and Stage 6 demonstrating a couple of rescue methods for retrieving someone overboard. By this stage they should be competent enough to now be able to successfully teach a Stage 7 or less experienced scout on three different MOB recovery methods, ensuring they follow their emergency action plan for a Man Overboard. They should remember to log their rescue training activity, noting their role and what they did during the activity (Photos or video can be great evidence too)."
+            },
+            {
+              "id": "demonstrated_various_methods_launch_retrieve_spinnaker_5a4c19",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated various methods to launch and retrieve a spinnaker on different sized vessels.",
+              "dialog_text": "The youth member should practice and be able to demonstrate launching and retrieving a spinnaker on different sized vessels. They should include these skills in their logbook including who can verify their skill."
+            },
+            {
+              "id": "undertaken_twenty_days_sailing_breeze_overnight_f5589a",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least 20 days of sailing, including some days in breezes of over 20 knots and at least 1 overnight sail.",
+              "dialog_text": "The youth member needs to do at least 20 sailing activity days, as well as one overnight sailing trip and ensure they are in their logbook. A day is counted as roughly four - six hours of activity time depending on conditions and skill of their crew. In their log they should include when they did the activities, where they did the activities, who they did it with, what the weather was like and any other interesting information about their activity."
+            },
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the Outdoor Adventure Skills, a Wilderness First Aid course consists of SIS training package's Wilderness First Aid skillset (SISSS00126), or its replacement: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses."
+            },
+            {
+              "id": "rescue_skills_session_08ccd7",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in a rescue skills session including practice recovery from a capsize.",
+              "dialog_text": "The youth member should have already demonstrated man over board rescues in previous stages. They will need to participate in a Mock rescue skills session which includes recovery from capsize. \n \nThey should include assess and identify potential hazards and risks, choose a rescue method suitable for the situation, and ensure they communicate with their crew. They should demonstrate this skill in a couple of different environments, such as different sea, beach and bay conditions or different weather conditions. \n \nThey need to log their rescues and ensure they include a description as to the conditions and what they did during the rescue."
+            },
+            {
+              "id": "competence_boat_maintenance_08ccd7",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated competence at boat maintenance tasks with safe use of tools, paints and resins.",
+              "dialog_text": "The youth member should demonstrate being competent with general boat maintenance and the safe use of tools, paints and resins, ensuring they follow the manufacturers guidelines and use the correct PPE when undertaking the tasks."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "review_boat_maintenance_training_program_scout_group_ad892a",
+              "type": "verifiable_checkbox",
+              "label": "I have helped review the boat maintenance and training program at my Scout Group or Scout Sailing Centre and have taken part in implementing improvements.",
+              "dialog_text": "The youth member should assist in reviewing their Scout Group or sailing centre's maintenance and training program and provide feedback and then assist in implementing the proposed improvements."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

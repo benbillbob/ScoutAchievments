@@ -1,0 +1,178 @@
+{
+  "template": "oas/paddling/sea-kayaking/5",
+  "meta": {
+    "stage": 5,
+    "stream": "sea-kayaking"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 5 - Sea kayaking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "identify_food_water_multi_day_sea_kayak_62471a",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify food and water requirements for multi-day paddling trips.",
+              "dialog_text": "The youth member should consider how they might identify the needs of particular trips given people, location, season and access to food and water sources. The youth member should be able to:  \n * Specify how much water to carry, and how often they will need to re-fill  \n * Specify how many of each meal they will need (breakfast, lunch, dinner, snacks) and for how many people  \n * Identify suitable foods for sea kayaking with regard to energy content, durability, perishability, and deliciousness  \n * Estimate overall energy requirements: how strenuous is the day?  Will it make the party eat more?."
+            },
+            {
+              "id": "select_routes_damage_environment_sea_kayak_str28a",
+              "type": "verifiable_checkbox",
+              "label": "I can select routes that minimise damage to the environment.",
+              "dialog_text": "The youth member should demonstrate an understanding in their plan that they are able to select appropriate launching points and rest stops to ensure minimal damage to the environment."
+            },
+            {
+              "id": "hazards_sea_kayak_minimise_risk_325a8a",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated with sea kayaking and procedures to minimise risks and I know how to take actions to minimise these risks.",
+              "dialog_text": "The youth member should identify the difference between a hazard and a risk. The youth member should provide a hazard assessment and will need to account for:  \n * Human hazards \n * Environmental hazards \n * Equipment hazards \n \nThe youth member should include in their plan what steps they will take to minimise these hazards during an activity. The youth member should then consider the risks that may come from these hazards and how they will mitigate these on an activity. This step could be done as a Patrol or individual before a sea kayaking trip."
+            },
+            {
+              "id": "source_info_sea_kayak_select_425a8a",
+              "type": "verifiable_checkbox",
+              "label": "I know where to source information about sea kayak selection.",
+              "dialog_text": "The youth member should research and provide sources of information about selecting appropriate sea kayaking equipment for their planned activity."
+            },
+            {
+              "id": "basic_waterways_know_sea_kayak_5a8a",
+              "type": "verifiable_checkbox",
+              "label": "I have a basic waterways knowledge e.g tides, eddies, flow.",
+              "dialog_text": "The youth member should demonstrate an understanding through their planning that they have basic waterways knowledge. The youth member can do this by taking consideration of tide times into their plan and explaining the importance of the tides, eddies and flow of the river or open sea when planning their sea kayaking activity. The youth member should also be able to identify these three features during a sea kayak trip."
+            },
+            {
+              "id": "identify_waterway_markers_65a8a",
+              "type": "verifiable_checkbox",
+              "label": "I can identify different waterways markers.",
+              "dialog_text": "The youth member should be able to demonstrate knowledge of the different waterway markers when planning their route, using maps and/or charts which show the markers. These should be in addition to the common waterway markers the youth member demonstrated knowledge of in Stage 3. The practical demonstration of understanding waterways markers should be undertaken at Stage 5 as well."
+            },
+            {
+              "id": "waterways_regulations_sea_kayak_75a8a",
+              "type": "verifiable_checkbox",
+              "label": "I know where to find waterways regulations and can point out two things I didn’t already know when participating in a watercraft activities.",
+              "dialog_text": "The youth member should source the relevant local waterway regulations to their activity and indicate how it relates to the planned sea kayaking activity. The youth member should be able to discuss two new things they learned about on their sea kayaking activity. This could be related to the activity itself, different gear another Scout might have had or even something in the environment which the youth member noticed such as the name of a bird or animal. Government marine websites and the Australian Adventurous Activities Standards may be a good place to start for information."
+            },
+            {
+              "id": "collect_campfire_8_sticks_32e623",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the use for a kayak roll and can name two different versions.",
+              "dialog_text": "The youth member should research and provide sources of information about the reasons for kayak rolls and two methods of rolling a sea kayak."
+            },
+            {
+              "id": "techniques_avoid_injury_equipment_sea_kayak_95a8a",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate techniques to avoid injury when setting up, packing up or moving equipment.",
+              "dialog_text": "The youth member should demonstrate correctly lifting and moving equipment to reduce the risk of injury during transportation and storage. The youth member should consider body positioning, equipment position and other peoples position all having implications on how to avoid injury."
+            },
+            {
+              "id": "prepare_emergency_plan_float_sea_kayak_225a8a",
+              "type": "verifiable_checkbox",
+              "label": "I have helped prepare an emergency plan and a float plan with a more-experienced sea kayaker for a trip.",
+              "dialog_text": "The youth member should work with a more experienced Scout to create an emergency plan and float plan for their activity. These plans will be taken on the sea kayak activity and be given to a responsible person in case of emergency. If needed these can be designed and developed together and the youth member could research emergency plans and float plans using paddling websites and the Australian Adventurous Activities Standards as guides."
+            },
+            {
+              "id": "safety_communications_equipment_sea_kayak_825a8a",
+              "type": "verifiable_checkbox",
+              "label": "I know what safety and communications equipment I should have with me while on a paddling journey and can demonstrate their uses.",
+              "dialog_text": "The youth member should include the safety and communication equipment in their activity plan and this should align with what they identified in Stage 4. The youth member should then demonstrate the correct use of this equipment on their sea kayak activity."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "provide_first_aid_115a8a",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed* a Provide First Aid and CPR Course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "one_two_day_sea_kayak_trip_225a8a",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in at least one two-day sea kayaking trip.",
+              "dialog_text": "The youth member needs to participate in one overnight, 2-day, sea kayaking journey and log it their logbook. A day is counted as roughly 6 hours of activity time depending on paddle and skill of group. The youth member should include where they did the activities, who they did them with, the weather conditions and any other interesting information about the activity. This journey should be in addition to any sea kayaking the youth member did in earlier Stages. Photos are also great evidence."
+            },
+            {
+              "id": "demonstrate_self_rescue_sea_kayak_225a8a",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate a self-rescue with my sea kayak.",
+              "dialog_text": "The youth member should demonstrate a self-rescue and explain the process, purpose and benefits to a Scout working on Stage 3 or below. The youth member should need minimal assistance to demonstrate this drill."
+            },
+            {
+              "id": "collect_campfire4g_sticks_32e623",
+              "type": "verifiable_checkbox",
+              "label": "I can apply deep-water re-entry techniques.",
+              "dialog_text": "The youth member needs to successfully demonstrate a deep-water re-entry, in their sea kayak. It is ok if the youth member can't do this first time, but they should keep trying and developing the skill. The youth member will need to be able to do this successfully before this statement is marked off.  The youth member should remember to include the activity details in their logbook, photos can also be great evidence."
+            },
+            {
+              "id": "assist_swamped_watercraft_sea_kayak_225a8a",
+              "type": "verifiable_checkbox",
+              "label": "I can assist Stage 3 paddlers to get back into their swamped watercraft.",
+              "dialog_text": "The youth member should assist, whilst in a sea kayak, a Scout working on Stage 3 to get back into their watercraft. The Stage 3 Scout could be in a kayak or canoe and the youth member could choose to assist them by doing an H or T rescue or talking them through a self-rescue. The youth member should remember to log the rescue practice in their logbook. Photos are also great evidence."
+            },
+            {
+              "id": "help_identify_parts_paddle_sea_kayak_225a8a",
+              "type": "verifiable_checkbox",
+              "label": "I can help paddlers at Stage 3 or below identify the parts of their paddle and their kayak.",
+              "dialog_text": "The youth member should help Scouts working on Stage 3 or lower to understand the different parts of their sea kayak and paddles and help them to learn the names. The youth member could do this through a game or something interesting and interactive."
+            },
+            {
+              "id": "participate_tow_sea_kayak_7225a8a",
+              "type": "verifiable_checkbox",
+              "label": "I have participated in being towed in my kayak.",
+              "dialog_text": "The youth member should participate in being towed during a sea kayaking activity. The youth member could do a simple long tow, rafted long tow, simple short tow or a group tow. This activity should be written in their logbook and photos should be included if possible."
+            },
+            {
+              "id": "demonstrate_5_strokes_sea_kayak_225a8a",
+              "type": "verifiable_checkbox",
+              "label": "I can use all my previously learnt strokes and can use support strokes for kayaking.",
+              "dialog_text": "The youth member should have learnt and been effectively demonstrating at least 5 strokes by Stage 4. The youth member should continue to effectively demonstrate these strokes and include rudder and support strokes for sea kayaking during a sea kayaking activity."
+            },
+            {
+              "id": "notify_trip_completion_sea_kayak_225a8a",
+              "type": "verifiable_checkbox",
+              "label": "I have notified the relevant authority of trip completion.",
+              "dialog_text": "The youth member should have provided their emergency plan and float plan to a responsible person prior to their sea kayaking activity and advised them when they started the activity. This could be the youth member's Scout Leader, Group Leader, local Police, National Parks or nominated home base personnel. On completion of the activity, the youth member should ensure that they notify the responsible person that they have completed the activity safely."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "review_own_performance_sea_kayak_6a0f4c",
+              "type": "verifiable_checkbox",
+              "label": "I can review my own sea kayaking performance and identify potential improvements.",
+              "dialog_text": "The youth member should be continually reviewing their performance during their kayaking activities and making small adjustments along the way, at the end of the activity the youth member should review their performance as a whole and identify ways they could improve. Could the youth member have improved their planning? What equipment could be improved or replaced? Which skills need to be developed? The review can be done individually and noted in the youth member's log book or a journal or with their activity Patrol or Unit."
+            },
+            {
+              "id": "identify_two_things_learned_sea_kayak_6a0f4c",
+              "type": "verifiable_checkbox",
+              "label": "I can identify two things I didn’t already know when participating in a sea kayaking activity.",
+              "dialog_text": "The youth member should be able to discuss with their Patrol two things they have learnt on a recent paddling journey that they didn’t already know about sea kayaking."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

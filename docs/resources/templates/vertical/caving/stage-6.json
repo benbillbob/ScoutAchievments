@@ -1,0 +1,184 @@
+{
+  "template": "oas/vertical/caving/6",
+  "meta": {
+    "stage": 6,
+    "stream": "caving"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 6 - Caving",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "teach_youth_pack_cave_de7909",
+              "type": "verifiable_checkbox",
+              "label": "I can teach another youth what to pack for a caving activity of my choice.",
+              "dialog_text": "The youth member should know what is required to be packed for a caving activity, taking into consideration the location and itinerary for the activity. They should be able to effectively pass this knowledge on to another Scout, working on a lower stage. The youth member will need to consider how they are going to convey this information."
+            },
+            {
+              "id": "organise_transport_cave_activity_365392",
+              "type": "verifiable_checkbox",
+              "label": "I can help organize the transportation required for an activity.",
+              "dialog_text": "The youth member should ensure they take into consideration transportation for a caving activity they are planning. This will include getting the group and gear to the location and back to the finishing point. The youth member can do this I statement in conjunction with when they plan a caving trip in this Stage."
+            },
+            {
+              "id": "risks_free_climb_cave_2b9dc6",
+              "type": "verifiable_checkbox",
+              "label": "I can identify the risks associated with free climbing in a cave.",
+              "dialog_text": "The youth member may research the risks associated with free climbing in a cave or speak to an experienced caver about this. They then need to construct their own understanding of the risks associated, and consider how they may manage these risks while caving."
+            },
+            {
+              "id": "discuss_hazards_abseiling_400c9a",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss hazards of caving activities to Stage 4 Scouts or below.",
+              "dialog_text": "The youth member should consider hazards which they know are involved in caving activities. These could be: \n * Human hazards \n * Environmental hazards \n * Equipment hazards \n \nThe youth member will then need to discuss these hazards with Scouts working on Stage 4 or below."
+            },
+            {
+              "id": "plan_lead_caving_supervision_8496bc",
+              "type": "verifiable_checkbox",
+              "label": "I can plan and lead a caving activity with skilled supervision.",
+              "dialog_text": "The youth member should take primary leadership, including responsibility and risk management for the caving activity. They will need to have their plan reviewed and supervised by a skilled caver. The plan needs to cover location, navigation to and from, equipment needs, food needs, emergency plan, weather conditions and planning for activities depending on the skill of the participants."
+            },
+            {
+              "id": "comprehensive_risk_assessment_caving_in1b",
+              "type": "verifiable_checkbox",
+              "label": "I can put together a comprehensive risk assessment for a caving activity that is coming up.",
+              "dialog_text": "The youth member should provide a risk assessment as part of their activity plan. They will need to account for: \n * Human risk \n * Environmental risk \n * Equipment risk \n \nThe youth member should also consider mitigations to reduce the risks identified. \n \nThis risk assessment needs to be reviewed by a skilled caver prior to the activity, with enough time that amendments can be made if required."
+            },
+            {
+              "id": "research_gear_abseil_activity_application_slee26ab",
+              "type": "verifiable_checkbox",
+              "label": "I can research the best gear for an activity application.",
+              "dialog_text": "The youth member should research and provide information about equipment selection for their abseiling activity, including the reasons for their choices. If they don’t have access to the gear they would like to use after their research, then the youth member should present to their Patrol why they would prefer to use other pieces of equipment rather than needing to purchase the new gear."
+            },
+            {
+              "id": "research_self_belay_techniques_applications_36ab",
+              "type": "verifiable_checkbox",
+              "label": "I can research a variety of self-belay techniques and the best applications for them.",
+              "dialog_text": "The youth member should research and provide information about different self-belaying techniques and when they would use those techniques and why. The youth member could write down their research or speak to their Patrol/ Unit or Project Patrol about the research."
+            },
+            {
+              "id": "research_rescue_techniques_caving_s46ab",
+              "type": "verifiable_checkbox",
+              "label": "I can research a variety of rescue techniques for caving activities.",
+              "dialog_text": "The youth member should research and provide information about a variety of rescue techniques and when they would use those techniques and why."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "belay_system_low_light_cave_0e848c",
+              "type": "verifiable_checkbox",
+              "label": "I can set up a belaying system safely in the low light environment of a cave.",
+              "dialog_text": "The youth member should demonstrate safely setting up of a belay system in a cave and ensure that a skilled caver has checked your set up before you test the lines. The different types of belays could be top belay, bottom belay, self-belay or re-belay and should be determined based on the cave set up. This should be indicated in your log and ensure your skilled caver has been noted as the verifier."
+            },
+            {
+              "id": "party_leader_cave_53f0a4",
+              "type": "verifiable_checkbox",
+              "label": "I have been party leader for one section of a caving journey.",
+              "dialog_text": "The youth member should demonstrate your leadership and navigational skills in a cave during at least one section of the cave under supervision of a skilled caver."
+            },
+            {
+              "id": "abseil_cave_self_belay_13d719",
+              "type": "verifiable_checkbox",
+              "label": "I can abseil using a self-belay.",
+              "dialog_text": "The youth member should demonstrate competency in safely self-belaying using a prusik hitch on an easy abseil in a cave."
+            },
+            {
+              "id": "belayed_spotted_other_cave_599800",
+              "type": "verifiable_checkbox",
+              "label": "I have belayed or spotted someone climbing into a cave.",
+              "dialog_text": "The youth member needs to demonstrate belaying or correctly spotting someone in a cave on an abseil or climb. They should be supervised by a skilled caver and they will need to include this in their logbook."
+            },
+            {
+              "id": "seven_activity_days_cave_7168cf",
+              "type": "verifiable_checkbox",
+              "label": "I have undertaken at least seven activity days of caving by the end of Stage 6.",
+              "dialog_text": "The youth member needs to do seven (7) or more caving activity days and log them in their logbook. They should include when they did the activity, where they did the activities, who they did it with and how high they were, and if they were graded how difficult they were."
+            },
+            {
+              "id": "correct_posture_abseil_descent_17b271",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated the correct posture for beginning an abseiling descent to a Stage 4 or below Scout.",
+              "dialog_text": "The youth member should be demonstrating abseiling positions with their feet flat on the wall and legs at right angles (90 degrees), shoulder width apart as part of an activity with Scouts who are working on Stage 4 or below."
+            },
+            {
+              "id": "assist_setup_abseil_cave_ec8074",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted in setting up abseils in a cave environment.",
+              "dialog_text": "The youth member will need to set up in a cave using suitable anchor, the appropriate knots, and ensure that a skilled caver has checked their set up before they test the line."
+            },
+            {
+              "id": "assist_multiple_belay_cave_ec8074",
+              "type": "verifiable_checkbox",
+              "label": "I have assisted in setting up multiple types of belays for different caving situations.",
+              "dialog_text": "The youth member will need to set up their belay based on the type of drop in a cave, using the appropriate knots, and ensure that a skilled caver has checked their set up before they test the line. The different types of belays could be top belay, bottom belay or self-belay."
+            },
+            {
+              "id": "belay_multiple_belay_cave_ec8074",
+              "type": "verifiable_checkbox",
+              "label": "I have belayed other Scouts on different types of belays.",
+              "dialog_text": "The youth member needs to demonstrate to others top belay, and if appropriate bottom belay, techniques in a cave. They will need to include this information in their logbook. They should include where they did the activities, who they did it with and how high they were, and if they were graded how difficult they were."
+            },
+            {
+              "id": "escape_belay_cave_ec8074",
+              "type": "verifiable_checkbox",
+              "label": "I can safely escape a belay while keeping the abseiler safe.",
+              "dialog_text": "The youth member will need to demonstrate escaping the belay in a cave whilst minimising any movement of the abseiler."
+            },
+            {
+              "id": "assist_rig_ladder_cave_ec8074",
+              "type": "verifiable_checkbox",
+              "label": "I can assist in rigging a caving ladder.",
+              "dialog_text": "The youth member needs to assist in safely rigging a caving ladder under guidance from a skilled caver. They will need to include this information in their logbook."
+            },
+            {
+              "id": "ascend_rope_cave_ec8074",
+              "type": "verifiable_checkbox",
+              "label": "I can ascend a rope in a cave environment.",
+              "dialog_text": "The youth member needs to demonstrate successfully and safely ascending a rope in a cave environment."
+            },
+            {
+              "id": "single_rope_techniques_variety_changeovers_dfa034",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate single-rope techniques for a variety of changeovers (e.g. passing a knot & changing from ascending to descending & vice versa).",
+              "dialog_text": "The youth member needs to learn and demonstrate these techniques under the guidance and supervision of a skilled caver."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "correct_group_gear_maintenance_99b5ed",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate the correct maintenance of group gear following the conclusion of a vertical activity.",
+              "dialog_text": "The youth member should demonstrate correct pack up, cleaning and maintenance of any gear following the activity. This includes retiring gear where necessary, and ensuring the equipment logbook is completed post activity."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

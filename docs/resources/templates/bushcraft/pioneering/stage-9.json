@@ -1,0 +1,94 @@
+{
+  "template": "oas/bushcraft/pioneering/9",
+  "meta": {
+    "stage": 9,
+    "stream": "pioneering"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 9 - Pioneering",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "up_qualifications_date_first_kept_aid_86f82b",
+              "type": "verifiable_checkbox",
+              "label": "I have kept my First Aid qualifications up to date.",
+              "dialog_text": "The youth member should have kept their CPR and first aid certification up to date through an accredited provider (including wilderness first aid)."
+            },
+            {
+              "id": "largescale_construct_management_pioneering_put_proper_place_would_1e6988",
+              "type": "verifiable_checkbox",
+              "label": "I have designed a large-scale pioneering project that I would like to construct and have put proper project management controls in place.",
+              "dialog_text": "The youth member needs to create a plan that is accessible, clearly drawn and labelled, and supports the construction of a large-scale pioneering project. When choosing their project, the youth member needs to consider the purpose to the pioneering project and it should benefit their Unit, Group, or Community in some way.  \n \nThe youth member will need to create a small-scale model of their project as part of planning. \n \nTheir large scale project might be completed over many regular nights, (and kept in pieces in between) or it may be constructed in one sitting over a whole weekend. Some examples are a: \n * Large observation tower structure \n * Solid wooden bridge that has a wide pathway \n * Tree platform \n * Storage platform inside the Scout Hall \n * Permanently installed bridge that will benefit the local community"
+            },
+            {
+              "id": "organised_pioneering_35_stages_twoday_camp_skills_scouts_3bab19",
+              "type": "verifiable_checkbox",
+              "label": "I have organised a two-day pioneering skills camp for Scouts at Stages 3-5.",
+              "dialog_text": "The programming for the youth members camp should focus on: \n * Pioneering construction methods \n * Advanced ropework and knots \n * Using natural materials to construct structures \n * How to maintain and care for rope \n * How to repair rope \n * Anchoring methods \n * How to ensure that knots and lashings are adequately tight and strong \n * How to choose specific knots for different purposes \n \nWhen planning the camp, they need to ensure it will be Adventurous, Fun, Challenging and Inclusive for the Scouts invited."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "gateway_site_build_camping_temporary_team_entrance_pole_c1ebeb",
+              "type": "verifiable_checkbox",
+              "label": "I have led a team to build a large temporary pole and lashing “gateway” entrance for a Jamboree or camping activity site.",
+              "dialog_text": "The youth member should ensure that their gateway is strong enough and planned well to last the entire time of the camping activity, withstanding all weather events and camp conditions. The gateway must be solid and sturdy, and be designed to attract other youth members to visit the campsite."
+            },
+            {
+              "id": "furniture_gateway_camp_used_built_jamboree_dining_under_222d5e",
+              "type": "verifiable_checkbox",
+              "label": "I have built furniture to be used under the dining shelter at the Jamboree or camp that I have built the gateway for.",
+              "dialog_text": "The youth member should include all the planning, design and instructions to pioneer furniture which is useful, purposeful, and suitable for use by all members. Their pioneered furniture such as a table, chairs, benches, food serving tables, and washing up basin stands, should demonstrate advanced pioneering using the relative technical knots and lashings."
+            },
+            {
+              "id": "pioneer_of_largescale_build_stage_outlined_planning_project_6de2a3",
+              "type": "verifiable_checkbox",
+              "label": "I have managed and facilitated the build of the large-scale pioneer project outlined in the planning stage.",
+              "dialog_text": "The large-scale project should be the one that was designed in a previous statement at this Stage and should be a permanent or semi permanent installation that provides a useful structure to the Unit, Group or Community. \n \nThe whole project from Plan> to Do>  should take approximately 3 months and the youth member will need to consider local legislation and landowner permissions when undertaking this project."
+            },
+            {
+              "id": "chainsaw_wood_safety_equipment_identifications_saw_from_trees_04b5ce",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate all the safety techniques, operating procedures; personal protective equipment and hazard identifications to use a chainsaw to saw wood from fallen trees.",
+              "dialog_text": "The youth member must read and follow safety measures appropriate to their situation & application. The youth member will also need to know and follow any local legislation regarding use of chainsaws. Detailed chainsaw safety should be sought from online resources as well as from a Subject Matter Expert.  \n \nBasic principles are as follows: \n * Know your machines capabilities \n * Check your chainsaw (lubrication, jammed components, wood dust, sharp teeth, depth gauge etc) \n * Check the work area \n * Watch for kickback \n * Never cut above shoulder height \n * Always wear protection \n * Hold and use the saw correctly \n * Cut only one log or branch at a time \n * Maintain the saw over time \n * Treat all uses and jobs with the same seriousness"
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "gained_of_outdoor_group_from_completing_skills_given_96a50a",
+              "type": "verifiable_checkbox",
+              "label": "I have given a presentation to a group of Scouts on how I have gained skills from completing the Bushcraft Outdoor Adventure Skills.",
+              "dialog_text": "The presentation should be a review of their Stage 1-9 journey through Outdoor Adventure Skills - Bushcraft Pioneering. It should cover the design, planning and construction of some different pioneering projects that the youth member has led and assisted with and associated learnings. The presentation itself could be in any form, a video blog, PowerPoint presentation, visual or verbal presentation bearing in mind that the aim of the presentation is to encourage those that watch it to be inspired to create some unique and exciting pioneering structures."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

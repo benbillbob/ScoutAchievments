@@ -1,0 +1,148 @@
+{
+  "template": "oas/alpine/snow-camping-and-hiking/5",
+  "meta": {
+    "stage": 5,
+    "stream": "snow-camping-and-hiking"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 5 - Snow camping and hiking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "5_adventure_skills_completed_core_each_of_outdoor_a95bca",
+              "type": "verifiable_checkbox",
+              "label": "I have completed Stage 5 in each of the Core Outdoor Adventure Skills.",
+              "dialog_text": "The youth member will need to have completed Stage 5 and below in Bushcraft (Survival Skills stream), Bushwalking and Camping."
+            },
+            {
+              "id": "minimise_select_damage_routes_environment_fe1add",
+              "type": "verifiable_checkbox",
+              "label": "I can select routes that minimise damage to the environment.",
+              "dialog_text": "The youth member should discuss and demonstrate selecting routes that are suitable to their group size, and the preference for surfaces. Ideally, they should be selecting trails, however, if those are not available, then routes that are predominantly: \n * Deep snow \n * Hard bare earth \n * Rock \n \nThe group would ideally travel single file to avoid creating multiple tracks."
+            },
+            {
+              "id": "minimise_hazards_these_within_action_take_possible_identify_9adf3e",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated within an alpine environment and I know how to take action to minimise these risks.",
+              "dialog_text": "The youth member should discuss identifying the difference between a hazard and a risk. They should provide a hazard assessment to do with (Australian) alpine environments and will need to account for: \n * Human hazards \n * Environmental hazards \n * Equipment hazards \n \nThey should include in their plan what steps they will take to minimise these hazards during an activity. They should consider the risks that may come from these hazards and how they will mitigate these on an activity. This step could be done as a Patrol or by an individual before a snow camping and hiking trip, and should build on any risk mitigation that occurred in Stage 4."
+            },
+            {
+              "id": "cooking_equipment_snow_conditions_affected_82d82d",
+              "type": "verifiable_checkbox",
+              "label": "I know how my cooking equipment can be affected by snow conditions.",
+              "dialog_text": "The youth member should understand the implications of altitude and cold temperatures on cooking equipment and how they can be managed. The youth member should be able to discuss the most appropriate and cost effective methods of cooking food and boiling water when on alpine activities."
+            },
+            {
+              "id": "safe_transportation_equipment_activity_location_where_prepare_0051e8",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare equipment, where required, for safe transportation to an activity location.",
+              "dialog_text": "The youth member should be able to plan safe transportation of snow camping and/or snowshoeing equipment depending on where the activity will be and who will be going. This should be done for the whole activity and can be planned by a Patrol or individual depending on who is attending the activity and what stages they are working on."
+            },
+            {
+              "id": "find_equipment_information_where_appropriate_selection_alpine_d93c27",
+              "type": "verifiable_checkbox",
+              "label": "I know where to find information about appropriate alpine equipment selection.",
+              "dialog_text": "The youth member will need to research and list multiple sources of information on appropriate snowshoeing and/or snow camping equipment selection for Australian conditions."
+            },
+            {
+              "id": "layer_pack_protective_am_clothing_including_camp_right_827296",
+              "type": "verifiable_checkbox",
+              "label": "I am able to pack the appropriate clothing and equipment for a two-day snow camp, including knowing how to layer clothing and select the right protective clothing.",
+              "dialog_text": "The youth member should pack for, and participate in, a two-day snow trip, where snowshoeing and/or snow camping are the primary activity and objective. The two-day snow trip should include an overnight camp, with snowshoeing on both days. This can be done over a two-day weekend, as long as there is approximately half a day of snow shoeing and/or snow camping skills on each day."
+            },
+            {
+              "id": "check_andor_issues_good_equipment_select_according_design_c1c50b",
+              "type": "verifiable_checkbox",
+              "label": "I can demonstrate how to select suitable equipment according to design and/or construction features and local environmental issues, and check that it is in good working order.",
+              "dialog_text": "The youth member should be able to demonstrate and discuss the selection of suitable equipment and the reasons why they chose this equipment. They should take into consideration construction, design and environmental impact. This can be done at a hire location and could be facilitated by booking in a special fitting for the group, and asking the staff member(s) to discuss the most appropriate gear with each individual."
+            },
+            {
+              "id": "skills_alpine_support_further_3_environments_navigating_learnt_3cd8e2",
+              "type": "verifiable_checkbox",
+              "label": "I have learnt three (3) further skills to support me navigating in alpine environments.",
+              "dialog_text": "The youth member should be able to discuss the navigational skills they have learned since Stage 3 in order to assist in alpine environments. They should then learn some new skills for navigating on snow from a Stage 7 Scout, or trusted and appropriately skilled snowshoer and/or snow camper."
+            },
+            {
+              "id": "discuss_practival_their_snowshoes_of_designs_purposes_various_5abc08",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss the various designs of snowshoes and their practical purposes.",
+              "dialog_text": "The youth member needs to discuss the different designs of snowshoes, including advantages and disadvantages of each design, with their mentor or skilled adult. The youth member is required to have tried out two basic designs of snowshoes in the field by the end of this stage."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "provide_cpr_course_completed_aid_from_including_first_3e5068",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed* a Provide First Aid (including CPR) course from a recognised provider.",
+              "dialog_text": "The youth member should complete a first aid course through an accredited provider. The first aid course should cover similar content to Provide First Aid (HLTAID011) or the current workplace first aid qualification. They could do a higher first aid unit, such as Provide Advanced First Aid or Provide First Aid in a remote location. \n \n*Members under the age of 14 may be able to participate in Provide First Aid courses, but may not necessarily receive the formal Units of Competency depending on provider."
+            },
+            {
+              "id": "set_cooking_snow_suitable_up_area_debf54",
+              "type": "verifiable_checkbox",
+              "label": "I can set up a suitable cooking area in the snow.",
+              "dialog_text": "The youth member is required to demonstrate this, including protecting their cooker from the elements as much as possible. The youth member must also take into consideration the location of the camp and minimal impact principles."
+            },
+            {
+              "id": "safety_guard_hiking_take_of_others_whilst_personal_0b5bba",
+              "type": "verifiable_checkbox",
+              "label": "I can take measures to guard my personal safety and the safety of others whilst hiking.",
+              "dialog_text": "The youth member should always consider their personal safety and the safety of others, taking into consideration the environment around them, their equipment and others. They need to demonstrate this care and consideration on their two-day/overnight trip."
+            },
+            {
+              "id": "hiked_compass_bearings_2_days_snow_snowshoes_conditions_789485",
+              "type": "verifiable_checkbox",
+              "label": "I have hiked with snowshoes for two (2) days in snow conditions, following compass bearings.",
+              "dialog_text": "The youth member is required to participate in a two-day trip using snowshoes. The youth member is required to have a map and route plan which they can follow or have been following. The two-day trip should include overnight camping. All the details of the trip should be entered in their logbook."
+            },
+            {
+              "id": "this_stage_snow_night_camped_45a175",
+              "type": "verifiable_checkbox",
+              "label": "I have camped for a night in the snow at this stage.",
+              "dialog_text": "The youth member should have set up and camped in the snow for at least one night. They should have logged this in their logbook, including all the details about the camp, including date, location, attendees, and most importantly, what was fun!"
+            },
+            {
+              "id": "trip_relevant_authorities_notified_of_completion_0a0f07",
+              "type": "verifiable_checkbox",
+              "label": "I have notified the relevant authorities of trip completion.",
+              "dialog_text": "The youth member should know that they must have a plan before undertaking activities, and advise someone of that plan. This should include letting the nominated contacts when they start and when they return."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "own_performance_review_potential_identify_improvements_3a0b6f",
+              "type": "verifiable_checkbox",
+              "label": "I can review my own performance and identify potential improvements.",
+              "dialog_text": "The youth member should reflect on their performance and skills they have developed for this stage, identifying where they may be able to improve techniques or skills as they progress."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

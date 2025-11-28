@@ -1,0 +1,112 @@
+{
+  "template": "oas/camping/8",
+  "meta": {
+    "stage": 8,
+    "stream": "camping"
+  },
+  "version": 2,
+  "document": [
+    {
+      "title": "Stage 8 - Camping",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "planning_leading_camp_else_responsible_who_mentored_someone_11627a",
+              "type": "verifiable_checkbox",
+              "label": "I have mentored someone else who is responsible for planning and leading a camp.",
+              "dialog_text": "The Stage 8 Scout will support the youth member in planning and leading all aspects of a camp, including the activities, the program, the development of the other youth members over the camp, and also facilitating the risk management and emergency plan process."
+            },
+            {
+              "id": "equipment_camp_make_various_recommendations_group_types_improve_da6c4f",
+              "type": "verifiable_checkbox",
+              "label": "I can make recommendations to improve group equipment for various camp types.",
+              "dialog_text": "The youth member should consider the issues that relate directly to their group in relation to equipment, including: \n * Is the equipment old or over used? \n * Has it been cared for properly? \n * Does the group have the right gear? \n * Has someone not returned all of the gear?. \n \nThe youth member should work at addressing the particular issues in relation to the Group or Section and work with the Group and others to gain the gear needed or maintain the gear more appropriately."
+            },
+            {
+              "id": "development_camp_describe_met_its_needs_plan_participants_9e409f",
+              "type": "verifiable_checkbox",
+              "label": "I can describe a camp plan and how the needs of participants have been met in its development.",
+              "dialog_text": "The youth member needs to develop a camp plan/program to meet the needs of the individuals attending the camp. This could include: \n * What activities do the youth members want to do? \n * What Achievement Pathways targets would they like to meet? \n * Who is Participating, Assisting and Leading? \n * What activities are happening? \n * Are there any special needs that need to be considered and accounted for? \n * How can you make the whole camp Fun, Challenging, Adventurous and Inclusive for all attending?"
+            },
+            {
+              "id": "deal_arise_may_resolution_issues_conflict_strategies_650578",
+              "type": "verifiable_checkbox",
+              "label": "I know how to deal with conflict and have resolution strategies to deal with issues that may arise.",
+              "dialog_text": "The youth member should consider how the following strategies can support them and discuss strategies of their own. These strategies might include: \n * remaining level headed \n * having a sound and logical thought process through issues \n * empathising with all perspectives of the conflict \n * asking open questions \n  * knowing the people and their emotional triggers \n * knowing the group \n * a commitment from the leading person to understand and resolve conflict when it arises."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "camp_organise_determine_training_activities_if_this_specialised_061776",
+              "type": "verifiable_checkbox",
+              "label": "I can determine if specialised training is required for camp activities, and I can organise this training.",
+              "dialog_text": "The youth member should consider: \n * How would they know if training is required? \n * What activities would they want to do that may take a bit more planning and upskilling? (including large construction projects, building, adventurous activities, team building development etc.) \n * How would they organise this training? \n * Who might they need to talk to/communicate with? \n * What organisational policies and procedures should they be familiar with beforehand?"
+            },
+            {
+              "id": "4_night_development_camp_as_facilitating_chief_conducted_432832",
+              "type": "verifiable_checkbox",
+              "label": "I have conducted a 4 night camp as the camp chief facilitating the development of the participants in different interest areas.",
+              "dialog_text": "The camp chief is the member responsible for all of the overall co-ordination and organisation before and during the camp, and is therefore the member who acts as the central contact point throughout the camp. \n \nIn the lead up to the camp, the camp chief will have located and booked the site, and coordinated the camp leadership team meetings (this includes all the members of the leadership team that are responsible for supporting the camp chief in running the camp). \n \nThe camp chief leads this leadership team, and makes sure that the people involved feel supported and have a good idea of what is expected of them. \n \nThe camp chief and their management team/Patrol is responsible for: \n * problem solving \n * queries \n * information and risk management \n * organising and running a developmentally appropriate camp for all youth members attending. \n \nThe development of participants is not only the people attending the camp it also entails the development of the management team and camp chief themselves."
+            },
+            {
+              "id": "camp_teach_lower_store_6_care_group_gear_f31445",
+              "type": "verifiable_checkbox",
+              "label": "I can teach a Scout in Stage 6 or lower on how to care for, store and maintain group gear needed for camp.",
+              "dialog_text": "The youth member needs to guide less experienced youth members through the care and maintenance of some core group gear items and support them to support others in best care and storage practises."
+            },
+            {
+              "id": "wilderness_first_aid_59b2d1",
+              "type": "verifiable_checkbox",
+              "label": "I have successfully completed the Wilderness First Aid skill set.",
+              "dialog_text": "The youth member must have completed the Wilderness First Aid skill set. This can be through a course with an accredited provider or by other means, such as Recognition of Prior Learning (RPL) through SAIT or other providers. For the purposes of the OAS, the Wilderness First Aid skillset (SISSS00126) includes: \n * HLTAID011 Provide first aid \n * SISOFLD004 Provide first aid in remote locations \n * SISXEMR002 Coordinate emergency responses \n(or their replacement)."
+            },
+            {
+              "id": "45_spent_of_8_end_types_various_nights_d1f352",
+              "type": "verifiable_checkbox",
+              "label": "I have spent 45 nights on various types of camps by the end of Stage 8.",
+              "dialog_text": "The youth member should have a relevant and up to date log-book with all camping trips/nights accounted for as well as a good range of activities and plans, including the associated logistics and risks management plans, which they have helped develop across their time in the youth program."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "taken_4_best_development_stages_reflection_8_me_618243",
+              "type": "verifiable_checkbox",
+              "label": "I have taken time to reflect on my development in Stages 4 through 8, recording my reflection in a way that suits me best.",
+              "dialog_text": "There are many methods of reflection and review which can be used. The most effective and valuable method of reflection and review will need to be decided by the youth member themselves, as review and reflection is always a very personal and individual process. \n \nSometimes the best way to review and reflect is in an open discussion with a subject matter expert, or a discussion between the Stage 8 Scout and their Patrol, or it could be a written reflection or report on how the Stage 8 Scout has developed over the previous Stages."
+            },
+            {
+              "id": "4_night_presentation_camp_together_as_our_chief_732a3a",
+              "type": "verifiable_checkbox",
+              "label": "I have put together a presentation for my Unit on our 4 night camp as camp chief, highlighting the successes, the learnings, and the areas for improvement.",
+              "dialog_text": "The presentation could be verbal, video, written, etc. It's important that the presentation method is agreed to by the Unit Council and the youth member."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

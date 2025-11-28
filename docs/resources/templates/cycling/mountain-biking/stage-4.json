@@ -1,0 +1,172 @@
+{
+  "template": "oas/cycling/mountain-biking/4",
+  "meta": {
+    "stage": 4,
+    "stream": "mountain-biking"
+  },
+  "version": 1,
+  "document": [
+    {
+      "title": "Stage 4 - Mountain biking",
+      "input_groups": [
+        {
+          "title": "Plan>",
+          "inputs": [
+            {
+              "id": "location_safe_activity_equipment_transportation_where_prepare_b04ad8",
+              "type": "verifiable_checkbox",
+              "label": "I can prepare equipment, where required, for safe transportation to an activity location.",
+              "dialog_text": "The youth member should be able to plan safe transportation of their cycling equipment depending on where the activity will be and who will be going. Bike racks can be fitted to cars either via the tow ball or on roof racks. Bikes can also go on trains to locations. Multiple bikes might need to go into a trailer."
+            },
+            {
+              "id": "discuss_need_will_equipment_may_ride_day_selection_4cb4dd",
+              "type": "verifiable_checkbox",
+              "label": "I can discuss equipment that I will need on a day ride and how conditions may affect my selection.",
+              "dialog_text": "The youth member will need plan to bring food and water that is appropriate for the length of ride, without being too heavy. They will need to bring a puncture repair kit/in-field maintenance kit. This repair and maintenance kit should be customised depending on the bike and rider requirements.  The youth member will also need to consider: \n * sun cream \n * lip balm \n * sunglasses \n * gloves \n * appropriate weather protection \n * advanced technical clothing for mountain biking."
+            },
+            {
+              "id": "protective_clothing_equipment_according_select_expected_conditions_weather_b88573",
+              "type": "verifiable_checkbox",
+              "label": "I know how to select equipment and protective clothing according to expected weather conditions and terrain.",
+              "dialog_text": "The youth member should already be able to know where to get the latest weather forecast (Stage 3) and they should be able to plan their activity accordingly. Weather and mitigation could include: \n * Heat – Plenty of water, sun cream, moisture wicking clothing \n * Wind – Windproof upper layer (i.e. wind jacket or thin raincoat) \n * Rain – Waterproof upper layer rain coat \n * Storms – Consider not going, prepare for rain"
+            },
+            {
+              "id": "food_trip_plan_water_mountain_biking_appropriate_requirements_5795c1",
+              "type": "verifiable_checkbox",
+              "label": "I can plan appropriate food and water requirements for my mountain biking trip.",
+              "dialog_text": "The youth member should demonstrate in their activity plan that they have considered appropriate food and water and how to carry them on a cycling trip.  700ml bottles fit in bottle holders attached to bike frames, and water bladders in a pack are easy to stay hydrated. Plan snacks such as muesli bars or sandwiches for breaks while riding."
+            },
+            {
+              "id": "bike_requiring_identify_parts_lubrication_9df3c2",
+              "type": "verifiable_checkbox",
+              "label": "I know how to identify bike parts requiring lubrication.",
+              "dialog_text": "The youth member should identify the following bike parts to a Scout who is working on a higher Stage: \n * Chain \n * Gears \n * Seat post \n * Headset internals \n * Cables (brakes) \n * Axles \n * Cranks"
+            },
+            {
+              "id": "bike_adjusted_ensure_riding_appropriate_posture_eb14c5",
+              "type": "verifiable_checkbox",
+              "label": "I have adjusted my bike to ensure an appropriate riding posture.",
+              "dialog_text": "The youth member should demonstrate being able to adjust their bike to ensure it is comfortable and they can maintain an appropriate riding posture. The youth member could speak to a Stage 6 scout and they could assist with how to adjust a bike. "
+            },
+            {
+              "id": "identify_minimise_possible_hazards_mountain_biking_adsnf876",
+              "type": "verifiable_checkbox",
+              "label": "I can identify possible hazards associated with mountain biking and procedures to minimise risks and I know how to take actions to minimise these risks.",
+              "dialog_text": "The youth member should be able to identify the risks associated with mountain biking that are unique to the adventurous activity. It might be useful to discuss these risks with a Scout working on Stage 6 or higher. If the youth member is undertaking a long expedition by mountain bike, then many of the hazards will be similar to extended bushwalks and hikes."
+            },
+            {
+              "id": "planned_route_mountain_biking_trip_asdj78687",
+              "type": "verifiable_checkbox",
+              "label": "I have planned a route for a mountain biking trip.",
+              "dialog_text": "The youth member should plan their route and break it down into a table displaying date, distance, elevation, starting and finishing points, resupply points, points of interest, and things to note (i.e. a sight, a risk like a highway crossing, a possible exit etc)."
+            }
+          ]
+        },
+        {
+          "title": "Do>",
+          "inputs": [
+            {
+              "id": "signs_symptoms_hypo_hyperthermia_ef9ebd",
+              "type": "verifiable_checkbox",
+              "label": "I am familiar with the signs and symptoms of hypothermia and hyperthermia.",
+              "dialog_text": "The youth member should be aware of the general and most common signs and symptoms. This could be learnt through research and applied during a mock emergency."
+            },
+            {
+              "id": "balance_adopt_riding_appropriate_posture_ac0ffd",
+              "type": "verifiable_checkbox",
+              "label": "I know how to adopt appropriate posture and balance when riding.",
+              "dialog_text": "The youth member should demonstrate: \n * Relaxed Arms - One of the best things a cyclist can do to improve their posture is avoiding locked elbows.  Arms should be in a relaxed with a slight bend at the elbow. Make sure that the youth member moves their hands around into new positions every so often. This is incredibly important if the ride is very long, as it prevents stiff, non-responsive hand movements \n * Neck position - It is important to not leave the head in the same tense position the whole time \n * The bend in the youth members' back - Cyclists should have an even and smooth arch in the back when sitting on the bike. \n * Hip and Torso Rotation - Ideally, they are pedalling with their legs and glutes.  Sometimes cyclists use torso muscles as well, and this is when improper posture sets in. \n * Standing up- Standing up gives a large power bonus at the expenditure of lots of energy and increased wind resistance. If using a suspension fork, they should not stand up when going uphill. It is almost always advisable to stand up while going downhill. The youth member should learn where the best balancing feet positions are."
+            },
+            {
+              "id": "approach_obstacles_negotiate_safely_4a94b3",
+              "type": "verifiable_checkbox",
+              "label": "I can see approaching obstacles and can negotiate them in a safe and controlled manner.",
+              "dialog_text": "The youth member should demonstrate picking a safe line and successfully riding a trail.  Speed is the biggest measure of control, too fast or slow will make this challenging."
+            },
+            {
+              "id": "demonstrate_communication_methods_other_mountain_bikers_9e5f43",
+              "type": "verifiable_checkbox",
+              "label": "I have demonstrated methods to communicate with other mountain bikers.",
+              "dialog_text": "The youth member should demonstrate communication methods such as whistle, pointing, shouting, and extended arm to indicate turning."
+            },
+            {
+              "id": "three_activities_trails_eda3d3",
+              "type": "verifiable_checkbox",
+              "label": "I have taken part in three activities on off-road trails.",
+              "dialog_text": "The youth member needs to participate and log in 3 mountain bike activities at this Stage. They should include in their log where they did the activities, who they did them with, what the weather conditions were like and any other interesting information about the activity."
+            },
+            {
+              "id": "navigate_maps_trail_guides_db8504",
+              "type": "verifiable_checkbox",
+              "label": "I know how to navigate using maps and trail guide resources.",
+              "dialog_text": "The youth member should spend time searching for trails in their local area that they may not know about. There are many trail websites that have maps with trails overlayed on them."
+            },
+            {
+              "id": "group_safely_ride_c27494",
+              "type": "verifiable_checkbox",
+              "label": "I can ride in a group safely.",
+              "dialog_text": "The youth member should demonstrate the following while riding \n * Ride in a straight line \n * Be predictable \n * Indicate if turning \n * Follow the group \n \nIf at night, they should have their light aimed at the ground not other peoples faces and they should wear reflective and bright clothing when appropriate."
+            },
+            {
+              "id": "apply_smooth_timely_gear_changes_e50c1c",
+              "type": "verifiable_checkbox",
+              "label": "I can apply smooth and timely gear changes across different terrain features.",
+              "dialog_text": "The youth member should demonstrate gear changes which aren’t changed while the bike is under pressure (hard pedalling uphill, instead drop down gears in anticipation of the hill)."
+            },
+            {
+              "id": "cleaned_bike_helmet_b97f1f",
+              "type": "verifiable_checkbox",
+              "label": "I have cleaned my bike and helmet after a cycling trip.",
+              "dialog_text": "The youth member should rinse dirt from the chain and disks, then re-lubricate.  Wipe the bike and helmet down with a damp cloth to remove all dirt and dust."
+            },
+            {
+              "id": "repair_puncture_without_assistance_afef39",
+              "type": "verifiable_checkbox",
+              "label": "I can repair a puncture on my bike without assistance.",
+              "dialog_text": "The youth member should be able to demonstrate repairing a puncture without assistance. The youth member's Stage 7 peer should monitor their progress and support them in learning the process, and making sure the Stage 4 Scout can complete the change without help."
+            },
+            {
+              "id": "routine_bike_maintenance_repairs_afef39",
+              "type": "verifiable_checkbox",
+              "label": "I can conduct routine bike maintenance checks and repairs.",
+              "dialog_text": "The youth member should demonstrate routine bike maintenance such as checking; \n * Tyre Pressure: In general, the tyre pressure should be around the number indicated on the tyre, but the youth member should understand and know what effect changing the tyre pressure will have. \n * Front chain rings and rear cassette: Scrub the surfaces with a brush and degreaser while turning the pedals. \n * Brakes: Make sure that the front and back brakes are working well, and stopping smoothly. If needed, silicon spray can be used to clean and lubricate the brake cables. \n * Seatpost: Ensure the seatpost is at an appropriate height and is stiff."
+            }
+          ]
+        },
+        {
+          "title": "Review>",
+          "inputs": [
+            {
+              "id": "identify_improvements_cycling_skills_afef39",
+              "type": "verifiable_checkbox",
+              "label": "I can identify where I have begun to improve my cycling skills, and where I would like to further improve.",
+              "dialog_text": "The youth member should be able to identify either through writing a report or having a discussion, what techniques can be improved?  They might want to consider bunny hops, strength in hill climbing, confidence downhill ability, balance and general control, or revolutions of pedals per minute."
+            },
+            {
+              "id": "clean_maintain_bike_journey_afef39",
+              "type": "verifiable_checkbox",
+              "label": "I know how to clean and maintain my bike after a bike riding journey.",
+              "dialog_text": "The youth member can wipe down the bicycle afte ruse, spraying components with water and then drying them, and relubricating appropriate areas."
+            }
+          ]
+        },
+        {
+          "title": "Verify",
+          "inputs": [
+            {
+              "id": "logbook_up_to_date",
+              "type": "checkbox",
+              "label": "My logbook is up to date at the end of this stage."
+            },
+            {
+              "id": "file_uploader",
+              "type": "file_uploader",
+              "label": "Upload supporting documents",
+              "alt": "Each file should be less than 10MB in size."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
