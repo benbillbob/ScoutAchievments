@@ -1,37 +1,105 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Scout Achievments</title>
-    <meta name="description" content="Documentation / landing page for the Scout Achievments project." />
-    <style>
-      body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height: 1.6; margin: 0; padding: 2rem; color: #0f172a; background: #f8fafc; }
-      header { max-width: 900px; margin: 0 auto 2rem; }
-      h1 { font-size: 2rem; margin: 0 0 .5rem; }
-      p { margin: 0 0 1rem; }
-      .card { background: white; border-radius: 8px; padding: 1.5rem; box-shadow: 0 1px 2px rgba(2,6,23,0.06); }
-      a.button { display: inline-block; margin-top: .5rem; padding: .5rem .75rem; background: #0369a1; color: white; border-radius: 6px; text-decoration: none; }
-      footer { max-width: 900px; margin: 2rem auto 0; font-size: .9rem; color: #475569; }
-    </style>
-  </head>
-  <body>
-    <header>
-      <div class="card">
-        <h1>Scout Achievments</h1>
-        <p>This is the documentation / landing page for the Scout Achievments project.</p>
-        <p>View the source on <a href="https://github.com/benbillbob/ScoutAchievments">GitHub</a>.</p>
-        <a class="button" href="https://github.com/benbillbob/ScoutAchievments">Open repository</a>
-      </div>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Terrain Templates – Discovery</title>
+  <link rel="stylesheet" href="/styles/main.css" />
+</head>
+<body>
+  <div class="container homepage">
+    <header class="page-header">
+      <h1>Discover Activities</h1>
+      <p class="lede">Explore highlights from across the Terrain OAS catalog.</p>
     </header>
-    <main style="max-width:900px;margin:0 auto;">
-      <section class="card">
-        <h2>Getting started</h2>
-        <p>Drop project-specific docs here (usage, build steps, and links). This page is intentionally minimal — feel free to edit and expand it.</p>
+
+    <main class="content" id="homepage-root">
+      <section id="hero-section" class="homepage-hero" aria-label="Featured highlight">
+        <div>
+          <h2 class="homepage-hero-main-title">Start your next adventure</h2>
+          <p class="homepage-hero-tagline">Hand-picked highlights from recent Terrain activity.</p>
+          <p class="homepage-hero-summary" data-hero-summary>
+            Use the quick filters below to find stages by stream, then jump straight into the
+            activity plan.
+          </p>
+          <a
+            href="#homepage-results"
+            class="homepage-hero-cta"
+            data-hero-cta
+          >
+            View top highlights
+          </a>
+          <div class="homepage-hero-meta">
+            <span>Ranking is fresh</span>
+            <span aria-label="Last updated">Last updated 28/11/2025, 1:30:28 pm</span>
+          </div>
+          <div class="homepage-hero-pills">
+            <span class="homepage-hero-pill">Fast discovery</span>
+            <span class="homepage-hero-pill">≤ 3 clicks to any stage</span>
+          </div>
+        </div>
+        <aside class="homepage-hero-aside">
+          <h2>How this works</h2>
+          <p>
+            Highlights combine engagement signals (hero clicks, filters, shares) with Staff Picks
+            from your Unit Council. Filters and search update instantly without a page reload.
+          </p>
+        </aside>
+      </section>
+
+      <section class="search-section" aria-label="Search and filter activities">
+        <label class="visually-hidden" for="homepage-search">Search activities</label>
+        <input
+          id="homepage-search"
+          type="search"
+          class="search-input"
+          placeholder="Search by title, stream, or keyword..."
+          aria-label="Search activities"
+        />
+      </section>
+
+      <section class="stream-filters" aria-label="Filter by activity stream">
+        <button type="button" class="filter-btn active" data-stream-filter="" aria-pressed="true">
+          All streams
+        </button>
+        <button type="button" class="filter-btn" data-stream-filter="alpine" aria-pressed="false">
+          Alpine
+        </button>
+        <button type="button" class="filter-btn" data-stream-filter="aquatics" aria-pressed="false">
+          Aquatics
+        </button>
+        <button type="button" class="filter-btn" data-stream-filter="boating" aria-pressed="false">
+          Boating
+        </button>
+        <button type="button" class="filter-btn" data-stream-filter="bushcraft" aria-pressed="false">
+          Bushcraft
+        </button>
+        <button type="button" class="filter-btn" data-stream-filter="bushwalking" aria-pressed="false">
+          Bushwalking
+        </button>
+        <button type="button" class="filter-btn" data-stream-filter="cycling" aria-pressed="false">
+          Cycling
+        </button>
+      </section>
+
+      <section
+        id="homepage-catalog"
+        aria-live="polite"
+        aria-label="Highlight results"
+        data-cards="[{&quot;slug&quot;:&quot;alpine-stage-1&quot;,&quot;title&quot;:&quot;alpine-stage-1&quot;,&quot;summary&quot;:&quot;hero_clicks&quot;,&quot;stream&quot;:&quot;alpine&quot;,&quot;stage&quot;:1,&quot;tags&quot;:[&quot;steady&quot;],&quot;isStaffPick&quot;:false,&quot;isTrending&quot;:false,&quot;score&quot;:12}]"
+      >
+        <div id="homepage-results" class="template-cards" aria-busy="false"></div>
+        <p id="homepage-empty" class="no-results" hidden>
+          No activities match your current filters. Try clearing the search or choosing a
+          different stream.
+        </p>
       </section>
     </main>
-    <footer>
-      Built on GitHub · Generated by GitHub Copilot
+
+    <footer class="page-footer">
+      <p class="ranking-meta">Ranking is fresh – 28/11/2025, 1:30:28 pm</p>
     </footer>
-  </body>
+  </div>
+  <script src="/assets/homepage-filters.js" type="module"></script>
+</body>
 </html>
