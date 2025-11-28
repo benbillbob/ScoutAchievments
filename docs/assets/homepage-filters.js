@@ -6,7 +6,7 @@
   const heroEl = document.getElementById('hero-section');
   if (!catalogEl || !heroEl) return;
 
-  /** @typedef {{ slug:string,title:string,summary:string,stream:string,stage:number,tags:string[],isStaffPick?:boolean,isTrending?:boolean,score?:number }} HighlightCard */
+  /** @typedef {{ slug:string,title:string,summary:string,stream:string,stage:number,tags:string[],isStaffPick?:boolean,isTrending?:boolean,score?:number,ctaLabel?:string }} HighlightCard */
 
   /** @type {HighlightCard[]} */
   let cards = [];
@@ -70,7 +70,7 @@
   function renderHero(cardsForView) {
     if (!cardsForView.length) return;
     const primary = cardsForView[0];
-    const heroTitle = heroEl.querySelector('[data-hero-title]');
+    const heroTitle = heroEl.querySelector('[data-hero-title]') || heroEl.querySelector('.homepage-hero-main-title');
     const heroSummary = heroEl.querySelector('[data-hero-summary]');
     const heroCta = heroEl.querySelector('[data-hero-cta]');
 
@@ -79,6 +79,7 @@
     if (heroCta instanceof HTMLAnchorElement) {
       heroCta.href = `/content/${primary.slug}`;
       heroCta.setAttribute('data-hero-slug', primary.slug);
+      heroCta.textContent = primary.ctaLabel || 'View template';
     }
   }
 
@@ -146,19 +147,9 @@
     renderHero(visible);
   }
 
-  function postEngagement(eventType, targetSlug, metadata) {
-    if (!homepageRoot) return;
-    // server route will append events via engagement-logger
-    void fetch('/api/engagement', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ eventType, targetSlug, metadata }),
-      keepalive: true,
-    }).catch(() => {
-      // Telemetry must never block UX; failures are intentionally ignored.
-    });
+  function postEngagement(_eventType, _targetSlug, _metadata) {
+    // Static deployments have no POST endpoint; disable telemetry.
+    return;
   }
 
   function handleStreamClick(button) {
