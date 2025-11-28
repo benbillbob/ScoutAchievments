@@ -1,0 +1,2151 @@
+{
+  "generated": "2025-11-28T02:30:26.682Z",
+  "totalEntries": 165,
+  "entries": [
+    {
+      "slug": "bushwalking-stage-1",
+      "displayTitle": "Stage 1 - Bushwalking",
+      "stream": "bushwalking",
+      "stage": 1,
+      "summary": "Stage 1 bushwalking activities",
+      "tags": [
+        "bushwalking",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.166Z",
+      "route": "/content/bushwalking-stage-1"
+    },
+    {
+      "slug": "bushwalking-stage-2",
+      "displayTitle": "Stage 2 - Bushwalking",
+      "stream": "bushwalking",
+      "stage": 2,
+      "summary": "Stage 2 bushwalking activities",
+      "tags": [
+        "bushwalking",
+        "stage-2"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.169Z",
+      "route": "/content/bushwalking-stage-2"
+    },
+    {
+      "slug": "bushcraft-stage-1",
+      "displayTitle": "Stage 1 - Bushcraft",
+      "stream": "bushcraft",
+      "stage": 1,
+      "summary": "Stage 1 bushcraft activities",
+      "tags": [
+        "bushcraft",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.171Z",
+      "route": "/content/bushcraft-stage-1"
+    },
+    {
+      "slug": "intro-scouting-stage-0",
+      "displayTitle": "Introduction to Scouting Overview",
+      "stream": "intro-scouting",
+      "stage": 0,
+      "summary": "Stage 0 intro-scouting activities",
+      "tags": [
+        "intro-scouting",
+        "stage-0"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.379Z",
+      "route": "/content/intro-scouting-stage-0"
+    },
+    {
+      "slug": "intro-scouting-stage-1",
+      "displayTitle": "Intro to Scouting – Stage 1",
+      "stream": "intro-scouting",
+      "stage": 1,
+      "summary": "Stage 1 intro-scouting activities",
+      "tags": [
+        "intro-scouting",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.491Z",
+      "route": "/content/intro-scouting-stage-1"
+    },
+    {
+      "slug": "alpine/cross-country-skiing-stage-4",
+      "displayTitle": "Stage 4 - Alpine / Cross Country Skiing",
+      "stream": "alpine/cross-country-skiing",
+      "stage": 4,
+      "summary": "Stage 4 alpine/cross-country-skiing activities",
+      "tags": [
+        "alpine/cross-country-skiing",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.494Z",
+      "route": "/content/alpine/cross-country-skiing-stage-4"
+    },
+    {
+      "slug": "alpine/cross-country-skiing-stage-5",
+      "displayTitle": "Stage 5 - Alpine / Cross Country Skiing",
+      "stream": "alpine/cross-country-skiing",
+      "stage": 5,
+      "summary": "Stage 5 alpine/cross-country-skiing activities",
+      "tags": [
+        "alpine/cross-country-skiing",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.497Z",
+      "route": "/content/alpine/cross-country-skiing-stage-5"
+    },
+    {
+      "slug": "alpine/cross-country-skiing-stage-6",
+      "displayTitle": "Stage 6 - Alpine / Cross Country Skiing",
+      "stream": "alpine/cross-country-skiing",
+      "stage": 6,
+      "summary": "Stage 6 alpine/cross-country-skiing activities",
+      "tags": [
+        "alpine/cross-country-skiing",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.500Z",
+      "route": "/content/alpine/cross-country-skiing-stage-6"
+    },
+    {
+      "slug": "alpine/cross-country-skiing-stage-7",
+      "displayTitle": "Stage 7 - Alpine / Cross Country Skiing",
+      "stream": "alpine/cross-country-skiing",
+      "stage": 7,
+      "summary": "Stage 7 alpine/cross-country-skiing activities",
+      "tags": [
+        "alpine/cross-country-skiing",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.503Z",
+      "route": "/content/alpine/cross-country-skiing-stage-7"
+    },
+    {
+      "slug": "alpine/cross-country-skiing-stage-8",
+      "displayTitle": "Stage 8 - Alpine / Cross Country Skiing",
+      "stream": "alpine/cross-country-skiing",
+      "stage": 8,
+      "summary": "Stage 8 alpine/cross-country-skiing activities",
+      "tags": [
+        "alpine/cross-country-skiing",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.505Z",
+      "route": "/content/alpine/cross-country-skiing-stage-8"
+    },
+    {
+      "slug": "alpine/cross-country-skiing-stage-9",
+      "displayTitle": "Stage 9 - Alpine / Cross Country Skiing",
+      "stream": "alpine/cross-country-skiing",
+      "stage": 9,
+      "summary": "Stage 9 alpine/cross-country-skiing activities",
+      "tags": [
+        "alpine/cross-country-skiing",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.508Z",
+      "route": "/content/alpine/cross-country-skiing-stage-9"
+    },
+    {
+      "slug": "alpine/downhill-skiing-stage-4",
+      "displayTitle": "Stage 4 - Alpine / Downhill Skiing",
+      "stream": "alpine/downhill-skiing",
+      "stage": 4,
+      "summary": "Stage 4 alpine/downhill-skiing activities",
+      "tags": [
+        "alpine/downhill-skiing",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.510Z",
+      "route": "/content/alpine/downhill-skiing-stage-4"
+    },
+    {
+      "slug": "alpine/downhill-skiing-stage-5",
+      "displayTitle": "Stage 5 - Alpine / Downhill Skiing",
+      "stream": "alpine/downhill-skiing",
+      "stage": 5,
+      "summary": "Stage 5 alpine/downhill-skiing activities",
+      "tags": [
+        "alpine/downhill-skiing",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.514Z",
+      "route": "/content/alpine/downhill-skiing-stage-5"
+    },
+    {
+      "slug": "alpine/downhill-skiing-stage-6",
+      "displayTitle": "Stage 6 - Alpine / Downhill Skiing",
+      "stream": "alpine/downhill-skiing",
+      "stage": 6,
+      "summary": "Stage 6 alpine/downhill-skiing activities",
+      "tags": [
+        "alpine/downhill-skiing",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.517Z",
+      "route": "/content/alpine/downhill-skiing-stage-6"
+    },
+    {
+      "slug": "alpine/downhill-skiing-stage-7",
+      "displayTitle": "Stage 7 - Alpine / Downhill Skiing",
+      "stream": "alpine/downhill-skiing",
+      "stage": 7,
+      "summary": "Stage 7 alpine/downhill-skiing activities",
+      "tags": [
+        "alpine/downhill-skiing",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.519Z",
+      "route": "/content/alpine/downhill-skiing-stage-7"
+    },
+    {
+      "slug": "alpine/downhill-skiing-stage-8",
+      "displayTitle": "Stage 8 - Alpine / Downhill Skiing",
+      "stream": "alpine/downhill-skiing",
+      "stage": 8,
+      "summary": "Stage 8 alpine/downhill-skiing activities",
+      "tags": [
+        "alpine/downhill-skiing",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.521Z",
+      "route": "/content/alpine/downhill-skiing-stage-8"
+    },
+    {
+      "slug": "alpine/downhill-skiing-stage-9",
+      "displayTitle": "Stage 9 - Alpine / Downhill Skiing",
+      "stream": "alpine/downhill-skiing",
+      "stage": 9,
+      "summary": "Stage 9 alpine/downhill-skiing activities",
+      "tags": [
+        "alpine/downhill-skiing",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.522Z",
+      "route": "/content/alpine/downhill-skiing-stage-9"
+    },
+    {
+      "slug": "alpine/snow-camping-and-hiking-stage-4",
+      "displayTitle": "Stage 4 - Alpine / Snow Camping And Hiking",
+      "stream": "alpine/snow-camping-and-hiking",
+      "stage": 4,
+      "summary": "Stage 4 alpine/snow-camping-and-hiking activities",
+      "tags": [
+        "alpine/snow-camping-and-hiking",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.523Z",
+      "route": "/content/alpine/snow-camping-and-hiking-stage-4"
+    },
+    {
+      "slug": "alpine/snow-camping-and-hiking-stage-5",
+      "displayTitle": "Stage 5 - Alpine / Snow Camping And Hiking",
+      "stream": "alpine/snow-camping-and-hiking",
+      "stage": 5,
+      "summary": "Stage 5 alpine/snow-camping-and-hiking activities",
+      "tags": [
+        "alpine/snow-camping-and-hiking",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.525Z",
+      "route": "/content/alpine/snow-camping-and-hiking-stage-5"
+    },
+    {
+      "slug": "alpine/snow-camping-and-hiking-stage-6",
+      "displayTitle": "Stage 6 - Alpine / Snow Camping And Hiking",
+      "stream": "alpine/snow-camping-and-hiking",
+      "stage": 6,
+      "summary": "Stage 6 alpine/snow-camping-and-hiking activities",
+      "tags": [
+        "alpine/snow-camping-and-hiking",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.526Z",
+      "route": "/content/alpine/snow-camping-and-hiking-stage-6"
+    },
+    {
+      "slug": "alpine/snow-camping-and-hiking-stage-7",
+      "displayTitle": "Stage 7 - Alpine / Snow Camping And Hiking",
+      "stream": "alpine/snow-camping-and-hiking",
+      "stage": 7,
+      "summary": "Stage 7 alpine/snow-camping-and-hiking activities",
+      "tags": [
+        "alpine/snow-camping-and-hiking",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.527Z",
+      "route": "/content/alpine/snow-camping-and-hiking-stage-7"
+    },
+    {
+      "slug": "alpine/snow-camping-and-hiking-stage-8",
+      "displayTitle": "Stage 8 - Alpine / Snow Camping And Hiking",
+      "stream": "alpine/snow-camping-and-hiking",
+      "stage": 8,
+      "summary": "Stage 8 alpine/snow-camping-and-hiking activities",
+      "tags": [
+        "alpine/snow-camping-and-hiking",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.528Z",
+      "route": "/content/alpine/snow-camping-and-hiking-stage-8"
+    },
+    {
+      "slug": "alpine/snow-camping-and-hiking-stage-9",
+      "displayTitle": "Stage 9 - Alpine / Snow Camping And Hiking",
+      "stream": "alpine/snow-camping-and-hiking",
+      "stage": 9,
+      "summary": "Stage 9 alpine/snow-camping-and-hiking activities",
+      "tags": [
+        "alpine/snow-camping-and-hiking",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.530Z",
+      "route": "/content/alpine/snow-camping-and-hiking-stage-9"
+    },
+    {
+      "slug": "alpine/snowboarding-stage-4",
+      "displayTitle": "Stage 4 - Alpine / Snowboarding",
+      "stream": "alpine/snowboarding",
+      "stage": 4,
+      "summary": "Stage 4 alpine/snowboarding activities",
+      "tags": [
+        "alpine/snowboarding",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.531Z",
+      "route": "/content/alpine/snowboarding-stage-4"
+    },
+    {
+      "slug": "alpine/snowboarding-stage-5",
+      "displayTitle": "Stage 5 - Alpine / Snowboarding",
+      "stream": "alpine/snowboarding",
+      "stage": 5,
+      "summary": "Stage 5 alpine/snowboarding activities",
+      "tags": [
+        "alpine/snowboarding",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.532Z",
+      "route": "/content/alpine/snowboarding-stage-5"
+    },
+    {
+      "slug": "alpine/snowboarding-stage-6",
+      "displayTitle": "Stage 6 - Alpine / Snowboarding",
+      "stream": "alpine/snowboarding",
+      "stage": 6,
+      "summary": "Stage 6 alpine/snowboarding activities",
+      "tags": [
+        "alpine/snowboarding",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.533Z",
+      "route": "/content/alpine/snowboarding-stage-6"
+    },
+    {
+      "slug": "alpine/snowboarding-stage-7",
+      "displayTitle": "Stage 7 - Alpine / Snowboarding",
+      "stream": "alpine/snowboarding",
+      "stage": 7,
+      "summary": "Stage 7 alpine/snowboarding activities",
+      "tags": [
+        "alpine/snowboarding",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.534Z",
+      "route": "/content/alpine/snowboarding-stage-7"
+    },
+    {
+      "slug": "alpine/snowboarding-stage-8",
+      "displayTitle": "Stage 8 - Alpine / Snowboarding",
+      "stream": "alpine/snowboarding",
+      "stage": 8,
+      "summary": "Stage 8 alpine/snowboarding activities",
+      "tags": [
+        "alpine/snowboarding",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.535Z",
+      "route": "/content/alpine/snowboarding-stage-8"
+    },
+    {
+      "slug": "alpine/snowboarding-stage-9",
+      "displayTitle": "Stage 9 - Alpine / Snowboarding",
+      "stream": "alpine/snowboarding",
+      "stage": 9,
+      "summary": "Stage 9 alpine/snowboarding activities",
+      "tags": [
+        "alpine/snowboarding",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.537Z",
+      "route": "/content/alpine/snowboarding-stage-9"
+    },
+    {
+      "slug": "alpine-stage-1",
+      "displayTitle": "Stage 1 - Alpine",
+      "stream": "alpine",
+      "stage": 1,
+      "summary": "Stage 1 alpine activities",
+      "tags": [
+        "alpine",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.538Z",
+      "route": "/content/alpine-stage-1"
+    },
+    {
+      "slug": "alpine-stage-2",
+      "displayTitle": "Stage 2 - Alpine",
+      "stream": "alpine",
+      "stage": 2,
+      "summary": "Stage 2 alpine activities",
+      "tags": [
+        "alpine",
+        "stage-2"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.539Z",
+      "route": "/content/alpine-stage-2"
+    },
+    {
+      "slug": "alpine-stage-3",
+      "displayTitle": "Stage 3 - Alpine",
+      "stream": "alpine",
+      "stage": 3,
+      "summary": "Stage 3 alpine activities",
+      "tags": [
+        "alpine",
+        "stage-3"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.540Z",
+      "route": "/content/alpine-stage-3"
+    },
+    {
+      "slug": "aquatics/life-saving-stage-4",
+      "displayTitle": "Stage 4 - Aquatics / Life Saving",
+      "stream": "aquatics/life-saving",
+      "stage": 4,
+      "summary": "Stage 4 aquatics/life-saving activities",
+      "tags": [
+        "aquatics/life-saving",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.542Z",
+      "route": "/content/aquatics/life-saving-stage-4"
+    },
+    {
+      "slug": "aquatics/life-saving-stage-5",
+      "displayTitle": "Stage 5 - Aquatics / Life Saving",
+      "stream": "aquatics/life-saving",
+      "stage": 5,
+      "summary": "Stage 5 aquatics/life-saving activities",
+      "tags": [
+        "aquatics/life-saving",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.543Z",
+      "route": "/content/aquatics/life-saving-stage-5"
+    },
+    {
+      "slug": "aquatics/life-saving-stage-6",
+      "displayTitle": "Stage 6 - Aquatics / Life Saving",
+      "stream": "aquatics/life-saving",
+      "stage": 6,
+      "summary": "Stage 6 aquatics/life-saving activities",
+      "tags": [
+        "aquatics/life-saving",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.544Z",
+      "route": "/content/aquatics/life-saving-stage-6"
+    },
+    {
+      "slug": "aquatics/life-saving/swift-water-rescue-stage-7",
+      "displayTitle": "Stage 7 - Aquatics / Life Saving / Swift Water Rescue",
+      "stream": "aquatics/life-saving/swift-water-rescue",
+      "stage": 7,
+      "summary": "Stage 7 aquatics/life-saving/swift-water-rescue activities",
+      "tags": [
+        "aquatics/life-saving/swift-water-rescue",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.546Z",
+      "route": "/content/aquatics/life-saving/swift-water-rescue-stage-7"
+    },
+    {
+      "slug": "aquatics/life-saving/swift-water-rescue-stage-8",
+      "displayTitle": "Stage 8 - Aquatics / Life Saving / Swift Water Rescue",
+      "stream": "aquatics/life-saving/swift-water-rescue",
+      "stage": 8,
+      "summary": "Stage 8 aquatics/life-saving/swift-water-rescue activities",
+      "tags": [
+        "aquatics/life-saving/swift-water-rescue",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.547Z",
+      "route": "/content/aquatics/life-saving/swift-water-rescue-stage-8"
+    },
+    {
+      "slug": "aquatics/life-saving/swift-water-rescue-stage-9",
+      "displayTitle": "Stage 9 - Aquatics / Life Saving / Swift Water Rescue",
+      "stream": "aquatics/life-saving/swift-water-rescue",
+      "stage": 9,
+      "summary": "Stage 9 aquatics/life-saving/swift-water-rescue activities",
+      "tags": [
+        "aquatics/life-saving/swift-water-rescue",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.548Z",
+      "route": "/content/aquatics/life-saving/swift-water-rescue-stage-9"
+    },
+    {
+      "slug": "aquatics/snorkelling/scuba-stage-7",
+      "displayTitle": "Stage 7 - Aquatics / Snorkelling / Scuba",
+      "stream": "aquatics/snorkelling/scuba",
+      "stage": 7,
+      "summary": "Stage 7 aquatics/snorkelling/scuba activities",
+      "tags": [
+        "aquatics/snorkelling/scuba",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.549Z",
+      "route": "/content/aquatics/snorkelling/scuba-stage-7"
+    },
+    {
+      "slug": "aquatics/snorkelling/scuba-stage-8",
+      "displayTitle": "Stage 8 - Aquatics / Snorkelling / Scuba",
+      "stream": "aquatics/snorkelling/scuba",
+      "stage": 8,
+      "summary": "Stage 8 aquatics/snorkelling/scuba activities",
+      "tags": [
+        "aquatics/snorkelling/scuba",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.551Z",
+      "route": "/content/aquatics/snorkelling/scuba-stage-8"
+    },
+    {
+      "slug": "aquatics/snorkelling/scuba-stage-9",
+      "displayTitle": "Stage 9 - Aquatics / Snorkelling / Scuba",
+      "stream": "aquatics/snorkelling/scuba",
+      "stage": 9,
+      "summary": "Stage 9 aquatics/snorkelling/scuba activities",
+      "tags": [
+        "aquatics/snorkelling/scuba",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.552Z",
+      "route": "/content/aquatics/snorkelling/scuba-stage-9"
+    },
+    {
+      "slug": "aquatics/snorkelling-stage-4",
+      "displayTitle": "Stage 4 - Aquatics / Snorkelling",
+      "stream": "aquatics/snorkelling",
+      "stage": 4,
+      "summary": "Stage 4 aquatics/snorkelling activities",
+      "tags": [
+        "aquatics/snorkelling",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.553Z",
+      "route": "/content/aquatics/snorkelling-stage-4"
+    },
+    {
+      "slug": "aquatics/snorkelling-stage-5",
+      "displayTitle": "Stage 5 - Aquatics / Snorkelling",
+      "stream": "aquatics/snorkelling",
+      "stage": 5,
+      "summary": "Stage 5 aquatics/snorkelling activities",
+      "tags": [
+        "aquatics/snorkelling",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.555Z",
+      "route": "/content/aquatics/snorkelling-stage-5"
+    },
+    {
+      "slug": "aquatics/snorkelling-stage-6",
+      "displayTitle": "Stage 6 - Aquatics / Snorkelling",
+      "stream": "aquatics/snorkelling",
+      "stage": 6,
+      "summary": "Stage 6 aquatics/snorkelling activities",
+      "tags": [
+        "aquatics/snorkelling",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.556Z",
+      "route": "/content/aquatics/snorkelling-stage-6"
+    },
+    {
+      "slug": "aquatics-stage-1",
+      "displayTitle": "Stage 1 - Aquatics",
+      "stream": "aquatics",
+      "stage": 1,
+      "summary": "Stage 1 aquatics activities",
+      "tags": [
+        "aquatics",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.557Z",
+      "route": "/content/aquatics-stage-1"
+    },
+    {
+      "slug": "aquatics-stage-2",
+      "displayTitle": "Stage 2 - Aquatics",
+      "stream": "aquatics",
+      "stage": 2,
+      "summary": "Stage 2 aquatics activities",
+      "tags": [
+        "aquatics",
+        "stage-2"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.557Z",
+      "route": "/content/aquatics-stage-2"
+    },
+    {
+      "slug": "aquatics-stage-3",
+      "displayTitle": "Stage 3 - Aquatics",
+      "stream": "aquatics",
+      "stage": 3,
+      "summary": "Stage 3 aquatics activities",
+      "tags": [
+        "aquatics",
+        "stage-3"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.558Z",
+      "route": "/content/aquatics-stage-3"
+    },
+    {
+      "slug": "aquatics/surfing-stage-4",
+      "displayTitle": "Stage 4 - Aquatics / Surfing",
+      "stream": "aquatics/surfing",
+      "stage": 4,
+      "summary": "Stage 4 aquatics/surfing activities",
+      "tags": [
+        "aquatics/surfing",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.559Z",
+      "route": "/content/aquatics/surfing-stage-4"
+    },
+    {
+      "slug": "aquatics/surfing-stage-5",
+      "displayTitle": "Stage 5 - Aquatics / Surfing",
+      "stream": "aquatics/surfing",
+      "stage": 5,
+      "summary": "Stage 5 aquatics/surfing activities",
+      "tags": [
+        "aquatics/surfing",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.560Z",
+      "route": "/content/aquatics/surfing-stage-5"
+    },
+    {
+      "slug": "aquatics/surfing-stage-6",
+      "displayTitle": "Stage 6 - Aquatics / Surfing",
+      "stream": "aquatics/surfing",
+      "stage": 6,
+      "summary": "Stage 6 aquatics/surfing activities",
+      "tags": [
+        "aquatics/surfing",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.561Z",
+      "route": "/content/aquatics/surfing-stage-6"
+    },
+    {
+      "slug": "aquatics/surfing-stage-7",
+      "displayTitle": "Stage 7 - Aquatics / Surfing",
+      "stream": "aquatics/surfing",
+      "stage": 7,
+      "summary": "Stage 7 aquatics/surfing activities",
+      "tags": [
+        "aquatics/surfing",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.562Z",
+      "route": "/content/aquatics/surfing-stage-7"
+    },
+    {
+      "slug": "aquatics/surfing-stage-8",
+      "displayTitle": "Stage 8 - Aquatics / Surfing",
+      "stream": "aquatics/surfing",
+      "stage": 8,
+      "summary": "Stage 8 aquatics/surfing activities",
+      "tags": [
+        "aquatics/surfing",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.563Z",
+      "route": "/content/aquatics/surfing-stage-8"
+    },
+    {
+      "slug": "aquatics/surfing-stage-9",
+      "displayTitle": "Stage 9 - Aquatics / Surfing",
+      "stream": "aquatics/surfing",
+      "stage": 9,
+      "summary": "Stage 9 aquatics/surfing activities",
+      "tags": [
+        "aquatics/surfing",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.564Z",
+      "route": "/content/aquatics/surfing-stage-9"
+    },
+    {
+      "slug": "boating/sailing-stage-4",
+      "displayTitle": "Stage 4 - Boating / Sailing",
+      "stream": "boating/sailing",
+      "stage": 4,
+      "summary": "Stage 4 boating/sailing activities",
+      "tags": [
+        "boating/sailing",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.565Z",
+      "route": "/content/boating/sailing-stage-4"
+    },
+    {
+      "slug": "boating/sailing-stage-5",
+      "displayTitle": "Stage 5 - Boating / Sailing",
+      "stream": "boating/sailing",
+      "stage": 5,
+      "summary": "Stage 5 boating/sailing activities",
+      "tags": [
+        "boating/sailing",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.566Z",
+      "route": "/content/boating/sailing-stage-5"
+    },
+    {
+      "slug": "boating/sailing-stage-6",
+      "displayTitle": "Stage 6 - Boating / Sailing",
+      "stream": "boating/sailing",
+      "stage": 6,
+      "summary": "Stage 6 boating/sailing activities",
+      "tags": [
+        "boating/sailing",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.567Z",
+      "route": "/content/boating/sailing-stage-6"
+    },
+    {
+      "slug": "boating/sailing-stage-7",
+      "displayTitle": "Stage 7 - Boating / Sailing",
+      "stream": "boating/sailing",
+      "stage": 7,
+      "summary": "Stage 7 boating/sailing activities",
+      "tags": [
+        "boating/sailing",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.568Z",
+      "route": "/content/boating/sailing-stage-7"
+    },
+    {
+      "slug": "boating/sailing-stage-8",
+      "displayTitle": "Stage 8 - Boating / Sailing",
+      "stream": "boating/sailing",
+      "stage": 8,
+      "summary": "Stage 8 boating/sailing activities",
+      "tags": [
+        "boating/sailing",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.569Z",
+      "route": "/content/boating/sailing-stage-8"
+    },
+    {
+      "slug": "boating/sailing-stage-9",
+      "displayTitle": "Stage 9 - Boating / Sailing",
+      "stream": "boating/sailing",
+      "stage": 9,
+      "summary": "Stage 9 boating/sailing activities",
+      "tags": [
+        "boating/sailing",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.571Z",
+      "route": "/content/boating/sailing-stage-9"
+    },
+    {
+      "slug": "boating-stage-1",
+      "displayTitle": "Stage 1 - Boating",
+      "stream": "boating",
+      "stage": 1,
+      "summary": "Stage 1 boating activities",
+      "tags": [
+        "boating",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.572Z",
+      "route": "/content/boating-stage-1"
+    },
+    {
+      "slug": "boating-stage-2",
+      "displayTitle": "Stage 2 - Boating",
+      "stream": "boating",
+      "stage": 2,
+      "summary": "Stage 2 boating activities",
+      "tags": [
+        "boating",
+        "stage-2"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.572Z",
+      "route": "/content/boating-stage-2"
+    },
+    {
+      "slug": "boating-stage-3",
+      "displayTitle": "Stage 3 - Boating",
+      "stream": "boating",
+      "stage": 3,
+      "summary": "Stage 3 boating activities",
+      "tags": [
+        "boating",
+        "stage-3"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.573Z",
+      "route": "/content/boating-stage-3"
+    },
+    {
+      "slug": "boating/windsurfing-stage-4",
+      "displayTitle": "Stage 4 - Boating / Windsurfing",
+      "stream": "boating/windsurfing",
+      "stage": 4,
+      "summary": "Stage 4 boating/windsurfing activities",
+      "tags": [
+        "boating/windsurfing",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.574Z",
+      "route": "/content/boating/windsurfing-stage-4"
+    },
+    {
+      "slug": "boating/windsurfing-stage-5",
+      "displayTitle": "Stage 5 - Boating / Windsurfing",
+      "stream": "boating/windsurfing",
+      "stage": 5,
+      "summary": "Stage 5 boating/windsurfing activities",
+      "tags": [
+        "boating/windsurfing",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.575Z",
+      "route": "/content/boating/windsurfing-stage-5"
+    },
+    {
+      "slug": "boating/windsurfing-stage-6",
+      "displayTitle": "Stage 6 - Boating / Windsurfing",
+      "stream": "boating/windsurfing",
+      "stage": 6,
+      "summary": "Stage 6 boating/windsurfing activities",
+      "tags": [
+        "boating/windsurfing",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.576Z",
+      "route": "/content/boating/windsurfing-stage-6"
+    },
+    {
+      "slug": "boating/windsurfing-stage-7",
+      "displayTitle": "Stage 7 - Boating / Windsurfing",
+      "stream": "boating/windsurfing",
+      "stage": 7,
+      "summary": "Stage 7 boating/windsurfing activities",
+      "tags": [
+        "boating/windsurfing",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.577Z",
+      "route": "/content/boating/windsurfing-stage-7"
+    },
+    {
+      "slug": "boating/windsurfing-stage-8",
+      "displayTitle": "Stage 8 - Boating / Windsurfing",
+      "stream": "boating/windsurfing",
+      "stage": 8,
+      "summary": "Stage 8 boating/windsurfing activities",
+      "tags": [
+        "boating/windsurfing",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.578Z",
+      "route": "/content/boating/windsurfing-stage-8"
+    },
+    {
+      "slug": "boating/windsurfing-stage-9",
+      "displayTitle": "Stage 9 - Boating / Windsurfing",
+      "stream": "boating/windsurfing",
+      "stage": 9,
+      "summary": "Stage 9 boating/windsurfing activities",
+      "tags": [
+        "boating/windsurfing",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.579Z",
+      "route": "/content/boating/windsurfing-stage-9"
+    },
+    {
+      "slug": "bushcraft/pioneering-stage-4",
+      "displayTitle": "Stage 4 - Bushcraft / Pioneering",
+      "stream": "bushcraft/pioneering",
+      "stage": 4,
+      "summary": "Stage 4 bushcraft/pioneering activities",
+      "tags": [
+        "bushcraft/pioneering",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.580Z",
+      "route": "/content/bushcraft/pioneering-stage-4"
+    },
+    {
+      "slug": "bushcraft/pioneering-stage-5",
+      "displayTitle": "Stage 5 - Bushcraft / Pioneering",
+      "stream": "bushcraft/pioneering",
+      "stage": 5,
+      "summary": "Stage 5 bushcraft/pioneering activities",
+      "tags": [
+        "bushcraft/pioneering",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.581Z",
+      "route": "/content/bushcraft/pioneering-stage-5"
+    },
+    {
+      "slug": "bushcraft/pioneering-stage-6",
+      "displayTitle": "Stage 6 - Bushcraft / Pioneering",
+      "stream": "bushcraft/pioneering",
+      "stage": 6,
+      "summary": "Stage 6 bushcraft/pioneering activities",
+      "tags": [
+        "bushcraft/pioneering",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.582Z",
+      "route": "/content/bushcraft/pioneering-stage-6"
+    },
+    {
+      "slug": "bushcraft/pioneering-stage-7",
+      "displayTitle": "Stage 7 - Bushcraft / Pioneering",
+      "stream": "bushcraft/pioneering",
+      "stage": 7,
+      "summary": "Stage 7 bushcraft/pioneering activities",
+      "tags": [
+        "bushcraft/pioneering",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.583Z",
+      "route": "/content/bushcraft/pioneering-stage-7"
+    },
+    {
+      "slug": "bushcraft/pioneering-stage-8",
+      "displayTitle": "Stage 8 - Bushcraft / Pioneering",
+      "stream": "bushcraft/pioneering",
+      "stage": 8,
+      "summary": "Stage 8 bushcraft/pioneering activities",
+      "tags": [
+        "bushcraft/pioneering",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.584Z",
+      "route": "/content/bushcraft/pioneering-stage-8"
+    },
+    {
+      "slug": "bushcraft/pioneering-stage-9",
+      "displayTitle": "Stage 9 - Bushcraft / Pioneering",
+      "stream": "bushcraft/pioneering",
+      "stage": 9,
+      "summary": "Stage 9 bushcraft/pioneering activities",
+      "tags": [
+        "bushcraft/pioneering",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.584Z",
+      "route": "/content/bushcraft/pioneering-stage-9"
+    },
+    {
+      "slug": "bushcraft-stage-2",
+      "displayTitle": "Stage 2 - Bushcraft",
+      "stream": "bushcraft",
+      "stage": 2,
+      "summary": "Stage 2 bushcraft activities",
+      "tags": [
+        "bushcraft",
+        "stage-2"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.586Z",
+      "route": "/content/bushcraft-stage-2"
+    },
+    {
+      "slug": "bushcraft-stage-3",
+      "displayTitle": "Stage 3 - Bushcraft",
+      "stream": "bushcraft",
+      "stage": 3,
+      "summary": "Stage 3 bushcraft activities",
+      "tags": [
+        "bushcraft",
+        "stage-3"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.587Z",
+      "route": "/content/bushcraft-stage-3"
+    },
+    {
+      "slug": "bushcraft/survival-skills-stage-4",
+      "displayTitle": "Stage 4 - Bushcraft / Survival Skills",
+      "stream": "bushcraft/survival-skills",
+      "stage": 4,
+      "summary": "Stage 4 bushcraft/survival-skills activities",
+      "tags": [
+        "bushcraft/survival-skills",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.589Z",
+      "route": "/content/bushcraft/survival-skills-stage-4"
+    },
+    {
+      "slug": "bushcraft/survival-skills-stage-5",
+      "displayTitle": "Stage 5 - Bushcraft / Survival Skills",
+      "stream": "bushcraft/survival-skills",
+      "stage": 5,
+      "summary": "Stage 5 bushcraft/survival-skills activities",
+      "tags": [
+        "bushcraft/survival-skills",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.590Z",
+      "route": "/content/bushcraft/survival-skills-stage-5"
+    },
+    {
+      "slug": "bushcraft/survival-skills-stage-6",
+      "displayTitle": "Stage 6 - Bushcraft / Survival Skills",
+      "stream": "bushcraft/survival-skills",
+      "stage": 6,
+      "summary": "Stage 6 bushcraft/survival-skills activities",
+      "tags": [
+        "bushcraft/survival-skills",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.591Z",
+      "route": "/content/bushcraft/survival-skills-stage-6"
+    },
+    {
+      "slug": "bushcraft/survival-skills-stage-7",
+      "displayTitle": "Stage 7 - Bushcraft / Survival Skills",
+      "stream": "bushcraft/survival-skills",
+      "stage": 7,
+      "summary": "Stage 7 bushcraft/survival-skills activities",
+      "tags": [
+        "bushcraft/survival-skills",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.592Z",
+      "route": "/content/bushcraft/survival-skills-stage-7"
+    },
+    {
+      "slug": "bushcraft/survival-skills-stage-8",
+      "displayTitle": "Stage 8 - Bushcraft / Survival Skills",
+      "stream": "bushcraft/survival-skills",
+      "stage": 8,
+      "summary": "Stage 8 bushcraft/survival-skills activities",
+      "tags": [
+        "bushcraft/survival-skills",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.593Z",
+      "route": "/content/bushcraft/survival-skills-stage-8"
+    },
+    {
+      "slug": "bushcraft/survival-skills-stage-9",
+      "displayTitle": "Stage 9 - Bushcraft / Survival Skills",
+      "stream": "bushcraft/survival-skills",
+      "stage": 9,
+      "summary": "Stage 9 bushcraft/survival-skills activities",
+      "tags": [
+        "bushcraft/survival-skills",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.594Z",
+      "route": "/content/bushcraft/survival-skills-stage-9"
+    },
+    {
+      "slug": "bushwalking-stage-3",
+      "displayTitle": "Stage 3 - Bushwalking",
+      "stream": "bushwalking",
+      "stage": 3,
+      "summary": "Stage 3 bushwalking activities",
+      "tags": [
+        "bushwalking",
+        "stage-3"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.595Z",
+      "route": "/content/bushwalking-stage-3"
+    },
+    {
+      "slug": "bushwalking-stage-4",
+      "displayTitle": "Stage 4 - Bushwalking",
+      "stream": "bushwalking",
+      "stage": 4,
+      "summary": "Stage 4 bushwalking activities",
+      "tags": [
+        "bushwalking",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.596Z",
+      "route": "/content/bushwalking-stage-4"
+    },
+    {
+      "slug": "bushwalking-stage-5",
+      "displayTitle": "Stage 5 - Bushwalking",
+      "stream": "bushwalking",
+      "stage": 5,
+      "summary": "Stage 5 bushwalking activities",
+      "tags": [
+        "bushwalking",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.597Z",
+      "route": "/content/bushwalking-stage-5"
+    },
+    {
+      "slug": "bushwalking-stage-6",
+      "displayTitle": "Stage 6 - Bushwalking",
+      "stream": "bushwalking",
+      "stage": 6,
+      "summary": "Stage 6 bushwalking activities",
+      "tags": [
+        "bushwalking",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.599Z",
+      "route": "/content/bushwalking-stage-6"
+    },
+    {
+      "slug": "bushwalking-stage-7",
+      "displayTitle": "Stage 7 - Bushwalking",
+      "stream": "bushwalking",
+      "stage": 7,
+      "summary": "Stage 7 bushwalking activities",
+      "tags": [
+        "bushwalking",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.600Z",
+      "route": "/content/bushwalking-stage-7"
+    },
+    {
+      "slug": "bushwalking-stage-8",
+      "displayTitle": "Stage 8 - Bushwalking",
+      "stream": "bushwalking",
+      "stage": 8,
+      "summary": "Stage 8 bushwalking activities",
+      "tags": [
+        "bushwalking",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.601Z",
+      "route": "/content/bushwalking-stage-8"
+    },
+    {
+      "slug": "bushwalking-stage-9",
+      "displayTitle": "Stage 9 - Bushwalking",
+      "stream": "bushwalking",
+      "stage": 9,
+      "summary": "Stage 9 bushwalking activities",
+      "tags": [
+        "bushwalking",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.601Z",
+      "route": "/content/bushwalking-stage-9"
+    },
+    {
+      "slug": "camping-stage-1",
+      "displayTitle": "Stage 1 - Camping",
+      "stream": "camping",
+      "stage": 1,
+      "summary": "Stage 1 camping activities",
+      "tags": [
+        "camping",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.603Z",
+      "route": "/content/camping-stage-1"
+    },
+    {
+      "slug": "camping-stage-2",
+      "displayTitle": "Stage 2 - Camping",
+      "stream": "camping",
+      "stage": 2,
+      "summary": "Stage 2 camping activities",
+      "tags": [
+        "camping",
+        "stage-2"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.604Z",
+      "route": "/content/camping-stage-2"
+    },
+    {
+      "slug": "camping-stage-3",
+      "displayTitle": "Stage 3 - Camping",
+      "stream": "camping",
+      "stage": 3,
+      "summary": "Stage 3 camping activities",
+      "tags": [
+        "camping",
+        "stage-3"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.605Z",
+      "route": "/content/camping-stage-3"
+    },
+    {
+      "slug": "camping-stage-4",
+      "displayTitle": "Stage 4 - Camping",
+      "stream": "camping",
+      "stage": 4,
+      "summary": "Stage 4 camping activities",
+      "tags": [
+        "camping",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.606Z",
+      "route": "/content/camping-stage-4"
+    },
+    {
+      "slug": "camping-stage-5",
+      "displayTitle": "Stage 5 - Camping",
+      "stream": "camping",
+      "stage": 5,
+      "summary": "Stage 5 camping activities",
+      "tags": [
+        "camping",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.607Z",
+      "route": "/content/camping-stage-5"
+    },
+    {
+      "slug": "camping-stage-6",
+      "displayTitle": "Stage 6 - Camping",
+      "stream": "camping",
+      "stage": 6,
+      "summary": "Stage 6 camping activities",
+      "tags": [
+        "camping",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.608Z",
+      "route": "/content/camping-stage-6"
+    },
+    {
+      "slug": "camping-stage-7",
+      "displayTitle": "Stage 7 - Camping",
+      "stream": "camping",
+      "stage": 7,
+      "summary": "Stage 7 camping activities",
+      "tags": [
+        "camping",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.609Z",
+      "route": "/content/camping-stage-7"
+    },
+    {
+      "slug": "camping-stage-8",
+      "displayTitle": "Stage 8 - Camping",
+      "stream": "camping",
+      "stage": 8,
+      "summary": "Stage 8 camping activities",
+      "tags": [
+        "camping",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.610Z",
+      "route": "/content/camping-stage-8"
+    },
+    {
+      "slug": "camping-stage-9",
+      "displayTitle": "Stage 9 - Camping",
+      "stream": "camping",
+      "stage": 9,
+      "summary": "Stage 9 camping activities",
+      "tags": [
+        "camping",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.611Z",
+      "route": "/content/camping-stage-9"
+    },
+    {
+      "slug": "cycling/cycle-touring-stage-4",
+      "displayTitle": "Stage 4 - Cycling / Cycle Touring",
+      "stream": "cycling/cycle-touring",
+      "stage": 4,
+      "summary": "Stage 4 cycling/cycle-touring activities",
+      "tags": [
+        "cycling/cycle-touring",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.612Z",
+      "route": "/content/cycling/cycle-touring-stage-4"
+    },
+    {
+      "slug": "cycling/cycle-touring-stage-5",
+      "displayTitle": "Stage 5 - Cycling / Cycle Touring",
+      "stream": "cycling/cycle-touring",
+      "stage": 5,
+      "summary": "Stage 5 cycling/cycle-touring activities",
+      "tags": [
+        "cycling/cycle-touring",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.613Z",
+      "route": "/content/cycling/cycle-touring-stage-5"
+    },
+    {
+      "slug": "cycling/cycle-touring-stage-6",
+      "displayTitle": "Stage 6 - Cycling / Cycle Touring",
+      "stream": "cycling/cycle-touring",
+      "stage": 6,
+      "summary": "Stage 6 cycling/cycle-touring activities",
+      "tags": [
+        "cycling/cycle-touring",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.614Z",
+      "route": "/content/cycling/cycle-touring-stage-6"
+    },
+    {
+      "slug": "cycling/cycle-touring-stage-7",
+      "displayTitle": "Stage 7 - Cycling / Cycle Touring",
+      "stream": "cycling/cycle-touring",
+      "stage": 7,
+      "summary": "Stage 7 cycling/cycle-touring activities",
+      "tags": [
+        "cycling/cycle-touring",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.614Z",
+      "route": "/content/cycling/cycle-touring-stage-7"
+    },
+    {
+      "slug": "cycling/cycle-touring-stage-8",
+      "displayTitle": "Stage 8 - Cycling / Cycle Touring",
+      "stream": "cycling/cycle-touring",
+      "stage": 8,
+      "summary": "Stage 8 cycling/cycle-touring activities",
+      "tags": [
+        "cycling/cycle-touring",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.616Z",
+      "route": "/content/cycling/cycle-touring-stage-8"
+    },
+    {
+      "slug": "cycling/cycle-touring-stage-9",
+      "displayTitle": "Stage 9 - Cycling / Cycle Touring",
+      "stream": "cycling/cycle-touring",
+      "stage": 9,
+      "summary": "Stage 9 cycling/cycle-touring activities",
+      "tags": [
+        "cycling/cycle-touring",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.617Z",
+      "route": "/content/cycling/cycle-touring-stage-9"
+    },
+    {
+      "slug": "cycling/mountain-biking-stage-4",
+      "displayTitle": "Stage 4 - Cycling / Mountain Biking",
+      "stream": "cycling/mountain-biking",
+      "stage": 4,
+      "summary": "Stage 4 cycling/mountain-biking activities",
+      "tags": [
+        "cycling/mountain-biking",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.617Z",
+      "route": "/content/cycling/mountain-biking-stage-4"
+    },
+    {
+      "slug": "cycling/mountain-biking-stage-5",
+      "displayTitle": "Stage 5 - Cycling / Mountain Biking",
+      "stream": "cycling/mountain-biking",
+      "stage": 5,
+      "summary": "Stage 5 cycling/mountain-biking activities",
+      "tags": [
+        "cycling/mountain-biking",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.619Z",
+      "route": "/content/cycling/mountain-biking-stage-5"
+    },
+    {
+      "slug": "cycling/mountain-biking-stage-6",
+      "displayTitle": "Stage 6 - Cycling / Mountain Biking",
+      "stream": "cycling/mountain-biking",
+      "stage": 6,
+      "summary": "Stage 6 cycling/mountain-biking activities",
+      "tags": [
+        "cycling/mountain-biking",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.620Z",
+      "route": "/content/cycling/mountain-biking-stage-6"
+    },
+    {
+      "slug": "cycling/mountain-biking-stage-7",
+      "displayTitle": "Stage 7 - Cycling / Mountain Biking",
+      "stream": "cycling/mountain-biking",
+      "stage": 7,
+      "summary": "Stage 7 cycling/mountain-biking activities",
+      "tags": [
+        "cycling/mountain-biking",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.621Z",
+      "route": "/content/cycling/mountain-biking-stage-7"
+    },
+    {
+      "slug": "cycling/mountain-biking-stage-8",
+      "displayTitle": "Stage 8 - Cycling / Mountain Biking",
+      "stream": "cycling/mountain-biking",
+      "stage": 8,
+      "summary": "Stage 8 cycling/mountain-biking activities",
+      "tags": [
+        "cycling/mountain-biking",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.622Z",
+      "route": "/content/cycling/mountain-biking-stage-8"
+    },
+    {
+      "slug": "cycling/mountain-biking-stage-9",
+      "displayTitle": "Stage 9 - Cycling / Mountain Biking",
+      "stream": "cycling/mountain-biking",
+      "stage": 9,
+      "summary": "Stage 9 cycling/mountain-biking activities",
+      "tags": [
+        "cycling/mountain-biking",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.623Z",
+      "route": "/content/cycling/mountain-biking-stage-9"
+    },
+    {
+      "slug": "cycling-stage-1",
+      "displayTitle": "Stage 1 - Cycling",
+      "stream": "cycling",
+      "stage": 1,
+      "summary": "Stage 1 cycling activities",
+      "tags": [
+        "cycling",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.624Z",
+      "route": "/content/cycling-stage-1"
+    },
+    {
+      "slug": "cycling-stage-2",
+      "displayTitle": "Stage 2 - Cycling",
+      "stream": "cycling",
+      "stage": 2,
+      "summary": "Stage 2 cycling activities",
+      "tags": [
+        "cycling",
+        "stage-2"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.625Z",
+      "route": "/content/cycling-stage-2"
+    },
+    {
+      "slug": "cycling-stage-3",
+      "displayTitle": "Stage 3 - Cycling",
+      "stream": "cycling",
+      "stage": 3,
+      "summary": "Stage 3 cycling activities",
+      "tags": [
+        "cycling",
+        "stage-3"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.626Z",
+      "route": "/content/cycling-stage-3"
+    },
+    {
+      "slug": "paddling/canoeing/canoeing-stage-7",
+      "displayTitle": "Stage 7 - Paddling / Canoeing / Canoeing",
+      "stream": "paddling/canoeing/canoeing",
+      "stage": 7,
+      "summary": "Stage 7 paddling/canoeing/canoeing activities",
+      "tags": [
+        "paddling/canoeing/canoeing",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.627Z",
+      "route": "/content/paddling/canoeing/canoeing-stage-7"
+    },
+    {
+      "slug": "paddling/canoeing/canoeing-stage-8",
+      "displayTitle": "Stage 8 - Paddling / Canoeing / Canoeing",
+      "stream": "paddling/canoeing/canoeing",
+      "stage": 8,
+      "summary": "Stage 8 paddling/canoeing/canoeing activities",
+      "tags": [
+        "paddling/canoeing/canoeing",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.628Z",
+      "route": "/content/paddling/canoeing/canoeing-stage-8"
+    },
+    {
+      "slug": "paddling/canoeing/canoeing-stage-9",
+      "displayTitle": "Stage 9 - Paddling / Canoeing / Canoeing",
+      "stream": "paddling/canoeing/canoeing",
+      "stage": 9,
+      "summary": "Stage 9 paddling/canoeing/canoeing activities",
+      "tags": [
+        "paddling/canoeing/canoeing",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.629Z",
+      "route": "/content/paddling/canoeing/canoeing-stage-9"
+    },
+    {
+      "slug": "paddling/canoeing-stage-4",
+      "displayTitle": "Stage 4 - Paddling / Canoeing",
+      "stream": "paddling/canoeing",
+      "stage": 4,
+      "summary": "Stage 4 paddling/canoeing activities",
+      "tags": [
+        "paddling/canoeing",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.630Z",
+      "route": "/content/paddling/canoeing-stage-4"
+    },
+    {
+      "slug": "paddling/canoeing-stage-5",
+      "displayTitle": "Stage 5 - Paddling / Canoeing",
+      "stream": "paddling/canoeing",
+      "stage": 5,
+      "summary": "Stage 5 paddling/canoeing activities",
+      "tags": [
+        "paddling/canoeing",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.631Z",
+      "route": "/content/paddling/canoeing-stage-5"
+    },
+    {
+      "slug": "paddling/canoeing-stage-6",
+      "displayTitle": "Stage 6 - Paddling / Canoeing",
+      "stream": "paddling/canoeing",
+      "stage": 6,
+      "summary": "Stage 6 paddling/canoeing activities",
+      "tags": [
+        "paddling/canoeing",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.632Z",
+      "route": "/content/paddling/canoeing-stage-6"
+    },
+    {
+      "slug": "paddling/canoeing/white-water-rafting-stage-7",
+      "displayTitle": "Stage 7 - Paddling / Canoeing / White Water Rafting",
+      "stream": "paddling/canoeing/white-water-rafting",
+      "stage": 7,
+      "summary": "Stage 7 paddling/canoeing/white-water-rafting activities",
+      "tags": [
+        "paddling/canoeing/white-water-rafting",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.634Z",
+      "route": "/content/paddling/canoeing/white-water-rafting-stage-7"
+    },
+    {
+      "slug": "paddling/canoeing/white-water-rafting-stage-8",
+      "displayTitle": "Stage 8 - Paddling / Canoeing / White Water Rafting",
+      "stream": "paddling/canoeing/white-water-rafting",
+      "stage": 8,
+      "summary": "Stage 8 paddling/canoeing/white-water-rafting activities",
+      "tags": [
+        "paddling/canoeing/white-water-rafting",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.635Z",
+      "route": "/content/paddling/canoeing/white-water-rafting-stage-8"
+    },
+    {
+      "slug": "paddling/canoeing/white-water-rafting-stage-9",
+      "displayTitle": "Stage 9 - Paddling / Canoeing / White Water Rafting",
+      "stream": "paddling/canoeing/white-water-rafting",
+      "stage": 9,
+      "summary": "Stage 9 paddling/canoeing/white-water-rafting activities",
+      "tags": [
+        "paddling/canoeing/white-water-rafting",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.636Z",
+      "route": "/content/paddling/canoeing/white-water-rafting-stage-9"
+    },
+    {
+      "slug": "paddling/kayaking-stage-4",
+      "displayTitle": "Stage 4 - Paddling / Kayaking",
+      "stream": "paddling/kayaking",
+      "stage": 4,
+      "summary": "Stage 4 paddling/kayaking activities",
+      "tags": [
+        "paddling/kayaking",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.638Z",
+      "route": "/content/paddling/kayaking-stage-4"
+    },
+    {
+      "slug": "paddling/kayaking-stage-5",
+      "displayTitle": "Stage 5 - Paddling / Kayaking",
+      "stream": "paddling/kayaking",
+      "stage": 5,
+      "summary": "Stage 5 paddling/kayaking activities",
+      "tags": [
+        "paddling/kayaking",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.639Z",
+      "route": "/content/paddling/kayaking-stage-5"
+    },
+    {
+      "slug": "paddling/kayaking-stage-6",
+      "displayTitle": "Stage 6 - Paddling / Kayaking",
+      "stream": "paddling/kayaking",
+      "stage": 6,
+      "summary": "Stage 6 paddling/kayaking activities",
+      "tags": [
+        "paddling/kayaking",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.640Z",
+      "route": "/content/paddling/kayaking-stage-6"
+    },
+    {
+      "slug": "paddling/kayaking/white-water-kayaking-stage-7",
+      "displayTitle": "Stage 7 - Paddling / Kayaking / White Water Kayaking",
+      "stream": "paddling/kayaking/white-water-kayaking",
+      "stage": 7,
+      "summary": "Stage 7 paddling/kayaking/white-water-kayaking activities",
+      "tags": [
+        "paddling/kayaking/white-water-kayaking",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.641Z",
+      "route": "/content/paddling/kayaking/white-water-kayaking-stage-7"
+    },
+    {
+      "slug": "paddling/kayaking/white-water-kayaking-stage-8",
+      "displayTitle": "Stage 8 - Paddling / Kayaking / White Water Kayaking",
+      "stream": "paddling/kayaking/white-water-kayaking",
+      "stage": 8,
+      "summary": "Stage 8 paddling/kayaking/white-water-kayaking activities",
+      "tags": [
+        "paddling/kayaking/white-water-kayaking",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.642Z",
+      "route": "/content/paddling/kayaking/white-water-kayaking-stage-8"
+    },
+    {
+      "slug": "paddling/kayaking/white-water-kayaking-stage-9",
+      "displayTitle": "Stage 9 - Paddling / Kayaking / White Water Kayaking",
+      "stream": "paddling/kayaking/white-water-kayaking",
+      "stage": 9,
+      "summary": "Stage 9 paddling/kayaking/white-water-kayaking activities",
+      "tags": [
+        "paddling/kayaking/white-water-kayaking",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.643Z",
+      "route": "/content/paddling/kayaking/white-water-kayaking-stage-9"
+    },
+    {
+      "slug": "paddling/sea-kayaking-stage-4",
+      "displayTitle": "Stage 4 - Paddling / Sea Kayaking",
+      "stream": "paddling/sea-kayaking",
+      "stage": 4,
+      "summary": "Stage 4 paddling/sea-kayaking activities",
+      "tags": [
+        "paddling/sea-kayaking",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.644Z",
+      "route": "/content/paddling/sea-kayaking-stage-4"
+    },
+    {
+      "slug": "paddling/sea-kayaking-stage-5",
+      "displayTitle": "Stage 5 - Paddling / Sea Kayaking",
+      "stream": "paddling/sea-kayaking",
+      "stage": 5,
+      "summary": "Stage 5 paddling/sea-kayaking activities",
+      "tags": [
+        "paddling/sea-kayaking",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.645Z",
+      "route": "/content/paddling/sea-kayaking-stage-5"
+    },
+    {
+      "slug": "paddling/sea-kayaking-stage-6",
+      "displayTitle": "Stage 6 - Paddling / Sea Kayaking",
+      "stream": "paddling/sea-kayaking",
+      "stage": 6,
+      "summary": "Stage 6 paddling/sea-kayaking activities",
+      "tags": [
+        "paddling/sea-kayaking",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.646Z",
+      "route": "/content/paddling/sea-kayaking-stage-6"
+    },
+    {
+      "slug": "paddling/sea-kayaking-stage-7",
+      "displayTitle": "Stage 7 - Paddling / Sea Kayaking",
+      "stream": "paddling/sea-kayaking",
+      "stage": 7,
+      "summary": "Stage 7 paddling/sea-kayaking activities",
+      "tags": [
+        "paddling/sea-kayaking",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.647Z",
+      "route": "/content/paddling/sea-kayaking-stage-7"
+    },
+    {
+      "slug": "paddling/sea-kayaking-stage-8",
+      "displayTitle": "Stage 8 - Paddling / Sea Kayaking",
+      "stream": "paddling/sea-kayaking",
+      "stage": 8,
+      "summary": "Stage 8 paddling/sea-kayaking activities",
+      "tags": [
+        "paddling/sea-kayaking",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.649Z",
+      "route": "/content/paddling/sea-kayaking-stage-8"
+    },
+    {
+      "slug": "paddling/sea-kayaking-stage-9",
+      "displayTitle": "Stage 9 - Paddling / Sea Kayaking",
+      "stream": "paddling/sea-kayaking",
+      "stage": 9,
+      "summary": "Stage 9 paddling/sea-kayaking activities",
+      "tags": [
+        "paddling/sea-kayaking",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.650Z",
+      "route": "/content/paddling/sea-kayaking-stage-9"
+    },
+    {
+      "slug": "paddling-stage-1",
+      "displayTitle": "Stage 1 - Paddling",
+      "stream": "paddling",
+      "stage": 1,
+      "summary": "Stage 1 paddling activities",
+      "tags": [
+        "paddling",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.650Z",
+      "route": "/content/paddling-stage-1"
+    },
+    {
+      "slug": "paddling-stage-2",
+      "displayTitle": "Stage 2 - Paddling",
+      "stream": "paddling",
+      "stage": 2,
+      "summary": "Stage 2 paddling activities",
+      "tags": [
+        "paddling",
+        "stage-2"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.651Z",
+      "route": "/content/paddling-stage-2"
+    },
+    {
+      "slug": "paddling-stage-3",
+      "displayTitle": "Stage 3 - Paddling",
+      "stream": "paddling",
+      "stage": 3,
+      "summary": "Stage 3 paddling activities",
+      "tags": [
+        "paddling",
+        "stage-3"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.653Z",
+      "route": "/content/paddling-stage-3"
+    },
+    {
+      "slug": "sia-stage-1",
+      "displayTitle": "Stage 1 - Sia",
+      "stream": "sia",
+      "stage": 1,
+      "summary": "Stage 1 sia activities",
+      "tags": [
+        "sia",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.655Z",
+      "route": "/content/sia-stage-1"
+    },
+    {
+      "slug": "vertical/abseiling-stage-4",
+      "displayTitle": "Stage 4 - Vertical / Abseiling",
+      "stream": "vertical/abseiling",
+      "stage": 4,
+      "summary": "Stage 4 vertical/abseiling activities",
+      "tags": [
+        "vertical/abseiling",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.656Z",
+      "route": "/content/vertical/abseiling-stage-4"
+    },
+    {
+      "slug": "vertical/abseiling-stage-5",
+      "displayTitle": "Stage 5 - Vertical / Abseiling",
+      "stream": "vertical/abseiling",
+      "stage": 5,
+      "summary": "Stage 5 vertical/abseiling activities",
+      "tags": [
+        "vertical/abseiling",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.657Z",
+      "route": "/content/vertical/abseiling-stage-5"
+    },
+    {
+      "slug": "vertical/abseiling-stage-6",
+      "displayTitle": "Stage 6 - Vertical / Abseiling",
+      "stream": "vertical/abseiling",
+      "stage": 6,
+      "summary": "Stage 6 vertical/abseiling activities",
+      "tags": [
+        "vertical/abseiling",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.658Z",
+      "route": "/content/vertical/abseiling-stage-6"
+    },
+    {
+      "slug": "vertical/abseiling-stage-7",
+      "displayTitle": "Stage 7 - Vertical / Abseiling",
+      "stream": "vertical/abseiling",
+      "stage": 7,
+      "summary": "Stage 7 vertical/abseiling activities",
+      "tags": [
+        "vertical/abseiling",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.659Z",
+      "route": "/content/vertical/abseiling-stage-7"
+    },
+    {
+      "slug": "vertical/abseiling-stage-8",
+      "displayTitle": "Stage 8 - Vertical / Abseiling",
+      "stream": "vertical/abseiling",
+      "stage": 8,
+      "summary": "Stage 8 vertical/abseiling activities",
+      "tags": [
+        "vertical/abseiling",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.660Z",
+      "route": "/content/vertical/abseiling-stage-8"
+    },
+    {
+      "slug": "vertical/abseiling-stage-9",
+      "displayTitle": "Stage 9 - Vertical / Abseiling",
+      "stream": "vertical/abseiling",
+      "stage": 9,
+      "summary": "Stage 9 vertical/abseiling activities",
+      "tags": [
+        "vertical/abseiling",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.661Z",
+      "route": "/content/vertical/abseiling-stage-9"
+    },
+    {
+      "slug": "vertical/canyoning-stage-4",
+      "displayTitle": "Stage 4 - Vertical / Canyoning",
+      "stream": "vertical/canyoning",
+      "stage": 4,
+      "summary": "Stage 4 vertical/canyoning activities",
+      "tags": [
+        "vertical/canyoning",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.661Z",
+      "route": "/content/vertical/canyoning-stage-4"
+    },
+    {
+      "slug": "vertical/canyoning-stage-5",
+      "displayTitle": "Stage 5 - Vertical / Canyoning",
+      "stream": "vertical/canyoning",
+      "stage": 5,
+      "summary": "Stage 5 vertical/canyoning activities",
+      "tags": [
+        "vertical/canyoning",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.662Z",
+      "route": "/content/vertical/canyoning-stage-5"
+    },
+    {
+      "slug": "vertical/canyoning-stage-6",
+      "displayTitle": "Stage 6 - Vertical / Canyoning",
+      "stream": "vertical/canyoning",
+      "stage": 6,
+      "summary": "Stage 6 vertical/canyoning activities",
+      "tags": [
+        "vertical/canyoning",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.664Z",
+      "route": "/content/vertical/canyoning-stage-6"
+    },
+    {
+      "slug": "vertical/canyoning-stage-7",
+      "displayTitle": "Stage 7 - Vertical / Canyoning",
+      "stream": "vertical/canyoning",
+      "stage": 7,
+      "summary": "Stage 7 vertical/canyoning activities",
+      "tags": [
+        "vertical/canyoning",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.665Z",
+      "route": "/content/vertical/canyoning-stage-7"
+    },
+    {
+      "slug": "vertical/canyoning-stage-8",
+      "displayTitle": "Stage 8 - Vertical / Canyoning",
+      "stream": "vertical/canyoning",
+      "stage": 8,
+      "summary": "Stage 8 vertical/canyoning activities",
+      "tags": [
+        "vertical/canyoning",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.666Z",
+      "route": "/content/vertical/canyoning-stage-8"
+    },
+    {
+      "slug": "vertical/canyoning-stage-9",
+      "displayTitle": "Stage 9 - Vertical / Canyoning",
+      "stream": "vertical/canyoning",
+      "stage": 9,
+      "summary": "Stage 9 vertical/canyoning activities",
+      "tags": [
+        "vertical/canyoning",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.667Z",
+      "route": "/content/vertical/canyoning-stage-9"
+    },
+    {
+      "slug": "vertical/caving-stage-4",
+      "displayTitle": "Stage 4 - Vertical / Caving",
+      "stream": "vertical/caving",
+      "stage": 4,
+      "summary": "Stage 4 vertical/caving activities",
+      "tags": [
+        "vertical/caving",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.668Z",
+      "route": "/content/vertical/caving-stage-4"
+    },
+    {
+      "slug": "vertical/caving-stage-5",
+      "displayTitle": "Stage 5 - Vertical / Caving",
+      "stream": "vertical/caving",
+      "stage": 5,
+      "summary": "Stage 5 vertical/caving activities",
+      "tags": [
+        "vertical/caving",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.670Z",
+      "route": "/content/vertical/caving-stage-5"
+    },
+    {
+      "slug": "vertical/caving-stage-6",
+      "displayTitle": "Stage 6 - Vertical / Caving",
+      "stream": "vertical/caving",
+      "stage": 6,
+      "summary": "Stage 6 vertical/caving activities",
+      "tags": [
+        "vertical/caving",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.671Z",
+      "route": "/content/vertical/caving-stage-6"
+    },
+    {
+      "slug": "vertical/caving-stage-7",
+      "displayTitle": "Stage 7 - Vertical / Caving",
+      "stream": "vertical/caving",
+      "stage": 7,
+      "summary": "Stage 7 vertical/caving activities",
+      "tags": [
+        "vertical/caving",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.672Z",
+      "route": "/content/vertical/caving-stage-7"
+    },
+    {
+      "slug": "vertical/caving-stage-8",
+      "displayTitle": "Stage 8 - Vertical / Caving",
+      "stream": "vertical/caving",
+      "stage": 8,
+      "summary": "Stage 8 vertical/caving activities",
+      "tags": [
+        "vertical/caving",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.673Z",
+      "route": "/content/vertical/caving-stage-8"
+    },
+    {
+      "slug": "vertical/caving-stage-9",
+      "displayTitle": "Stage 9 - Vertical / Caving",
+      "stream": "vertical/caving",
+      "stage": 9,
+      "summary": "Stage 9 vertical/caving activities",
+      "tags": [
+        "vertical/caving",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.674Z",
+      "route": "/content/vertical/caving-stage-9"
+    },
+    {
+      "slug": "vertical/climbing-stage-4",
+      "displayTitle": "Stage 4 - Vertical / Climbing",
+      "stream": "vertical/climbing",
+      "stage": 4,
+      "summary": "Stage 4 vertical/climbing activities",
+      "tags": [
+        "vertical/climbing",
+        "stage-4"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.675Z",
+      "route": "/content/vertical/climbing-stage-4"
+    },
+    {
+      "slug": "vertical/climbing-stage-5",
+      "displayTitle": "Stage 5 - Vertical / Climbing",
+      "stream": "vertical/climbing",
+      "stage": 5,
+      "summary": "Stage 5 vertical/climbing activities",
+      "tags": [
+        "vertical/climbing",
+        "stage-5"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.676Z",
+      "route": "/content/vertical/climbing-stage-5"
+    },
+    {
+      "slug": "vertical/climbing-stage-6",
+      "displayTitle": "Stage 6 - Vertical / Climbing",
+      "stream": "vertical/climbing",
+      "stage": 6,
+      "summary": "Stage 6 vertical/climbing activities",
+      "tags": [
+        "vertical/climbing",
+        "stage-6"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.677Z",
+      "route": "/content/vertical/climbing-stage-6"
+    },
+    {
+      "slug": "vertical/climbing-stage-7",
+      "displayTitle": "Stage 7 - Vertical / Climbing",
+      "stream": "vertical/climbing",
+      "stage": 7,
+      "summary": "Stage 7 vertical/climbing activities",
+      "tags": [
+        "vertical/climbing",
+        "stage-7"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.678Z",
+      "route": "/content/vertical/climbing-stage-7"
+    },
+    {
+      "slug": "vertical/climbing-stage-8",
+      "displayTitle": "Stage 8 - Vertical / Climbing",
+      "stream": "vertical/climbing",
+      "stage": 8,
+      "summary": "Stage 8 vertical/climbing activities",
+      "tags": [
+        "vertical/climbing",
+        "stage-8"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.678Z",
+      "route": "/content/vertical/climbing-stage-8"
+    },
+    {
+      "slug": "vertical/climbing-stage-9",
+      "displayTitle": "Stage 9 - Vertical / Climbing",
+      "stream": "vertical/climbing",
+      "stage": 9,
+      "summary": "Stage 9 vertical/climbing activities",
+      "tags": [
+        "vertical/climbing",
+        "stage-9"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.679Z",
+      "route": "/content/vertical/climbing-stage-9"
+    },
+    {
+      "slug": "vertical-stage-1",
+      "displayTitle": "Stage 1 - Vertical",
+      "stream": "vertical",
+      "stage": 1,
+      "summary": "Stage 1 vertical activities",
+      "tags": [
+        "vertical",
+        "stage-1"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.680Z",
+      "route": "/content/vertical-stage-1"
+    },
+    {
+      "slug": "vertical-stage-2",
+      "displayTitle": "Stage 2 - Vertical",
+      "stream": "vertical",
+      "stage": 2,
+      "summary": "Stage 2 vertical activities",
+      "tags": [
+        "vertical",
+        "stage-2"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.681Z",
+      "route": "/content/vertical-stage-2"
+    },
+    {
+      "slug": "vertical-stage-3",
+      "displayTitle": "Stage 3 - Vertical",
+      "stream": "vertical",
+      "stage": 3,
+      "summary": "Stage 3 vertical activities",
+      "tags": [
+        "vertical",
+        "stage-3"
+      ],
+      "lastUpdated": "2025-11-28T02:30:26.682Z",
+      "route": "/content/vertical-stage-3"
+    }
+  ]
+}
