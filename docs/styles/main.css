@@ -535,24 +535,17 @@ body {
   text-decoration: underline;
 }
 
-/* Stage layout: hero, readiness, sections */
+/* Stage layout */
 
-.stage-hero {
-  display: grid;
-  grid-template-columns: minmax(0, 3fr) minmax(0, 1.4fr);
-  gap: var(--spacing-lg);
-  padding: var(--spacing-lg);
+.stage-header {
   margin-bottom: var(--spacing-xl);
+  padding: var(--spacing-lg);
   border-radius: var(--border-radius);
-  border: 1px solid rgba(224, 224, 224, 0.9);
-  background: linear-gradient(135deg, rgba(44, 95, 45, 0.12), rgba(247, 166, 0, 0.08));
+  border: 1px solid var(--color-border);
+  background-color: var(--color-surface);
 }
 
-.stage-hero-main {
-  min-width: 0;
-}
-
-.stage-hero-eyebrow {
+.stage-header-meta {
   font-size: var(--font-size-small);
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -560,99 +553,17 @@ body {
   margin-bottom: var(--spacing-xs);
 }
 
-.stage-hero-title {
+.stage-header-title {
   font-size: 2rem;
   line-height: 1.2;
   color: var(--color-primary);
   margin-bottom: var(--spacing-sm);
 }
 
-.stage-hero-summary {
+.stage-header-summary {
   font-size: var(--font-size-base);
   color: var(--color-text);
-  margin-bottom: var(--spacing-md);
-}
-
-.stage-hero-progress {
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--spacing-xs);
-  align-items: center;
-  margin-bottom: var(--spacing-md);
-  font-size: var(--font-size-small);
-}
-
-.stage-hero-difficulty {
-  padding: 0.25rem 0.75rem;
-  border-radius: 999px;
-  background-color: rgba(44, 95, 45, 0.12);
-  color: var(--color-primary-dark);
-  font-weight: 600;
-}
-
-.stage-hero-requirements {
-  color: var(--color-text-light);
-}
-
-.stage-readiness {
-  list-style: none;
-  padding: 0;
   margin: 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: var(--spacing-xs);
-}
-
-.stage-readiness-item {
-  padding: 0.35rem 0.75rem;
-  border-radius: 999px;
-  background-color: var(--color-surface);
-  border: 1px solid var(--color-border);
-  font-size: var(--font-size-small);
-}
-
-.stage-hero-meta {
-  min-width: 0;
-  padding: var(--spacing-md);
-  border-radius: var(--border-radius);
-  background-color: rgba(255, 255, 255, 0.9);
-  border: 1px solid rgba(224, 224, 224, 0.9);
-  font-size: var(--font-size-small);
-  color: var(--color-text-light);
-}
-
-.stage-hero-meta-label {
-  font-weight: 600;
-  color: var(--color-primary-dark);
-}
-
-/* Stream-specific hero accents */
-.stage-hero-alpine {
-  border-color: #1e88e5;
-}
-
-.stage-hero-aquatics {
-  border-color: #0077c2;
-}
-
-.stage-hero-boating {
-  border-color: #01579b;
-}
-
-.stage-hero-bushcraft {
-  border-color: #4e342e;
-}
-
-.stage-hero-bushwalking {
-  border-color: #2e7d32;
-}
-
-.stage-hero-camping {
-  border-color: #6a4f4b;
-}
-
-.stage-hero-cycling {
-  border-color: #f9a825;
 }
 
 .stage-content {

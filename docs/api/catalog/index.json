@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-28T09:02:08.281Z",
+  "generated": "2025-11-29T02:22:57.480Z",
   "totalEntries": 165,
   "entries": [
     {
@@ -12,7 +12,7 @@
         "bushwalking",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:04.549Z",
+      "lastUpdated": "2025-11-29T02:22:56.754Z",
       "route": "/content/bushwalking-stage-1"
     },
     {
@@ -25,7 +25,7 @@
         "bushwalking",
         "stage-2"
       ],
-      "lastUpdated": "2025-11-28T09:02:04.551Z",
+      "lastUpdated": "2025-11-29T02:22:56.756Z",
       "route": "/content/bushwalking-stage-2"
     },
     {
@@ -38,7 +38,7 @@
         "bushcraft",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:04.553Z",
+      "lastUpdated": "2025-11-29T02:22:56.758Z",
       "route": "/content/bushcraft-stage-1"
     },
     {
@@ -51,7 +51,7 @@
         "intro-scouting",
         "stage-0"
       ],
-      "lastUpdated": "2025-11-28T09:02:07.901Z",
+      "lastUpdated": "2025-11-29T02:22:57.046Z",
       "route": "/content/intro-scouting-stage-0"
     },
     {
@@ -64,7 +64,7 @@
         "intro-scouting",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.039Z",
+      "lastUpdated": "2025-11-29T02:22:57.196Z",
       "route": "/content/intro-scouting-stage-1"
     },
     {
@@ -77,7 +77,7 @@
         "alpine/cross-country-skiing",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.044Z",
+      "lastUpdated": "2025-11-29T02:22:57.201Z",
       "route": "/content/alpine/cross-country-skiing-stage-4"
     },
     {
@@ -90,7 +90,7 @@
         "alpine/cross-country-skiing",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.050Z",
+      "lastUpdated": "2025-11-29T02:22:57.205Z",
       "route": "/content/alpine/cross-country-skiing-stage-5"
     },
     {
@@ -103,7 +103,7 @@
         "alpine/cross-country-skiing",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.055Z",
+      "lastUpdated": "2025-11-29T02:22:57.208Z",
       "route": "/content/alpine/cross-country-skiing-stage-6"
     },
     {
@@ -116,7 +116,7 @@
         "alpine/cross-country-skiing",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.061Z",
+      "lastUpdated": "2025-11-29T02:22:57.212Z",
       "route": "/content/alpine/cross-country-skiing-stage-7"
     },
     {
@@ -129,7 +129,7 @@
         "alpine/cross-country-skiing",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.066Z",
+      "lastUpdated": "2025-11-29T02:22:57.214Z",
       "route": "/content/alpine/cross-country-skiing-stage-8"
     },
     {
@@ -142,7 +142,7 @@
         "alpine/cross-country-skiing",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.073Z",
+      "lastUpdated": "2025-11-29T02:22:57.217Z",
       "route": "/content/alpine/cross-country-skiing-stage-9"
     },
     {
@@ -155,7 +155,7 @@
         "alpine/downhill-skiing",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.077Z",
+      "lastUpdated": "2025-11-29T02:22:57.220Z",
       "route": "/content/alpine/downhill-skiing-stage-4"
     },
     {
@@ -168,7 +168,7 @@
         "alpine/downhill-skiing",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.082Z",
+      "lastUpdated": "2025-11-29T02:22:57.223Z",
       "route": "/content/alpine/downhill-skiing-stage-5"
     },
     {
@@ -181,7 +181,7 @@
         "alpine/downhill-skiing",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.086Z",
+      "lastUpdated": "2025-11-29T02:22:57.228Z",
       "route": "/content/alpine/downhill-skiing-stage-6"
     },
     {
@@ -194,7 +194,7 @@
         "alpine/downhill-skiing",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.089Z",
+      "lastUpdated": "2025-11-29T02:22:57.232Z",
       "route": "/content/alpine/downhill-skiing-stage-7"
     },
     {
@@ -207,7 +207,7 @@
         "alpine/downhill-skiing",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.091Z",
+      "lastUpdated": "2025-11-29T02:22:57.237Z",
       "route": "/content/alpine/downhill-skiing-stage-8"
     },
     {
@@ -220,7 +220,7 @@
         "alpine/downhill-skiing",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.092Z",
+      "lastUpdated": "2025-11-29T02:22:57.242Z",
       "route": "/content/alpine/downhill-skiing-stage-9"
     },
     {
@@ -233,7 +233,7 @@
         "alpine/snow-camping-and-hiking",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.094Z",
+      "lastUpdated": "2025-11-29T02:22:57.245Z",
       "route": "/content/alpine/snow-camping-and-hiking-stage-4"
     },
     {
@@ -246,7 +246,7 @@
         "alpine/snow-camping-and-hiking",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.096Z",
+      "lastUpdated": "2025-11-29T02:22:57.249Z",
       "route": "/content/alpine/snow-camping-and-hiking-stage-5"
     },
     {
@@ -259,7 +259,7 @@
         "alpine/snow-camping-and-hiking",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.098Z",
+      "lastUpdated": "2025-11-29T02:22:57.255Z",
       "route": "/content/alpine/snow-camping-and-hiking-stage-6"
     },
     {
@@ -272,7 +272,7 @@
         "alpine/snow-camping-and-hiking",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.099Z",
+      "lastUpdated": "2025-11-29T02:22:57.258Z",
       "route": "/content/alpine/snow-camping-and-hiking-stage-7"
     },
     {
@@ -285,7 +285,7 @@
         "alpine/snow-camping-and-hiking",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.101Z",
+      "lastUpdated": "2025-11-29T02:22:57.260Z",
       "route": "/content/alpine/snow-camping-and-hiking-stage-8"
     },
     {
@@ -298,7 +298,7 @@
         "alpine/snow-camping-and-hiking",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.102Z",
+      "lastUpdated": "2025-11-29T02:22:57.262Z",
       "route": "/content/alpine/snow-camping-and-hiking-stage-9"
     },
     {
@@ -311,7 +311,7 @@
         "alpine/snowboarding",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.103Z",
+      "lastUpdated": "2025-11-29T02:22:57.267Z",
       "route": "/content/alpine/snowboarding-stage-4"
     },
     {
@@ -324,7 +324,7 @@
         "alpine/snowboarding",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.105Z",
+      "lastUpdated": "2025-11-29T02:22:57.272Z",
       "route": "/content/alpine/snowboarding-stage-5"
     },
     {
@@ -337,7 +337,7 @@
         "alpine/snowboarding",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.106Z",
+      "lastUpdated": "2025-11-29T02:22:57.276Z",
       "route": "/content/alpine/snowboarding-stage-6"
     },
     {
@@ -350,7 +350,7 @@
         "alpine/snowboarding",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.107Z",
+      "lastUpdated": "2025-11-29T02:22:57.279Z",
       "route": "/content/alpine/snowboarding-stage-7"
     },
     {
@@ -363,7 +363,7 @@
         "alpine/snowboarding",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.108Z",
+      "lastUpdated": "2025-11-29T02:22:57.283Z",
       "route": "/content/alpine/snowboarding-stage-8"
     },
     {
@@ -376,7 +376,7 @@
         "alpine/snowboarding",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.109Z",
+      "lastUpdated": "2025-11-29T02:22:57.287Z",
       "route": "/content/alpine/snowboarding-stage-9"
     },
     {
@@ -389,7 +389,7 @@
         "alpine",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.110Z",
+      "lastUpdated": "2025-11-29T02:22:57.290Z",
       "route": "/content/alpine-stage-1"
     },
     {
@@ -402,7 +402,7 @@
         "alpine",
         "stage-2"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.111Z",
+      "lastUpdated": "2025-11-29T02:22:57.294Z",
       "route": "/content/alpine-stage-2"
     },
     {
@@ -415,7 +415,7 @@
         "alpine",
         "stage-3"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.112Z",
+      "lastUpdated": "2025-11-29T02:22:57.297Z",
       "route": "/content/alpine-stage-3"
     },
     {
@@ -428,7 +428,7 @@
         "aquatics/life-saving",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.113Z",
+      "lastUpdated": "2025-11-29T02:22:57.299Z",
       "route": "/content/aquatics/life-saving-stage-4"
     },
     {
@@ -441,7 +441,7 @@
         "aquatics/life-saving",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.114Z",
+      "lastUpdated": "2025-11-29T02:22:57.303Z",
       "route": "/content/aquatics/life-saving-stage-5"
     },
     {
@@ -454,7 +454,7 @@
         "aquatics/life-saving",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.115Z",
+      "lastUpdated": "2025-11-29T02:22:57.306Z",
       "route": "/content/aquatics/life-saving-stage-6"
     },
     {
@@ -467,7 +467,7 @@
         "aquatics/life-saving/swift-water-rescue",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.116Z",
+      "lastUpdated": "2025-11-29T02:22:57.308Z",
       "route": "/content/aquatics/life-saving/swift-water-rescue-stage-7"
     },
     {
@@ -480,7 +480,7 @@
         "aquatics/life-saving/swift-water-rescue",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.117Z",
+      "lastUpdated": "2025-11-29T02:22:57.310Z",
       "route": "/content/aquatics/life-saving/swift-water-rescue-stage-8"
     },
     {
@@ -493,7 +493,7 @@
         "aquatics/life-saving/swift-water-rescue",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.118Z",
+      "lastUpdated": "2025-11-29T02:22:57.311Z",
       "route": "/content/aquatics/life-saving/swift-water-rescue-stage-9"
     },
     {
@@ -506,7 +506,7 @@
         "aquatics/snorkelling/scuba",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.120Z",
+      "lastUpdated": "2025-11-29T02:22:57.313Z",
       "route": "/content/aquatics/snorkelling/scuba-stage-7"
     },
     {
@@ -519,7 +519,7 @@
         "aquatics/snorkelling/scuba",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.121Z",
+      "lastUpdated": "2025-11-29T02:22:57.315Z",
       "route": "/content/aquatics/snorkelling/scuba-stage-8"
     },
     {
@@ -532,7 +532,7 @@
         "aquatics/snorkelling/scuba",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.122Z",
+      "lastUpdated": "2025-11-29T02:22:57.317Z",
       "route": "/content/aquatics/snorkelling/scuba-stage-9"
     },
     {
@@ -545,7 +545,7 @@
         "aquatics/snorkelling",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.123Z",
+      "lastUpdated": "2025-11-29T02:22:57.319Z",
       "route": "/content/aquatics/snorkelling-stage-4"
     },
     {
@@ -558,7 +558,7 @@
         "aquatics/snorkelling",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.124Z",
+      "lastUpdated": "2025-11-29T02:22:57.320Z",
       "route": "/content/aquatics/snorkelling-stage-5"
     },
     {
@@ -571,7 +571,7 @@
         "aquatics/snorkelling",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.125Z",
+      "lastUpdated": "2025-11-29T02:22:57.323Z",
       "route": "/content/aquatics/snorkelling-stage-6"
     },
     {
@@ -584,7 +584,7 @@
         "aquatics",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.126Z",
+      "lastUpdated": "2025-11-29T02:22:57.325Z",
       "route": "/content/aquatics-stage-1"
     },
     {
@@ -597,7 +597,7 @@
         "aquatics",
         "stage-2"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.127Z",
+      "lastUpdated": "2025-11-29T02:22:57.328Z",
       "route": "/content/aquatics-stage-2"
     },
     {
@@ -610,7 +610,7 @@
         "aquatics",
         "stage-3"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.128Z",
+      "lastUpdated": "2025-11-29T02:22:57.331Z",
       "route": "/content/aquatics-stage-3"
     },
     {
@@ -623,7 +623,7 @@
         "aquatics/surfing",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.130Z",
+      "lastUpdated": "2025-11-29T02:22:57.333Z",
       "route": "/content/aquatics/surfing-stage-4"
     },
     {
@@ -636,7 +636,7 @@
         "aquatics/surfing",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.131Z",
+      "lastUpdated": "2025-11-29T02:22:57.334Z",
       "route": "/content/aquatics/surfing-stage-5"
     },
     {
@@ -649,7 +649,7 @@
         "aquatics/surfing",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.132Z",
+      "lastUpdated": "2025-11-29T02:22:57.336Z",
       "route": "/content/aquatics/surfing-stage-6"
     },
     {
@@ -662,7 +662,7 @@
         "aquatics/surfing",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.133Z",
+      "lastUpdated": "2025-11-29T02:22:57.337Z",
       "route": "/content/aquatics/surfing-stage-7"
     },
     {
@@ -675,7 +675,7 @@
         "aquatics/surfing",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.134Z",
+      "lastUpdated": "2025-11-29T02:22:57.339Z",
       "route": "/content/aquatics/surfing-stage-8"
     },
     {
@@ -688,7 +688,7 @@
         "aquatics/surfing",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.135Z",
+      "lastUpdated": "2025-11-29T02:22:57.340Z",
       "route": "/content/aquatics/surfing-stage-9"
     },
     {
@@ -701,7 +701,7 @@
         "boating/sailing",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.137Z",
+      "lastUpdated": "2025-11-29T02:22:57.341Z",
       "route": "/content/boating/sailing-stage-4"
     },
     {
@@ -714,7 +714,7 @@
         "boating/sailing",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.138Z",
+      "lastUpdated": "2025-11-29T02:22:57.343Z",
       "route": "/content/boating/sailing-stage-5"
     },
     {
@@ -727,7 +727,7 @@
         "boating/sailing",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.139Z",
+      "lastUpdated": "2025-11-29T02:22:57.344Z",
       "route": "/content/boating/sailing-stage-6"
     },
     {
@@ -740,7 +740,7 @@
         "boating/sailing",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.140Z",
+      "lastUpdated": "2025-11-29T02:22:57.345Z",
       "route": "/content/boating/sailing-stage-7"
     },
     {
@@ -753,7 +753,7 @@
         "boating/sailing",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.142Z",
+      "lastUpdated": "2025-11-29T02:22:57.347Z",
       "route": "/content/boating/sailing-stage-8"
     },
     {
@@ -766,7 +766,7 @@
         "boating/sailing",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.143Z",
+      "lastUpdated": "2025-11-29T02:22:57.348Z",
       "route": "/content/boating/sailing-stage-9"
     },
     {
@@ -779,7 +779,7 @@
         "boating",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.145Z",
+      "lastUpdated": "2025-11-29T02:22:57.349Z",
       "route": "/content/boating-stage-1"
     },
     {
@@ -792,7 +792,7 @@
         "boating",
         "stage-2"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.146Z",
+      "lastUpdated": "2025-11-29T02:22:57.351Z",
       "route": "/content/boating-stage-2"
     },
     {
@@ -805,7 +805,7 @@
         "boating",
         "stage-3"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.147Z",
+      "lastUpdated": "2025-11-29T02:22:57.352Z",
       "route": "/content/boating-stage-3"
     },
     {
@@ -818,7 +818,7 @@
         "boating/windsurfing",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.149Z",
+      "lastUpdated": "2025-11-29T02:22:57.353Z",
       "route": "/content/boating/windsurfing-stage-4"
     },
     {
@@ -831,7 +831,7 @@
         "boating/windsurfing",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.150Z",
+      "lastUpdated": "2025-11-29T02:22:57.354Z",
       "route": "/content/boating/windsurfing-stage-5"
     },
     {
@@ -844,7 +844,7 @@
         "boating/windsurfing",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.151Z",
+      "lastUpdated": "2025-11-29T02:22:57.355Z",
       "route": "/content/boating/windsurfing-stage-6"
     },
     {
@@ -857,7 +857,7 @@
         "boating/windsurfing",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.152Z",
+      "lastUpdated": "2025-11-29T02:22:57.356Z",
       "route": "/content/boating/windsurfing-stage-7"
     },
     {
@@ -870,7 +870,7 @@
         "boating/windsurfing",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.154Z",
+      "lastUpdated": "2025-11-29T02:22:57.358Z",
       "route": "/content/boating/windsurfing-stage-8"
     },
     {
@@ -883,7 +883,7 @@
         "boating/windsurfing",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.155Z",
+      "lastUpdated": "2025-11-29T02:22:57.359Z",
       "route": "/content/boating/windsurfing-stage-9"
     },
     {
@@ -896,7 +896,7 @@
         "bushcraft/pioneering",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.156Z",
+      "lastUpdated": "2025-11-29T02:22:57.360Z",
       "route": "/content/bushcraft/pioneering-stage-4"
     },
     {
@@ -909,7 +909,7 @@
         "bushcraft/pioneering",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.157Z",
+      "lastUpdated": "2025-11-29T02:22:57.361Z",
       "route": "/content/bushcraft/pioneering-stage-5"
     },
     {
@@ -922,7 +922,7 @@
         "bushcraft/pioneering",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.158Z",
+      "lastUpdated": "2025-11-29T02:22:57.363Z",
       "route": "/content/bushcraft/pioneering-stage-6"
     },
     {
@@ -935,7 +935,7 @@
         "bushcraft/pioneering",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.159Z",
+      "lastUpdated": "2025-11-29T02:22:57.364Z",
       "route": "/content/bushcraft/pioneering-stage-7"
     },
     {
@@ -948,7 +948,7 @@
         "bushcraft/pioneering",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.160Z",
+      "lastUpdated": "2025-11-29T02:22:57.366Z",
       "route": "/content/bushcraft/pioneering-stage-8"
     },
     {
@@ -961,7 +961,7 @@
         "bushcraft/pioneering",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.161Z",
+      "lastUpdated": "2025-11-29T02:22:57.367Z",
       "route": "/content/bushcraft/pioneering-stage-9"
     },
     {
@@ -974,7 +974,7 @@
         "bushcraft",
         "stage-2"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.162Z",
+      "lastUpdated": "2025-11-29T02:22:57.368Z",
       "route": "/content/bushcraft-stage-2"
     },
     {
@@ -987,7 +987,7 @@
         "bushcraft",
         "stage-3"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.163Z",
+      "lastUpdated": "2025-11-29T02:22:57.369Z",
       "route": "/content/bushcraft-stage-3"
     },
     {
@@ -1000,7 +1000,7 @@
         "bushcraft/survival-skills",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.165Z",
+      "lastUpdated": "2025-11-29T02:22:57.370Z",
       "route": "/content/bushcraft/survival-skills-stage-4"
     },
     {
@@ -1013,7 +1013,7 @@
         "bushcraft/survival-skills",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.166Z",
+      "lastUpdated": "2025-11-29T02:22:57.372Z",
       "route": "/content/bushcraft/survival-skills-stage-5"
     },
     {
@@ -1026,7 +1026,7 @@
         "bushcraft/survival-skills",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.167Z",
+      "lastUpdated": "2025-11-29T02:22:57.373Z",
       "route": "/content/bushcraft/survival-skills-stage-6"
     },
     {
@@ -1039,7 +1039,7 @@
         "bushcraft/survival-skills",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.168Z",
+      "lastUpdated": "2025-11-29T02:22:57.374Z",
       "route": "/content/bushcraft/survival-skills-stage-7"
     },
     {
@@ -1052,7 +1052,7 @@
         "bushcraft/survival-skills",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.169Z",
+      "lastUpdated": "2025-11-29T02:22:57.375Z",
       "route": "/content/bushcraft/survival-skills-stage-8"
     },
     {
@@ -1065,7 +1065,7 @@
         "bushcraft/survival-skills",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.171Z",
+      "lastUpdated": "2025-11-29T02:22:57.376Z",
       "route": "/content/bushcraft/survival-skills-stage-9"
     },
     {
@@ -1078,7 +1078,7 @@
         "bushwalking",
         "stage-3"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.172Z",
+      "lastUpdated": "2025-11-29T02:22:57.378Z",
       "route": "/content/bushwalking-stage-3"
     },
     {
@@ -1091,7 +1091,7 @@
         "bushwalking",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.173Z",
+      "lastUpdated": "2025-11-29T02:22:57.379Z",
       "route": "/content/bushwalking-stage-4"
     },
     {
@@ -1104,7 +1104,7 @@
         "bushwalking",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.175Z",
+      "lastUpdated": "2025-11-29T02:22:57.380Z",
       "route": "/content/bushwalking-stage-5"
     },
     {
@@ -1117,7 +1117,7 @@
         "bushwalking",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.176Z",
+      "lastUpdated": "2025-11-29T02:22:57.381Z",
       "route": "/content/bushwalking-stage-6"
     },
     {
@@ -1130,7 +1130,7 @@
         "bushwalking",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.177Z",
+      "lastUpdated": "2025-11-29T02:22:57.382Z",
       "route": "/content/bushwalking-stage-7"
     },
     {
@@ -1143,7 +1143,7 @@
         "bushwalking",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.178Z",
+      "lastUpdated": "2025-11-29T02:22:57.384Z",
       "route": "/content/bushwalking-stage-8"
     },
     {
@@ -1156,7 +1156,7 @@
         "bushwalking",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.179Z",
+      "lastUpdated": "2025-11-29T02:22:57.385Z",
       "route": "/content/bushwalking-stage-9"
     },
     {
@@ -1169,7 +1169,7 @@
         "camping",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.181Z",
+      "lastUpdated": "2025-11-29T02:22:57.386Z",
       "route": "/content/camping-stage-1"
     },
     {
@@ -1182,7 +1182,7 @@
         "camping",
         "stage-2"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.182Z",
+      "lastUpdated": "2025-11-29T02:22:57.387Z",
       "route": "/content/camping-stage-2"
     },
     {
@@ -1195,7 +1195,7 @@
         "camping",
         "stage-3"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.183Z",
+      "lastUpdated": "2025-11-29T02:22:57.388Z",
       "route": "/content/camping-stage-3"
     },
     {
@@ -1208,7 +1208,7 @@
         "camping",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.184Z",
+      "lastUpdated": "2025-11-29T02:22:57.389Z",
       "route": "/content/camping-stage-4"
     },
     {
@@ -1221,7 +1221,7 @@
         "camping",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.185Z",
+      "lastUpdated": "2025-11-29T02:22:57.391Z",
       "route": "/content/camping-stage-5"
     },
     {
@@ -1234,7 +1234,7 @@
         "camping",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.187Z",
+      "lastUpdated": "2025-11-29T02:22:57.392Z",
       "route": "/content/camping-stage-6"
     },
     {
@@ -1247,7 +1247,7 @@
         "camping",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.188Z",
+      "lastUpdated": "2025-11-29T02:22:57.393Z",
       "route": "/content/camping-stage-7"
     },
     {
@@ -1260,7 +1260,7 @@
         "camping",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.189Z",
+      "lastUpdated": "2025-11-29T02:22:57.394Z",
       "route": "/content/camping-stage-8"
     },
     {
@@ -1273,7 +1273,7 @@
         "camping",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.190Z",
+      "lastUpdated": "2025-11-29T02:22:57.395Z",
       "route": "/content/camping-stage-9"
     },
     {
@@ -1286,7 +1286,7 @@
         "cycling/cycle-touring",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.192Z",
+      "lastUpdated": "2025-11-29T02:22:57.397Z",
       "route": "/content/cycling/cycle-touring-stage-4"
     },
     {
@@ -1299,7 +1299,7 @@
         "cycling/cycle-touring",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.193Z",
+      "lastUpdated": "2025-11-29T02:22:57.398Z",
       "route": "/content/cycling/cycle-touring-stage-5"
     },
     {
@@ -1312,7 +1312,7 @@
         "cycling/cycle-touring",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.194Z",
+      "lastUpdated": "2025-11-29T02:22:57.399Z",
       "route": "/content/cycling/cycle-touring-stage-6"
     },
     {
@@ -1325,7 +1325,7 @@
         "cycling/cycle-touring",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.195Z",
+      "lastUpdated": "2025-11-29T02:22:57.400Z",
       "route": "/content/cycling/cycle-touring-stage-7"
     },
     {
@@ -1338,7 +1338,7 @@
         "cycling/cycle-touring",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.196Z",
+      "lastUpdated": "2025-11-29T02:22:57.402Z",
       "route": "/content/cycling/cycle-touring-stage-8"
     },
     {
@@ -1351,7 +1351,7 @@
         "cycling/cycle-touring",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.198Z",
+      "lastUpdated": "2025-11-29T02:22:57.403Z",
       "route": "/content/cycling/cycle-touring-stage-9"
     },
     {
@@ -1364,7 +1364,7 @@
         "cycling/mountain-biking",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.199Z",
+      "lastUpdated": "2025-11-29T02:22:57.404Z",
       "route": "/content/cycling/mountain-biking-stage-4"
     },
     {
@@ -1377,7 +1377,7 @@
         "cycling/mountain-biking",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.200Z",
+      "lastUpdated": "2025-11-29T02:22:57.405Z",
       "route": "/content/cycling/mountain-biking-stage-5"
     },
     {
@@ -1390,7 +1390,7 @@
         "cycling/mountain-biking",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.202Z",
+      "lastUpdated": "2025-11-29T02:22:57.407Z",
       "route": "/content/cycling/mountain-biking-stage-6"
     },
     {
@@ -1403,7 +1403,7 @@
         "cycling/mountain-biking",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.204Z",
+      "lastUpdated": "2025-11-29T02:22:57.409Z",
       "route": "/content/cycling/mountain-biking-stage-7"
     },
     {
@@ -1416,7 +1416,7 @@
         "cycling/mountain-biking",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.206Z",
+      "lastUpdated": "2025-11-29T02:22:57.411Z",
       "route": "/content/cycling/mountain-biking-stage-8"
     },
     {
@@ -1429,7 +1429,7 @@
         "cycling/mountain-biking",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.207Z",
+      "lastUpdated": "2025-11-29T02:22:57.412Z",
       "route": "/content/cycling/mountain-biking-stage-9"
     },
     {
@@ -1442,7 +1442,7 @@
         "cycling",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.208Z",
+      "lastUpdated": "2025-11-29T02:22:57.413Z",
       "route": "/content/cycling-stage-1"
     },
     {
@@ -1455,7 +1455,7 @@
         "cycling",
         "stage-2"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.209Z",
+      "lastUpdated": "2025-11-29T02:22:57.414Z",
       "route": "/content/cycling-stage-2"
     },
     {
@@ -1468,7 +1468,7 @@
         "cycling",
         "stage-3"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.210Z",
+      "lastUpdated": "2025-11-29T02:22:57.415Z",
       "route": "/content/cycling-stage-3"
     },
     {
@@ -1481,7 +1481,7 @@
         "paddling/canoeing/canoeing",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.211Z",
+      "lastUpdated": "2025-11-29T02:22:57.417Z",
       "route": "/content/paddling/canoeing/canoeing-stage-7"
     },
     {
@@ -1494,7 +1494,7 @@
         "paddling/canoeing/canoeing",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.212Z",
+      "lastUpdated": "2025-11-29T02:22:57.418Z",
       "route": "/content/paddling/canoeing/canoeing-stage-8"
     },
     {
@@ -1507,7 +1507,7 @@
         "paddling/canoeing/canoeing",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.214Z",
+      "lastUpdated": "2025-11-29T02:22:57.419Z",
       "route": "/content/paddling/canoeing/canoeing-stage-9"
     },
     {
@@ -1520,7 +1520,7 @@
         "paddling/canoeing",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.215Z",
+      "lastUpdated": "2025-11-29T02:22:57.420Z",
       "route": "/content/paddling/canoeing-stage-4"
     },
     {
@@ -1533,7 +1533,7 @@
         "paddling/canoeing",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.216Z",
+      "lastUpdated": "2025-11-29T02:22:57.422Z",
       "route": "/content/paddling/canoeing-stage-5"
     },
     {
@@ -1546,7 +1546,7 @@
         "paddling/canoeing",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.217Z",
+      "lastUpdated": "2025-11-29T02:22:57.424Z",
       "route": "/content/paddling/canoeing-stage-6"
     },
     {
@@ -1559,7 +1559,7 @@
         "paddling/canoeing/white-water-rafting",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.218Z",
+      "lastUpdated": "2025-11-29T02:22:57.425Z",
       "route": "/content/paddling/canoeing/white-water-rafting-stage-7"
     },
     {
@@ -1572,7 +1572,7 @@
         "paddling/canoeing/white-water-rafting",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.220Z",
+      "lastUpdated": "2025-11-29T02:22:57.427Z",
       "route": "/content/paddling/canoeing/white-water-rafting-stage-8"
     },
     {
@@ -1585,7 +1585,7 @@
         "paddling/canoeing/white-water-rafting",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.221Z",
+      "lastUpdated": "2025-11-29T02:22:57.428Z",
       "route": "/content/paddling/canoeing/white-water-rafting-stage-9"
     },
     {
@@ -1598,7 +1598,7 @@
         "paddling/kayaking",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.223Z",
+      "lastUpdated": "2025-11-29T02:22:57.429Z",
       "route": "/content/paddling/kayaking-stage-4"
     },
     {
@@ -1611,7 +1611,7 @@
         "paddling/kayaking",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.224Z",
+      "lastUpdated": "2025-11-29T02:22:57.430Z",
       "route": "/content/paddling/kayaking-stage-5"
     },
     {
@@ -1624,7 +1624,7 @@
         "paddling/kayaking",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.225Z",
+      "lastUpdated": "2025-11-29T02:22:57.431Z",
       "route": "/content/paddling/kayaking-stage-6"
     },
     {
@@ -1637,7 +1637,7 @@
         "paddling/kayaking/white-water-kayaking",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.226Z",
+      "lastUpdated": "2025-11-29T02:22:57.432Z",
       "route": "/content/paddling/kayaking/white-water-kayaking-stage-7"
     },
     {
@@ -1650,7 +1650,7 @@
         "paddling/kayaking/white-water-kayaking",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.227Z",
+      "lastUpdated": "2025-11-29T02:22:57.433Z",
       "route": "/content/paddling/kayaking/white-water-kayaking-stage-8"
     },
     {
@@ -1663,7 +1663,7 @@
         "paddling/kayaking/white-water-kayaking",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.228Z",
+      "lastUpdated": "2025-11-29T02:22:57.434Z",
       "route": "/content/paddling/kayaking/white-water-kayaking-stage-9"
     },
     {
@@ -1676,7 +1676,7 @@
         "paddling/sea-kayaking",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.229Z",
+      "lastUpdated": "2025-11-29T02:22:57.435Z",
       "route": "/content/paddling/sea-kayaking-stage-4"
     },
     {
@@ -1689,7 +1689,7 @@
         "paddling/sea-kayaking",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.230Z",
+      "lastUpdated": "2025-11-29T02:22:57.436Z",
       "route": "/content/paddling/sea-kayaking-stage-5"
     },
     {
@@ -1702,7 +1702,7 @@
         "paddling/sea-kayaking",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.232Z",
+      "lastUpdated": "2025-11-29T02:22:57.438Z",
       "route": "/content/paddling/sea-kayaking-stage-6"
     },
     {
@@ -1715,7 +1715,7 @@
         "paddling/sea-kayaking",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.233Z",
+      "lastUpdated": "2025-11-29T02:22:57.439Z",
       "route": "/content/paddling/sea-kayaking-stage-7"
     },
     {
@@ -1728,7 +1728,7 @@
         "paddling/sea-kayaking",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.234Z",
+      "lastUpdated": "2025-11-29T02:22:57.441Z",
       "route": "/content/paddling/sea-kayaking-stage-8"
     },
     {
@@ -1741,7 +1741,7 @@
         "paddling/sea-kayaking",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.236Z",
+      "lastUpdated": "2025-11-29T02:22:57.442Z",
       "route": "/content/paddling/sea-kayaking-stage-9"
     },
     {
@@ -1754,7 +1754,7 @@
         "paddling",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.237Z",
+      "lastUpdated": "2025-11-29T02:22:57.443Z",
       "route": "/content/paddling-stage-1"
     },
     {
@@ -1767,7 +1767,7 @@
         "paddling",
         "stage-2"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.239Z",
+      "lastUpdated": "2025-11-29T02:22:57.444Z",
       "route": "/content/paddling-stage-2"
     },
     {
@@ -1780,7 +1780,7 @@
         "paddling",
         "stage-3"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.240Z",
+      "lastUpdated": "2025-11-29T02:22:57.445Z",
       "route": "/content/paddling-stage-3"
     },
     {
@@ -1793,7 +1793,7 @@
         "sia",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.242Z",
+      "lastUpdated": "2025-11-29T02:22:57.447Z",
       "route": "/content/sia-stage-1"
     },
     {
@@ -1806,7 +1806,7 @@
         "vertical/abseiling",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.243Z",
+      "lastUpdated": "2025-11-29T02:22:57.448Z",
       "route": "/content/vertical/abseiling-stage-4"
     },
     {
@@ -1819,7 +1819,7 @@
         "vertical/abseiling",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.244Z",
+      "lastUpdated": "2025-11-29T02:22:57.449Z",
       "route": "/content/vertical/abseiling-stage-5"
     },
     {
@@ -1832,7 +1832,7 @@
         "vertical/abseiling",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.245Z",
+      "lastUpdated": "2025-11-29T02:22:57.450Z",
       "route": "/content/vertical/abseiling-stage-6"
     },
     {
@@ -1845,7 +1845,7 @@
         "vertical/abseiling",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.246Z",
+      "lastUpdated": "2025-11-29T02:22:57.451Z",
       "route": "/content/vertical/abseiling-stage-7"
     },
     {
@@ -1858,7 +1858,7 @@
         "vertical/abseiling",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.248Z",
+      "lastUpdated": "2025-11-29T02:22:57.452Z",
       "route": "/content/vertical/abseiling-stage-8"
     },
     {
@@ -1871,7 +1871,7 @@
         "vertical/abseiling",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.249Z",
+      "lastUpdated": "2025-11-29T02:22:57.453Z",
       "route": "/content/vertical/abseiling-stage-9"
     },
     {
@@ -1884,7 +1884,7 @@
         "vertical/canyoning",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.251Z",
+      "lastUpdated": "2025-11-29T02:22:57.455Z",
       "route": "/content/vertical/canyoning-stage-4"
     },
     {
@@ -1897,7 +1897,7 @@
         "vertical/canyoning",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.252Z",
+      "lastUpdated": "2025-11-29T02:22:57.456Z",
       "route": "/content/vertical/canyoning-stage-5"
     },
     {
@@ -1910,7 +1910,7 @@
         "vertical/canyoning",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.254Z",
+      "lastUpdated": "2025-11-29T02:22:57.458Z",
       "route": "/content/vertical/canyoning-stage-6"
     },
     {
@@ -1923,7 +1923,7 @@
         "vertical/canyoning",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.256Z",
+      "lastUpdated": "2025-11-29T02:22:57.459Z",
       "route": "/content/vertical/canyoning-stage-7"
     },
     {
@@ -1936,7 +1936,7 @@
         "vertical/canyoning",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.258Z",
+      "lastUpdated": "2025-11-29T02:22:57.461Z",
       "route": "/content/vertical/canyoning-stage-8"
     },
     {
@@ -1949,7 +1949,7 @@
         "vertical/canyoning",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.260Z",
+      "lastUpdated": "2025-11-29T02:22:57.462Z",
       "route": "/content/vertical/canyoning-stage-9"
     },
     {
@@ -1962,7 +1962,7 @@
         "vertical/caving",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.261Z",
+      "lastUpdated": "2025-11-29T02:22:57.463Z",
       "route": "/content/vertical/caving-stage-4"
     },
     {
@@ -1975,7 +1975,7 @@
         "vertical/caving",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.263Z",
+      "lastUpdated": "2025-11-29T02:22:57.464Z",
       "route": "/content/vertical/caving-stage-5"
     },
     {
@@ -1988,7 +1988,7 @@
         "vertical/caving",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.264Z",
+      "lastUpdated": "2025-11-29T02:22:57.465Z",
       "route": "/content/vertical/caving-stage-6"
     },
     {
@@ -2001,7 +2001,7 @@
         "vertical/caving",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.266Z",
+      "lastUpdated": "2025-11-29T02:22:57.466Z",
       "route": "/content/vertical/caving-stage-7"
     },
     {
@@ -2014,7 +2014,7 @@
         "vertical/caving",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.267Z",
+      "lastUpdated": "2025-11-29T02:22:57.467Z",
       "route": "/content/vertical/caving-stage-8"
     },
     {
@@ -2027,7 +2027,7 @@
         "vertical/caving",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.268Z",
+      "lastUpdated": "2025-11-29T02:22:57.469Z",
       "route": "/content/vertical/caving-stage-9"
     },
     {
@@ -2040,7 +2040,7 @@
         "vertical/climbing",
         "stage-4"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.270Z",
+      "lastUpdated": "2025-11-29T02:22:57.470Z",
       "route": "/content/vertical/climbing-stage-4"
     },
     {
@@ -2053,7 +2053,7 @@
         "vertical/climbing",
         "stage-5"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.272Z",
+      "lastUpdated": "2025-11-29T02:22:57.471Z",
       "route": "/content/vertical/climbing-stage-5"
     },
     {
@@ -2066,7 +2066,7 @@
         "vertical/climbing",
         "stage-6"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.273Z",
+      "lastUpdated": "2025-11-29T02:22:57.473Z",
       "route": "/content/vertical/climbing-stage-6"
     },
     {
@@ -2079,7 +2079,7 @@
         "vertical/climbing",
         "stage-7"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.275Z",
+      "lastUpdated": "2025-11-29T02:22:57.474Z",
       "route": "/content/vertical/climbing-stage-7"
     },
     {
@@ -2092,7 +2092,7 @@
         "vertical/climbing",
         "stage-8"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.276Z",
+      "lastUpdated": "2025-11-29T02:22:57.475Z",
       "route": "/content/vertical/climbing-stage-8"
     },
     {
@@ -2105,7 +2105,7 @@
         "vertical/climbing",
         "stage-9"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.277Z",
+      "lastUpdated": "2025-11-29T02:22:57.476Z",
       "route": "/content/vertical/climbing-stage-9"
     },
     {
@@ -2118,7 +2118,7 @@
         "vertical",
         "stage-1"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.278Z",
+      "lastUpdated": "2025-11-29T02:22:57.477Z",
       "route": "/content/vertical-stage-1"
     },
     {
@@ -2131,7 +2131,7 @@
         "vertical",
         "stage-2"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.279Z",
+      "lastUpdated": "2025-11-29T02:22:57.478Z",
       "route": "/content/vertical-stage-2"
     },
     {
@@ -2144,7 +2144,7 @@
         "vertical",
         "stage-3"
       ],
-      "lastUpdated": "2025-11-28T09:02:08.281Z",
+      "lastUpdated": "2025-11-29T02:22:57.480Z",
       "route": "/content/vertical-stage-3"
     }
   ]
