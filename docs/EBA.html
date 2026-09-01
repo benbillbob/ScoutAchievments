@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>More Members. More Power. A Better EBA.</title>
+  <script>
+    (() => {
+      const param = new URLSearchParams(window.location.search).get("scoutTheme");
+      const theme =
+        param || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+      document.documentElement.setAttribute("data-theme", theme);
+    })();
+  </script>
+  <style>
+    :root {
+      color-scheme: light;
+      --cp-bg: #f7f4ef;
+      --cp-bg-elevated: #fcfbf8;
+      --cp-surface: #ffffff;
+      --cp-surface-soft: #f5f5f5;
+      --cp-border: #dedede;
+      --cp-border-strong: #919191;
+      --cp-text: #242424;
+      --cp-text-muted: #5c5c5c;
+      --cp-text-soft: #6f6f6f;
+      --cp-accent: #b11f4b;
+      --cp-accent-hover: #9a1a41;
+      --cp-accent-soft: rgba(177, 31, 75, 0.08);
+      --cp-accent-fg: #ffffff;
+      --cp-success: #16a34a;
+      --cp-danger: #dc2626;
+      --cp-warning: #f59e0b;
+      --cp-link: #0078d4;
+      --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.12);
+      --cp-overlay: rgba(255, 255, 255, 0.8);
+      --cp-panel: rgba(255, 255, 255, 0.86);
+      --cp-panel-strong: rgba(255, 255, 255, 0.96);
+      --cp-sheen: rgba(255, 255, 255, 0.55);
+      --cp-highlight: rgba(177, 31, 75, 0.12);
+    }
+    html[data-theme="dark"] {
+      color-scheme: dark;
+      --cp-bg: #3d3b3a;
+      --cp-bg-elevated: #343231;
+      --cp-surface: #292929;
+      --cp-surface-soft: #2e2e2e;
+      --cp-border: #474747;
+      --cp-border-strong: #5f5f5f;
+      --cp-text: #dedede;
+      --cp-text-muted: #919191;
+      --cp-text-soft: #b0b0b0;
+      --cp-accent: #fd8ea1;
+      --cp-accent-hover: #fb7b91;
+      --cp-accent-soft: rgba(253, 142, 161, 0.14);
+      --cp-accent-fg: #1a1a1a;
+      --cp-success: #4ade80;
+      --cp-danger: #f87171;
+      --cp-warning: #fbbf24;
+      --cp-link: #4da6ff;
+      --cp-shadow: 0 18px 48px rgba(0, 0, 0, 0.32);
+      --cp-overlay: rgba(41, 41, 41, 0.88);
+      --cp-panel: rgba(41, 41, 41, 0.72);
+      --cp-panel-strong: rgba(41, 41, 41, 0.96);
+      --cp-sheen: rgba(255, 255, 255, 0.04);
+      --cp-highlight: rgba(253, 142, 161, 0.12);
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; overflow: hidden; }
+    body {
+      background: var(--cp-bg);
+      color: var(--cp-text);
+      font-family: "Segoe UI", Aptos, Calibri, -apple-system, BlinkMacSystemFont, sans-serif;
+    }
+    .deck { position: relative; width: 100%; height: 100%; }
+    .slide {
+      position: absolute;
+      inset: 0;
+      display: grid;
+      align-content: center;
+      gap: clamp(1rem, 3vh, 2rem);
+      padding: clamp(3rem, 8vw, 8rem) clamp(2rem, 11vw, 11rem);
+      opacity: 0;
+      visibility: hidden;
+      transform: translateX(5%);
+      transition: opacity 360ms ease, transform 360ms ease, visibility 360ms;
+    }
+    .slide.active { opacity: 1; visibility: visible; transform: translateX(0); }
+    .slide.exit-left { transform: translateX(-5%); }
+    .eyebrow {
+      color: var(--cp-accent);
+      font-size: clamp(0.8rem, 1.3vw, 1.1rem);
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+    h1, h2, h3, p { margin: 0; }
+    h1, h2 { max-width: 16ch; font-size: clamp(2.5rem, 6vw, 5.8rem); line-height: 0.98; letter-spacing: -0.045em; }
+    h3 { max-width: 34ch; color: var(--cp-text-soft); font-size: clamp(1.2rem, 2.2vw, 2rem); font-weight: 500; line-height: 1.3; }
+    ul, ol {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: clamp(0.6rem, 1.5vw, 1.2rem);
+      max-width: 70rem;
+      margin: 0;
+      padding: 0;
+      list-style: none;
+      counter-reset: item;
+    }
+    li {
+      padding: clamp(0.8rem, 1.6vw, 1.25rem);
+      border-left: 0.3rem solid var(--cp-accent);
+      background: var(--cp-surface);
+      border-radius: 0.625rem;
+      box-shadow: 0 0 2px var(--cp-border), 0 1px 2px var(--cp-border-strong);
+      font-size: clamp(1rem, 1.55vw, 1.35rem);
+      line-height: 1.35;
+    }
+    ol li { counter-increment: item; }
+    ol li::before { content: counter(item) ". "; color: var(--cp-accent); font-weight: 800; }
+    .message { max-width: 58rem; color: var(--cp-accent); font-size: clamp(1.25rem, 2.3vw, 2.1rem); font-weight: 750; line-height: 1.25; }
+    .closing { max-width: 45rem; font-size: clamp(1.15rem, 2vw, 1.65rem); line-height: 1.5; }
+    .join {
+      display: flex;
+      align-items: center;
+      gap: clamp(1rem, 3vw, 2rem);
+      max-width: 58rem;
+      padding: 1rem;
+      background: var(--cp-surface);
+      border: 1px solid var(--cp-border);
+      border-radius: 0.625rem;
+    }
+    .join img { width: clamp(8rem, 16vw, 11rem); height: auto; border-radius: 0.625rem; }
+    .join-copy { display: grid; gap: 0.6rem; }
+    .join-label { color: var(--cp-text-muted); font-size: clamp(0.9rem, 1.3vw, 1.1rem); }
+    .join-link { color: var(--cp-link); font-size: clamp(1rem, 1.7vw, 1.35rem); font-weight: 700; overflow-wrap: anywhere; }
+    .join-link:hover, .join-link:focus-visible { color: var(--cp-accent); }
+    .controls {
+      position: fixed;
+      right: 1.5rem;
+      bottom: 1.5rem;
+      z-index: 10;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      padding: 0.5rem;
+      background: var(--cp-panel-strong);
+      border: 1px solid var(--cp-border);
+      border-radius: 0.625rem;
+    }
+    button {
+      min-width: 2.75rem;
+      min-height: 2.75rem;
+      border: 1px solid var(--cp-border);
+      border-radius: 0.625rem;
+      background: var(--cp-surface);
+      color: var(--cp-text);
+      cursor: pointer;
+      font: inherit;
+      font-weight: 700;
+    }
+    button:hover:not(:disabled), button:focus-visible { border-color: var(--cp-accent); color: var(--cp-accent); }
+    button:focus-visible { outline: 0.2rem solid var(--cp-accent-soft); }
+    button:disabled { cursor: not-allowed; opacity: 0.4; }
+    .counter { min-width: 4.5rem; color: var(--cp-text-muted); text-align: center; font-variant-numeric: tabular-nums; }
+    .hint { position: fixed; left: 1.5rem; bottom: 1.7rem; color: var(--cp-text-muted); font-size: 0.85rem; }
+    .progress { position: fixed; inset: 0 0 auto; z-index: 10; height: 0.3rem; background: var(--cp-surface-soft); }
+    .progress span { display: block; width: 0; height: 100%; background: var(--cp-accent); transition: width 360ms ease; }
+    @media (max-width: 700px) {
+      .slide { align-content: start; overflow-y: auto; padding: 4rem 1.25rem 6rem; }
+      ul, ol { grid-template-columns: 1fr; }
+      .join { align-items: flex-start; }
+      .hint { display: none; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .slide, .progress span { transition: none; }
+    }
+  </style>
+</head>
+<body>
+  <main class="deck" aria-live="polite">
+    <section class="slide active"><span class="eyebrow">A Better EBA — Built by All of Us</span><h1>More Members. More Power. A Better EBA.</h1><h3>The improvements we want are possible—but only if more of us stand together</h3><p class="message">Before we can push for an EBA, we need to grow our union.</p></section>
+    <section class="slide"><span class="eyebrow">First, build our power</span><h2>An EBA Starts With Membership</h2><ul><li>More members give us a stronger collective voice</li><li>Strong membership shows our priorities are widely shared</li><li>Visible support gives us confidence to begin bargaining</li><li>Every new member makes it harder to ignore us</li></ul><p class="message">The EBA is the goal. Membership is how we get there.</p></section>
+    <section class="slide"><span class="eyebrow">What stronger membership can win</span><h2>What We Are Fighting For</h2><ul><li>Protect our jobs and conditions</li><li>Keep pay moving with living costs</li><li>Make flexibility fair and dependable</li><li>Support people through work and life</li><li>Give employees a genuine say</li></ul><p class="message">These outcomes need collective bargaining—and collective bargaining needs members.</p></section>
+    <section class="slide"><span class="eyebrow">Fair pay</span><h2>Everyone should know what their work is worth</h2><ul><li>Annual rises that keep pace with inflation</li><li>Transparent pay bands for every role</li><li>Consistent pay principles across Australia</li><li>Salary protected from uncertain equity</li></ul><p class="message">Fair pay takes bargaining power. Bargaining power comes from membership.</p></section>
+    <section class="slide"><span class="eyebrow">Job security</span><h2>Security When Change Happens</h2><ul><li>Stronger redundancy pay based on service</li><li>Clear timelines, consultation and fewer repeated rounds</li><li>Genuine redeployment opportunities</li><li>Equity protection and no post-redundancy non-competes</li></ul><p class="message">Together, we can insist employees do not carry all the risk.</p></section>
+    <section class="slide"><span class="eyebrow">Flexibility</span><h2>Flexibility We Can Rely On</h2><ul><li>Remote work by default where the role allows</li><li>Office attendance only for operational reasons</li><li>Fair access to remote contracts and unpaid leave</li><li>Practical part-time options for returning primary carers</li></ul><p class="message">A right with clear rules—not a favour that can disappear.</p></section>
+    <section class="slide"><span class="eyebrow">Work and life</span><h2>A modern workplace must support modern families</h2><ul><li>Meaningful parental and carer leave</li><li>Support for miscarriage, premature birth, fertility and adoption</li><li>Help with care costs caused by office attendance</li><li>Practical wellbeing, ergonomic and study support</li></ul><p class="message">No one should have to choose between their job, health and family.</p></section>
+    <section class="slide"><span class="eyebrow">Fair performance</span><h2>Human Decisions, Clear Standards</h2><ul><li>Realistic and measurable expectations</li><li>Transparent ratings, benchmarks and pay links</li><li>Protection from unfair performance management</li><li>Human review and safeguards whenever AI is used</li></ul><p class="message">Accountability must apply to the system—not only the employee.</p></section>
+    <section class="slide"><span class="eyebrow">Protect our conditions</span><h2>Protect What We Already Have</h2><ul><li>Existing leave and flexibility</li><li>Fair overtime, callout and time-in-lieu arrangements</li><li>Clear communication during organisational change</li><li>Consistent processes for everyone</li></ul><p class="message">If a benefit matters, it belongs in the agreement.</p></section>
+    <section class="slide"><span class="eyebrow">Employee voice</span><h2>Decisions about us should not be made without us</h2><h3>Meaningful union consultation on:</h3><ul><li>Restructures and redundancies</li><li>Pay and performance systems</li><li>AI-assisted employment decisions</li><li>Major changes to conditions</li></ul><p class="message">A bigger union means a stronger voice before decisions are final—not after.</p></section>
+    <section class="slide"><span class="eyebrow">The core deal</span><h2>Our Priorities</h2><ol><li><strong>Pay that keeps up</strong></li><li><strong>Security during change</strong></li><li><strong>Flexibility with clear rules</strong></li><li><strong>Support for families and wellbeing</strong></li><li><strong>Transparent, fair decisions</strong></li><li><strong>A genuine employee voice</strong></li></ol><p class="message">A fairer workplace with protections we can count on.</p></section>
+    <section class="slide"><span class="eyebrow">The next step is ours</span><h2>Help Grow the Union</h2><p class="closing">Talk to a trusted colleague, share why you joined and invite them to stand with us.</p><div class="join"><img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&amp;data=https%3A%2F%2Fwww.professionalsaustralia.org.au%2FJoin_PA" alt="QR code linking to the Professionals Australia join page"><div class="join-copy"><p class="message">Scan to join Professionals Australia</p><p class="join-label">Or open the membership page:</p><a class="join-link" href="https://www.professionalsaustralia.org.au/Join_PA" target="_blank" rel="noopener noreferrer">professionalsaustralia.org.au/Join_PA</a></div></div><p class="message">Each member brings one more person. Together, we make the EBA possible.</p></section>
+  </main>
+  <div class="progress" aria-hidden="true"><span id="progress"></span></div>
+  <p class="hint">Click to advance · Use ← and → to navigate</p>
+  <nav class="controls" aria-label="Slide navigation">
+    <button id="previous" type="button" aria-label="Previous slide">←</button>
+    <span class="counter" id="counter" aria-live="off">1 / 12</span>
+    <button id="next" type="button" aria-label="Next slide">→</button>
+  </nav>
+  <script>
+    const slides = [...document.querySelectorAll(".slide")];
+    const previous = document.querySelector("#previous");
+    const next = document.querySelector("#next");
+    const counter = document.querySelector("#counter");
+    const progress = document.querySelector("#progress");
+    let current = 0;
+
+    function show(index) {
+      if (index < 0 || index >= slides.length || index === current) return;
+      const movingForward = index > current;
+      slides[current].classList.remove("active");
+      slides[current].classList.toggle("exit-left", movingForward);
+      current = index;
+      slides[current].classList.remove("exit-left");
+      slides[current].classList.add("active");
+      previous.disabled = current === 0;
+      next.disabled = current === slides.length - 1;
+      counter.textContent = `${current + 1} / ${slides.length}`;
+      progress.style.width = `${((current + 1) / slides.length) * 100}%`;
+    }
+
+    previous.addEventListener("click", event => { event.stopPropagation(); show(current - 1); });
+    next.addEventListener("click", event => { event.stopPropagation(); show(current + 1); });
+    document.querySelector(".controls").addEventListener("click", event => event.stopPropagation());
+    document.querySelector(".join").addEventListener("click", event => event.stopPropagation());
+    document.addEventListener("click", () => show(current + 1));
+    document.addEventListener("keydown", event => {
+      if (event.key === "ArrowRight") { event.preventDefault(); show(current + 1); }
+      if (event.key === "ArrowLeft") { event.preventDefault(); show(current - 1); }
+    });
+    previous.disabled = true;
+    counter.textContent = `1 / ${slides.length}`;
+    progress.style.width = `${100 / slides.length}%`;
+  </script>
+</body>
+</html>
